@@ -1,7 +1,6 @@
 import scrapy
 
-
-class PostSpider(scrapy.Spider):
+class XGSpider(scrapy.Spider):
 
     name = 'expectedGoals'
 
@@ -10,15 +9,6 @@ class PostSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
-        #  filename = response.url.split("/")[-1] + '.html'
-        #  with open(filename, 'wb') as f:
-        #     f.write(response.body)
-
-        # table = response.xpath('//*[@id="div_sched_ks_3232_1"]/table')
-        # print(table)
-
-        # table = response.xpath('//*[@id="sched_ks_3232_1"]//tbody/tr')
-        # print(table)
 
         for row in response.xpath('//*[@id="sched_ks_3232_1"]//tbody/tr'):
             yield {
