@@ -4,9 +4,11 @@ import re
 import pandas as pd
 import numpy as np
 
+from .utils import SpiderUtils
+
 class PostSpider(scrapy.Spider):
 
-    name = 'stats'
+    name = 'standard_players'
 
     start_urls = [
         'https://fbref.com/en/comps/11/stats/Serie-A-Stats',
@@ -65,17 +67,10 @@ class PostSpider(scrapy.Spider):
                                           'goals_and_assists_per_90', 'goals_minus_pens_per_90', 'goals_plus_assists_minus_pens_per_90', 'xG', 'npxG', 'xA', 'xG90',
                                           'xA90', 'xG_plus_xA_90', 'npxG90', 'npxG_plus_xA90'])
 
-        df = df.fillna(value=np.nan)
+        df_cleaner = SpiderUtils()
+        clean_df = df_cleaner.clean_df(df)
 
-        df.dropna(
-
-            axis=0,
-            how='all',  # use 'any' if you want remove rows with even one empty value
-            inplace=True
-
-        )
-
-        yield df.to_csv("serie_a_standard_players.csv", sep=",", index=False)
+        yield clean_df.to_csv("serie_a_standard_players.csv", sep=",", index=False)
 
     # div_stats_standard
     # div_stats_keeper

@@ -5,7 +5,7 @@ import re
 
 class PostSpider(scrapy.Spider):
 
-    name = 'standard_squad'
+    name = 'standard_squads'
 
     start_urls = [
         'https://fbref.com/en/comps/11/stats/Serie-A-Stats',

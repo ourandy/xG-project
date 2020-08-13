@@ -2,6 +2,7 @@ import scrapy
 import pandas as pd
 import numpy as np
 
+from .utils import SpiderUtils
 
 class XGSpider(scrapy.Spider):
 
@@ -30,17 +31,10 @@ class XGSpider(scrapy.Spider):
         x = pd.DataFrame(
             matches, columns=['home', 'homeXg', 'score', 'awayXg', 'away'])
 
-        x = x.fillna(value=np.nan)
+        df_cleaner = SpiderUtils()
+        clean_df = df_cleaner.clean_df(x)
 
-        x.dropna(
-
-            axis=0,
-            how='all',  # use 'any' if you want remove rows with even one empty value
-            inplace=True
-
-        )
-
-        yield x.to_csv("xG.csv", sep=",", index=False)
+        yield clean_df.to_csv("xG.csv", sep=",", index=False)
 
 
 # scrapy crawl expectedGoals --output exG.csv
