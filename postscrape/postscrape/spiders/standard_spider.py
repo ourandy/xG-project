@@ -60,7 +60,7 @@ class PostSpider(scrapy.Spider):
 
             stats.append(player_stat)
 
-        df = pd.DataFrame(stats, columns=['player', 'nation', 'position', 'squad', 'age', 'born', 'matches_played', 'starts'
+        df = pd.DataFrame(stats, columns=['player', 'nation', 'position', 'squad', 'age', 'born', 'matches_played', 'starts',
                                           'minutes', 'goals', 'assists', 'penalties', 'penalties_scored', 'yellow_cards', 'red_cards', 'goals_per_90', 'assists_per_90',
                                           'goals_and_assists_per_90', 'goals_minus_pens_per_90', 'goals_plus_assists_minus_pens_per_90', 'xG', 'npxG', 'xA', 'xG90',
                                           'xA90', 'xG_plus_xA_90', 'npxG90', 'npxG_plus_xA90'])
