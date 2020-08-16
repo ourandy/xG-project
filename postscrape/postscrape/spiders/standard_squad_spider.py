@@ -12,32 +12,35 @@ class PostSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
-
-        column_index = 1
-        columns = {}
-        for column_node in response.xpath('//*[@id="stats_standard_squads"]/thead/tr[2]/th'):
+        columns = []
+        for column_node in response.xpath(
+            '//*[@id="stats_standard_squads"]/thead/tr[2]/th'
+        ):
             column_name = column_node.xpath("./text()").extract_first()
-            print("column name is: " + column_name)
-            columns[column_name] = column_index
-            column_index += 1
-            
-            matches = []
+            columns.append(column_name)
 
+        matches = []
         for row in response.xpath('//*[@id="stats_standard_squads"]/tbody/tr'):
             match = {}
-            for column_name in columns.keys():
-
-                if column_name=='Squad':
-                    match[column_name]=row.xpath('th/a/text()').extract_first()
+            suffixes = {}
+            for column_index, column_name in enumerate(columns):
+                if column_name not in suffixes:
+                    suffixes[column_name] = 1
+                    df_name = column_name 
                 else:
-                    match[column_name] = row.xpath(
-                        "./td[{index}]//text()".format(index=columns[column_name]-1)
+                    suffixes[column_name] += 1
+                    df_name = f"{column_name}_{suffixes[column_name]}"
+
+                if column_name == "Squad":
+                    match[df_name] = row.xpath("th/a/text()").extract_first()
+                else:
+                    match[df_name] = row.xpath(
+                        "./td[{index}]//text()".format(index=column_index)
                     ).extract_first()
 
             matches.append(match)
-        
-        print(matches)
 
-        df = pd.DataFrame(matches,columns=columns.keys())
+        df = pd.DataFrame(matches, columns=columns)
 
-        yield df.to_csv("test.csv",sep=",", index=False)
+        yield df.to_csv("test_squads_suffix.csv", sep=",", index=False)
+

@@ -8,7 +8,8 @@ class SpiderUtils:
 
         df.dropna(
             axis=0,
-            how="all",  # use 'any' if you want remove rows with even one empty value
+            # how="all", 
+            how='any',
             inplace=True,
         )
         return df
