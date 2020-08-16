@@ -71,29 +71,3 @@ class PostSpider(scrapy.Spider):
         clean_df = df_cleaner.clean_df(df)
 
         yield clean_df.to_csv("serie_a_standard_players.csv", sep=",", index=False)
-
-    # div_stats_standard
-    # div_stats_keeper
-    # div_stats_keeper_adv
-    # div_stats_shooting
-    # div_stats_passing
-    # div_stats_passing_types
-    # div_stats_gca
-    # div_stats_defense
-    # div_stats_possession
-    # div_stats_playing_time
-    # div_stats_misc
-
-    # div_stats_standard_squads
-    # div_stats_keeper_squads
-    # div_stats_keeper_adv_squads
-    # div_stats_shooting_squads
-    # div_stats_passing_squads
-    # div_stats_passing_types_squads
-    # div_stats_gca_squads
-    # div_stats_defense_squads
-    # div_stats_possession_squads
-    # div_stats_playing_time_squads
-    # div_stats_misc_squads
-
-# scrapy crawl expectedGoals --output exG.csv

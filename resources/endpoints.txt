@@ -1,0 +1,37 @@
+https://fbref.com/en/comps/11/stats/Serie-A-Stats
+https://fbref.com/en/comps/11/keepers/Serie-A-Stats
+https://fbref.com/en/comps/11/keepersadv/Serie-A-Stats
+https://fbref.com/en/comps/11/shooting/Serie-A-Stats
+https://fbref.com/en/comps/11/passing/Serie-A-Stats
+https://fbref.com/en/comps/11/passing_types/Serie-A-Stats
+https://fbref.com/en/comps/11/gca/Serie-A-Stats
+https://fbref.com/en/comps/11/defense/Serie-A-Stats
+https://fbref.com/en/comps/11/possession/Serie-A-Stats
+https://fbref.com/en/comps/11/playingtime/Serie-A-Stats
+https://fbref.com/en/comps/11/misc/Serie-A-Stats
+
+ div_stats_standard
+ div_stats_keeper
+ div_stats_keeper_adv
+ div_stats_shooting
+ div_stats_passing
+ div_stats_passing_types
+ div_stats_gca
+ div_stats_defense
+ div_stats_possession
+ div_stats_playing_time
+ div_stats_misc
+
+ div_stats_standard_squads
+ div_stats_keeper_squads
+ div_stats_keeper_adv_squads
+ div_stats_shooting_squads
+ div_stats_passing_squads
+ div_stats_passing_types_squads
+ div_stats_gca_squads
+ div_stats_defense_squads
+ div_stats_possession_squads
+ div_stats_playing_time_squads
+ div_stats_misc_squads
+
+ scrapy crawl expectedGoals --output exG.csv

@@ -3,15 +3,15 @@ from scrapy.selector import Selector
 import re
 import pandas as pd
 import numpy as np
-from .utils import SpiderUtils
+# from .utils import SpiderUtils
 
 
 class PostSpider(scrapy.Spider):
 
-    name = "standard_players"
+    name = "players"
 
     start_urls = [
-        "https://fbref.com/en/comps/11/stats/Serie-A-Stats",
+        "https://fbref.com/en/comps/11/playingtime/Serie-A-Stats",
     ]
 
     def parse(self, response):
@@ -25,13 +25,13 @@ class PostSpider(scrapy.Spider):
         selector = Selector(text=re_string, type="html")
 
         columns = []
-        for column_node in selector.xpath('//*[@id="stats_standard"]/thead/tr[2]/th'):
+        for column_node in selector.xpath('//*[@id="stats_playing_time"]/thead/tr[2]/th'):
             column_name = column_node.xpath("./text()").extract_first()
             columns.append(column_name)
 
         stats = []
 
-        for row in selector.xpath('//*[@id="stats_standard"]/tbody/tr'):
+        for row in selector.xpath('//*[@id="stats_playing_time"]/tbody/tr'):
             match = {}
             suffixes = {}
             for column_index, column_name in enumerate(columns):
@@ -59,8 +59,8 @@ class PostSpider(scrapy.Spider):
 
         df = pd.DataFrame(stats, columns=columns)
 
-        su = SpiderUtils()
+        # su = SpiderUtils()
 
-        final_df = su.clean_df(df)
+        # final_df = su.clean_df(df)
 
-        yield final_df.to_csv("test_players_suffix.csv", sep=",", index=False)
+        yield df.to_csv("serie_a_playing_time_players.csv", sep=",", index=False)

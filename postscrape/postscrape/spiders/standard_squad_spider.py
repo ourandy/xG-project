@@ -5,22 +5,22 @@ import pandas as pd
 
 class PostSpider(scrapy.Spider):
 
-    name = "standard_squads"
+    name = "squads"
 
     start_urls = [
-        "https://fbref.com/en/comps/11/stats/Serie-A-Stats",
+        "https://fbref.com/en/comps/11/playingtime/Serie-A-Stats",
     ]
 
     def parse(self, response):
         columns = []
         for column_node in response.xpath(
-            '//*[@id="stats_standard_squads"]/thead/tr[2]/th'
+            '//*[@id="stats_playing_time_squads"]/thead/tr[2]/th'
         ):
             column_name = column_node.xpath("./text()").extract_first()
             columns.append(column_name)
 
         matches = []
-        for row in response.xpath('//*[@id="stats_standard_squads"]/tbody/tr'):
+        for row in response.xpath('//*[@id="stats_playing_time_squads"]/tbody/tr'):
             match = {}
             suffixes = {}
             for column_index, column_name in enumerate(columns):
@@ -42,5 +42,5 @@ class PostSpider(scrapy.Spider):
 
         df = pd.DataFrame(matches, columns=columns)
 
-        yield df.to_csv("test_squads_suffix.csv", sep=",", index=False)
+        yield df.to_csv("serie_a_playing_time_squads.csv", sep=",", index=False)
 

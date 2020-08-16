@@ -1,0 +1,625 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks,Matches
+1,Francesco Acerbi,it,DF,Lazio,31,1988,35.1,2010,1925,85,64,3,215,102,26,1,0,0,0,1427,230,353,1543,324,75,20,5,1808,1,0,8,20,/en/players/b96b595c/matchlogs/2019-2020/passing_types/Francesco-Acerbi-Match-Logs
+2,Bobby Adekanye,nl,FW,Lazio,20,1999,2.1,46,44,2,0,0,6,0,1,0,0,0,0,38,5,3,39,4,1,1,0,41,0,0,1,0,/en/players/3ed84b2c/matchlogs/2019-2020/passing_types/Bobby-Adekanye-Match-Logs
+3,Claud Adjapong,it,DF,Hellas Verona,21,1998,2.6,80,65,15,1,0,18,1,2,0,0,0,0,40,23,17,10,49,5,14,0,61,0,0,2,1,/en/players/ce5b170a/matchlogs/2019-2020/passing_types/Claud-Adjapong-Match-Logs
+4,Lucien Agoume,fr,MF,Inter,17,2002,0.8,39,39,0,0,0,5,0,2,0,0,0,0,34,3,2,10,29,0,0,0,36,0,0,0,1,/en/players/8bc8829a/matchlogs/2019-2020/passing_types/Lucien-Agoume-Match-Logs
+5,Kevin Agudelo,co,"MF,FW",Fiorentina,20,1998,0.7,36,36,0,0,0,11,0,0,0,0,0,0,27,6,3,30,4,2,0,0,29,0,0,1,0,/en/players/46fa7204/matchlogs/2019-2020/passing_types/Kevin-Agudelo-Match-Logs
+6,Kevin Agudelo,co,"MF,FW",Genoa,20,1998,7.4,301,295,6,1,1,77,4,11,4,3,1,0,214,51,36,241,38,14,1,4,245,0,1,5,13,/en/players/46fa7204/matchlogs/2019-2020/passing_types/Kevin-Agudelo-Match-Logs
+7,Emmanuel Agyemang-Badu,gh,"MF,FW",Hellas Verona,28,1990,2.6,104,103,1,0,0,9,1,1,0,0,0,0,81,11,12,6,91,3,1,1,91,0,0,2,0,/en/players/fe0b8f0e/matchlogs/2019-2020/passing_types/Emmanuel-Agyemang-Badu-Match-Logs
+8,Ola Aina,ng,DF,Torino,22,1996,23.1,1160,922,238,13,2,146,33,62,4,0,0,0,641,234,285,251,628,48,221,3,863,6,0,28,36,/en/players/246d153b/matchlogs/2019-2020/passing_types/Ola-Aina-Match-Logs
+9,Luis Alberto,es,MF,Lazio,26,1992,34.6,2263,1983,280,68,16,426,106,179,149,53,59,15,1570,302,391,82,2113,26,23,14,1792,23,59,40,58,/en/players/5294a83f/matchlogs/2019-2020/passing_types/Luis-Alberto-Match-Logs
+10,Enrico Alfonso,it,GK,Brescia,31,1988,3.1,75,38,37,13,0,5,1,0,0,0,0,0,41,2,32,4,60,0,0,8,53,0,0,1,1,/en/players/95adf1e1/matchlogs/2019-2020/passing_types/Enrico-Alfonso-Match-Logs
+11,Allan,br,MF,Napoli,28,1991,14.2,829,796,33,17,3,145,20,13,0,0,0,0,618,104,107,75,715,14,16,3,718,1,0,15,25,/en/players/cc700722/matchlogs/2019-2020/passing_types/Allan-Match-Logs
+12,Bruno Alves,pt,DF,Parma,37,1981,29.7,1312,1221,91,82,0,111,113,13,0,0,0,0,747,217,348,204,972,80,2,8,1096,4,0,11,12,/en/players/585a73a8/matchlogs/2019-2020/passing_types/Bruno-Alves-Match-Logs
+13,Sofyan Amrabat,ma,MF,Hellas Verona,22,1996,32.4,1738,1651,87,77,5,294,72,23,0,0,0,0,1291,224,223,126,1517,59,10,10,1525,10,0,20,15,/en/players/5a2cb25d/matchlogs/2019-2020/passing_types/Sofyan-Amrabat-Match-Logs
+14,Djavan Anderson,nl,"DF,MF",Lazio,24,1995,1.9,68,49,19,3,0,5,1,2,0,0,0,0,44,14,10,7,42,2,16,0,58,0,0,1,2,/en/players/ca241ad3/matchlogs/2019-2020/passing_types/Djavan-Anderson-Match-Logs
+15,Lorenzo Andrenacci,it,GK,Brescia,24,1995,5.9,163,79,84,18,0,0,4,0,0,0,0,0,78,18,67,3,112,0,0,45,128,0,0,0,0,/en/players/fe471a89/matchlogs/2019-2020/passing_types/Lorenzo-Andrenacci-Match-Logs
+16,Peter Ankersen,dk,DF,Genoa,28,1990,11.8,607,532,75,7,0,99,4,22,0,0,0,0,408,96,103,70,444,17,68,2,501,1,0,12,19,/en/players/df525574/matchlogs/2019-2020/passing_types/Peter-Ankersen-Match-Logs
+17,Cristian Ansaldi,ar,"DF,MF",Torino,32,1986,19.6,825,670,155,18,0,135,78,142,8,1,2,1,344,159,322,275,393,16,129,2,582,2,2,11,35,/en/players/bbafc0c4/matchlogs/2019-2020/passing_types/Cristian-Ansaldi-Match-Logs
+18,Mirko Antonucci,it,"FW,MF",Roma,20,1999,0.9,22,22,0,0,0,2,0,0,0,0,0,0,16,3,3,3,18,0,0,1,17,0,0,3,0,/en/players/91976866/matchlogs/2019-2020/passing_types/Mirko-Antonucci-Match-Logs
+19,Guilherme Arana,br,DF,Atalanta,22,1997,0.9,54,44,10,2,0,8,2,4,0,0,0,0,37,12,5,38,8,0,8,0,42,0,0,1,5,/en/players/2b15a82a/matchlogs/2019-2020/passing_types/Guilherme-Arana-Match-Logs
+20,Nicolò Armini,it,DF,Lazio,18,2001,0.0,2,2,0,0,0,1,0,0,0,0,0,0,2,0,0,1,1,0,0,0,2,0,0,0,0,/en/players/2f7407fa/matchlogs/2019-2020/passing_types/Nicolo-Armini-Match-Logs
+21,Kwadwo Asamoah,gh,DF,Inter,30,1988,7.1,372,330,42,1,0,53,1,18,0,0,0,0,236,74,62,277,42,9,41,2,296,0,0,6,19,/en/players/089550f5/matchlogs/2019-2020/passing_types/Kwadwo-Asamoah-Match-Logs
+22,Kristoffer Askildsen,no,MF,Sampdoria,18,2001,0.8,35,35,0,0,0,3,1,0,0,0,0,0,26,2,7,10,25,0,0,0,30,0,0,0,0,/en/players/a69cc629/matchlogs/2019-2020/passing_types/Kristoffer-Askildsen-Match-Logs
+23,Emil Audero,it,GK,Sampdoria,22,1997,36.0,1037,630,407,118,0,69,21,0,0,0,0,0,400,72,565,97,755,1,0,130,660,6,0,2,1,/en/players/649b01d8/matchlogs/2019-2020/passing_types/Emil-Audero-Match-Logs
+24,Tommaso Augello,it,DF,Sampdoria,24,1994,12.6,825,696,129,9,1,83,15,80,2,0,1,0,436,221,168,634,31,29,118,1,635,2,1,18,29,/en/players/3cd3b384/matchlogs/2019-2020/passing_types/Tommaso-Augello-Match-Logs
+25,Florian Ayé,fr,"FW,MF",Brescia,22,1997,15.3,308,297,11,0,0,103,2,7,0,0,0,0,185,77,46,43,208,24,2,2,219,1,0,9,19,/en/players/718b8afd/matchlogs/2019-2020/passing_types/Florian-Aye-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Khouma Babacar,sn,FW,Lecce,26,1993,15.8,306,291,15,2,0,96,5,2,0,0,0,0,179,88,39,25,229,19,2,15,225,0,0,5,13,/en/players/422ec08a/matchlogs/2019-2020/passing_types/Khouma-Babacar-Match-Logs
+27,Milan Badelj,hr,MF,Fiorentina,30,1989,17.6,963,906,57,51,1,156,34,4,1,0,0,1,653,138,172,141,772,33,2,8,786,3,0,19,22,/en/players/e8c930bb/matchlogs/2019-2020/passing_types/Milan-Badelj-Match-Logs
+28,Marco Ballarini,it,MF,Udinese,18,2001,0.0,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,5,0,0,0,0,/en/players/8cb494c9/matchlogs/2019-2020/passing_types/Marco-Ballarini-Match-Logs
+29,Mario Balotelli,it,FW,Brescia,28,1990,15.6,368,346,22,2,1,109,23,8,1,1,0,0,175,97,96,22,290,18,2,13,238,4,0,13,15,/en/players/8ff07990/matchlogs/2019-2020/passing_types/Mario-Balotelli-Match-Logs
+30,Mattia Bani,it,DF,Bologna,25,1993,24.5,1109,1058,51,47,0,156,41,6,0,0,0,0,749,114,246,85,921,50,4,4,908,3,0,7,13,/en/players/0821331c/matchlogs/2019-2020/passing_types/Mattia-Bani-Match-Logs
+31,Antonín Barák,cz,MF,Udinese,24,1994,2.2,104,98,6,2,0,29,1,7,2,1,1,0,69,16,19,87,8,3,2,1,76,0,1,3,5,/en/players/01efac19/matchlogs/2019-2020/passing_types/Antonin-Barak-Match-Logs
+32,Antonín Barák,cz,MF,Lecce,24,1994,15.2,701,688,13,8,0,132,13,20,0,0,0,0,491,113,97,561,97,21,5,7,571,1,0,7,22,/en/players/01efac19/matchlogs/2019-2020/passing_types/Antonin-Barak-Match-Logs
+33,Nicolò Barella,it,MF,Inter,22,1997,22.4,1237,1218,19,10,1,224,38,38,5,2,0,1,829,199,209,134,1053,19,4,8,1015,7,0,28,42,/en/players/6928979a/matchlogs/2019-2020/passing_types/Nicolo-Barella-Match-Logs
+34,Antonino Barillà,it,MF,Parma,31,1988,18.8,521,504,17,4,2,78,13,25,9,3,3,0,350,73,98,372,105,30,2,2,402,3,3,15,14,/en/players/a64cbd35/matchlogs/2019-2020/passing_types/Antonino-Barilla-Match-Logs
+35,Antonio Barreca,it,"DF,MF",Genoa,24,1995,12.2,400,317,83,4,0,62,20,63,2,0,1,0,182,84,134,285,19,11,77,0,266,1,1,8,27,/en/players/6a189491/matchlogs/2019-2020/passing_types/Antonio-Barreca-Match-Logs
+36,Édgar Barreto,py,MF,Sampdoria,35,1984,1.0,33,31,2,2,0,6,0,0,0,0,0,0,25,5,3,6,26,1,0,0,28,0,0,1,0,/en/players/43a1bea5/matchlogs/2019-2020/passing_types/Edgar-Barreto-Match-Logs
+37,Musa Barrow,gm,"FW,MF",Atalanta,20,1998,2.1,52,51,1,0,1,21,2,3,1,0,0,0,39,7,6,5,44,1,0,1,43,0,0,1,3,/en/players/e5bf73f3/matchlogs/2019-2020/passing_types/Musa-Barrow-Match-Logs
+38,Musa Barrow,gm,FW,Bologna,20,1998,15.0,598,529,69,13,0,98,45,58,36,20,4,7,402,78,118,74,489,17,9,1,431,4,4,8,26,/en/players/e5bf73f3/matchlogs/2019-2020/passing_types/Musa-Barrow-Match-Logs
+39,Daniele Baselli,it,MF,Torino,27,1992,14.2,724,626,98,59,0,111,40,51,30,1,4,3,443,106,175,74,604,32,6,2,584,2,4,11,7,/en/players/ea06dd97/matchlogs/2019-2020/passing_types/Daniele-Baselli-Match-Logs
+40,Alessandro Bastoni,it,DF,Inter,20,1999,21.3,1428,1345,83,58,2,210,48,20,0,0,0,0,1035,171,222,1115,220,42,23,5,1256,7,0,7,22,/en/players/75b86fb3/matchlogs/2019-2020/passing_types/Alessandro-Bastoni-Match-Logs
+41,Bastos,ao,DF,Lazio,28,1991,8.5,416,405,11,9,0,47,7,0,0,0,0,0,355,31,30,86,315,10,2,1,378,1,0,6,5,/en/players/c01c66d9/matchlogs/2019-2020/passing_types/Bastos-Match-Logs
+42,Rodrigo Becão,br,DF,Udinese,23,1996,24.6,1042,990,52,45,0,111,31,5,0,0,0,0,797,100,145,91,886,23,7,9,899,1,0,10,18,/en/players/19e4eab9/matchlogs/2019-2020/passing_types/Rodrigo-Becao-Match-Logs
+43,Asmir Begović,ba,GK,Milan,32,1987,1.4,36,19,17,5,0,0,1,0,0,0,0,0,25,1,10,4,27,0,0,5,29,0,0,0,0,/en/players/7b4de647/matchlogs/2019-2020/passing_types/Asmir-Begovic-Match-Logs
+44,Valon Behrami,ch,MF,Genoa,34,1985,12.3,440,428,12,12,1,70,5,1,0,0,0,0,331,44,65,53,343,32,0,1,369,3,0,5,12,/en/players/d3d758d8/matchlogs/2019-2020/passing_types/Valon-Behrami-Match-Logs
+45,Raoul Bellanova,it,DF,Atalanta,19,2000,0.2,13,12,1,0,0,4,0,0,0,0,0,0,11,2,0,1,11,0,1,0,12,0,0,0,0,/en/players/e3756e72/matchlogs/2019-2020/passing_types/Raoul-Bellanova-Match-Logs
+46,Andrea Belotti,it,FW,Torino,25,1993,33.4,750,698,52,4,3,234,18,48,0,0,0,0,463,158,129,118,508,36,1,4,502,0,0,16,66,/en/players/d705ba44/matchlogs/2019-2020/passing_types/Andrea-Belotti-Match-Logs
+47,Marco Benassi,it,MF,Fiorentina,24,1994,10.9,342,331,11,2,1,71,5,19,1,0,0,0,211,78,53,84,237,12,5,1,262,1,0,7,10,/en/players/0000acda/matchlogs/2019-2020/passing_types/Marco-Benassi-Match-Logs
+48,Ismaël Bennacer,dz,MF,Milan,21,1997,27.6,1808,1691,117,72,0,287,44,34,26,6,17,1,1341,228,239,1560,169,51,2,5,1585,6,17,24,22,/en/players/db092d3b/matchlogs/2019-2020/passing_types/Ismael-Bennacer-Match-Logs
+49,Rodrigo Bentancur,uy,MF,Juventus,22,1997,24.4,1640,1556,84,35,5,284,50,53,41,11,18,1,1294,180,166,303,1269,35,6,4,1434,4,18,14,40,/en/players/3b8674e6/matchlogs/2019-2020/passing_types/Rodrigo-Bentancur-Match-Logs
+50,Romario Benzar,ro,DF,Lecce,27,1992,1.1,69,57,12,0,0,20,2,7,0,0,0,0,34,12,23,5,51,1,12,0,50,0,0,1,3,/en/players/2e3596d1/matchlogs/2019-2020/passing_types/Romario-Benzar-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Domenico Berardi,it,FW,Sassuolo,24,1994,27.7,1192,1093,99,30,12,267,55,111,60,33,20,4,782,180,230,1004,139,22,5,6,879,5,20,36,48,/en/players/53a0e358/matchlogs/2019-2020/passing_types/Domenico-Berardi-Match-Logs
+52,Álex Berenguer,es,"MF,FW",Torino,24,1995,20.3,791,694,97,25,10,132,24,71,28,7,7,0,495,146,150,87,624,24,42,1,587,0,7,15,35,/en/players/dc1c2fce/matchlogs/2019-2020/passing_types/Alex-Berenguer-Match-Logs
+53,Bartosz Bereszyński,pl,DF,Sampdoria,27,1992,26.7,1332,1068,264,33,0,148,13,49,1,0,0,0,773,234,325,104,925,51,230,4,1040,3,0,14,37,/en/players/61b3978f/matchlogs/2019-2020/passing_types/Bartosz-Bereszynski-Match-Logs
+54,Etrit Berisha,al,GK,SPAL,30,1989,26.0,884,569,315,81,0,86,11,0,0,0,0,0,370,64,450,555,169,2,0,137,623,4,0,4,2,/en/players/ee833569/matchlogs/2019-2020/passing_types/Etrit-Berisha-Match-Logs
+55,Valon Berisha,xk,"MF,FW",Lazio,26,1993,0.4,7,7,0,0,0,1,0,0,0,0,0,0,6,0,1,1,5,1,0,0,5,0,0,0,0,/en/players/d5575935/matchlogs/2019-2020/passing_types/Valon-Berisha-Match-Logs
+56,Federico Bernardeschi,it,"MF,FW",Juventus,25,1994,17.5,685,635,50,16,2,121,28,55,23,2,12,5,502,93,90,630,28,9,10,4,561,1,12,11,23,/en/players/ee93c1a9/matchlogs/2019-2020/passing_types/Federico-Bernardeschi-Match-Logs
+57,Andrea Bertolacci,it,MF,Sampdoria,28,1991,5.9,255,243,12,11,0,47,6,3,0,0,0,0,170,42,43,171,66,10,1,0,205,0,0,5,3,/en/players/c75b6a02/matchlogs/2019-2020/passing_types/Andrea-Bertolacci-Match-Logs
+58,Lucas Biglia,ar,MF,Milan,33,1986,7.6,438,399,39,30,0,76,16,3,2,0,2,0,320,67,51,96,313,13,2,1,398,0,2,6,6,/en/players/5710a281/matchlogs/2019-2020/passing_types/Lucas-Biglia-Match-Logs
+59,Cristiano Biraghi,it,"DF,MF",Inter,26,1992,17.5,901,698,203,21,0,106,30,139,37,15,7,4,425,202,274,596,138,20,145,1,646,8,7,18,48,/en/players/9e1577aa/matchlogs/2019-2020/passing_types/Cristiano-Biraghi-Match-Logs
+60,Davide Biraschi,it,DF,Genoa,25,1994,21.9,1194,1006,188,39,0,160,20,40,0,0,0,0,654,190,350,68,918,38,149,3,895,4,0,17,44,/en/players/64cd167d/matchlogs/2019-2020/passing_types/Davide-Biraschi-Match-Logs
+61,Valter Birsa,si,MF,Cagliari,32,1986,4.8,330,293,37,16,1,32,14,24,15,7,6,0,222,44,64,228,82,13,5,0,270,2,6,4,8,/en/players/455a2b79/matchlogs/2019-2020/passing_types/Valter-Birsa-Match-Logs
+62,Dimitri Bisoli,it,MF,Brescia,25,1994,23.9,781,755,26,8,0,186,13,64,0,0,0,0,399,183,199,106,598,39,18,8,509,9,0,21,50,/en/players/16569fef/matchlogs/2019-2020/passing_types/Dimitri-Bisoli-Match-Logs
+63,Birkir Bjarnason,is,"MF,FW",Brescia,31,1988,8.9,268,254,14,7,0,59,10,13,1,1,0,0,165,44,59,54,194,6,3,1,205,2,0,2,10,/en/players/da13074e/matchlogs/2019-2020/passing_types/Birkir-Bjarnason-Match-Logs
+64,Kevin-Prince Boateng,gh,FW,Fiorentina,32,1987,6.7,199,184,15,1,0,51,4,4,0,0,0,0,124,38,37,31,135,12,1,6,155,0,0,2,4,/en/players/f4ec4fd0/matchlogs/2019-2020/passing_types/Kevin-Prince-Boateng-Match-Logs
+65,Salvatore Bocchetti,it,DF,Hellas Verona,32,1986,3.4,176,166,10,5,0,23,0,0,0,0,0,0,119,30,27,125,25,10,5,3,147,1,0,3,3,/en/players/faa1b07d/matchlogs/2019-2020/passing_types/Salvatore-Bocchetti-Match-Logs
+66,Jeremie Boga,ci,FW,Sassuolo,22,1997,27.9,986,976,10,3,0,215,5,24,1,1,0,0,811,129,46,89,857,25,5,5,840,0,0,21,29,/en/players/fe012aca/matchlogs/2019-2020/passing_types/Jeremie-Boga-Match-Logs
+67,Giacomo Bonaventura,it,"MF,FW",Milan,29,1989,14.9,701,671,30,10,2,161,15,28,15,7,4,1,531,96,74,105,566,18,1,6,588,2,4,5,20,/en/players/d995ed27/matchlogs/2019-2020/passing_types/Giacomo-Bonaventura-Match-Logs
+68,Federico Bonazzoli,it,"FW,MF",Sampdoria,22,1997,8.3,209,198,11,1,0,48,13,10,0,0,0,0,141,41,27,161,38,4,1,1,146,0,0,10,14,/en/players/bf57eaab/matchlogs/2019-2020/passing_types/Federico-Bonazzoli-Match-Logs
+69,Kevin Bonifazi,it,DF,SPAL,23,1996,13.2,670,646,24,19,0,93,11,4,0,0,0,0,479,68,123,221,406,25,5,2,575,0,0,6,7,/en/players/fb77bfef/matchlogs/2019-2020/passing_types/Kevin-Bonifazi-Match-Logs
+70,Kevin Bonifazi,it,DF,Torino,23,1996,2.7,88,85,3,3,0,10,3,0,0,0,0,0,63,12,13,23,59,4,0,0,76,0,0,1,1,/en/players/fb77bfef/matchlogs/2019-2020/passing_types/Kevin-Bonifazi-Match-Logs
+71,Federico Bonini,it,DF,Bologna,17,2001,0.1,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,2,3,0,0,0,5,0,0,0,0,/en/players/f8f0744b/matchlogs/2019-2020/passing_types/Federico-Bonini-Match-Logs
+72,Leonardo Bonucci,it,DF,Juventus,32,1987,34.2,2087,2004,83,80,8,192,85,6,0,0,0,0,1469,246,372,303,1672,61,3,17,1829,7,0,14,20,/en/players/52ec54d0/matchlogs/2019-2020/passing_types/Leonardo-Bonucci-Match-Logs
+73,Fabio Borini,it,"MF,FW",Milan,28,1991,0.8,22,21,1,1,0,2,0,0,0,0,0,0,15,4,3,8,12,2,0,0,17,0,0,0,1,/en/players/ef5b337e/matchlogs/2019-2020/passing_types/Fabio-Borini-Match-Logs
+74,Fabio Borini,it,"FW,MF",Hellas Verona,28,1991,9.0,263,244,19,4,2,51,10,19,8,0,7,0,146,57,60,47,184,19,6,0,181,2,7,5,14,/en/players/ef5b337e/matchlogs/2019-2020/passing_types/Fabio-Borini-Match-Logs
+75,Mehdi Bourabia,ma,MF,Sassuolo,27,1991,10.3,758,729,29,22,4,117,18,7,4,1,1,2,583,93,82,106,623,9,3,6,658,3,1,8,7,/en/players/0d077b88/matchlogs/2019-2020/passing_types/Mehdi-Bourabia-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Federico Brancolini,it,GK,Fiorentina,18,2001,0.1,3,2,1,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,0,3,0,0,0,0,/en/players/d4890c25/matchlogs/2019-2020/passing_types/Federico-Brancolini-Match-Logs
+77,Gleison Bremer,br,DF,Torino,22,1997,25.2,1125,1088,37,31,0,165,52,1,1,0,0,0,803,114,208,267,772,47,5,5,921,0,0,17,19,/en/players/5fd5ed86/matchlogs/2019-2020/passing_types/Gleison-Bremer-Match-Logs
+78,Marco Brescianini,it,MF,Milan,19,2000,0.3,23,23,0,0,0,2,0,0,0,0,0,0,19,3,1,13,8,1,0,0,23,0,0,0,0,/en/players/dfd56738/matchlogs/2019-2020/passing_types/Marco-Brescianini-Match-Logs
+79,Marcelo Brozović,hr,MF,Inter,26,1992,30.0,2159,2032,127,92,3,306,123,49,26,8,3,2,1513,365,281,288,1775,68,7,4,1905,11,3,36,32,/en/players/33b8d077/matchlogs/2019-2020/passing_types/Marcelo-Brozovic-Match-Logs
+80,Gastón Brugman,uy,MF,Parma,26,1992,16.2,678,638,40,28,2,122,24,12,6,4,2,0,441,108,129,101,547,18,3,3,567,1,2,18,11,/en/players/e947ee4a/matchlogs/2019-2020/passing_types/Gaston-Brugman-Match-Logs
+81,Gianluigi Buffon,it,GK,Juventus,41,1978,9.0,212,145,67,10,1,17,2,0,0,0,0,0,159,14,39,20,148,0,1,40,195,0,0,0,1,/en/players/e40d028b/matchlogs/2019-2020/passing_types/Gianluigi-Buffon-Match-Logs
+82,Fabrizio Cacciatore,it,DF,Cagliari,32,1986,12.8,705,574,131,17,0,94,29,37,0,0,0,0,349,155,201,115,449,20,114,2,557,0,0,16,16,/en/players/00b0bb87/matchlogs/2019-2020/passing_types/Fabrizio-Cacciatore-Match-Logs
+83,Martín Cáceres,uy,DF,Fiorentina,32,1987,26.2,1306,1162,144,62,2,163,44,12,0,0,0,0,888,141,277,368,799,34,82,13,1098,2,0,15,18,/en/players/e94d79e3/matchlogs/2019-2020/passing_types/Martin-Caceres-Match-Logs
+84,Felipe Caicedo,ec,FW,Lazio,30,1988,15.6,404,399,5,2,1,111,4,0,0,0,0,0,282,95,27,290,72,13,1,10,321,2,0,10,5,/en/players/93b891d1/matchlogs/2019-2020/passing_types/Felipe-Caicedo-Match-Logs
+85,Davide Calabria,it,DF,Milan,22,1996,18.0,1169,980,189,23,1,121,24,47,0,0,0,0,685,211,273,74,868,45,166,5,945,1,0,17,26,/en/players/2146785a/matchlogs/2019-2020/passing_types/Davide-Calabria-Match-Logs
+86,Riccardo Calafiori,it,DF,Roma,17,2002,0.7,14,14,0,0,0,0,0,0,0,0,0,0,10,2,2,8,3,3,0,0,10,0,0,0,0,/en/players/aded8e6f/matchlogs/2019-2020/passing_types/Riccardo-Calafiori-Match-Logs
+87,Mattia Caldara,it,DF,Atalanta,25,1994,10.7,424,409,15,15,0,43,5,2,0,0,0,0,313,53,58,34,351,21,0,2,381,1,0,2,5,/en/players/ac7e640b/matchlogs/2019-2020/passing_types/Mattia-Caldara-Match-Logs
+88,Marco Calderoni,it,DF,Lecce,30,1989,22.9,1122,891,231,32,1,140,34,103,23,1,11,1,579,224,319,830,96,12,176,3,829,5,11,19,61,/en/players/652811aa/matchlogs/2019-2020/passing_types/Marco-Calderoni-Match-Logs
+89,Hakan Çalhanoğlu,tr,"MF,FW",Milan,25,1994,30.0,1649,1496,153,45,8,276,76,151,92,37,36,3,1070,260,319,179,1396,32,13,12,1289,9,36,34,46,/en/players/cd0fa27b/matchlogs/2019-2020/passing_types/Hakan-Calhanoglu-Match-Logs
+90,José Callejón,es,"FW,MF",Napoli,32,1987,24.1,1246,1126,120,31,3,182,72,170,63,7,45,4,780,194,272,163,1014,31,25,7,993,3,45,15,38,/en/players/78841da9/matchlogs/2019-2020/passing_types/Jose-Callejon-Match-Logs
+91,Emre Can,de,MF,Juventus,25,1994,3.2,164,159,5,3,1,27,3,3,0,0,0,0,130,21,13,23,133,3,2,1,142,0,0,1,2,/en/players/a65ce836/matchlogs/2019-2020/passing_types/Emre-Can-Match-Logs
+92,Antonio Candreva,it,DF,Inter,32,1987,22.1,1371,1155,216,13,2,165,79,178,31,6,15,7,664,310,397,227,949,15,172,6,1053,8,15,27,53,/en/players/356c9002/matchlogs/2019-2020/passing_types/Antonio-Candreva-Match-Logs
+93,Gianmarco Cangiano,it,"FW,MF",Bologna,17,2001,0.2,12,11,1,0,0,1,2,1,0,0,0,0,8,0,4,0,11,1,0,0,9,0,0,0,0,/en/players/a36084cd/matchlogs/2019-2020/passing_types/Gianmarco-Cangiano-Match-Logs
+94,Gianluca Caprari,it,"FW,MF",Parma,26,1993,6.5,212,186,26,7,2,33,5,21,10,1,4,2,146,29,37,24,179,3,1,4,169,2,4,4,8,/en/players/54e53b7e/matchlogs/2019-2020/passing_types/Gianluca-Caprari-Match-Logs
+95,Gianluca Caprari,it,"FW,MF",Sampdoria,26,1993,7.4,256,220,36,6,0,67,11,25,18,11,3,1,165,43,48,34,209,8,5,0,189,0,3,6,12,/en/players/54e53b7e/matchlogs/2019-2020/passing_types/Gianluca-Caprari-Match-Logs
+96,Francesco Caputo,it,FW,Sassuolo,31,1987,32.6,813,734,79,2,6,212,5,9,0,0,0,0,587,149,77,134,618,21,1,30,636,5,0,29,21,/en/players/5bd72174/matchlogs/2019-2020/passing_types/Francesco-Caputo-Match-Logs
+97,Andrea Carboni,it,"DF,MF",Cagliari,18,2001,4.1,163,148,15,7,0,13,5,2,0,0,0,0,101,18,44,122,23,8,8,0,134,0,0,0,2,/en/players/f7e2af2c/matchlogs/2019-2020/passing_types/Andrea-Carboni-Match-Logs
+98,Francesco Cassata,it,MF,Genoa,22,1997,16.2,653,628,25,8,0,146,20,26,1,0,0,1,442,101,110,39,576,10,16,3,511,3,0,8,30,/en/players/96960855/matchlogs/2019-2020/passing_types/Francesco-Cassata-Match-Logs
+99,Timothy Castagne,be,DF,Atalanta,23,1995,19.7,1133,990,143,6,1,163,9,60,1,0,0,1,752,217,164,147,791,41,136,0,952,0,0,18,24,/en/players/197640fd/matchlogs/2019-2020/passing_types/Timothy-Castagne-Match-Logs
+100,Samu Castillejo,es,"FW,MF",Milan,24,1995,13.4,560,510,50,10,4,100,18,68,26,11,8,0,353,86,121,449,77,8,12,3,422,4,8,11,19,/en/players/130a7a3f/matchlogs/2019-2020/passing_types/Samu-Castillejo-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Lucas Castro,ar,MF,Cagliari,30,1989,6.7,294,286,8,0,0,55,11,21,3,0,2,0,162,57,75,17,253,14,5,2,218,3,2,7,11,/en/players/56b2957b/matchlogs/2019-2020/passing_types/Lucas-Castro-Match-Logs
+102,Lucas Castro,ar,MF,SPAL,30,1989,4.7,213,211,2,2,0,37,4,4,0,0,0,0,135,37,41,16,184,6,0,2,166,0,0,3,5,/en/players/56b2957b/matchlogs/2019-2020/passing_types/Lucas-Castro-Match-Logs
+103,Gaetano Castrovilli,it,MF,Fiorentina,22,1997,29.7,1141,1098,43,18,3,243,34,39,7,2,2,2,854,147,140,165,936,17,8,6,922,4,2,23,41,/en/players/0728bebe/matchlogs/2019-2020/passing_types/Gaetano-Castrovilli-Match-Logs
+104,Danilo Cataldi,it,MF,Lazio,24,1994,6.6,454,406,48,18,1,53,15,35,26,5,14,3,323,49,82,78,361,7,4,1,377,0,14,8,10,/en/players/ba3d3bea/matchlogs/2019-2020/passing_types/Danilo-Cataldi-Match-Logs
+105,Federico Ceccherini,it,DF,Fiorentina,27,1992,9.3,395,370,25,18,0,45,13,1,0,0,0,0,290,37,68,94,260,23,7,1,346,0,0,2,4,/en/players/d9624b51/matchlogs/2019-2020/passing_types/Federico-Ceccherini-Match-Logs
+106,Christian Celesia,it,DF,Torino,17,2002,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,/en/players/d2fd20d6/matchlogs/2019-2020/passing_types/Christian-Celesia-Match-Logs
+107,Luca Ceppitelli,it,DF,Cagliari,29,1989,13.8,505,483,22,21,0,49,26,4,0,0,0,0,294,59,152,100,364,27,1,0,403,1,0,1,7,/en/players/7d50454d/matchlogs/2019-2020/passing_types/Luca-Ceppitelli-Match-Logs
+108,Alberto Cerri,it,FW,SPAL,23,1996,4.7,144,136,8,0,1,48,3,2,0,0,0,0,86,41,17,13,97,10,0,10,94,0,0,1,5,/en/players/1079c685/matchlogs/2019-2020/passing_types/Alberto-Cerri-Match-Logs
+109,Alberto Cerri,it,FW,Cagliari,23,1996,2.7,103,96,7,0,0,41,2,0,0,0,0,0,41,36,26,9,59,11,2,2,70,0,0,4,4,/en/players/1079c685/matchlogs/2019-2020/passing_types/Alberto-Cerri-Match-Logs
+110,Julian Chabot,de,DF,Sampdoria,21,1998,6.3,238,226,12,10,0,26,7,0,0,0,0,0,173,20,45,197,22,10,2,3,205,1,0,3,4,/en/players/ae7058f9/matchlogs/2019-2020/passing_types/Julian-Chabot-Match-Logs
+111,Jhon Chancellor,ve,DF,Brescia,27,1992,24.9,849,822,27,27,0,126,38,0,0,0,0,0,642,74,133,212,563,50,0,3,745,4,0,1,13,/en/players/84b6acaa/matchlogs/2019-2020/passing_types/Jhon-Chancellor-Match-Logs
+112,Giorgio Chiellini,it,DF,Juventus,34,1984,2.2,106,105,1,1,0,7,2,0,0,0,0,0,77,15,14,80,16,6,0,1,97,0,0,0,1,/en/players/e85fb9b8/matchlogs/2019-2020/passing_types/Giorgio-Chiellini-Match-Logs
+113,Federico Chiesa,it,"FW,DF",Fiorentina,21,1997,29.3,833,771,62,4,7,185,27,51,4,1,0,0,533,182,118,163,586,19,48,12,609,4,0,21,38,/en/players/b0f7e36c/matchlogs/2019-2020/passing_types/Federico-Chiesa-Match-Logs
+114,Vlad Chiricheș,ro,DF,Sassuolo,29,1989,7.9,488,473,15,15,0,47,10,1,0,0,0,0,423,39,26,41,434,7,0,2,454,0,0,4,3,/en/players/c316607a/matchlogs/2019-2020/passing_types/Vlad-Chiriches-Match-Logs
+115,Luca Cigarini,it,MF,Cagliari,33,1986,17.8,1228,1057,171,108,5,129,71,84,60,14,26,8,722,173,333,136,1055,26,1,4,992,3,26,14,13,/en/players/ae64d449/matchlogs/2019-2020/passing_types/Luca-Cigarini-Match-Logs
+116,Thiago Cionek,pl,DF,SPAL,33,1986,24.1,1360,1116,244,61,0,175,18,61,0,0,0,0,725,212,423,163,940,53,183,2,1029,3,0,16,56,/en/players/46f5c54d/matchlogs/2019-2020/passing_types/Thiago-Cionek-Match-Logs
+117,Andrea Cistana,it,DF,Brescia,22,1997,20.4,808,762,46,40,1,140,27,4,0,0,0,0,565,89,154,102,635,38,6,7,688,2,0,7,18,/en/players/fe6a7685/matchlogs/2019-2020/passing_types/Andrea-Cistana-Match-Logs
+118,Denilho Cleonise,nl,FW,Genoa,17,2001,0.5,7,7,0,0,0,3,0,0,0,0,0,0,7,0,0,6,1,0,0,0,7,0,0,0,0,/en/players/91c9de34/matchlogs/2019-2020/passing_types/Denilho-Cleonise-Match-Logs
+119,Ebrima Colley,gm,FW,Atalanta,19,2000,0.9,42,42,0,0,1,10,1,0,0,0,0,0,33,8,1,5,36,1,0,0,37,0,0,1,1,/en/players/bf356094/matchlogs/2019-2020/passing_types/Ebrima-Colley-Match-Logs
+120,Omar Colley,gm,DF,Sampdoria,26,1992,30.8,1324,1278,46,45,1,150,65,5,0,0,0,0,840,142,342,821,375,85,1,6,1089,4,0,10,14,/en/players/8b95acda/matchlogs/2019-2020/passing_types/Omar-Colley-Match-Logs
+121,Simone Colombi,it,GK,Parma,28,1991,4.0,98,51,47,8,0,1,1,0,0,0,0,0,51,18,29,12,65,0,0,16,82,0,0,0,0,/en/players/72be9309/matchlogs/2019-2020/passing_types/Simone-Colombi-Match-Logs
+122,Lorenzo Colombo,it,FW,Milan,17,2002,0.1,2,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,2,0,0,0,0,/en/players/04df29a5/matchlogs/2019-2020/passing_types/Lorenzo-Colombo-Match-Logs
+123,Andrea Consigli,it,GK,Sassuolo,32,1987,31.0,995,705,290,84,2,93,28,0,0,0,0,0,566,77,352,63,766,2,0,137,778,5,0,6,0,/en/players/8cabdc1e/matchlogs/2019-2020/passing_types/Andrea-Consigli-Match-Logs
+124,Andrea Conti,it,DF,Milan,25,1994,19.2,1060,886,174,20,0,121,8,24,0,0,0,0,638,210,212,51,801,38,154,5,888,3,0,18,25,/en/players/8fef5412/matchlogs/2019-2020/passing_types/Andrea-Conti-Match-Logs
+125,Gabriele Corbo,it,DF,Bologna,19,2000,1.4,59,58,1,1,0,3,5,1,0,0,0,0,41,8,10,3,52,3,0,0,53,0,0,0,1,/en/players/091795f2/matchlogs/2019-2020/passing_types/Gabriele-Corbo-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Andreas Cornelius,dk,FW,Parma,26,1993,16.6,413,393,20,1,1,144,10,7,0,0,0,0,194,114,105,226,60,42,0,18,293,1,0,4,18,/en/players/c693347d/matchlogs/2019-2020/passing_types/Andreas-Cornelius-Match-Logs
+127,Joaquín Correa,ar,"FW,MF",Lazio,24,1994,22.2,697,665,32,2,4,176,11,9,9,3,1,0,554,98,45,71,586,17,7,9,578,3,1,17,20,/en/players/45b9b619/matchlogs/2019-2020/passing_types/Joaquin-Correa-Match-Logs
+128,Angelo da Costa Júnior,br,GK,Bologna,35,1983,1.0,28,21,7,3,0,0,0,0,0,0,0,0,23,1,4,0,23,0,0,4,25,0,0,0,0,/en/players/18736214/matchlogs/2019-2020/passing_types/Angelo-da-Costa-Junior-Match-Logs
+129,Douglas Costa,br,"FW,MF",Juventus,28,1990,8.9,490,460,30,3,0,59,28,40,15,6,4,3,340,81,69,425,41,6,11,7,392,2,4,7,19,/en/players/4fa7cb9b/matchlogs/2019-2020/passing_types/Douglas-Costa-Match-Logs
+130,Alessio Cragno,it,GK,Cagliari,25,1994,16.0,475,261,214,57,0,16,11,0,0,0,0,0,198,23,254,40,347,0,0,67,305,2,0,1,1,/en/players/f554e29b/matchlogs/2019-2020/passing_types/Alessio-Cragno-Match-Logs
+131,Domenico Criscito,it,DF,Genoa,32,1986,22.8,1250,1033,217,57,2,152,54,76,20,9,8,1,700,228,322,916,135,42,140,1,964,7,8,18,24,/en/players/35dd6d80/matchlogs/2019-2020/passing_types/Domenico-Criscito-Match-Logs
+132,Bryan Cristante,it,MF,Roma,24,1995,18.0,1072,1044,28,26,6,196,36,7,1,0,0,1,787,117,168,143,895,25,1,1,915,2,0,17,18,/en/players/16657b95/matchlogs/2019-2020/passing_types/Bryan-Cristante-Match-Logs
+133,Sebastián Cristóforo,uy,MF,Fiorentina,25,1993,1.0,49,40,9,3,0,2,2,5,6,0,3,2,35,4,10,2,43,4,0,0,41,0,3,0,1,/en/players/3c05c659/matchlogs/2019-2020/passing_types/Sebastian-Cristoforo-Match-Logs
+134,Juan Cuadrado,co,DF,Juventus,31,1988,29.5,2321,2073,248,44,7,211,72,86,0,0,0,0,1639,415,267,199,1861,41,204,10,2054,3,0,27,35,/en/players/0ab1f153/matchlogs/2019-2020/passing_types/Juan-Cuadrado-Match-Logs
+135,Jaume Cuéllar,bo,"FW,MF",SPAL,17,2001,0.8,16,15,1,0,0,6,1,0,0,0,0,0,13,3,0,5,11,0,0,0,14,0,0,0,1,/en/players/934e264d/matchlogs/2019-2020/passing_types/Jaume-Cuellar-Match-Logs
+136,Felipe Curcio,br,DF,Brescia,26,1993,0.1,12,11,1,0,0,2,0,2,0,0,0,0,5,3,4,9,1,0,1,0,8,0,0,2,0,/en/players/8913a9f9/matchlogs/2019-2020/passing_types/Felipe-Curcio-Match-Logs
+137,Patrick Cutrone,it,FW,Fiorentina,21,1998,9.3,169,165,4,0,2,49,1,5,0,0,0,0,108,41,20,28,116,12,1,3,120,0,0,4,6,/en/players/a4fe8cda/matchlogs/2019-2020/passing_types/Patrick-Cutrone-Match-Logs
+138,Lennart-Marten Czyborra,de,DF,Atalanta,20,1999,0.2,10,9,1,0,0,2,0,1,0,0,0,0,7,2,1,9,0,0,1,0,8,0,0,0,0,/en/players/7ba1f1ef/matchlogs/2019-2020/passing_types/Lennart-Marten-Czyborra-Match-Logs
+139,Marco D'Alessandro,it,"MF,DF",SPAL,28,1991,8.7,259,250,9,0,0,43,7,27,1,0,0,0,174,43,42,33,212,5,8,1,191,0,0,3,17,/en/players/060606ec/matchlogs/2019-2020/passing_types/Marco-DAlessandro-Match-Logs
+140,Danilo D'Ambrosio,it,DF,Inter,30,1988,15.6,902,800,102,13,1,78,14,17,0,0,0,0,624,153,125,210,568,22,89,6,768,2,0,8,15,/en/players/44eb9093/matchlogs/2019-2020/passing_types/Danilo-DAmbrosio-Match-Logs
+141,Felice D'Amico,it,MF,Sampdoria,18,2000,0.0,5,3,2,0,0,0,0,0,2,0,0,0,3,1,1,0,4,1,0,0,4,0,0,0,0,/en/players/0c35d28d/matchlogs/2019-2020/passing_types/Felice-DAmico-Match-Logs
+142,Jacopo Da Riva,it,FW,Atalanta,18,2000,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,/en/players/9591723b/matchlogs/2019-2020/passing_types/Jacopo-Da-Riva-Match-Logs
+143,Bryan Dabo,bf,MF,SPAL,27,1992,12.5,578,566,12,7,0,113,7,4,0,0,0,0,460,73,45,109,440,12,4,5,500,1,0,5,8,/en/players/c53083ad/matchlogs/2019-2020/passing_types/Bryan-Dabo-Match-Logs
+144,Felipe dal Belo,br,DF,SPAL,35,1984,11.1,467,426,41,21,1,56,14,4,0,0,0,0,287,63,117,388,35,15,20,1,389,4,0,5,12,/en/players/8cea6319/matchlogs/2019-2020/passing_types/Felipe-dal-Belo-Match-Logs
+145,Christian Dalle Mura,it,MF,Fiorentina,17,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/players/f32df091/matchlogs/2019-2020/passing_types/Christian-Dalle-Mura-Match-Logs
+146,Danilo,br,DF,Juventus,28,1991,16.0,1218,1098,120,14,1,128,20,30,0,0,0,0,849,194,175,118,959,22,106,2,1050,1,0,15,27,/en/players/94b2001f/matchlogs/2019-2020/passing_types/Danilo-Match-Logs
+147,Andrea Danzi,it,MF,Hellas Verona,20,1999,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,/en/players/263b855a/matchlogs/2019-2020/passing_types/Andrea-Danzi-Match-Logs
+148,Matteo Darmian,it,DF,Parma,29,1989,29.8,1521,1220,301,21,0,175,35,45,0,0,0,0,830,345,346,170,998,42,280,9,1208,5,0,27,48,/en/players/96e0490d/matchlogs/2019-2020/passing_types/Matteo-Darmian-Match-Logs
+149,Paweł Dawidowicz,pl,DF,Hellas Verona,24,1995,7.7,407,388,19,16,0,51,8,2,0,0,0,0,324,43,40,182,199,13,3,0,366,2,0,3,3,/en/players/16bb656a/matchlogs/2019-2020/passing_types/Pawel-Dawidowicz-Match-Logs
+150,Sebastien De Maio,fr,DF,Udinese,32,1987,16.7,661,628,33,24,0,67,15,6,0,0,0,0,451,83,127,59,536,38,9,4,533,3,0,7,12,/en/players/952a03fe/matchlogs/2019-2020/passing_types/Sebastien-De-Maio-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Rodrigo De Paul,ar,MF,Udinese,25,1994,31.4,1843,1611,232,92,3,259,149,239,117,42,34,2,1109,281,453,70,1715,23,22,11,1377,9,34,26,56,/en/players/162efffd/matchlogs/2019-2020/passing_types/Rodrigo-De-Paul-Match-Logs
+152,Mattia De Sciglio,it,DF,Juventus,26,1992,5.2,344,292,52,7,0,56,6,9,0,0,0,0,223,62,59,87,198,9,45,2,283,0,0,7,14,/en/players/ae4e2852/matchlogs/2019-2020/passing_types/Mattia-De-Sciglio-Match-Logs
+153,Lorenzo De Silvestri,it,DF,Torino,31,1988,24.9,959,777,182,9,0,124,22,81,0,0,0,0,444,196,319,82,603,61,173,0,693,4,0,15,46,/en/players/e74f0e59/matchlogs/2019-2020/passing_types/Lorenzo-De-Silvestri-Match-Logs
+154,Grégoire Defrel,mq,"FW,MF",Sassuolo,28,1991,10.9,342,322,20,1,1,93,2,4,1,0,1,0,286,43,13,292,34,5,2,4,305,1,1,6,5,/en/players/854ee61a/matchlogs/2019-2020/passing_types/Gregoire-Defrel-Match-Logs
+155,Alessandro Deiola,it,MF,Cagliari,23,1995,0.0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,/en/players/7f267d66/matchlogs/2019-2020/passing_types/Alessandro-Deiola-Match-Logs
+156,Alessandro Deiola,it,MF,Lecce,23,1995,8.0,296,285,11,10,1,35,15,10,0,0,0,0,174,64,58,30,248,16,0,0,224,1,0,9,11,/en/players/7f267d66/matchlogs/2019-2020/passing_types/Alessandro-Deiola-Match-Logs
+157,Cristian Dell'Orco,it,DF,Lecce,25,1994,11.2,556,492,64,13,0,71,16,28,1,1,0,0,322,80,154,430,49,13,50,1,444,0,0,9,18,/en/players/b0243215/matchlogs/2019-2020/passing_types/Cristian-DellOrco-Match-Logs
+158,Merih Demiral,tr,DF,Juventus,21,1998,4.6,306,304,2,2,0,24,5,1,0,0,0,0,266,19,21,36,250,10,0,2,290,0,0,0,3,/en/players/e3cceee6/matchlogs/2019-2020/passing_types/Merih-Demiral-Match-Logs
+159,Diego Demme,de,MF,Napoli,27,1991,10.0,782,766,16,15,4,110,16,3,0,0,0,0,622,93,67,111,656,10,1,1,715,3,0,7,14,/en/players/dc3fa3b5/matchlogs/2019-2020/passing_types/Diego-Demme-Match-Logs
+160,Stefano Denswil,nl,DF,Bologna,26,1993,24.9,1266,1139,127,50,0,138,24,7,0,0,0,0,938,113,215,857,265,40,77,4,1092,9,0,12,19,/en/players/5832ebfe/matchlogs/2019-2020/passing_types/Stefano-Denswil-Match-Logs
+161,Fabio Depaoli,it,"MF,DF",Sampdoria,22,1997,20.6,697,624,73,8,1,113,20,82,1,0,1,0,360,181,156,44,539,29,64,3,479,2,1,19,45,/en/players/d97f2e8d/matchlogs/2019-2020/passing_types/Fabio-Depaoli-Match-Logs
+162,Kastriot Dermaku,al,DF,Parma,27,1992,11.4,377,355,22,14,0,38,13,1,0,0,0,0,260,36,81,32,312,17,2,1,321,0,0,2,3,/en/players/2990c466/matchlogs/2019-2020/passing_types/Kastriot-Dermaku-Match-Logs
+163,Daniele Dessena,it,MF,Brescia,32,1987,20.8,710,685,25,13,1,118,23,17,0,0,0,0,451,112,147,98,551,31,9,7,563,1,0,13,16,/en/players/02b2937c/matchlogs/2019-2020/passing_types/Daniele-Dessena-Match-Logs
+164,Mattia Destro,it,"FW,MF",Genoa,28,1991,1.7,26,21,5,0,0,5,0,1,0,0,0,0,13,10,3,0,19,2,0,4,20,0,0,0,3,/en/players/d7d32194/matchlogs/2019-2020/passing_types/Mattia-Destro-Match-Logs
+165,Mattia Destro,it,FW,Bologna,28,1991,2.1,20,19,1,1,2,6,0,0,0,0,0,0,14,3,3,3,15,1,0,1,14,0,0,1,1,/en/players/d7d32194/matchlogs/2019-2020/passing_types/Mattia-Destro-Match-Logs
+166,Samuel Di Carmine,it,FW,Hellas Verona,30,1988,14.4,256,229,27,0,1,86,1,10,0,0,0,0,131,89,36,25,174,29,0,6,181,1,0,0,17,/en/players/ef94dc2f/matchlogs/2019-2020/passing_types/Samuel-Di-Carmine-Match-Logs
+167,Federico Di Francesco,it,FW,SPAL,25,1994,12.0,346,304,42,15,1,88,9,35,12,8,0,0,218,48,80,37,282,14,4,3,264,0,0,6,16,/en/players/1fca9171/matchlogs/2019-2020/passing_types/Federico-Di-Francesco-Match-Logs
+168,Giovanni Di Lorenzo,it,DF,Napoli,25,1993,33.0,2274,1981,293,74,4,293,46,61,0,0,0,0,1567,454,253,288,1673,52,219,6,2003,1,0,21,69,/en/players/230a2fac/matchlogs/2019-2020/passing_types/Giovanni-Di-Lorenzo-Match-Logs
+169,Amadou Diawara,gn,MF,Roma,22,1997,16.9,996,963,33,32,2,130,37,2,0,0,0,0,772,99,125,83,870,32,1,2,888,3,0,7,4,/en/players/bf309d24/matchlogs/2019-2020/passing_types/Amadou-Diawara-Match-Logs
+170,Mitchell Dijks,nl,DF,Bologna,26,1993,11.2,545,438,107,13,0,55,6,28,0,0,0,0,334,95,116,335,87,23,94,1,432,0,0,8,23,/en/players/0a3065c8/matchlogs/2019-2020/passing_types/Mitchell-Dijks-Match-Logs
+171,Federico Dimarco,it,DF,Hellas Verona,21,1997,5.8,417,353,64,13,1,31,20,56,24,11,12,1,242,64,111,355,27,6,27,0,314,0,12,3,18,/en/players/970b8574/matchlogs/2019-2020/passing_types/Federico-Dimarco-Match-Logs
+172,Federico Dimarco,it,"DF,MF",Inter,21,1997,0.3,14,11,3,0,0,5,1,0,0,0,0,0,6,5,3,8,3,0,3,0,11,0,0,1,0,/en/players/970b8574/matchlogs/2019-2020/passing_types/Federico-Dimarco-Match-Logs
+173,Koffi Djidji,ci,DF,Torino,26,1992,9.5,395,380,15,11,0,30,8,0,0,0,0,0,295,31,69,26,336,22,4,1,346,2,0,1,3,/en/players/933d3b51/matchlogs/2019-2020/passing_types/Koffi-Djidji-Match-Logs
+174,Berat Djimsiti,al,DF,Atalanta,26,1993,30.9,1834,1724,110,58,0,232,31,3,0,0,0,0,1372,236,226,414,1233,78,52,4,1612,3,0,18,22,/en/players/6eee05f1/matchlogs/2019-2020/passing_types/Berat-Djimsiti-Match-Logs
+175,Nicolás Domínguez,ar,MF,Bologna,21,1998,7.8,413,383,30,18,2,59,13,6,0,0,0,0,277,72,64,69,306,20,11,2,349,2,0,6,11,/en/players/20b3a502/matchlogs/2019-2020/passing_types/Nicolas-Dominguez-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Giulio Donati,it,DF,Lecce,29,1990,19.6,997,843,154,26,0,80,27,57,1,0,0,0,625,187,185,61,772,22,127,8,853,2,0,12,18,/en/players/22051fbe/matchlogs/2019-2020/passing_types/Giulio-Donati-Match-Logs
+177,Alfredo Donnarumma,it,FW,Brescia,28,1990,18.7,445,411,34,0,0,118,6,7,0,0,0,0,272,104,69,89,311,19,3,13,307,3,0,24,23,/en/players/5592007b/matchlogs/2019-2020/passing_types/Alfredo-Donnarumma-Match-Logs
+178,Gianluigi Donnarumma,it,GK,Milan,20,1999,35.6,1142,791,351,91,1,95,24,0,0,0,0,0,578,81,483,139,804,1,0,173,872,2,0,4,2,/en/players/08f5afaa/matchlogs/2019-2020/passing_types/Gianluigi-Donnarumma-Match-Logs
+179,Bartłomiej Drągowski,pl,GK,Fiorentina,21,1997,31.0,904,602,302,80,0,56,23,0,0,0,0,0,439,78,387,67,612,0,0,196,647,3,0,7,2,/en/players/085e71a7/matchlogs/2019-2020/passing_types/Bartlomiej-Dragowski-Match-Logs
+180,Léo Duarte,br,DF,Milan,23,1996,4.5,195,179,16,14,0,27,1,0,0,0,0,0,155,21,19,28,152,5,2,0,172,1,0,1,4,/en/players/73ddc40c/matchlogs/2019-2020/passing_types/Leo-Duarte-Match-Logs
+181,Edgaras Dubickas,lt,DF,Lecce,21,1998,0.0,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,1,0,/en/players/c59f90b0/matchlogs/2019-2020/passing_types/Edgaras-Dubickas-Match-Logs
+182,Alfred Duncan,gh,MF,Sassuolo,26,1993,9.4,469,454,15,8,1,93,9,8,3,3,0,0,343,77,49,407,48,5,4,2,382,1,0,14,10,/en/players/528492ea/matchlogs/2019-2020/passing_types/Alfred-Duncan-Match-Logs
+183,Alfred Duncan,gh,MF,Fiorentina,26,1993,9.9,411,399,12,7,0,69,10,15,0,0,0,0,306,49,56,359,29,14,5,0,346,3,0,6,14,/en/players/528492ea/matchlogs/2019-2020/passing_types/Alfred-Duncan-Match-Logs
+184,Paulo Dybala,ar,"FW,MF",Juventus,25,1993,23.9,1528,1379,149,29,5,244,78,106,74,28,33,3,1053,244,231,1312,165,11,14,24,1275,8,33,23,40,/en/players/e0921a4f/matchlogs/2019-2020/passing_types/Paulo-Dybala-Match-Logs
+185,Edin Džeko,ba,FW,Roma,33,1986,31.7,813,772,41,2,5,281,24,21,2,0,1,0,442,190,181,159,506,37,0,24,565,3,1,16,36,/en/players/3bb7f478/matchlogs/2019-2020/passing_types/Edin-Dzeko-Match-Logs
+186,Blerim Džemaili,ch,MF,Bologna,33,1986,7.8,347,322,25,21,2,75,20,4,0,0,0,0,250,46,51,49,282,11,3,0,286,1,0,7,9,/en/players/756959aa/matchlogs/2019-2020/passing_types/Blerim-Dzemaili-Match-Logs
+187,Simone Edera,it,"MF,FW",Torino,22,1997,4.4,130,113,17,5,0,19,8,13,6,3,3,0,87,24,19,107,13,2,5,0,102,0,3,8,5,/en/players/8697c095/matchlogs/2019-2020/passing_types/Simone-Edera-Match-Logs
+188,Albin Ekdal,se,MF,Sampdoria,30,1989,26.5,1161,1084,77,70,1,172,23,9,0,0,0,0,828,194,139,120,954,52,7,10,1012,3,0,8,19,/en/players/f503ea63/matchlogs/2019-2020/passing_types/Albin-Ekdal-Match-Logs
+189,Elif Elmas,mk,MF,Napoli,19,1999,12.6,685,676,9,3,2,118,5,3,0,0,0,0,593,61,31,104,567,6,5,3,623,3,0,9,9,/en/players/cf007308/matchlogs/2019-2020/passing_types/Elif-Elmas-Match-Logs
+190,Alan Empereur,br,DF,Hellas Verona,25,1994,9.5,466,440,26,22,0,62,3,2,0,0,0,0,330,50,86,353,75,23,4,0,395,1,0,3,11,/en/players/825b8997/matchlogs/2019-2020/passing_types/Alan-Empereur-Match-Logs
+191,Christian Eriksen,dk,MF,Inter,27,1992,7.8,473,411,62,17,1,62,20,59,41,19,14,2,291,78,104,86,364,16,2,2,358,0,14,7,16,/en/players/980522ec/matchlogs/2019-2020/passing_types/Christian-Eriksen-Match-Logs
+192,Espeto,br,"DF,MF",SPAL,22,1997,23.4,870,784,86,8,1,189,17,71,3,0,3,0,508,200,162,73,700,13,75,4,680,0,3,10,39,/en/players/674cfc5a/matchlogs/2019-2020/passing_types/Espeto-Match-Logs
+193,Sebastiano Esposito,it,FW,Inter,17,2002,2.2,62,54,8,0,0,14,7,7,6,6,0,0,34,15,13,2,54,3,0,2,41,0,0,1,2,/en/players/7ff93107/matchlogs/2019-2020/passing_types/Sebastiano-Esposito-Match-Logs
+194,Valentin Eysseric,fr,MF,Fiorentina,27,1992,0.5,24,21,3,0,0,5,3,4,2,2,0,0,14,3,7,4,18,1,1,0,16,0,0,1,1,/en/players/ae82fa48/matchlogs/2019-2020/passing_types/Valentin-Eysseric-Match-Logs
+195,Valentin Eysseric,fr,"MF,FW",Hellas Verona,27,1992,3.9,147,128,19,5,2,16,7,14,7,2,3,0,96,23,28,31,104,3,2,1,116,1,3,3,6,/en/players/ae82fa48/matchlogs/2019-2020/passing_types/Valentin-Eysseric-Match-Logs
+196,Luca Falbo,it,DF,Lazio,19,2000,0.0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,/en/players/ca8fa0c0/matchlogs/2019-2020/passing_types/Luca-Falbo-Match-Logs
+197,Filippo Falco,it,"FW,MF",Lecce,27,1992,22.4,1012,889,123,40,2,192,34,127,39,3,1,2,674,143,195,876,104,11,8,10,812,4,1,11,36,/en/players/e23f56c1/matchlogs/2019-2020/passing_types/Filippo-Falco-Match-Logs
+198,Wladimiro Falcone,it,GK,Sampdoria,24,1995,2.0,61,36,25,7,0,2,0,0,0,0,0,0,32,0,29,5,45,0,0,11,39,0,0,0,0,/en/players/9f5a610b/matchlogs/2019-2020/passing_types/Wladimiro-Falcone-Match-Logs
+199,Iago Falque,es,"MF,FW",Torino,29,1990,1.1,64,60,4,1,0,16,1,4,2,1,0,0,45,9,10,55,5,3,1,0,54,0,0,0,4,/en/players/440c84ed/matchlogs/2019-2020/passing_types/Iago-Falque-Match-Logs
+200,Iago Falque,es,MF,Genoa,29,1990,5.8,313,295,18,4,0,58,15,30,8,3,2,0,207,31,75,259,35,9,2,2,245,3,2,2,12,/en/players/440c84ed/matchlogs/2019-2020/passing_types/Iago-Falque-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Andri Fannar Baldursson,is,MF,Bologna,17,2002,1.6,62,61,1,1,0,12,0,2,0,0,0,0,47,2,13,14,39,8,0,0,44,0,0,1,4,/en/players/61f2f56a/matchlogs/2019-2020/passing_types/Andri-Fannar-Baldursson-Match-Logs
+202,Paolo Faragò,it,DF,Cagliari,26,1993,14.9,883,736,147,15,0,121,21,44,0,0,0,0,479,165,239,130,561,40,132,5,690,0,0,18,28,/en/players/9085dd7c/matchlogs/2019-2020/passing_types/Paolo-Farago-Match-Logs
+203,Davide Faraoni,it,DF,Hellas Verona,27,1991,35.9,1709,1391,318,21,5,202,56,131,9,1,5,3,781,442,486,145,1185,60,288,6,1228,6,5,39,83,/en/players/aae9d04a/matchlogs/2019-2020/passing_types/Davide-Faraoni-Match-Logs
+204,Mohamed Fares,dz,"DF,MF",SPAL,23,1996,4.7,201,178,23,5,0,21,8,20,1,0,1,0,127,43,31,151,24,7,17,0,138,0,1,4,15,/en/players/b7a5bc86/matchlogs/2019-2020/passing_types/Mohamed-Fares-Match-Logs
+205,Diego Farias,br,"FW,MF",Lecce,29,1990,9.2,363,336,27,2,1,62,10,23,15,1,3,1,260,58,45,27,318,10,5,2,294,1,3,4,15,/en/players/157d29b6/matchlogs/2019-2020/passing_types/Diego-Farias-Match-Logs
+206,Andrea Favilli,it,FW,Genoa,22,1997,7.3,193,178,15,1,0,67,6,1,0,0,0,0,116,49,28,88,66,14,0,6,141,0,0,9,8,/en/players/44510fde/matchlogs/2019-2020/passing_types/Andrea-Favilli-Match-Logs
+207,Federico Fazio,ar,DF,Roma,32,1987,13.5,673,642,31,27,2,112,17,2,0,0,0,0,510,77,86,102,513,30,4,1,589,1,0,4,9,/en/players/4e358a2d/matchlogs/2019-2020/passing_types/Federico-Fazio-Match-Logs
+208,Luiz Felipe,br,DF,Lazio,22,1997,22.5,1168,1122,46,26,1,111,25,7,1,0,1,0,955,83,130,111,977,45,18,4,1048,0,1,10,13,/en/players/15d0c248/matchlogs/2019-2020/passing_types/Luiz-Felipe-Match-Logs
+209,Lucas Felippe,br,"MF,DF",Hellas Verona,19,2000,0.3,22,22,0,0,0,2,2,0,0,0,0,0,20,1,1,17,5,0,0,0,21,0,0,0,0,/en/players/85e51909/matchlogs/2019-2020/passing_types/Lucas-Felippe-Match-Logs
+210,Alex Ferrari,it,DF,Sampdoria,25,1994,11.2,425,387,38,33,0,68,12,1,0,0,0,0,255,52,118,60,332,16,5,5,343,2,0,3,8,/en/players/d0dbca9f/matchlogs/2019-2020/passing_types/Alex-Ferrari-Match-Logs
+211,Sergio Floccari,it,FW,SPAL,37,1981,10.5,261,238,23,3,0,67,10,16,0,0,0,0,172,41,48,58,171,7,0,5,206,0,0,4,11,/en/players/df301450/matchlogs/2019-2020/passing_types/Sergio-Floccari-Match-Logs
+212,Alessandro Florenzi,it,"DF,FW",Roma,28,1991,11.1,675,595,80,9,2,96,24,29,0,0,0,0,379,130,166,28,550,16,71,1,552,1,0,10,22,/en/players/e288d4b3/matchlogs/2019-2020/passing_types/Alessandro-Florenzi-Match-Logs
+213,Seko Fofana,ci,MF,Udinese,24,1995,25.0,1078,1068,10,1,8,169,37,22,1,1,0,0,839,137,102,201,838,20,8,7,944,2,0,13,28,/en/players/5313ed43/matchlogs/2019-2020/passing_types/Seko-Fofana-Match-Logs
+214,Gianluca Frabotta,it,DF,Juventus,20,1999,1.0,61,56,5,0,1,6,0,3,1,0,0,1,42,7,12,49,5,2,4,0,53,0,0,0,1,/en/players/d80b1835/matchlogs/2019-2020/passing_types/Gianluca-Frabotta-Match-Logs
+215,Remo Freuler,ch,MF,Atalanta,27,1992,26.0,1666,1568,98,74,4,199,24,31,3,0,0,0,1360,158,148,289,1295,45,21,4,1467,0,0,18,32,/en/players/98d2c2c4/matchlogs/2019-2020/passing_types/Remo-Freuler-Match-Logs
+216,Daniel Fuzato,br,GK,Roma,22,1997,1.0,44,33,11,1,0,2,1,0,0,0,0,0,23,2,19,4,36,0,0,4,30,0,0,0,0,/en/players/82328faf/matchlogs/2019-2020/passing_types/Daniel-Fuzato-Match-Logs
+217,Matteo Gabbia,it,DF,Milan,19,1999,7.6,433,423,10,9,0,39,11,0,0,0,0,0,324,36,73,75,323,17,1,1,386,1,0,1,6,/en/players/c235e803/matchlogs/2019-2020/passing_types/Matteo-Gabbia-Match-Logs
+218,Manolo Gabbiadini,it,FW,Sampdoria,27,1991,22.6,581,502,79,15,2,152,23,70,39,15,16,1,302,148,131,458,57,32,1,15,377,3,16,13,32,/en/players/8f866fe8/matchlogs/2019-2020/passing_types/Manolo-Gabbiadini-Match-Logs
+219,Gabriel,br,GK,Lecce,26,1992,33.3,979,561,418,92,0,71,17,0,0,0,0,0,555,68,356,119,624,1,0,195,751,5,0,6,3,/en/players/f93ed0df/matchlogs/2019-2020/passing_types/Gabriel-Match-Logs
+220,Luca Gagliano,it,FW,Cagliari,19,2000,0.6,12,10,2,0,0,2,2,0,0,0,0,0,4,4,4,6,3,0,1,0,9,0,0,0,0,/en/players/1d00a56c/matchlogs/2019-2020/passing_types/Luca-Gagliano-Match-Logs
+221,Roberto Gagliardini,it,MF,Inter,25,1994,20.0,938,917,21,14,2,163,31,11,1,0,0,0,664,138,136,91,784,37,6,5,799,1,0,16,21,/en/players/ce30bfc8/matchlogs/2019-2020/passing_types/Roberto-Gagliardini-Match-Logs
+222,Riccardo Gagliolo,se,DF,Parma,29,1990,28.9,1357,1131,226,25,1,137,33,52,1,1,0,0,706,234,417,848,243,50,200,4,1020,4,0,29,38,/en/players/173061c0/matchlogs/2019-2020/passing_types/Riccardo-Gagliolo-Match-Logs
+223,Daniele Gastaldello,it,DF,Brescia,36,1983,4.3,145,132,13,12,0,5,4,3,0,0,0,0,100,14,31,40,93,8,1,1,123,0,0,0,2,/en/players/13f89eaa/matchlogs/2019-2020/passing_types/Daniele-Gastaldello-Match-Logs
+224,Gervinho,ci,FW,Parma,32,1987,25.2,512,495,17,0,3,108,3,13,3,0,0,0,405,78,29,107,392,2,5,5,402,3,0,18,21,/en/players/e468c053/matchlogs/2019-2020/passing_types/Gervinho-Match-Logs
+225,Rachid Ghezzal,dz,"MF,FW",Fiorentina,27,1992,9.2,495,465,30,10,2,83,26,31,13,1,10,1,350,72,73,398,63,21,5,4,406,1,10,8,7,/en/players/dc3a9a0d/matchlogs/2019-2020/passing_types/Rachid-Ghezzal-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,Andrea Ghezzi,it,"MF,FW",Brescia,,,0.4,10,9,1,1,0,2,0,0,0,0,0,0,4,3,3,4,6,0,0,0,6,0,0,1,0,/en/players/c840baa2/matchlogs/2019-2020/passing_types/Andrea-Ghezzi-Match-Logs
+227,Paolo Ghiglione,it,DF,Genoa,22,1997,19.1,900,755,145,15,0,131,29,113,0,0,0,0,452,203,245,55,691,17,130,1,643,2,0,13,55,/en/players/71dc23da/matchlogs/2019-2020/passing_types/Paolo-Ghiglione-Match-Logs
+228,Andrea Ghion,it,"MF,FW",Sassuolo,19,2000,0.5,49,47,2,1,0,1,1,0,0,0,0,0,44,4,1,6,42,1,0,0,48,0,0,0,0,/en/players/7f24b3eb/matchlogs/2019-2020/passing_types/Andrea-Ghion-Match-Logs
+229,Faouzi Ghoulam,dz,DF,Napoli,28,1991,4.2,300,242,58,9,0,29,10,33,15,4,7,2,207,38,55,235,21,6,34,2,240,0,7,7,5,/en/players/c5adc293/matchlogs/2019-2020/passing_types/Faouzi-Ghoulam-Match-Logs
+230,Diego Godín,uy,DF,Inter,33,1986,18.1,1091,1056,35,31,3,129,22,10,0,0,0,0,780,130,181,192,831,32,4,3,936,6,0,14,22,/en/players/fc4f85b1/matchlogs/2019-2020/passing_types/Diego-Godin-Match-Logs
+231,Edoardo Goldaniga,it,DF,Genoa,25,1993,8.7,425,389,36,22,0,47,13,12,0,0,0,0,257,39,129,60,312,21,14,2,325,0,0,5,7,/en/players/4b029b31/matchlogs/2019-2020/passing_types/Edoardo-Goldaniga-Match-Logs
+232,Pierluigi Gollini,it,GK,Atalanta,24,1995,32.0,968,690,278,68,0,103,29,0,0,0,0,0,485,78,405,58,696,2,0,172,725,1,0,4,0,/en/players/f0f7f62f/matchlogs/2019-2020/passing_types/Pierluigi-Gollini-Match-Logs
+233,Papu Gómez,ar,"MF,FW",Atalanta,31,1988,31.6,2012,1778,234,63,11,293,88,231,134,44,63,14,1308,261,443,350,1565,43,33,19,1598,5,63,33,42,/en/players/6e4df551/matchlogs/2019-2020/passing_types/Papu-Gomez-Match-Logs
+234,Robin Gosens,de,DF,Atalanta,25,1994,29.1,1503,1348,155,11,1,228,29,73,0,0,0,0,914,303,286,1139,137,51,144,1,1179,2,0,22,42,/en/players/2d970560/matchlogs/2019-2020/passing_types/Robin-Gosens-Match-Logs
+235,Alberto Grassi,it,MF,Parma,24,1995,7.1,256,250,6,4,0,39,7,8,1,0,1,0,176,42,38,39,196,15,1,0,217,0,1,2,6,/en/players/6cc97b6a/matchlogs/2019-2020/passing_types/Alberto-Grassi-Match-Logs
+236,Sinan Gümüş,tr,FW,Genoa,25,1994,1.1,32,30,2,0,0,8,1,1,0,0,0,0,26,4,2,26,3,0,1,2,28,0,0,0,3,/en/players/ac1f056e/matchlogs/2019-2020/passing_types/Sinan-Gumus-Match-Logs
+237,Koray Günter,de,DF,Hellas Verona,24,1994,30.4,1362,1307,55,48,1,199,36,2,0,0,0,0,928,197,237,193,995,115,7,5,1184,3,0,5,8,/en/players/f1f1f238/matchlogs/2019-2020/passing_types/Koray-Gunter-Match-Logs
+238,Samir Handanović,si,GK,Inter,35,1984,35.0,1114,794,320,56,0,101,31,0,0,0,0,0,745,91,278,124,792,0,0,190,966,4,0,5,3,/en/players/74419746/matchlogs/2019-2020/passing_types/Samir-Handanovic-Match-Logs
+239,Lukáš Haraslín,sk,FW,Sassuolo,23,1996,4.3,131,115,16,2,1,21,7,16,12,10,0,1,93,19,19,16,108,2,2,1,97,0,0,2,8,/en/players/5c397195/matchlogs/2019-2020/passing_types/Lukas-Haraslin-Match-Logs
+240,Hans Hateboer,nl,DF,Atalanta,25,1994,26.2,1438,1228,210,16,0,184,15,75,2,1,1,0,996,241,201,214,964,42,192,2,1219,3,1,21,51,/en/players/3b333ac3/matchlogs/2019-2020/passing_types/Hans-Hateboer-Match-Logs
+241,Liam Henderson,sco,MF,Hellas Verona,23,1996,2.2,65,61,4,3,0,8,1,2,0,0,0,0,37,12,16,17,44,2,0,0,43,0,0,4,4,/en/players/d7918b13/matchlogs/2019-2020/passing_types/Liam-Henderson-Match-Logs
+242,Dalbert Henrique,br,DF,Fiorentina,25,1993,27.6,1290,1068,222,32,1,178,48,140,4,1,1,0,698,250,342,936,109,35,186,6,972,1,1,19,61,/en/players/f45f9427/matchlogs/2019-2020/passing_types/Dalbert-Henrique-Match-Logs
+243,Theo Hernández,fr,DF,Milan,21,1997,31.3,2020,1700,320,44,1,279,42,84,2,0,0,0,1296,404,320,1580,87,44,274,4,1684,1,0,33,76,/en/players/d4c9725f/matchlogs/2019-2020/passing_types/Theo-Hernandez-Match-Logs
+244,Hernani,br,MF,Parma,25,1994,26.9,1043,930,113,56,1,177,79,103,52,23,14,7,631,146,266,129,837,45,5,4,782,5,14,20,33,/en/players/6f5ead86/matchlogs/2019-2020/passing_types/Hernani-Match-Logs
+245,Gonzalo Higuaín,ar,FW,Juventus,31,1987,20.7,647,614,33,0,3,131,23,12,0,0,0,0,429,133,85,81,550,8,1,6,539,0,0,13,21,/en/players/8a08491a/matchlogs/2019-2020/passing_types/Gonzalo-Higuain-Match-Logs
+246,Krisztofer Horváth,hu,"FW,DF",SPAL,17,2002,0.5,16,12,4,0,0,8,3,2,2,1,0,0,11,1,4,2,14,0,0,0,12,0,0,0,1,/en/players/4ce8f4a3/matchlogs/2019-2020/passing_types/Krisztofer-Horvath-Match-Logs
+247,Elseid Hysaj,al,DF,Napoli,25,1994,16.5,1299,1145,154,41,0,162,33,39,1,0,1,0,894,195,210,297,862,22,112,0,1098,1,1,18,37,/en/players/2f3452eb/matchlogs/2019-2020/passing_types/Elseid-Hysaj-Match-Logs
+248,Simone Iacoponi,it,DF,Parma,32,1987,33.9,1374,1270,104,79,1,167,74,1,0,0,0,0,901,149,324,91,1189,42,22,4,1171,4,0,4,20,/en/players/63071a3f/matchlogs/2019-2020/passing_types/Simone-Iacoponi-Match-Logs
+249,Roger Ibanez,br,DF,Roma,20,1998,6.8,326,315,11,8,0,44,11,0,0,0,0,0,258,28,40,62,244,8,1,2,295,0,0,3,4,/en/players/82efe6fa/matchlogs/2019-2020/passing_types/Roger-Ibanez-Match-Logs
+250,Zlatan Ibrahimović,se,FW,Milan,37,1981,15.1,623,598,25,4,3,166,15,14,1,0,0,0,327,195,101,61,442,40,1,19,435,5,0,22,25,/en/players/4cde5509/matchlogs/2019-2020/passing_types/Zlatan-Ibrahimovic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,Igor,br,DF,Fiorentina,21,1998,6.8,342,311,31,10,0,35,6,2,0,0,0,0,264,43,35,279,26,10,21,1,302,0,0,3,5,/en/players/a4e85758/matchlogs/2019-2020/passing_types/Igor-Match-Logs
+252,Igor,br,DF,SPAL,21,1998,14.9,667,594,73,26,1,123,18,9,2,0,0,0,458,84,125,528,55,27,45,1,560,3,0,6,17,/en/players/a4e85758/matchlogs/2019-2020/passing_types/Igor-Match-Logs
+253,Josip Iličić,si,FW,Atalanta,31,1988,18.5,964,880,84,29,12,228,48,58,37,5,21,3,668,155,141,783,159,7,7,6,773,2,21,16,40,/en/players/68252d6d/matchlogs/2019-2020/passing_types/Josip-Ilicic-Match-Logs
+254,Giannelli Imbula,cd,MF,Lecce,26,1992,1.4,66,65,1,1,0,14,1,1,0,0,0,0,58,4,4,59,6,1,0,0,57,1,0,1,3,/en/players/b86fe156/matchlogs/2019-2020/passing_types/Giannelli-Imbula-Match-Logs
+255,Ciro Immobile,it,FW,Lazio,29,1990,35.2,929,899,30,2,11,211,25,12,2,0,0,0,681,173,75,72,794,19,7,23,715,5,0,23,58,/en/players/4431aed2/matchlogs/2019-2020/passing_types/Ciro-Immobile-Match-Logs
+256,Roberto Inglese,it,FW,Parma,27,1991,8.5,153,139,14,0,0,42,7,4,0,0,0,0,91,30,32,26,108,7,0,4,102,2,0,5,6,/en/players/6c1f7328/matchlogs/2019-2020/passing_types/Roberto-Inglese-Match-Logs
+257,Lorenzo Insigne,it,"FW,MF",Napoli,28,1991,31.2,1784,1657,127,45,11,319,60,118,49,21,12,5,1266,258,260,109,1607,30,25,9,1450,5,12,28,50,/en/players/2f557579/matchlogs/2019-2020/passing_types/Lorenzo-Insigne-Match-Logs
+258,Artur Ioniță,md,MF,Cagliari,28,1990,21.1,708,678,30,17,0,142,9,22,1,1,0,0,491,96,121,132,478,45,11,11,599,1,0,7,11,/en/players/cedb3e36/matchlogs/2019-2020/passing_types/Artur-Ionita-Match-Logs
+259,Jakub Iskra,pl,DF,SPAL,16,2002,0.9,50,47,3,0,0,4,0,2,0,0,0,0,34,7,9,2,41,3,3,1,43,0,0,1,1,/en/players/103b7264/matchlogs/2019-2020/passing_types/Jakub-Iskra-Match-Logs
+260,Armando Izzo,it,DF,Torino,27,1992,29.8,1376,1302,74,63,0,172,42,15,0,0,0,0,862,134,380,304,956,76,11,4,1102,5,0,22,19,/en/players/89976232/matchlogs/2019-2020/passing_types/Armando-Izzo-Match-Logs
+261,Filip Jagiełło,pl,MF,Genoa,21,1997,6.1,314,301,13,5,0,66,5,9,5,0,3,0,243,41,30,30,264,12,3,1,268,0,3,5,14,/en/players/4cdcbc14/matchlogs/2019-2020/passing_types/Filip-Jagiello-Match-Logs
+262,Mato Jajalo,ba,MF,Udinese,31,1988,18.3,1028,969,59,43,2,200,32,23,8,2,1,1,728,148,152,185,784,33,7,5,842,4,1,20,22,/en/players/8c65eb5f/matchlogs/2019-2020/passing_types/Mato-Jajalo-Match-Logs
+263,Marko Janković,me,"MF,DF",SPAL,24,1995,1.3,59,55,4,2,0,13,0,10,1,1,0,0,38,10,11,48,8,1,1,1,45,0,0,0,4,/en/players/9866afec/matchlogs/2019-2020/passing_types/Marko-Jankovic-Match-Logs
+264,Jakub Jankto,cz,MF,Sampdoria,23,1996,23.3,775,735,40,6,2,133,15,86,16,7,6,3,439,154,182,583,130,33,18,6,551,2,6,21,32,/en/players/1ea5f91c/matchlogs/2019-2020/passing_types/Jakub-Jankto-Match-Logs
+265,Juan Jesus,br,DF,Roma,28,1991,1.5,74,70,4,4,0,9,0,0,0,0,0,0,62,4,8,67,7,0,0,0,66,0,0,0,2,/en/players/79083382/matchlogs/2019-2020/passing_types/Juan-Jesus-Match-Logs
+266,Jony,es,DF,Lazio,28,1991,13.1,640,499,141,15,0,76,52,126,27,10,12,1,305,142,193,480,44,14,99,2,441,1,12,13,32,/en/players/244f57b9/matchlogs/2019-2020/passing_types/Jony-Match-Logs
+267,Jesse Joronen,fi,GK,Brescia,26,1993,29.0,849,434,415,139,0,44,15,0,0,0,0,0,368,69,412,431,219,0,0,160,573,1,0,2,5,/en/players/7f66ea09/matchlogs/2019-2020/passing_types/Jesse-Joronen-Match-Logs
+268,Hamed Junior Traorè,ci,"MF,FW",Sassuolo,19,2000,17.4,813,723,90,17,7,175,32,85,66,29,21,7,593,108,112,125,659,16,7,4,631,3,21,19,29,/en/players/570bb4b9/matchlogs/2019-2020/passing_types/Hamed-Junior-Traore-Match-Logs
+269,Musa Juwara,gm,"FW,MF",Bologna,17,2001,1.7,80,76,4,1,0,12,2,12,0,0,0,0,45,21,14,62,12,3,3,0,51,0,0,1,8,/en/players/7737dee2/matchlogs/2019-2020/passing_types/Musa-Juwara-Match-Logs
+270,Nikola Kalinić,hr,FW,Roma,31,1988,6.3,135,126,9,1,1,34,2,0,0,0,0,0,101,22,12,5,110,4,1,5,103,2,0,2,5,/en/players/d4931a5a/matchlogs/2019-2020/passing_types/Nikola-Kalinic-Match-Logs
+271,Yann Karamoh,fr,"FW,MF",Parma,21,1998,6.4,149,147,2,0,0,38,1,8,0,0,0,0,108,18,23,21,126,2,0,0,107,0,0,5,5,/en/players/8b66d9cc/matchlogs/2019-2020/passing_types/Yann-Karamoh-Match-Logs
+272,Franck Kessié,ci,MF,Milan,22,1996,32.3,1719,1686,33,20,3,216,37,13,0,0,0,0,1334,221,164,316,1334,44,11,6,1532,2,0,24,25,/en/players/05e19d6a/matchlogs/2019-2020/passing_types/Franck-Kessie-Match-Logs
+273,Sami Khedira,de,MF,Juventus,32,1987,7.6,330,319,11,2,2,58,5,20,0,0,0,0,242,56,32,41,271,5,9,1,275,2,0,2,15,/en/players/38ac43d3/matchlogs/2019-2020/passing_types/Sami-Khedira-Match-Logs
+274,Giorgos Kiriakopoulos,gr,DF,Sassuolo,23,1996,18.3,1138,957,181,23,0,148,10,51,5,1,0,2,758,205,175,848,104,21,153,1,961,1,0,14,30,/en/players/0a483542/matchlogs/2019-2020/passing_types/Giorgos-Kiriakopoulos-Match-Logs
+275,Simon Kjær,dk,DF,Atalanta,30,1989,3.2,143,138,5,5,0,25,4,0,0,0,0,0,118,10,15,17,117,7,0,1,131,0,0,0,1,/en/players/8b8a56ce/matchlogs/2019-2020/passing_types/Simon-Kjaer-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,Simon Kjær,dk,DF,Milan,30,1989,13.8,685,660,25,25,0,67,16,1,0,0,0,0,515,48,122,107,526,35,0,2,609,3,0,1,2,/en/players/8b8a56ce/matchlogs/2019-2020/passing_types/Simon-Kjaer-Match-Logs
+277,Ragnar Klavan,ee,DF,Cagliari,33,1985,26.2,1183,1147,36,31,0,134,30,0,0,0,0,0,932,83,168,973,139,52,5,1,1072,1,0,9,7,/en/players/008a6e6d/matchlogs/2019-2020/passing_types/Ragnar-Klavan-Match-Logs
+278,Justin Kluivert,nl,FW,Roma,20,1999,16.8,483,470,13,4,1,101,15,23,1,1,0,0,355,58,70,43,406,13,8,6,394,1,0,7,16,/en/players/4c3a6744/matchlogs/2019-2020/passing_types/Justin-Kluivert-Match-Logs
+279,Aleksandar Kolarov,rs,DF,Roma,33,1985,30.4,1836,1516,320,71,3,199,82,185,70,15,49,3,1091,342,403,1423,143,59,179,2,1446,5,49,22,70,/en/players/eda40760/matchlogs/2019-2020/passing_types/Aleksandar-Kolarov-Match-Logs
+280,Christian Kouamé,ci,FW,Genoa,21,1997,10.2,242,229,13,1,1,68,3,4,0,0,0,0,169,42,31,31,171,13,4,1,182,0,0,5,8,/en/players/58e933d2/matchlogs/2019-2020/passing_types/Christian-Kouame-Match-Logs
+281,Christian Kouamé,ci,FW,Fiorentina,21,1997,3.3,104,98,6,2,0,27,5,1,0,0,0,0,67,24,13,19,72,2,2,3,75,0,0,0,6,/en/players/58e933d2/matchlogs/2019-2020/passing_types/Christian-Kouame-Match-Logs
+282,Kalidou Koulibaly,sn,DF,Napoli,28,1991,23.4,1651,1582,69,47,1,186,49,4,0,0,0,0,1278,178,195,461,1101,37,9,21,1521,3,0,11,5,/en/players/da974c7b/matchlogs/2019-2020/passing_types/Kalidou-Koulibaly-Match-Logs
+283,Ladislav Krejčí,cz,DF,Bologna,27,1992,11.7,647,537,110,14,0,102,7,14,0,0,0,0,419,130,98,457,77,10,96,2,533,5,0,13,18,/en/players/58027adc/matchlogs/2019-2020/passing_types/Ladislav-Krejci-Match-Logs
+284,Rade Krunić,ba,MF,Milan,25,1993,6.0,235,232,3,1,0,52,2,0,0,0,0,0,165,40,30,27,182,15,2,0,196,0,0,4,8,/en/players/817c6964/matchlogs/2019-2020/passing_types/Rade-Krunic-Match-Logs
+285,Juraj Kucka,sk,"MF,FW",Parma,32,1987,21.5,729,712,17,5,3,193,26,26,0,0,0,0,381,154,194,171,423,62,8,3,508,6,0,29,27,/en/players/5aaef9ef/matchlogs/2019-2020/passing_types/Juraj-Kucka-Match-Logs
+286,Dejan Kulusevski,se,"FW,MF",Parma,19,2000,32.6,1157,1091,66,9,8,280,21,63,19,11,1,1,885,158,114,884,225,24,11,4,905,4,1,36,51,/en/players/df3cda47/matchlogs/2019-2020/passing_types/Dejan-Kulusevski-Match-Logs
+287,Marash Kumbulla,al,DF,Hellas Verona,19,2000,21.7,920,892,28,21,0,138,17,1,0,0,0,0,663,106,151,172,667,36,7,2,771,6,0,13,16,/en/players/a40819d9/matchlogs/2019-2020/passing_types/Marash-Kumbulla-Match-Logs
+288,Jasmin Kurtić,si,MF,SPAL,30,1989,15.7,679,645,34,18,2,144,36,82,9,4,5,0,409,116,154,107,499,43,7,5,513,2,5,8,23,/en/players/144607cc/matchlogs/2019-2020/passing_types/Jasmin-Kurtic-Match-Logs
+289,Jasmin Kurtić,si,"MF,FW",Parma,30,1989,18.5,810,769,41,20,1,122,43,55,14,7,6,0,555,111,144,140,619,28,7,1,681,0,6,7,23,/en/players/144607cc/matchlogs/2019-2020/passing_types/Jasmin-Kurtic-Match-Logs
+290,Antonino La Gumina,it,FW,Sampdoria,23,1996,2.1,31,28,3,0,0,10,0,0,0,0,0,0,23,3,5,3,24,1,0,0,27,0,0,0,1,/en/players/822a7761/matchlogs/2019-2020/passing_types/Antonino-La-Gumina-Match-Logs
+291,Andrea La Mantia,it,FW,Lecce,28,1991,6.1,111,109,2,0,0,43,2,1,0,0,0,0,59,26,26,10,74,8,0,0,80,0,0,1,5,/en/players/c375dfa5/matchlogs/2019-2020/passing_types/Andrea-La-Mantia-Match-Logs
+292,Riccardo Ladinetti,it,MF,Cagliari,18,2000,1.4,78,72,6,6,0,9,4,2,0,0,0,0,51,11,16,6,70,2,0,0,59,1,0,2,4,/en/players/ff4296df/matchlogs/2019-2020/passing_types/Riccardo-Ladinetti-Match-Logs
+293,Gianluca Lapadula,it,FW,Lecce,29,1990,19.8,333,280,53,1,2,95,9,9,0,0,0,0,197,69,67,175,91,24,1,13,259,2,0,7,9,/en/players/2ead2809/matchlogs/2019-2020/passing_types/Gianluca-Lapadula-Match-Logs
+294,Danilo Larangeira,br,DF,Bologna,35,1984,29.3,1246,1152,94,90,0,150,48,4,0,0,0,0,755,120,371,92,1037,72,4,4,985,5,0,14,12,/en/players/fed5f993/matchlogs/2019-2020/passing_types/Danilo-Larangeira-Match-Logs
+295,Kevin Lasagna,it,FW,Udinese,26,1992,28.5,489,455,34,0,0,119,11,20,0,0,0,0,281,143,65,318,84,33,2,21,339,3,0,8,27,/en/players/09538fdb/matchlogs/2019-2020/passing_types/Kevin-Lasagna-Match-Logs
+296,Vincent Laurini,fr,DF,Parma,30,1989,9.8,535,433,102,14,1,48,10,21,2,0,2,0,280,93,162,39,391,14,86,0,432,0,2,10,12,/en/players/3535098b/matchlogs/2019-2020/passing_types/Vincent-Laurini-Match-Logs
+297,Diego Laxalt,uy,"DF,MF",Torino,26,1993,6.6,297,244,53,3,0,55,2,17,2,0,0,0,161,47,89,210,25,10,48,0,214,1,0,4,12,/en/players/f26e3c59/matchlogs/2019-2020/passing_types/Diego-Laxalt-Match-Logs
+298,Diego Laxalt,uy,DF,Milan,26,1993,1.9,119,102,17,1,0,11,2,10,0,0,0,0,68,24,27,76,20,5,16,0,95,0,0,0,2,/en/players/f26e3c59/matchlogs/2019-2020/passing_types/Diego-Laxalt-Match-Logs
+299,Valentino Lazaro,at,"DF,MF",Inter,23,1996,3.6,200,160,40,4,0,28,6,18,9,3,1,0,124,43,33,22,148,2,27,0,152,0,1,6,6,/en/players/016ff750/matchlogs/2019-2020/passing_types/Valentino-Lazaro-Match-Logs
+300,Darko Lazović,rs,DF,Hellas Verona,28,1990,36.0,1673,1359,314,9,5,238,29,133,17,14,1,1,857,446,370,261,1052,56,288,8,1253,8,1,40,76,/en/players/5128bde4/matchlogs/2019-2020/passing_types/Darko-Lazovic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,Manuel Lazzari,it,DF,Lazio,25,1993,28.3,1067,897,170,16,2,143,25,135,0,0,0,0,660,228,179,109,777,25,154,0,845,0,0,21,47,/en/players/02caf6e0/matchlogs/2019-2020/passing_types/Manuel-Lazzari-Match-Logs
+302,Rafael Leão,pt,FW,Milan,20,1999,15.6,476,467,9,0,2,110,15,37,0,0,0,0,309,91,76,68,357,21,2,7,362,1,0,14,18,/en/players/20730eae/matchlogs/2019-2020/passing_types/Rafael-Leao-Match-Logs
+303,Lucas Leiva,br,MF,Lazio,32,1987,20.1,1135,1100,35,30,2,165,32,6,0,0,0,0,811,184,140,102,937,66,3,4,1002,3,0,22,16,/en/players/4c78b5ed/matchlogs/2019-2020/passing_types/Lucas-Leiva-Match-Logs
+304,Lukas Lerager,dk,MF,Genoa,26,1993,15.4,600,589,11,6,1,153,6,11,1,0,0,0,414,93,93,57,466,44,4,5,494,1,0,3,20,/en/players/1b82f8df/matchlogs/2019-2020/passing_types/Lukas-Lerager-Match-Logs
+305,Mehdi Léris,fr,"MF,FW",Sampdoria,21,1998,5.7,230,221,9,1,0,48,10,29,6,3,2,0,151,34,45,29,178,14,1,4,170,0,2,7,10,/en/players/7d3cbc67/matchlogs/2019-2020/passing_types/Mehdi-Leris-Match-Logs
+306,Karlo Letica,hr,GK,SPAL,22,1997,10.0,319,189,130,37,0,25,7,0,0,0,0,0,138,14,167,28,223,0,0,53,202,2,0,2,0,/en/players/4a6914ff/matchlogs/2019-2020/passing_types/Karlo-Letica-Match-Logs
+307,Matthijs de Ligt,nl,DF,Juventus,19,1999,27.2,1525,1487,38,35,1,158,52,2,0,0,0,0,1251,118,156,256,1166,58,3,6,1394,3,0,7,13,/en/players/d6e53a3a/matchlogs/2019-2020/passing_types/Matthijs-de-Ligt-Match-Logs
+308,Anderson Lima,br,MF,Lazio,19,1999,0.7,30,26,4,1,0,2,1,2,2,1,1,0,22,4,4,7,22,1,0,0,25,0,1,1,0,/en/players/59be3a74/matchlogs/2019-2020/passing_types/Anderson-Lima-Match-Logs
+309,Karol Linetty,pl,MF,Sampdoria,24,1995,22.4,765,740,25,8,0,178,26,32,11,3,2,0,512,126,127,255,461,30,5,1,595,1,2,22,28,/en/players/d023d70f/matchlogs/2019-2020/passing_types/Karol-Linetty-Match-Logs
+310,Pol Lirola,es,DF,Fiorentina,21,1997,29.4,1311,1111,200,20,1,236,34,82,0,0,0,0,751,267,293,41,1041,37,180,5,979,3,0,22,53,/en/players/ff800ed8/matchlogs/2019-2020/passing_types/Pol-Lirola-Match-Logs
+311,Fernando Llorente,es,FW,Napoli,34,1985,5.6,156,149,7,0,0,52,3,0,0,0,0,0,100,34,22,32,99,8,1,3,127,1,0,3,4,/en/players/82dbf623/matchlogs/2019-2020/passing_types/Fernando-Llorente-Match-Logs
+312,Stanislav Lobotka,sk,MF,Napoli,24,1994,8.4,646,632,14,14,1,79,16,1,0,0,0,0,530,67,49,68,562,11,0,3,608,0,0,10,5,/en/players/e1cbb531/matchlogs/2019-2020/passing_types/Stanislav-Lobotka-Match-Logs
+313,Manuel Locatelli,it,MF,Sassuolo,21,1998,28.7,2178,2069,109,81,10,300,84,63,24,11,10,2,1652,224,302,492,1617,38,4,5,1886,7,10,35,31,/en/players/a8a874f1/matchlogs/2019-2020/passing_types/Manuel-Locatelli-Match-Logs
+314,Pau López,es,GK,Roma,24,1994,32.0,1056,769,287,79,0,127,22,0,0,0,0,0,607,79,370,625,234,1,0,179,831,6,0,11,3,/en/players/20b9f052/matchlogs/2019-2020/passing_types/Pau-Lopez-Match-Logs
+315,Matteo Lovato,it,DF,Hellas Verona,19,2000,0.1,2,2,0,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,1,0,0,0,0,/en/players/5fa57166/matchlogs/2019-2020/passing_types/Matteo-Lovato-Match-Logs
+316,Hirving Lozano,mx,FW,Napoli,24,1995,11.4,352,341,11,0,0,97,8,42,4,0,4,0,243,64,45,20,315,8,3,0,270,1,4,8,22,/en/players/a69e4806/matchlogs/2019-2020/passing_types/Hirving-Lozano-Match-Logs
+317,Fabio Lucioni,it,DF,Lecce,31,1987,34.8,1570,1477,93,87,0,185,106,4,0,0,0,0,1065,167,338,228,1256,48,6,4,1353,5,0,15,14,/en/players/8efa621b/matchlogs/2019-2020/passing_types/Fabio-Lucioni-Match-Logs
+318,José Luis Palomino,ar,DF,Atalanta,29,1990,27.6,1318,1231,87,61,0,184,22,7,0,0,0,0,963,160,195,984,184,80,26,6,1148,3,0,6,19,/en/players/921f6058/matchlogs/2019-2020/passing_types/Jose-Luis-Palomino-Match-Logs
+319,Jordan Lukaku,be,DF,Lazio,25,1994,4.4,168,143,25,0,0,21,6,19,0,0,0,0,102,31,35,103,38,1,25,0,128,1,0,3,8,/en/players/0cd0e21b/matchlogs/2019-2020/passing_types/Jordan-Lukaku-Match-Logs
+320,Romelu Lukaku,be,FW,Inter,26,1993,33.1,809,769,40,0,9,321,19,24,0,0,0,0,476,210,123,435,234,38,0,37,580,6,0,15,32,/en/players/5eae500a/matchlogs/2019-2020/passing_types/Romelu-Lukaku-Match-Logs
+321,Saša Lukić,rs,MF,Torino,22,1996,20.7,843,795,48,32,1,143,24,23,9,4,2,0,641,94,108,102,680,40,3,4,728,3,2,12,23,/en/players/c6e8cf1f/matchlogs/2019-2020/passing_types/Sasa-Lukic-Match-Logs
+322,Senad Lulić,ba,DF,Lazio,33,1986,17.5,864,766,98,7,2,176,36,69,0,0,0,0,529,139,196,160,582,18,91,4,685,4,0,20,26,/en/players/7fd58fe3/matchlogs/2019-2020/passing_types/Senad-Lulic-Match-Logs
+323,Sebastiano Luperto,it,DF,Napoli,22,1996,5.9,381,363,18,10,0,37,8,5,0,0,0,0,302,36,43,317,42,10,8,1,347,1,0,3,1,/en/players/997fff07/matchlogs/2019-2020/passing_types/Sebastiano-Luperto-Match-Logs
+324,Lyanco,br,DF,Torino,22,1997,13.1,649,623,26,25,1,82,33,5,0,0,0,0,486,50,113,56,566,17,1,1,552,1,0,8,10,/en/players/b5bf1770/matchlogs/2019-2020/passing_types/Lyanco-Match-Logs
+325,Charalambos Lykogiannis,gr,DF,Cagliari,25,1993,14.9,620,495,125,17,1,83,18,63,14,7,2,3,297,95,228,459,33,20,94,0,405,2,2,11,32,/en/players/5efc5389/matchlogs/2019-2020/passing_types/Charalambos-Lykogiannis-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,Francesco Magnanelli,it,MF,Sassuolo,34,1984,15.5,1176,1111,65,64,0,249,35,3,0,0,0,0,877,137,162,104,1030,30,0,1,1049,5,0,15,10,/en/players/07767f42/matchlogs/2019-2020/passing_types/Francesco-Magnanelli-Match-Logs
+327,Giangiacomo Magnani,it,"DF,MF",Brescia,23,1995,1.3,37,37,0,0,0,7,0,0,0,0,0,0,25,4,8,9,23,2,0,0,29,0,0,0,0,/en/players/cce9f582/matchlogs/2019-2020/passing_types/Giangiacomo-Magnani-Match-Logs
+328,Giangiacomo Magnani,it,DF,Sassuolo,23,1995,1.6,77,72,5,5,0,4,8,0,0,0,0,0,58,4,15,9,62,2,0,0,65,0,0,0,0,/en/players/cce9f582/matchlogs/2019-2020/passing_types/Giangiacomo-Magnani-Match-Logs
+329,Žan Majer,si,MF,Lecce,27,1992,18.5,746,716,30,10,3,137,17,25,13,0,1,0,525,108,113,132,575,24,4,4,593,4,1,15,27,/en/players/bf13975c/matchlogs/2019-2020/passing_types/Zan-Majer-Match-Logs
+330,Nikola Maksimović,rs,DF,Napoli,27,1991,20.0,1389,1341,48,33,2,117,49,13,0,0,0,0,1142,136,111,98,1204,49,11,6,1287,0,0,11,15,/en/players/16b9d5cf/matchlogs/2019-2020/passing_types/Nikola-Maksimovic-Match-Logs
+331,Kévin Malcuit,ma,DF,Napoli,28,1991,2.8,174,138,36,4,0,44,6,13,0,0,0,0,106,32,36,7,131,1,32,0,142,1,0,4,1,/en/players/d6a889ea/matchlogs/2019-2020/passing_types/Kevin-Malcuit-Match-Logs
+332,Daniel Maldini,it,FW,Milan,17,2001,0.3,16,16,0,0,0,1,0,0,0,0,0,0,11,3,2,1,15,0,0,0,13,0,0,0,1,/en/players/801831fe/matchlogs/2019-2020/passing_types/Daniel-Maldini-Match-Logs
+333,Ruslan Malinovskyi,ua,"MF,FW",Atalanta,26,1993,17.1,979,892,87,23,7,184,45,90,52,9,26,12,712,103,164,834,108,16,9,3,779,3,26,19,29,/en/players/48d5bd33/matchlogs/2019-2020/passing_types/Ruslan-Malinovskyi-Match-Logs
+334,Gianluca Mancini,it,"DF,MF",Roma,23,1996,30.4,1679,1614,65,55,4,198,17,2,0,0,0,0,1350,126,203,169,1410,48,10,3,1500,2,0,13,12,/en/players/5aa53281/matchlogs/2019-2020/passing_types/Gianluca-Mancini-Match-Logs
+335,Marco Mancosu,it,"MF,FW",Lecce,30,1988,27.1,908,889,19,5,3,214,25,45,4,0,0,0,564,181,163,122,717,35,7,14,682,3,0,21,39,/en/players/2c3a6c21/matchlogs/2019-2020/passing_types/Marco-Mancosu-Match-Logs
+336,Rolando Mandragora,it,MF,Udinese,22,1997,22.8,973,885,88,42,2,165,49,50,37,20,0,1,574,173,226,792,104,55,6,1,788,6,0,19,20,/en/players/c7259b83/matchlogs/2019-2020/passing_types/Rolando-Mandragora-Match-Logs
+337,Massimiliano Mangraviti,it,DF,Brescia,21,1998,10.8,443,382,61,17,0,63,13,9,0,0,0,0,245,56,142,340,36,14,44,1,365,0,0,5,8,/en/players/33914f14/matchlogs/2019-2020/passing_types/Massimiliano-Mangraviti-Match-Logs
+338,Kostas Manolas,gr,DF,Napoli,28,1991,24.2,1476,1427,49,46,0,169,53,0,0,0,0,0,1198,156,122,222,1160,58,3,10,1369,3,0,6,3,/en/players/c707411f/matchlogs/2019-2020/passing_types/Kostas-Manolas-Match-Logs
+339,Giacomo Manzari,it,"FW,MF",Sassuolo,18,2000,0.2,7,7,0,0,0,2,0,0,0,0,0,0,5,0,2,5,1,0,0,0,4,0,0,0,1,/en/players/d8dfae8a/matchlogs/2019-2020/passing_types/Giacomo-Manzari-Match-Logs
+340,Gian Marco Ferrari,it,DF,Sassuolo,27,1992,21.1,1463,1411,52,43,2,153,24,2,0,0,0,0,1245,103,115,1198,212,26,6,4,1369,2,0,5,8,/en/players/8650af85/matchlogs/2019-2020/passing_types/Gian-Marco-Ferrari-Match-Logs
+341,Federico Marigosu,it,MF,Cagliari,18,2001,0.3,15,15,0,0,0,1,1,2,0,0,0,0,7,2,6,3,10,2,0,0,8,0,0,0,1,/en/players/66a9470c/matchlogs/2019-2020/passing_types/Federico-Marigosu-Match-Logs
+342,Marlon,br,DF,Sassuolo,23,1995,20.2,1448,1410,38,32,3,161,25,0,0,0,0,0,1264,97,87,170,1234,24,6,4,1371,1,0,8,8,/en/players/cdf65d12/matchlogs/2019-2020/passing_types/Marlon-Match-Logs
+343,Gonzalo Maroni,ar,MF,Sampdoria,20,1999,2.0,89,80,9,2,0,18,5,12,6,3,3,0,61,15,13,3,82,0,1,2,71,0,3,0,6,/en/players/e01ca8f4/matchlogs/2019-2020/passing_types/Gonzalo-Maroni-Match-Logs
+344,Bruno Martella,it,"DF,MF",Brescia,26,1992,14.1,562,457,105,11,1,65,23,63,4,1,0,2,259,141,162,416,33,17,90,0,402,2,0,14,18,/en/players/1e12c53b/matchlogs/2019-2020/passing_types/Bruno-Martella-Match-Logs
+345,Lautaro Martínez,ar,FW,Inter,21,1997,27.2,520,501,19,0,3,127,17,16,0,0,0,0,289,143,88,67,383,39,2,19,325,4,0,21,38,/en/players/f7036e1c/matchlogs/2019-2020/passing_types/Lautaro-Martinez-Match-Logs
+346,Adam Marušić,me,DF,Lazio,26,1992,10.5,398,324,74,4,0,42,7,13,0,0,0,0,242,98,58,33,261,26,70,1,338,0,0,7,14,/en/players/d4535821/matchlogs/2019-2020/passing_types/Adam-Marusic-Match-Logs
+347,Andrea Masiello,it,DF,Genoa,33,1986,14.7,812,752,60,25,1,89,32,9,0,0,0,0,553,95,164,156,580,31,35,3,695,3,0,9,13,/en/players/e0314d87/matchlogs/2019-2020/passing_types/Andrea-Masiello-Match-Logs
+348,Andrea Masiello,it,DF,Atalanta,33,1986,6.0,297,274,23,16,0,53,15,2,0,0,0,0,201,47,49,62,209,14,7,1,259,0,0,2,4,/en/players/e0314d87/matchlogs/2019-2020/passing_types/Andrea-Masiello-Match-Logs
+349,Aleš Matějů,cz,DF,Brescia,23,1996,28.3,1154,1009,145,26,1,209,42,16,0,0,0,0,690,208,256,339,593,72,119,1,944,2,0,17,24,/en/players/deb748c9/matchlogs/2019-2020/passing_types/Ales-Mateju-Match-Logs
+350,Alessandro Matri,it,"FW,MF",Brescia,34,1984,1.0,29,25,4,0,0,8,0,2,0,0,0,0,12,8,9,7,17,0,3,0,19,0,0,2,1,/en/players/58d97e77/matchlogs/2019-2020/passing_types/Alessandro-Matri-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,Federico Mattiello,it,DF,Cagliari,24,1995,10.3,426,378,48,7,0,63,14,31,2,0,2,0,267,75,84,205,166,10,39,2,328,1,2,3,16,/en/players/fba81826/matchlogs/2019-2020/passing_types/Federico-Mattiello-Match-Logs
+352,Blaise Matuidi,fr,MF,Juventus,32,1987,24.9,1120,1079,41,13,3,151,13,41,1,0,0,0,878,156,86,904,137,30,26,11,974,4,0,15,29,/en/players/c0cddebe/matchlogs/2019-2020/passing_types/Blaise-Matuidi-Match-Logs
+353,Luca Mazzitelli,it,MF,Sassuolo,23,1995,0.1,29,29,0,0,0,5,0,1,0,0,0,0,23,3,3,9,20,0,0,0,27,0,0,0,0,/en/players/dc61b402/matchlogs/2019-2020/passing_types/Luca-Mazzitelli-Match-Logs
+354,Ibrahima Mbaye,sn,DF,Bologna,24,1994,16.7,834,670,164,29,0,116,3,11,0,0,0,0,543,151,140,67,578,37,135,4,709,0,0,14,23,/en/players/cfbf9881/matchlogs/2019-2020/passing_types/Ibrahima-Mbaye-Match-Logs
+355,Biagio Meccariello,it,DF,Lecce,28,1991,8.5,410,366,44,9,0,44,18,9,1,0,0,0,267,69,74,49,300,19,34,2,348,0,0,5,6,/en/players/1eeeff8a/matchlogs/2019-2020/passing_types/Biagio-Meccariello-Match-Logs
+356,Gary Medel,cl,MF,Bologna,31,1987,19.8,1088,1033,55,42,1,126,18,3,0,0,0,0,790,146,152,130,864,55,12,5,987,1,0,7,9,/en/players/563a68ad/matchlogs/2019-2020/passing_types/Gary-Medel-Match-Logs
+357,Soualiho Meïté,fr,MF,Torino,25,1994,24.5,936,912,24,13,1,182,39,15,3,0,0,0,634,133,169,192,638,46,2,6,769,7,0,14,22,/en/players/5cec2c74/matchlogs/2019-2020/passing_types/Soualiho-Meite-Match-Logs
+358,Alex Meret,it,GK,Napoli,22,1997,21.7,601,425,176,39,1,60,7,0,0,0,0,0,413,50,138,359,145,1,0,85,508,0,0,0,0,/en/players/9413b19f/matchlogs/2019-2020/passing_types/Alex-Meret-Match-Logs
+359,Yıldırım Mert Çetin,tr,DF,Roma,22,1997,2.9,135,130,5,4,0,18,3,0,0,0,0,0,114,8,13,16,112,2,1,0,126,0,0,1,1,/en/players/c730da00/matchlogs/2019-2020/passing_types/Yildirim-Mert-Cetin-Match-Logs
+360,Dries Mertens,be,FW,Napoli,32,1987,18.8,713,634,79,6,5,126,21,83,36,19,11,1,459,124,130,40,655,8,2,6,536,4,11,11,31,/en/players/89b2c8a9/matchlogs/2019-2020/passing_types/Dries-Mertens-Match-Logs
+361,Kingsley Michael,ng,MF,Bologna,19,1999,0.8,58,55,3,1,1,8,1,1,0,0,0,0,48,5,5,4,49,2,0,0,51,0,0,1,0,/en/players/e63e122d/matchlogs/2019-2020/passing_types/Kingsley-Michael-Match-Logs
+362,Nikola Milenković,rs,DF,Fiorentina,21,1997,36.2,1742,1625,117,52,1,227,57,3,0,0,0,0,1261,224,257,213,1342,84,65,6,1544,2,0,15,16,/en/players/bee704fc/matchlogs/2019-2020/passing_types/Nikola-Milenkovic-Match-Logs
+363,Arkadiusz Milik,pl,FW,Napoli,25,1994,19.4,468,431,37,4,2,135,1,2,0,0,0,0,333,87,48,367,54,15,1,14,388,1,0,7,15,/en/players/85613cf0/matchlogs/2019-2020/passing_types/Arkadiusz-Milik-Match-Logs
+364,Sergej Milinković-Savić,rs,MF,Lazio,24,1995,33.7,1757,1709,48,25,14,356,63,42,1,0,0,0,1091,338,328,256,1297,74,22,27,1360,8,0,41,63,/en/players/4e6dbac4/matchlogs/2019-2020/passing_types/Sergej-Milinkovic-Savic-Match-Logs
+365,Vincenzo Millico,it,"MF,FW",Torino,18,2000,2.4,85,74,11,4,0,12,13,24,7,3,1,0,42,17,26,11,73,1,0,0,60,0,1,2,5,/en/players/6817095b/matchlogs/2019-2020/passing_types/Vincenzo-Millico-Match-Logs
+366,Antonio Mirante,it,GK,Roma,36,1983,5.0,172,123,49,20,0,18,6,0,0,0,0,0,101,14,57,12,125,0,0,31,140,0,0,0,0,/en/players/30223b33/matchlogs/2019-2020/passing_types/Antonio-Mirante-Match-Logs
+367,Simone Missiroli,it,MF,SPAL,33,1986,31.1,1462,1403,59,39,2,229,17,10,3,1,2,0,985,249,228,222,1096,81,10,9,1240,4,2,13,28,/en/players/331c0a43/matchlogs/2019-2020/passing_types/Simone-Missiroli-Match-Logs
+368,Henrikh Mkhitaryan,am,"MF,FW",Roma,30,1989,17.0,695,677,18,3,3,147,19,15,1,0,0,0,513,110,72,123,529,25,11,4,582,0,0,10,27,/en/players/dd0daf32/matchlogs/2019-2020/passing_types/Henrikh-Mkhitaryan-Match-Logs
+369,Gabriele Moncini,it,"FW,MF",SPAL,23,1996,1.7,19,16,3,0,0,7,0,1,0,0,0,0,9,5,5,1,10,3,1,0,14,0,0,0,1,/en/players/c4efe2b4/matchlogs/2019-2020/passing_types/Gabriele-Moncini-Match-Logs
+370,Ilario Monterisi,it,DF,Lecce,17,2001,0.0,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,1,3,0,0,0,4,0,0,0,0,/en/players/31b252fc/matchlogs/2019-2020/passing_types/Ilario-Monterisi-Match-Logs
+371,Raúl Moro,es,DF,Lazio,16,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/players/919dd4b1/matchlogs/2019-2020/passing_types/Raul-Moro-Match-Logs
+372,Leonardo Morosini,it,"FW,MF",Brescia,23,1995,0.3,4,4,0,0,0,0,0,1,0,0,0,0,2,1,1,0,4,0,0,0,3,0,0,0,0,/en/players/d89b0ebb/matchlogs/2019-2020/passing_types/Leonardo-Morosini-Match-Logs
+373,Victor Moses,ng,DF,Inter,28,1990,4.7,281,242,39,2,1,41,6,26,1,0,0,0,160,55,66,36,200,7,36,0,221,0,0,4,14,/en/players/e726e11e/matchlogs/2019-2020/passing_types/Victor-Moses-Match-Logs
+374,Mert Müldür,tr,DF,Sassuolo,20,1999,14.1,806,691,115,16,3,76,10,24,0,0,0,0,528,175,103,47,632,19,99,4,681,2,0,7,25,/en/players/1295552e/matchlogs/2019-2020/passing_types/Mert-Muldur-Match-Logs
+375,Simone Muratore,it,MF,Juventus,21,1998,1.8,136,133,3,2,2,10,5,1,0,0,0,0,111,12,13,25,108,2,1,0,124,2,0,3,1,/en/players/04989945/matchlogs/2019-2020/passing_types/Simone-Muratore-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,Alessandro Murgia,it,MF,SPAL,22,1996,19.4,849,739,110,49,2,120,16,83,59,28,14,8,569,120,160,120,675,28,1,11,708,2,14,4,13,/en/players/fb2c533b/matchlogs/2019-2020/passing_types/Alessandro-Murgia-Match-Logs
+377,Luis Muriel,co,FW,Atalanta,28,1991,14.0,524,481,43,10,3,134,16,40,12,7,4,1,342,91,91,65,412,14,3,6,377,0,4,6,29,/en/players/eb2fe5b6/matchlogs/2019-2020/passing_types/Luis-Muriel-Match-Logs
+378,Jeison Murillo,co,DF,Sampdoria,27,1992,7.4,281,239,42,24,0,54,23,6,0,0,0,0,137,45,99,58,179,17,18,0,232,2,0,3,1,/en/players/b233e8e4/matchlogs/2019-2020/passing_types/Jeison-Murillo-Match-Logs
+379,Nicola Murru,it,DF,Sampdoria,24,1994,25.1,1050,838,212,15,0,175,30,93,1,0,0,0,467,185,398,732,48,47,196,5,695,5,0,19,40,/en/players/d183e9d6/matchlogs/2019-2020/passing_types/Nicola-Murru-Match-Logs
+380,Mateo Musacchio,ar,DF,Milan,28,1990,16.3,996,960,36,33,1,130,22,0,0,0,0,0,761,110,125,93,853,25,3,1,895,1,0,3,7,/en/players/91899ca8/matchlogs/2019-2020/passing_types/Mateo-Musacchio-Match-Logs
+381,Juan Musso,ar,GK,Udinese,25,1994,38.0,1178,735,443,84,0,69,40,0,0,0,0,0,592,80,506,109,826,2,0,171,882,4,0,2,3,/en/players/a111cf41/matchlogs/2019-2020/passing_types/Juan-Musso-Match-Logs
+382,Radja Nainggolan,be,"MF,FW",Cagliari,31,1988,23.0,1153,1088,65,30,9,220,72,81,15,4,6,4,631,231,291,126,976,30,10,4,889,10,6,17,38,/en/players/1f9328da/matchlogs/2019-2020/passing_types/Radja-Nainggolan-Match-Logs
+383,Nahitan Nández,uy,"MF,DF",Cagliari,23,1995,32.2,1351,1269,82,23,1,173,47,113,1,0,1,0,831,179,341,60,1149,52,57,13,1029,3,1,18,60,/en/players/95facda1/matchlogs/2019-2020/passing_types/Nahitan-Nandez-Match-Logs
+384,Michel Ndary Adopo,fr,DF,Torino,19,2000,0.0,4,4,0,0,0,0,0,0,0,0,0,0,3,1,0,0,4,0,0,0,4,0,0,0,0,/en/players/599d91d0/matchlogs/2019-2020/passing_types/Michel-Ndary-Adopo-Match-Logs
+385,Emanuele Ndoj,al,MF,Brescia,22,1996,6.2,213,206,7,3,0,46,15,4,0,0,0,0,154,28,31,21,180,6,3,1,163,2,0,7,13,/en/players/482145e9/matchlogs/2019-2020/passing_types/Emanuele-Ndoj-Match-Logs
+386,Ilija Nestorovski,mk,FW,Udinese,29,1990,13.9,386,363,23,1,0,109,7,9,0,0,0,0,249,80,57,244,87,22,3,7,286,3,0,15,25,/en/players/b1236c63/matchlogs/2019-2020/passing_types/Ilija-Nestorovski-Match-Logs
+387,Nicolas Nkoulou,cm,DF,Torino,29,1990,29.9,1138,1086,52,50,0,109,31,0,0,0,0,0,863,134,141,151,923,35,2,4,1020,5,0,9,6,/en/players/93cf32a8/matchlogs/2019-2020/passing_types/Nicolas-Nkoulou-Match-Logs
+388,Bram Nuytinck,nl,DF,Udinese,29,1990,24.7,1294,1252,42,29,1,135,26,6,0,0,0,0,930,116,248,913,291,51,13,3,1101,4,0,7,11,/en/players/e33f36d5/matchlogs/2019-2020/passing_types/Bram-Nuytinck-Match-Logs
+389,Pedro Obiang,gq,MF,Sassuolo,27,1992,18.6,1103,1068,35,32,1,193,16,6,0,0,0,0,874,116,113,125,922,33,3,7,981,4,0,16,13,/en/players/ba1e04b3/matchlogs/2019-2020/passing_types/Pedro-Obiang-Match-Logs
+390,Stefano Okaka,it,FW,Udinese,29,1989,26.8,629,597,32,3,0,194,11,7,0,0,0,0,441,125,63,17,536,20,5,19,484,1,0,17,28,/en/players/601ef102/matchlogs/2019-2020/passing_types/Stefano-Okaka-Match-Logs
+391,Christian Oliva,uy,MF,Cagliari,23,1996,5.2,235,225,10,10,1,64,8,2,0,0,0,0,162,27,46,13,209,8,0,1,205,0,0,2,5,/en/players/d3b888e3/matchlogs/2019-2020/passing_types/Christian-Oliva-Match-Logs
+392,Maximiliano Olivera,uy,DF,Fiorentina,27,1992,0.1,5,5,0,0,0,1,0,2,0,0,0,0,0,2,3,5,0,0,0,0,3,0,0,0,0,/en/players/32a33c68/matchlogs/2019-2020/passing_types/Maximiliano-Olivera-Match-Logs
+393,Marco Olivieri,it,FW,Juventus,20,1999,0.3,15,13,2,0,0,0,1,1,0,0,0,0,12,2,1,3,10,0,2,0,11,0,0,0,1,/en/players/f5ba8903/matchlogs/2019-2020/passing_types/Marco-Olivieri-Match-Logs
+394,Robin Olsen,se,GK,Cagliari,29,1990,16.9,500,281,219,59,0,37,11,0,0,0,0,0,198,30,272,34,383,0,1,62,324,5,0,2,0,/en/players/e7ee38c3/matchlogs/2019-2020/passing_types/Robin-Olsen-Match-Logs
+395,Nicholas Opoku,gh,DF,Udinese,21,1997,5.3,,,,,,,,2,,,,,,,,,,,,,,,,,,/en/players/b871bf55/matchlogs/2019-2020/passing_types/Nicholas-Opoku-Match-Logs
+396,Riccardo Orsolini,it,"FW,MF",Bologna,22,1997,29.8,1108,970,138,34,2,225,67,201,96,64,6,7,616,172,320,920,101,50,8,4,687,5,6,31,71,/en/players/e14ec482/matchlogs/2019-2020/passing_types/Riccardo-Orsolini-Match-Logs
+397,David Ospina,co,GK,Napoli,30,1988,16.3,467,347,120,36,0,46,10,0,0,0,0,0,326,31,110,65,331,0,0,58,407,1,0,0,0,/en/players/82b1198a/matchlogs/2019-2020/passing_types/David-Ospina-Match-Logs
+398,Daniele Padelli,it,GK,Inter,33,1985,3.0,91,61,30,6,0,17,2,0,0,0,0,0,67,2,22,49,27,0,0,14,76,0,0,0,0,/en/players/cf1c23d8/matchlogs/2019-2020/passing_types/Daniele-Padelli-Match-Logs
+399,Marko Pajač,hr,DF,Genoa,26,1993,8.4,466,386,80,10,0,89,17,78,9,2,2,2,258,100,108,340,54,10,61,0,338,0,2,9,28,/en/players/5df4ef30/matchlogs/2019-2020/passing_types/Marko-Pajac-Match-Logs
+400,Rodrigo Palacio,ar,FW,Bologna,37,1982,28.0,1027,953,74,4,3,296,30,98,0,0,0,0,634,189,204,129,769,67,5,10,761,6,0,19,58,/en/players/8d8178ac/matchlogs/2019-2020/passing_types/Rodrigo-Palacio-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,Alberto Paloschi,it,FW,SPAL,29,1990,4.9,67,59,8,0,0,21,0,0,0,0,0,0,40,17,10,8,49,8,0,1,50,0,0,1,2,/en/players/b5cae4e6/matchlogs/2019-2020/passing_types/Alberto-Paloschi-Match-Logs
+402,Alberto Paloschi,it,"FW,MF",Cagliari,29,1990,2.3,39,37,2,0,0,11,0,2,0,0,0,0,25,9,5,10,23,2,0,2,31,0,0,0,2,/en/players/b5cae4e6/matchlogs/2019-2020/passing_types/Alberto-Paloschi-Match-Logs
+403,Martin Palumbo,no,MF,Udinese,17,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/players/f8d41a8c/matchlogs/2019-2020/passing_types/Martin-Palumbo-Match-Logs
+404,Goran Pandev,mk,"FW,MF",Genoa,36,1983,18.7,586,571,15,0,3,143,14,13,1,0,1,0,414,103,69,457,102,13,0,8,442,2,1,16,26,/en/players/d711d04f/matchlogs/2019-2020/passing_types/Goran-Pandev-Match-Logs
+405,Andrea Papetti,it,DF,Brescia,17,2002,10.2,323,303,20,18,0,25,10,1,0,0,0,0,242,21,60,33,260,18,2,4,274,1,0,4,3,/en/players/4195b8b6/matchlogs/2019-2020/passing_types/Andrea-Papetti-Match-Logs
+406,Lucas Paquetá,br,"MF,FW",Milan,21,1997,12.3,578,563,15,9,3,135,8,10,0,0,0,0,437,87,54,459,87,9,5,2,455,4,0,25,17,/en/players/9b6f7fd5/matchlogs/2019-2020/passing_types/Lucas-Paqueta-Match-Logs
+407,Marco Parolo,it,MF,Lazio,34,1985,18.9,771,758,13,12,0,131,16,5,0,0,0,0,522,116,133,178,520,51,1,2,667,2,0,4,14,/en/players/ed5886d2/matchlogs/2019-2020/passing_types/Marco-Parolo-Match-Logs
+408,Mario Pašalić,hr,"MF,FW",Atalanta,24,1995,26.9,1446,1409,37,25,1,232,62,13,4,2,1,0,1083,200,163,400,959,48,4,6,1278,4,1,22,20,/en/players/e599253a/matchlogs/2019-2020/passing_types/Mario-Pasalic-Match-Logs
+409,Javier Pastore,ar,MF,Roma,30,1989,5.7,294,284,10,4,3,83,9,5,1,0,0,0,205,51,38,19,263,10,0,1,241,0,0,10,6,/en/players/881ef58c/matchlogs/2019-2020/passing_types/Javier-Pastore-Match-Logs
+410,Patric,es,DF,Lazio,26,1993,18.6,1213,1163,50,29,1,96,37,11,0,0,0,0,928,121,164,118,1032,31,21,3,1082,1,0,15,13,/en/players/f7223718/matchlogs/2019-2020/passing_types/Patric-Match-Logs
+411,Leonardo Pavoletti,it,FW,Cagliari,30,1988,0.5,16,15,1,0,0,2,0,0,0,0,0,0,7,8,1,4,9,2,0,1,14,0,0,0,0,/en/players/d37b0350/matchlogs/2019-2020/passing_types/Leonardo-Pavoletti-Match-Logs
+412,Nehuén Paz,ar,DF,Bologna,26,1993,1.3,45,43,2,2,0,8,1,0,0,0,0,0,21,7,17,27,7,6,0,0,35,1,0,0,0,/en/players/42b1a58a/matchlogs/2019-2020/passing_types/Nehuen-Paz-Match-Logs
+413,Nehuén Paz,ar,DF,Lecce,26,1993,9.4,443,432,11,9,1,47,16,1,1,0,0,0,322,42,79,371,43,13,0,1,386,1,0,1,6,/en/players/42b1a58a/matchlogs/2019-2020/passing_types/Nehuen-Paz-Match-Logs
+414,Giampaolo Pazzini,it,FW,Hellas Verona,34,1984,3.4,67,61,6,0,1,20,2,1,0,0,0,0,35,24,8,12,44,2,1,1,50,0,0,0,4,/en/players/6ca663b4/matchlogs/2019-2020/passing_types/Giampaolo-Pazzini-Match-Logs
+415,Pedro,br,FW,Fiorentina,22,1997,0.7,19,19,0,0,0,7,0,0,0,0,0,0,11,7,1,2,15,0,0,1,14,0,0,0,1,/en/players/1ab6fad3/matchlogs/2019-2020/passing_types/Pedro-Match-Logs
+416,João Pedro,br,"FW,MF",Cagliari,27,1992,35.0,849,816,33,6,2,202,36,16,5,1,2,2,480,190,179,88,617,59,11,34,649,4,2,11,29,/en/players/81255c03/matchlogs/2019-2020/passing_types/Joao-Pedro-Match-Logs
+417,Daouda Peeters,be,MF,Juventus,20,1999,0.2,13,13,0,0,0,2,0,0,0,0,0,0,13,0,0,1,12,0,0,0,13,0,0,0,0,/en/players/e83f8ebb/matchlogs/2019-2020/passing_types/Daouda-Peeters-Match-Logs
+418,Gianluca Pegolo,it,GK,Sassuolo,38,1981,5.0,158,110,48,12,0,24,0,0,0,0,0,0,99,14,45,84,44,0,0,24,130,0,0,0,1,/en/players/f058ed1f/matchlogs/2019-2020/passing_types/Gianluca-Pegolo-Match-Logs
+419,Lorenzo Pellegrini,it,MF,Roma,23,1996,23.3,1226,1042,184,51,15,207,83,151,96,24,46,11,789,161,276,159,1027,16,10,6,930,1,46,25,42,/en/players/4a5a45c7/matchlogs/2019-2020/passing_types/Lorenzo-Pellegrini-Match-Logs
+420,Luca Pellegrini,it,DF,Cagliari,20,1999,21.2,1092,893,199,15,1,158,32,115,1,0,0,1,504,236,352,711,157,23,183,8,793,3,0,21,48,/en/players/3b61c9ec/matchlogs/2019-2020/passing_types/Luca-Pellegrini-Match-Logs
+421,Federico Peluso,it,DF,Sassuolo,35,1984,16.8,987,891,96,38,0,126,13,6,0,0,0,0,740,128,119,821,71,22,55,3,868,1,0,15,13,/en/players/4f2908e5/matchlogs/2019-2020/passing_types/Federico-Peluso-Match-Logs
+422,Gastón Pereiro,uy,"MF,FW",Cagliari,24,1995,3.9,138,116,22,5,1,22,5,16,8,4,3,0,80,30,28,107,17,6,4,1,92,0,3,1,5,/en/players/7ec7738e/matchlogs/2019-2020/passing_types/Gaston-Pereiro-Match-Logs
+423,Bruno Peres,br,DF,Roma,29,1990,11.7,635,532,103,6,0,86,17,44,1,0,1,0,406,143,86,102,428,7,96,2,534,1,1,5,24,/en/players/852351df/matchlogs/2019-2020/passing_types/Bruno-Peres-Match-Logs
+424,Carles Pérez,es,"FW,MF",Roma,21,1998,6.3,220,206,14,2,2,35,5,8,8,1,4,1,168,33,19,198,10,8,2,1,186,0,4,6,7,/en/players/a8f21b9f/matchlogs/2019-2020/passing_types/Carles-Perez-Match-Logs
+425,Mattia Perin,it,GK,Genoa,26,1992,21.0,735,482,253,64,0,63,26,0,0,0,0,0,287,27,421,96,496,0,0,93,456,2,0,2,1,/en/players/4c62d0c8/matchlogs/2019-2020/passing_types/Mattia-Perin-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,Diego Perotti,ar,"FW,MF",Roma,31,1988,9.7,391,371,20,2,4,89,16,40,15,6,1,1,285,42,64,56,322,5,3,1,305,0,1,5,11,/en/players/a40d5a0c/matchlogs/2019-2020/passing_types/Diego-Perotti-Match-Logs
+427,Matteo Pessina,it,"MF,FW",Hellas Verona,22,1997,27.7,1347,1293,54,42,2,331,20,28,1,0,1,0,876,226,245,1043,172,66,7,6,1044,7,1,26,57,/en/players/780e3631/matchlogs/2019-2020/passing_types/Matteo-Pessina-Match-Logs
+428,Andrea Petagna,it,FW,SPAL,24,1995,33.7,876,822,54,5,2,244,47,33,3,1,0,0,496,209,171,549,213,45,8,18,644,4,0,14,34,/en/players/03f946ed/matchlogs/2019-2020/passing_types/Andrea-Petagna-Match-Logs
+429,Jacopo Petriccione,it,MF,Lecce,24,1995,23.8,1264,1143,121,58,0,190,67,61,51,1,10,1,816,209,239,109,1107,36,5,2,1091,3,10,19,12,/en/players/909bce7f/matchlogs/2019-2020/passing_types/Jacopo-Petriccione-Match-Logs
+430,Germán Pezzella,ar,DF,Fiorentina,28,1991,31.4,1157,1116,41,38,0,129,33,2,0,0,0,0,823,122,212,176,885,62,3,3,996,1,0,8,13,/en/players/8c725b43/matchlogs/2019-2020/passing_types/German-Pezzella-Match-Logs
+431,Giuseppe Pezzella,it,DF,Parma,21,1997,10.5,487,385,102,10,1,47,7,33,0,0,0,0,263,104,120,339,41,15,92,0,367,2,0,9,20,/en/players/149c5f5d/matchlogs/2019-2020/passing_types/Giuseppe-Pezzella-Match-Logs
+432,Giuseppe Pezzella,it,DF,Udinese,21,1997,0.9,49,41,8,1,0,4,1,7,0,0,0,0,23,9,17,37,3,2,7,0,33,0,0,0,5,/en/players/149c5f5d/matchlogs/2019-2020/passing_types/Giuseppe-Pezzella-Match-Logs
+433,Krzysztof Piątek,pl,FW,Milan,24,1995,13.1,239,226,13,0,0,84,3,3,0,0,0,0,135,76,28,8,184,13,1,12,181,1,0,14,7,/en/players/17f3620a/matchlogs/2019-2020/passing_types/Krzysztof-Piatek-Match-Logs
+434,Stefano Piccinini,it,DF,Sassuolo,16,2002,0.1,22,19,3,1,0,1,0,0,0,0,0,0,18,1,3,4,16,0,2,0,20,0,0,0,0,/en/players/6010ba04/matchlogs/2019-2020/passing_types/Stefano-Piccinini-Match-Logs
+435,Roberto Piccoli,it,FW,Atalanta,18,2001,0.2,6,5,1,0,0,2,0,0,0,0,0,0,5,1,0,1,5,0,0,0,5,0,0,0,0,/en/players/1cadaf34/matchlogs/2019-2020/passing_types/Roberto-Piccoli-Match-Logs
+436,Andrea Pinamonti,it,FW,Genoa,20,1999,24.8,624,572,52,1,2,202,15,22,0,0,0,0,372,142,110,61,436,57,1,11,440,1,0,9,26,/en/players/08aa9cd1/matchlogs/2019-2020/passing_types/Andrea-Pinamonti-Match-Logs
+437,Simone Pinna,it,DF,Cagliari,21,1997,1.0,78,70,8,0,0,3,4,6,0,0,0,0,40,12,26,9,59,2,8,0,64,0,0,2,2,/en/players/6523afa4/matchlogs/2019-2020/passing_types/Simone-Pinna-Match-Logs
+438,Carlo Pinsoglio,it,GK,Juventus,29,1990,0.2,3,1,2,0,0,0,0,0,0,0,0,0,3,0,0,1,2,0,0,0,3,0,0,0,0,/en/players/f6a06749/matchlogs/2019-2020/passing_types/Carlo-Pinsoglio-Match-Logs
+439,Lorenzo Pirola,it,DF,Inter,17,2002,0.1,9,9,0,0,0,1,0,0,0,0,0,0,8,1,0,7,1,1,0,0,9,0,0,0,0,/en/players/caec77da/matchlogs/2019-2020/passing_types/Lorenzo-Pirola-Match-Logs
+440,Fabio Pisacane,it,DF,Cagliari,33,1986,27.1,1087,1049,38,20,0,104,26,9,0,0,0,0,814,128,145,223,783,34,18,9,964,0,0,7,10,/en/players/56400c01/matchlogs/2019-2020/passing_types/Fabio-Pisacane-Match-Logs
+441,Miralem Pjanić,ba,MF,Juventus,29,1990,25.3,2014,1827,187,115,5,262,79,81,70,15,24,10,1495,249,270,161,1800,29,2,7,1767,7,24,19,35,/en/players/ad6df2d5/matchlogs/2019-2020/passing_types/Miralem-Pjanic-Match-Logs
+442,Andrea Poli,it,MF,Bologna,29,1989,21.3,1066,1025,41,33,6,173,8,14,1,1,0,0,875,106,85,121,905,21,6,4,954,2,0,20,11,/en/players/b3fd7075/matchlogs/2019-2020/passing_types/Andrea-Poli-Match-Logs
+443,Matteo Politano,it,FW,Napoli,25,1993,8.3,363,330,33,5,1,56,9,38,20,5,9,0,257,51,55,288,63,1,8,2,277,1,9,6,16,/en/players/5e861944/matchlogs/2019-2020/passing_types/Matteo-Politano-Match-Logs
+444,Matteo Politano,it,FW,Inter,25,1993,2.9,126,108,18,4,0,26,6,17,6,1,1,1,75,20,31,95,21,2,6,1,86,0,1,1,12,/en/players/5e861944/matchlogs/2019-2020/passing_types/Matteo-Politano-Match-Logs
+445,Erick Pulgar,cl,MF,Fiorentina,25,1994,32.8,1738,1420,318,119,2,233,121,225,170,59,78,14,1088,222,428,125,1525,55,8,5,1410,5,78,22,33,/en/players/4611e028/matchlogs/2019-2020/passing_types/Erick-Pulgar-Match-Logs
+446,Ignacio Pussetto,ar,"FW,DF",Udinese,23,1995,3.8,128,114,14,1,1,19,5,12,3,3,0,0,66,28,34,12,90,8,7,2,87,0,0,4,8,/en/players/62437b4f/matchlogs/2019-2020/passing_types/Ignacio-Pussetto-Match-Logs
+447,Fabio Quagliarella,it,FW,Sampdoria,36,1983,25.3,548,488,60,2,5,129,20,23,3,0,0,0,271,130,147,90,402,24,1,12,376,2,0,20,19,/en/players/ee4f2f3b/matchlogs/2019-2020/passing_types/Fabio-Quagliarella-Match-Logs
+448,Adrien Rabiot,fr,MF,Juventus,24,1995,21.2,1141,1125,16,2,1,217,18,20,0,0,0,0,894,167,80,883,190,37,13,4,1017,2,0,11,33,/en/players/8794e251/matchlogs/2019-2020/passing_types/Adrien-Rabiot-Match-Logs
+449,Ivan Radovanović,rs,MF,Genoa,30,1988,14.6,797,768,29,24,2,137,57,12,1,0,0,0,535,86,176,95,649,30,4,4,689,4,0,11,5,/en/players/023937a9/matchlogs/2019-2020/passing_types/Ivan-Radovanovic-Match-Logs
+450,Ionuț Radu,ro,GK,Genoa,22,1997,17.0,659,466,193,40,0,70,13,0,0,0,0,0,431,25,203,117,436,1,0,85,535,1,0,1,2,/en/players/67f649be/matchlogs/2019-2020/passing_types/Ionut-Radu-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,Ștefan Radu,ro,DF,Lazio,32,1986,25.6,1372,1310,62,40,0,151,53,41,0,0,0,0,1005,160,207,1104,172,56,21,2,1197,2,0,12,18,/en/players/53de807a/matchlogs/2019-2020/passing_types/Stefan-Radu-Match-Logs
+452,Boris Radunović,rs,GK,Hellas Verona,23,1996,3.0,61,44,17,3,0,0,1,0,0,0,0,0,24,2,35,7,42,0,0,10,37,0,0,0,0,/en/players/0dfce079/matchlogs/2019-2020/passing_types/Boris-Radunovic-Match-Logs
+453,Rafael,br,GK,Cagliari,37,1982,5.0,153,87,66,19,0,17,4,0,0,0,0,0,68,9,76,95,34,0,0,16,107,2,0,0,0,/en/players/dd06d56c/matchlogs/2019-2020/passing_types/Rafael-Match-Logs
+454,Daniele Ragatzu,it,"MF,FW",Cagliari,27,1991,3.5,172,163,9,1,0,20,8,9,5,4,1,0,126,23,23,33,133,4,2,0,139,0,1,3,5,/en/players/282b3a4d/matchlogs/2019-2020/passing_types/Daniele-Ragatzu-Match-Logs
+455,Gastón Ramírez,uy,"MF,FW",Sampdoria,28,1990,15.5,641,531,110,46,3,163,36,105,55,29,21,3,323,126,192,546,39,22,6,8,457,2,21,6,13,/en/players/2c851997/matchlogs/2019-2020/passing_types/Gaston-Ramirez-Match-Logs
+456,Aaron Ramsey,wal,MF,Juventus,28,1990,11.7,746,725,21,10,1,130,12,18,3,1,1,1,573,109,64,118,583,21,7,7,649,2,1,12,10,/en/players/ef619b0b/matchlogs/2019-2020/passing_types/Aaron-Ramsey-Match-Logs
+457,Luca Ranieri,it,DF,Fiorentina,20,1999,2.6,159,145,14,7,0,5,3,3,0,0,0,0,112,12,35,141,6,4,7,0,137,0,0,0,5,/en/players/8c63fae5/matchlogs/2019-2020/passing_types/Luca-Ranieri-Match-Logs
+458,Andrea Ranocchia,it,DF,Inter,31,1988,5.8,337,328,9,9,0,41,7,0,0,0,0,0,256,31,50,40,263,16,0,2,298,3,0,2,1,/en/players/539230cf/matchlogs/2019-2020/passing_types/Andrea-Ranocchia-Match-Logs
+459,Giacomo Raspadori,it,"MF,FW",Sassuolo,19,2000,2.9,115,112,3,0,0,19,4,2,1,0,1,0,97,10,8,36,76,3,0,0,94,0,1,1,6,/en/players/6e058f06/matchlogs/2019-2020/passing_types/Giacomo-Raspadori-Match-Logs
+460,Ante Rebić,hr,FW,Milan,25,1993,15.5,435,417,18,1,1,85,12,46,3,1,0,0,243,108,84,121,263,16,8,15,268,2,0,6,29,/en/players/536cebe5/matchlogs/2019-2020/passing_types/Ante-Rebic-Match-Logs
+461,Arkadiusz Reca,pl,DF,SPAL,24,1995,21.4,971,787,184,6,0,158,16,63,0,0,0,0,538,206,227,494,240,47,178,4,714,1,0,20,50,/en/players/6213fd82/matchlogs/2019-2020/passing_types/Arkadiusz-Reca-Match-Logs
+462,Vasco Regini,it,DF,Sampdoria,28,1990,1.9,65,59,6,4,0,10,5,1,0,0,0,0,37,9,19,39,14,7,2,0,54,0,0,0,0,/en/players/339c6ed4/matchlogs/2019-2020/passing_types/Vasco-Regini-Match-Logs
+463,Vasco Regini,it,DF,Parma,28,1990,0.6,22,21,1,1,0,0,0,0,0,0,0,0,19,2,1,19,3,0,0,0,21,0,0,1,0,/en/players/339c6ed4/matchlogs/2019-2020/passing_types/Vasco-Regini-Match-Logs
+464,Pepe Reina,es,GK,Milan,36,1982,1.0,37,26,11,4,0,3,0,0,0,0,0,0,15,2,20,1,27,0,0,6,27,1,0,0,0,/en/players/e358587b/matchlogs/2019-2020/passing_types/Pepe-Reina-Match-Logs
+465,Franck Ribéry,fr,FW,Fiorentina,36,1983,15.7,740,727,13,6,8,126,26,15,0,0,0,0,591,76,73,77,642,7,5,6,623,2,0,12,27,/en/players/f61c7c4e/matchlogs/2019-2020/passing_types/Franck-Ribery-Match-Logs
+466,Davide Riccardi,it,DF,Lecce,23,1996,0.2,3,3,0,0,0,1,0,0,0,0,0,0,2,1,0,0,3,0,0,0,2,0,0,1,0,/en/players/7b4b9221/matchlogs/2019-2020/passing_types/Davide-Riccardi-Match-Logs
+467,Emiliano Rigoni,ar,"MF,FW",Sampdoria,26,1993,4.8,193,161,32,9,0,44,13,41,16,4,6,2,102,41,50,122,55,5,6,0,124,0,6,4,11,/en/players/a1216563/matchlogs/2019-2020/passing_types/Emiliano-Rigoni-Match-Logs
+468,Tomás Rincón,ve,MF,Torino,31,1988,30.0,1303,1207,96,58,1,232,58,23,1,0,1,0,817,194,292,155,1006,51,37,6,1071,5,1,13,21,/en/players/f1cfc209/matchlogs/2019-2020/passing_types/Tomas-Rincon-Match-Logs
+469,Andrea Rispoli,it,DF,Lecce,30,1988,21.2,1093,947,146,18,0,136,21,88,3,0,0,1,564,228,301,96,831,27,125,4,841,5,0,22,43,/en/players/39ee6cb6/matchlogs/2019-2020/passing_types/Andrea-Rispoli-Match-Logs
+470,Ricardo Rodríguez,ch,DF,Milan,26,1992,4.3,285,246,39,7,0,28,23,5,2,1,0,0,190,39,56,190,49,10,30,0,242,0,0,6,6,/en/players/7f78ad23/matchlogs/2019-2020/passing_types/Ricardo-Rodriguez-Match-Logs
+471,Marko Rog,hr,MF,Cagliari,24,1995,25.7,1176,1105,71,42,2,217,34,42,24,7,10,5,856,175,145,85,1029,40,5,1,1005,5,10,15,31,/en/players/b6b2b820/matchlogs/2019-2020/passing_types/Marko-Rog-Match-Logs
+472,Rogério,br,DF,Sassuolo,21,1998,11.3,706,600,106,19,0,85,12,42,1,0,1,0,467,122,117,563,34,18,86,0,596,3,1,9,22,/en/players/10e7f486/matchlogs/2019-2020/passing_types/Rogerio-Match-Logs
+473,Filippo Romagna,it,DF,Sassuolo,22,1997,16.4,1026,1000,26,25,1,133,15,0,0,0,0,0,889,51,86,91,878,39,1,4,971,2,0,3,2,/en/players/84594618/matchlogs/2019-2020/passing_types/Filippo-Romagna-Match-Logs
+474,Alessio Romagnoli,it,DF,Milan,24,1995,34.3,1964,1902,62,53,1,194,47,0,0,0,0,0,1495,215,254,1602,235,65,9,6,1806,2,0,6,9,/en/players/3ead85f9/matchlogs/2019-2020/passing_types/Alessio-Romagnoli-Match-Logs
+475,Cristian Romero,ar,DF,Genoa,21,1998,28.6,1535,1418,117,75,0,225,29,3,0,0,0,0,1193,142,200,123,1290,42,42,8,1350,2,0,18,14,/en/players/a3d94a58/matchlogs/2019-2020/passing_types/Cristian-Romero-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Rômulo,it,MF,Brescia,32,1987,19.1,548,517,31,19,0,141,14,37,5,1,1,1,378,85,85,50,463,17,7,6,438,2,1,12,23,/en/players/07abb358/matchlogs/2019-2020/passing_types/Romulo-Match-Logs
+477,Rômulo,it,DF,Genoa,32,1987,0.2,8,6,2,1,0,1,0,0,0,0,0,0,5,2,1,0,7,0,1,0,5,0,0,0,1,/en/players/07abb358/matchlogs/2019-2020/passing_types/Romulo-Match-Logs
+478,Cristiano Ronaldo,pt,FW,Juventus,34,1985,32.4,1289,1244,45,11,3,306,22,35,3,0,0,0,1014,180,95,211,1013,10,24,22,1086,4,0,26,52,/en/players/dea698d9/matchlogs/2019-2020/passing_types/Cristiano-Ronaldo-Match-Logs
+479,Marten de Roon,nl,MF,Atalanta,28,1991,30.2,2021,1958,63,41,3,279,54,21,0,0,0,0,1544,222,255,257,1639,68,22,4,1758,5,0,20,37,/en/players/2a1beb34/matchlogs/2019-2020/passing_types/Marten-de-Roon-Match-Logs
+480,Antonio Rosati,it,GK,Torino,36,1983,1.0,37,21,16,1,0,0,0,0,0,0,0,0,15,1,21,2,29,0,0,6,27,1,0,0,1,/en/players/28a15394/matchlogs/2019-2020/passing_types/Antonio-Rosati-Match-Logs
+481,Luca Rossettini,it,DF,Lecce,34,1985,25.1,1029,981,48,45,1,77,47,1,0,0,0,0,693,116,220,209,757,42,3,6,889,3,0,9,3,/en/players/47a500ae/matchlogs/2019-2020/passing_types/Luca-Rossettini-Match-Logs
+482,Francesco Rossi,it,GK,Atalanta,28,1991,0.1,3,3,0,0,0,1,0,0,0,0,0,0,2,0,1,0,2,0,0,1,3,0,0,0,0,/en/players/7b5f516f/matchlogs/2019-2020/passing_types/Francesco-Rossi-Match-Logs
+483,Nicolò Rovella,it,MF,Genoa,17,2001,1.2,68,67,1,1,0,7,3,2,0,0,0,0,50,7,11,5,59,4,0,0,58,0,0,1,1,/en/players/e58cbfd5/matchlogs/2019-2020/passing_types/Nicolo-Rovella-Match-Logs
+484,Amir Rrahmani,xk,DF,Hellas Verona,25,1994,35.9,1517,1434,83,39,1,216,17,14,0,0,0,0,1005,171,341,163,1162,102,44,4,1221,5,0,11,26,/en/players/4b3e1a38/matchlogs/2019-2020/passing_types/Amir-Rrahmani-Match-Logs
+485,Dion Ruffo Luci,it,MF,Bologna,18,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/players/f239e6dd/matchlogs/2019-2020/passing_types/Dion-Ruffo-Luci-Match-Logs
+486,Daniele Rugani,it,DF,Juventus,25,1994,7.7,434,425,9,9,0,37,8,0,0,0,0,0,349,39,46,43,351,19,0,2,393,1,0,4,3,/en/players/14b8fcdf/matchlogs/2019-2020/passing_types/Daniele-Rugani-Match-Logs
+487,Mário Rui,pt,DF,Napoli,28,1991,21.8,1994,1752,242,46,2,199,37,127,25,12,6,0,1290,328,376,1629,126,53,171,7,1653,2,6,15,65,/en/players/0b5a292a/matchlogs/2019-2020/passing_types/Mario-Rui-Match-Logs
+488,Fabián Ruiz Peña,es,MF,Napoli,23,1996,29.8,2353,2286,67,48,6,438,90,15,2,1,1,0,1816,315,222,2090,182,40,17,15,2118,4,1,29,47,/en/players/c0c7ff58/matchlogs/2019-2020/passing_types/Fabian-Ruiz-Pena-Match-Logs
+489,Stefano Sabelli,it,DF,Brescia,26,1993,35.2,1981,1540,441,59,2,250,53,92,1,0,1,0,903,508,570,126,1392,49,381,11,1454,8,1,42,50,/en/players/0ccac09c/matchlogs/2019-2020/passing_types/Stefano-Sabelli-Match-Logs
+490,Alexis Saelemaekers,be,"FW,MF",Milan,20,1999,7.6,341,313,28,0,2,37,4,24,6,2,2,0,241,61,39,54,253,8,22,1,280,0,2,6,10,/en/players/ee251371/matchlogs/2019-2020/passing_types/Alexis-Saelemaekers-Match-Logs
+491,Jacopo Sala,it,DF,SPAL,27,1991,9.5,471,399,72,7,0,57,15,30,0,0,0,0,280,91,100,59,323,18,65,3,373,1,0,4,19,/en/players/da5a981b/matchlogs/2019-2020/passing_types/Jacopo-Sala-Match-Logs
+492,Bartosz Salamon,pl,DF,SPAL,28,1991,3.8,144,139,5,5,0,12,4,0,0,0,0,0,96,12,36,19,111,9,0,0,131,0,0,0,0,/en/players/9b30df1e/matchlogs/2019-2020/passing_types/Bartosz-Salamon-Match-Logs
+493,Eddy Salcedo,it,"FW,MF",Hellas Verona,17,2001,7.6,221,212,9,0,1,68,3,26,2,1,0,0,114,71,36,21,157,20,3,6,138,1,0,6,16,/en/players/0489bb30/matchlogs/2019-2020/passing_types/Eddy-Salcedo-Match-Logs
+494,Antonio Sanabria,py,FW,Genoa,23,1996,15.4,379,364,15,1,1,136,10,10,0,0,0,0,228,89,62,94,222,33,0,4,290,1,0,6,18,/en/players/0a447501/matchlogs/2019-2020/passing_types/Antonio-Sanabria-Match-Logs
+495,Alexis Sánchez,cl,FW,Inter,30,1988,10.3,410,366,44,9,4,84,24,42,29,8,8,5,210,94,106,19,372,8,0,8,297,2,8,12,23,/en/players/2c0f8e9e/matchlogs/2019-2020/passing_types/Alexis-Sanchez-Match-Logs
+496,Alex Sandro,br,DF,Juventus,28,1991,26.5,1973,1736,237,20,3,231,43,68,1,1,0,0,1310,391,272,1554,115,57,216,12,1699,11,0,28,43,/en/players/0d82903c/matchlogs/2019-2020/passing_types/Alex-Sandro-Match-Logs
+497,Nicola Sansone,it,"FW,MF",Bologna,27,1991,25.2,986,878,108,37,7,203,37,122,58,31,9,2,665,129,192,138,808,16,13,3,715,8,9,21,55,/en/players/7eb97a8e/matchlogs/2019-2020/passing_types/Nicola-Sansone-Match-Logs
+498,Federico Santander,py,FW,Bologna,28,1991,8.6,267,254,13,0,2,86,4,7,0,0,0,0,146,67,54,23,167,25,3,8,181,0,0,5,11,/en/players/df85d472/matchlogs/2019-2020/passing_types/Federico-Santander-Match-Logs
+499,Davide Santon,it,DF,Roma,28,1991,6.9,406,344,62,10,0,50,4,9,0,0,0,0,286,62,58,35,305,9,52,2,367,0,0,2,7,/en/players/88c89891/matchlogs/2019-2020/passing_types/Davide-Santon-Match-Logs
+500,Samir Santos,br,DF,Udinese,24,1994,17.2,755,707,48,26,1,90,5,6,0,0,0,0,584,67,104,570,118,32,22,0,657,0,0,6,12,/en/players/92b4758e/matchlogs/2019-2020/passing_types/Samir-Santos-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+501,Riccardo Saponara,it,"MF,FW",Lecce,27,1991,10.5,518,485,33,5,2,95,24,35,23,0,5,0,333,98,87,130,372,4,4,3,392,1,5,6,22,/en/players/3bb7af3b/matchlogs/2019-2020/passing_types/Riccardo-Saponara-Match-Logs
+502,Riccardo Saponara,it,"MF,FW",Genoa,27,1991,1.9,84,82,2,0,1,11,2,4,0,0,0,0,50,19,15,24,56,1,2,0,62,1,0,1,3,/en/players/3bb7af3b/matchlogs/2019-2020/passing_types/Riccardo-Saponara-Match-Logs
+503,Lasse Schöne,dk,MF,Genoa,33,1986,27.0,1634,1454,180,71,3,274,57,121,104,21,47,8,1219,166,249,93,1466,48,4,6,1379,5,47,13,27,/en/players/c3a8bcd8/matchlogs/2019-2020/passing_types/Lasse-Schone-Match-Logs
+504,Jerdy Schouten,nl,MF,Bologna,22,1997,12.0,542,527,15,8,0,111,15,1,0,0,0,0,365,90,87,60,420,36,2,4,457,2,0,12,8,/en/players/2cfae697/matchlogs/2019-2020/passing_types/Jerdy-Schouten-Match-Logs
+505,Matteo Scozzarella,it,MF,Parma,31,1988,10.2,489,420,69,33,1,73,33,44,36,12,13,8,277,63,149,32,436,17,0,1,387,2,13,3,7,/en/players/ea164f99/matchlogs/2019-2020/passing_types/Matteo-Scozzarella-Match-Logs
+506,Ken Sema,se,"DF,MF",Udinese,25,1993,27.3,1070,863,207,16,0,170,29,163,30,7,12,1,557,251,262,710,159,26,160,5,775,5,12,13,59,/en/players/1770bd68/matchlogs/2019-2020/passing_types/Ken-Sema-Match-Logs
+507,Alessandro Semprini,it,DF,Brescia,21,1998,7.0,356,279,77,4,0,26,12,14,0,0,0,0,189,88,79,62,207,8,73,3,274,0,0,4,16,/en/players/dd29f81d/matchlogs/2019-2020/passing_types/Alessandro-Semprini-Match-Logs
+508,Stefano Sensi,it,"MF,FW",Inter,23,1995,8.0,515,455,60,16,3,82,22,44,40,11,5,3,347,85,83,81,419,9,3,1,422,1,5,4,17,/en/players/b70bde8f/matchlogs/2019-2020/passing_types/Stefano-Sensi-Match-Logs
+509,Luigi Sepe,it,GK,Parma,28,1991,34.0,1138,706,432,103,2,75,57,0,0,0,0,0,505,86,547,719,232,0,0,114,841,4,0,4,1,/en/players/343f753a/matchlogs/2019-2020/passing_types/Luigi-Sepe-Match-Logs
+510,Yevhen Shakhov,ua,"MF,FW",Lecce,28,1990,12.1,401,392,9,2,1,84,10,4,2,0,0,0,287,62,52,79,288,13,3,5,334,2,0,10,14,/en/players/ff764de3/matchlogs/2019-2020/passing_types/Yevhen-Shakhov-Match-Logs
+511,Luca Siligardi,it,"FW,MF",Parma,31,1988,3.7,151,139,12,2,0,33,5,17,4,2,1,1,72,41,38,122,11,6,3,2,104,1,1,4,7,/en/players/1cac99dc/matchlogs/2019-2020/passing_types/Luca-Siligardi-Match-Logs
+512,André Silva,pt,FW,Milan,23,1995,0.7,11,11,0,0,0,2,0,0,0,0,0,0,8,3,0,1,9,1,0,0,6,0,0,1,0,/en/players/3effaa34/matchlogs/2019-2020/passing_types/Andre-Silva-Match-Logs
+513,Marco Silvestri,it,GK,Hellas Verona,28,1991,35.0,991,568,423,93,0,79,11,0,0,0,0,0,245,25,721,43,791,0,0,79,450,4,0,4,2,/en/players/0d422df7/matchlogs/2019-2020/passing_types/Marco-Silvestri-Match-Logs
+514,Giovanni Simeone,ar,FW,Cagliari,24,1995,32.5,496,443,53,0,3,114,5,17,0,0,0,0,313,116,67,51,359,46,0,12,350,0,0,19,30,/en/players/343c0d52/matchlogs/2019-2020/passing_types/Giovanni-Simeone-Match-Logs
+515,Wilfried Singo,ci,DF,Torino,18,2000,1.5,70,62,8,0,0,13,4,6,0,0,0,0,35,19,16,6,48,4,8,1,53,1,0,1,1,/en/players/8b609c34/matchlogs/2019-2020/passing_types/Wilfried-Singo-Match-Logs
+516,Salvatore Sirigu,it,GK,Torino,32,1987,36.0,1162,694,468,134,0,91,23,0,0,0,0,0,426,82,654,84,878,0,0,115,820,3,0,2,6,/en/players/10dc46f0/matchlogs/2019-2020/passing_types/Salvatore-Sirigu-Match-Logs
+517,Łukasz Skorupski,pl,GK,Bologna,28,1991,37.0,1147,762,385,93,0,84,38,0,0,0,0,0,636,62,449,92,805,0,0,216,868,7,0,5,3,/en/players/ab4449d6/matchlogs/2019-2020/passing_types/Lukasz-Skorupski-Match-Logs
+518,Andreas Skov Olsen,dk,"FW,MF",Bologna,19,1999,8.4,378,353,25,4,0,77,14,56,18,8,3,2,244,52,82,231,120,19,3,2,274,1,3,5,14,/en/players/c50cee19/matchlogs/2019-2020/passing_types/Andreas-Skov-Olsen-Match-Logs
+519,Simon Skrabb,fi,"MF,FW",Brescia,24,1995,2.9,98,97,1,1,0,19,0,7,0,0,0,0,50,27,21,80,13,3,0,0,72,0,0,2,4,/en/players/45af5134/matchlogs/2019-2020/passing_types/Simon-Skrabb-Match-Logs
+520,Milan Škriniar,sk,DF,Inter,24,1995,29.2,1997,1926,71,48,1,192,57,0,0,0,0,0,1643,164,190,333,1550,58,23,14,1843,4,0,13,6,/en/players/30f5ffa9/matchlogs/2019-2020/passing_types/Milan-Skriniar-Match-Logs
+521,Chris Smalling,eng,DF,Roma,29,1989,28.5,1440,1398,42,39,0,149,28,3,0,0,0,0,1129,155,156,182,1114,91,3,7,1306,2,0,11,10,/en/players/b6964eb6/matchlogs/2019-2020/passing_types/Chris-Smalling-Match-Logs
+522,Roberto Soriano,it,MF,Bologna,28,1991,27.4,1227,1200,27,10,8,223,18,29,6,4,0,1,964,140,123,190,962,37,9,11,1031,9,0,19,34,/en/players/9d4c45d6/matchlogs/2019-2020/passing_types/Roberto-Soriano-Match-Logs
+523,Riccardo Sottil,it,"FW,DF",Fiorentina,20,1999,5.7,206,196,10,2,0,53,7,23,1,1,0,0,143,42,21,48,145,1,7,1,160,0,0,2,10,/en/players/94816803/matchlogs/2019-2020/passing_types/Riccardo-Sottil-Match-Logs
+524,Adama Soumaoro,fr,DF,Genoa,27,1992,7.1,317,306,11,10,0,43,10,0,0,0,0,0,262,29,26,19,270,18,1,1,295,0,0,1,0,/en/players/7b075c75/matchlogs/2019-2020/passing_types/Adama-Soumaoro-Match-Logs
+525,Nikolas Špalek,sk,"MF,FW",Brescia,22,1997,17.5,446,427,19,2,1,100,12,34,5,0,2,0,264,101,81,41,369,20,6,6,304,1,2,11,23,/en/players/9e90fb5d/matchlogs/2019-2020/passing_types/Nikolas-Spalek-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,Leonardo Spinazzola,it,DF,Roma,26,1993,17.2,1018,852,166,18,1,183,23,72,1,1,0,0,599,195,224,167,665,29,147,2,813,0,0,19,44,/en/players/3626daea/matchlogs/2019-2020/passing_types/Leonardo-Spinazzola-Match-Logs
+527,Marco Sportiello,it,GK,Atalanta,27,1992,5.8,152,117,35,8,0,13,4,0,0,0,0,0,105,22,25,6,116,0,0,30,130,0,0,0,0,/en/players/ac4003af/matchlogs/2019-2020/passing_types/Marco-Sportiello-Match-Logs
+528,Mattia Sprocati,it,FW,Parma,26,1992,6.6,207,192,15,1,1,39,3,24,8,4,2,1,117,52,38,71,118,9,4,2,145,1,2,6,9,/en/players/bdd0692f/matchlogs/2019-2020/passing_types/Mattia-Sprocati-Match-Logs
+529,Mariusz Stępiński,pl,FW,Hellas Verona,24,1995,7.8,171,162,9,0,0,55,1,4,0,0,0,0,104,43,24,43,98,15,0,3,115,1,0,4,14,/en/players/7b536033/matchlogs/2019-2020/passing_types/Mariusz-Stepinski-Match-Logs
+530,Thomas Strakosha,al,GK,Lazio,24,1995,38.0,1224,860,364,72,2,105,15,0,0,0,0,0,683,87,454,61,988,1,0,150,954,4,0,5,3,/en/players/339fe0e8/matchlogs/2019-2020/passing_types/Thomas-Strakosha-Match-Logs
+531,Jens Stryger Larsen,dk,DF,Udinese,28,1991,31.0,1628,1355,273,11,1,199,29,119,0,0,0,0,873,335,420,179,1124,53,262,3,1231,8,0,24,51,/en/players/f91e81c9/matchlogs/2019-2020/passing_types/Jens-Stryger-Larsen-Match-Logs
+532,Stefano Sturaro,it,MF,Genoa,26,1993,13.9,498,461,37,10,2,120,23,26,10,3,5,0,271,97,130,87,349,23,17,3,366,0,5,7,11,/en/players/2334478a/matchlogs/2019-2020/passing_types/Stefano-Sturaro-Match-Logs
+533,Suso,es,"FW,MF",Milan,25,1993,15.1,753,689,64,19,7,152,41,105,33,18,7,0,479,112,162,664,70,8,6,4,579,0,7,16,20,/en/players/4e219ad2/matchlogs/2019-2020/passing_types/Suso-Match-Logs
+534,Bosko Sutalo,hr,DF,Atalanta,19,2000,3.1,172,163,9,4,0,15,4,4,1,0,0,0,131,14,27,26,127,6,4,0,150,0,0,2,1,/en/players/1d0bb7e4/matchlogs/2019-2020/passing_types/Bosko-Sutalo-Match-Logs
+535,Mattias Svanberg,se,MF,Bologna,20,1999,11.7,417,389,28,13,0,95,14,21,13,3,4,4,323,47,47,55,339,6,1,3,342,3,4,5,12,/en/players/92d83c27/matchlogs/2019-2020/passing_types/Mattias-Svanberg-Match-Logs
+536,Wojciech Szczęsny,pl,GK,Juventus,29,1990,28.8,761,518,243,47,0,62,40,0,0,0,0,0,490,73,198,89,505,0,0,157,656,3,0,2,2,/en/players/01b8a2b2/matchlogs/2019-2020/passing_types/Wojciech-Szczesny-Match-Logs
+537,Andrea Tabanelli,it,MF,Lecce,29,1990,10.7,353,341,12,8,0,77,3,12,1,0,0,0,242,56,55,54,268,19,3,2,281,1,0,3,12,/en/players/b59e02da/matchlogs/2019-2020/passing_types/Andrea-Tabanelli-Match-Logs
+538,Panagiotis Tachtsidis,gr,MF,Lecce,28,1991,22.3,1200,1129,71,65,2,219,55,27,2,0,0,0,715,198,287,911,205,46,4,2,944,7,0,20,32,/en/players/e26bd2f4/matchlogs/2019-2020/passing_types/Panagiotis-Tachtsidis-Match-Logs
+539,Adrien Tameze,cm,MF,Atalanta,25,1994,2.3,200,197,3,3,0,30,5,1,0,0,0,0,168,18,14,11,183,1,0,0,179,0,0,1,5,/en/players/8da74c05/matchlogs/2019-2020/passing_types/Adrien-Tameze-Match-Logs
+540,Łukasz Teodorczyk,pl,FW,Udinese,28,1991,2.5,74,70,4,0,1,26,1,1,0,0,0,0,49,10,15,19,39,6,1,0,55,0,0,0,1,/en/players/7e81a17d/matchlogs/2019-2020/passing_types/Lukasz-Teodorczyk-Match-Logs
+541,Hidde ter Avest,nl,DF,Udinese,22,1997,7.6,355,294,61,3,0,45,4,11,0,0,0,0,216,76,63,36,247,10,58,0,264,3,0,5,8,/en/players/18f9dbd0/matchlogs/2019-2020/passing_types/Hidde-ter-Avest-Match-Logs
+542,Pietro Terracciano,it,GK,Fiorentina,29,1990,6.9,210,127,83,24,0,9,8,0,0,0,0,0,105,16,89,35,124,0,0,36,145,0,0,0,0,/en/players/e1b0a70d/matchlogs/2019-2020/passing_types/Pietro-Terracciano-Match-Logs
+543,Aleksa Terzić,rs,DF,Fiorentina,19,1999,0.1,6,6,0,0,0,2,0,0,0,0,0,0,4,0,2,6,0,0,0,0,3,0,0,0,1,/en/players/3ef0a2d7/matchlogs/2019-2020/passing_types/Aleksa-Terzic-Match-Logs
+544,Demba Thiam,sn,GK,SPAL,21,1998,2.0,71,37,34,7,0,4,1,0,0,0,0,0,43,7,21,0,55,1,0,13,54,0,0,0,0,/en/players/0f47717b/matchlogs/2019-2020/passing_types/Demba-Thiam-Match-Logs
+545,Morten Thorsby,no,"MF,DF",Sampdoria,23,1996,20.7,793,754,39,5,1,189,13,15,1,0,1,0,507,128,158,91,545,55,33,2,608,0,1,9,29,/en/players/d1b49282/matchlogs/2019-2020/passing_types/Morten-Thorsby-Match-Logs
+546,Jeremy Toljan,de,DF,Sassuolo,24,1994,24.3,1493,1232,261,38,0,199,17,57,1,0,1,0,1002,323,168,118,1126,16,222,6,1267,2,1,23,59,/en/players/a96e5dc0/matchlogs/2019-2020/passing_types/Jeremy-Toljan-Match-Logs
+547,Rafael Tolói,br,DF,Atalanta,28,1990,29.0,1654,1581,73,35,3,240,37,13,0,0,0,0,1148,239,267,146,1389,55,38,0,1363,6,0,24,39,/en/players/c56dc39e/matchlogs/2019-2020/passing_types/Rafael-Toloi-Match-Logs
+548,Takehiro Tomiyasu,jp,DF,Bologna,20,1998,28.1,1644,1370,274,35,1,210,22,32,0,0,0,0,1038,334,272,411,902,56,239,5,1367,3,0,32,40,/en/players/b3af9be1/matchlogs/2019-2020/passing_types/Takehiro-Tomiyasu-Match-Logs
+549,Nenad Tomović,rs,DF,SPAL,31,1987,19.5,932,836,96,41,1,133,16,14,0,0,0,0,628,121,183,159,650,49,55,0,788,1,0,6,14,/en/players/6aafdc27/matchlogs/2019-2020/passing_types/Nenad-Tomovic-Match-Logs
+550,Sandro Tonali,it,MF,Brescia,19,2000,33.5,1582,1233,349,186,6,210,122,185,128,17,67,17,922,190,470,152,1370,44,1,5,1137,9,67,23,50,/en/players/0db169ae/matchlogs/2019-2020/passing_types/Sandro-Tonali-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+551,Lorenzo Tonelli,it,DF,Sampdoria,29,1990,7.8,368,353,15,14,0,46,20,2,0,0,0,0,233,49,86,50,281,24,1,5,307,1,0,6,4,/en/players/8cc29864/matchlogs/2019-2020/passing_types/Lorenzo-Tonelli-Match-Logs
+552,Ernesto Torregrossa,it,FW,Brescia,27,1992,20.5,507,488,19,8,3,143,16,12,1,0,1,0,314,102,91,363,74,24,3,12,332,3,1,16,28,/en/players/bf39bdec/matchlogs/2019-2020/passing_types/Ernesto-Torregrossa-Match-Logs
+553,Amad Traoré,ci,FW,Atalanta,17,2002,0.3,19,18,1,0,0,5,1,1,1,1,0,0,17,1,1,17,2,0,0,0,12,0,0,1,1,/en/players/9dc96f10/matchlogs/2019-2020/passing_types/Amad-Traore-Match-Logs
+554,Luca Tremolada,it,MF,Brescia,27,1991,0.2,6,5,1,0,0,2,0,2,0,0,0,0,3,2,1,5,0,0,1,0,4,0,0,0,1,/en/players/ed65da8c/matchlogs/2019-2020/passing_types/Luca-Tremolada-Match-Logs
+555,Alessandro Tripaldelli,it,DF,Sassuolo,20,1999,1.5,69,60,9,0,0,6,0,4,0,0,0,0,53,8,8,45,14,0,9,0,57,0,0,1,3,/en/players/4571fa88/matchlogs/2019-2020/passing_types/Alessandro-Tripaldelli-Match-Logs
+556,William Troost-Ekong,ng,DF,Udinese,25,1993,28.6,1046,1009,37,36,0,132,30,1,0,0,0,0,749,85,212,114,860,43,1,5,859,1,0,9,12,/en/players/7ed4921e/matchlogs/2019-2020/passing_types/William-Troost-Ekong-Match-Logs
+557,Georgi Tunjov,ee,MF,SPAL,18,2001,3.2,107,95,12,6,0,17,4,14,6,0,3,3,66,11,30,70,27,5,0,0,77,0,3,1,5,/en/players/7aa84ac5/matchlogs/2019-2020/passing_types/Georgi-Tunjov-Match-Logs
+558,Stefano Turati,it,GK,Sassuolo,,,2.0,51,33,18,4,0,4,0,0,0,0,0,0,36,0,15,7,32,0,0,9,43,0,0,0,0,/en/players/bf168004/matchlogs/2019-2020/passing_types/Stefano-Turati-Match-Logs
+559,Gennaro Tutino,it,FW,Hellas Verona,22,1996,2.5,74,69,5,1,0,22,1,0,0,0,0,0,42,21,11,3,51,10,1,1,54,1,0,3,2,/en/players/8b303bcb/matchlogs/2019-2020/passing_types/Gennaro-Tutino-Match-Logs
+560,Samir Ujkani,xk,GK,Torino,31,1988,1.0,52,38,14,5,0,0,3,0,0,0,0,0,33,5,14,5,45,0,0,2,44,0,0,0,0,/en/players/96640846/matchlogs/2019-2020/passing_types/Samir-Ujkani-Match-Logs
+561,Cengiz Ünder,tr,FW,Roma,22,1997,9.7,342,324,18,5,4,88,24,46,12,5,2,2,223,47,72,243,85,4,1,5,241,1,2,5,16,/en/players/1880614f/matchlogs/2019-2020/passing_types/Cengiz-Under-Match-Logs
+562,Mirko Valdifiori,it,MF,SPAL,33,1986,15.6,901,775,126,55,3,103,41,76,55,17,32,0,547,144,210,45,815,31,2,0,741,4,32,6,13,/en/players/c710f7d5/matchlogs/2019-2020/passing_types/Mirko-Valdifiori-Match-Logs
+563,Borja Valero,es,MF,Inter,34,1985,10.3,538,522,16,13,2,85,13,3,0,0,0,0,425,68,45,66,453,7,3,5,479,3,0,3,15,/en/players/0e21fc3c/matchlogs/2019-2020/passing_types/Borja-Valero-Match-Logs
+564,Mattia Valoti,it,"MF,FW",SPAL,25,1993,17.0,580,562,18,14,2,109,19,22,1,0,1,0,347,119,114,60,440,42,2,6,460,1,1,9,13,/en/players/c414df9d/matchlogs/2019-2020/passing_types/Mattia-Valoti-Match-Logs
+565,Denis Vavro,sk,DF,Lazio,23,1996,3.6,205,198,7,4,0,13,3,0,0,0,0,0,166,12,27,18,177,7,2,0,188,0,0,0,1,/en/players/08990838/matchlogs/2019-2020/passing_types/Denis-Vavro-Match-Logs
+566,Matías Vecino,uy,MF,Inter,27,1991,14.2,542,535,7,3,1,99,9,18,0,0,0,0,376,94,72,41,466,17,4,7,418,1,0,12,27,/en/players/44ac04e9/matchlogs/2019-2020/passing_types/Matias-Vecino-Match-Logs
+567,Miguel Veloso,pt,MF,Hellas Verona,33,1986,31.2,1683,1435,248,123,3,286,81,190,122,58,49,13,1038,212,433,1169,387,76,3,7,1288,8,49,19,37,/en/players/ab1ca213/matchlogs/2019-2020/passing_types/Miguel-Veloso-Match-Logs
+568,Lorenzo Venuti,it,DF,Fiorentina,24,1995,9.5,482,419,63,7,0,49,12,25,1,0,0,0,302,99,81,87,319,16,55,1,400,1,0,3,17,/en/players/983ff2c7/matchlogs/2019-2020/passing_types/Lorenzo-Venuti-Match-Logs
+569,Brayan Vera,co,"DF,MF",Lecce,20,1999,1.7,78,61,17,4,0,8,2,10,3,0,0,0,43,23,12,57,10,1,10,0,58,0,0,1,7,/en/players/80c718dd/matchlogs/2019-2020/passing_types/Brayan-Vera-Match-Logs
+570,Simone Verdi,it,"MF,FW",Torino,27,1992,23.0,904,755,149,43,2,172,77,147,78,28,16,6,517,151,236,390,483,10,7,4,639,4,16,20,35,/en/players/0375723e/matchlogs/2019-2020/passing_types/Simone-Verdi-Match-Logs
+571,Jordan Veretout,fr,MF,Roma,26,1993,29.2,1658,1558,100,38,1,207,77,76,55,6,33,7,1263,178,217,292,1325,27,6,1,1446,4,33,22,21,/en/players/4a56052c/matchlogs/2019-2020/passing_types/Jordan-Veretout-Match-Logs
+572,Valerio Verre,it,"FW,MF",Hellas Verona,25,1994,19.7,709,671,38,8,4,208,18,27,12,0,7,3,446,134,129,159,506,17,1,12,524,10,7,18,30,/en/players/33ecf462/matchlogs/2019-2020/passing_types/Valerio-Verre-Match-Logs
+573,Francesco Vicari,it,DF,SPAL,24,1994,32.2,1264,1197,67,64,0,145,39,1,0,0,0,0,869,162,233,100,1051,83,3,2,1101,5,0,3,12,/en/players/de045b15/matchlogs/2019-2020/passing_types/Francesco-Vicari-Match-Logs
+574,Ronaldo Vieira,gw,MF,Sampdoria,21,1998,20.2,942,886,56,31,1,190,53,31,17,7,8,0,613,142,187,150,718,41,8,4,784,4,8,11,16,/en/players/75e60d75/matchlogs/2019-2020/passing_types/Ronaldo-Vieira-Match-Logs
+575,Mauro Vigorito,it,GK,Lecce,29,1990,4.7,153,88,65,16,0,13,2,0,0,0,0,0,75,7,71,20,98,0,0,27,109,2,0,1,1,/en/players/582a251c/matchlogs/2019-2020/passing_types/Mauro-Vigorito-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+576,Gonzalo Villar,es,MF,Roma,21,1998,3.3,144,141,3,2,0,25,3,0,0,0,0,0,124,12,8,19,118,4,0,1,134,0,0,1,0,/en/players/bdc74a8f/matchlogs/2019-2020/passing_types/Gonzalo-Villar-Match-Logs
+577,Luigi Vitale,it,DF,Hellas Verona,31,1987,0.5,13,12,1,0,0,2,0,3,0,0,0,0,3,5,5,10,2,0,1,0,8,1,0,0,1,/en/players/fe479e17/matchlogs/2019-2020/passing_types/Luigi-Vitale-Match-Logs
+578,Mattia Viviani,it,MF,Brescia,18,2000,3.8,190,173,17,10,0,22,8,3,4,0,0,0,140,14,36,38,146,4,0,0,161,1,0,3,7,/en/players/360b2bb1/matchlogs/2019-2020/passing_types/Mattia-Viviani-Match-Logs
+579,Dušan Vlahović,rs,FW,Fiorentina,19,2000,16.7,343,320,23,0,1,124,4,13,1,0,0,0,237,66,40,225,71,12,1,7,236,1,0,15,27,/en/players/79443529/matchlogs/2019-2020/passing_types/Dusan-Vlahovic-Match-Logs
+580,Stefan de Vrij,nl,DF,Inter,27,1992,31.4,1645,1615,30,29,0,169,25,0,0,0,0,0,1303,184,158,232,1299,66,1,10,1525,3,0,2,8,/en/players/d0d8dd44/matchlogs/2019-2020/passing_types/Stefan-de-Vrij-Match-Logs
+581,Giacomo Vrioni,al,FW,Juventus,20,1998,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,0,0,0,/en/players/bf4d31d3/matchlogs/2019-2020/passing_types/Giacomo-Vrioni-Match-Logs
+582,Walace,br,MF,Udinese,24,1995,12.7,684,671,13,10,2,111,18,3,0,0,0,0,530,86,68,77,570,26,3,1,611,0,0,11,9,/en/players/26db8853/matchlogs/2019-2020/passing_types/Walace-Match-Logs
+583,Sebastian Walukiewicz,pl,DF,Cagliari,19,2000,12.9,606,556,50,17,1,39,16,4,0,0,0,0,437,71,98,42,499,24,33,0,528,0,0,9,5,/en/players/217875a4/matchlogs/2019-2020/passing_types/Sebastian-Walukiewicz-Match-Logs
+584,Jawad El Yamiq,ma,DF,Genoa,27,1992,2.2,110,107,3,1,0,14,5,1,0,0,0,0,76,12,22,16,84,4,2,1,93,1,0,1,0,/en/players/f6f6b6e8/matchlogs/2019-2020/passing_types/Jawad-El-Yamiq-Match-Logs
+585,Maya Yoshida,jp,DF,Sampdoria,30,1988,13.2,570,544,26,23,0,44,28,1,0,0,0,0,395,55,120,94,429,33,3,0,489,2,0,4,5,/en/players/caffaf5a/matchlogs/2019-2020/passing_types/Maya-Yoshida-Match-Logs
+586,Amin Younes,de,"FW,MF",Napoli,25,1993,2.0,111,110,1,0,0,37,0,1,0,0,0,0,90,16,5,16,93,1,1,0,89,0,0,4,5,/en/players/228f73ae/matchlogs/2019-2020/passing_types/Amin-Younes-Match-Logs
+587,Ashley Young,eng,DF,Inter,34,1985,13.2,634,531,103,2,1,80,10,39,2,0,1,0,359,148,127,89,426,14,99,3,506,4,1,10,30,/en/players/be927d03/matchlogs/2019-2020/passing_types/Ashley-Young-Match-Logs
+588,Mattia Zaccagni,it,"FW,MF",Hellas Verona,24,1995,23.5,790,759,31,6,4,233,18,46,5,0,2,3,491,161,138,91,596,48,7,19,572,6,2,22,36,/en/players/d85c238b/matchlogs/2019-2020/passing_types/Mattia-Zaccagni-Match-Logs
+589,Luca Zanimacchia,it,FW,Juventus,21,1998,1.3,58,53,5,1,0,7,1,10,3,2,0,1,41,7,10,8,48,0,1,0,44,0,0,0,2,/en/players/5e834dce/matchlogs/2019-2020/passing_types/Luca-Zanimacchia-Match-Logs
+590,Nicolò Zaniolo,it,"FW,MF",Roma,20,1999,16.7,447,431,16,1,2,103,22,26,1,1,0,0,301,72,74,391,36,6,9,0,356,1,0,8,19,/en/players/9907b1c8/matchlogs/2019-2020/passing_types/Nicolo-Zaniolo-Match-Logs
+591,Cristián Zapata,co,DF,Genoa,32,1986,19.1,874,827,47,43,0,165,12,1,0,0,0,0,698,70,106,238,566,36,4,0,809,1,0,3,4,/en/players/b1deecf8/matchlogs/2019-2020/passing_types/Cristian-Zapata-Match-Logs
+592,Duván Zapata,co,FW,Atalanta,28,1991,22.5,601,550,51,1,2,173,10,30,0,0,0,0,440,100,61,116,425,25,5,13,458,1,0,10,32,/en/players/d3de9af0/matchlogs/2019-2020/passing_types/Duvan-Zapata-Match-Logs
+593,Davide Zappacosta,it,DF,Roma,27,1992,5.0,246,198,48,3,0,24,7,23,0,0,0,0,162,45,39,25,170,6,45,0,200,0,0,1,13,/en/players/7fe90ccd/matchlogs/2019-2020/passing_types/Davide-Zappacosta-Match-Logs
+594,Simone Zaza,it,FW,Torino,28,1991,18.2,331,306,25,4,1,106,11,8,0,0,0,0,168,96,67,203,54,19,1,21,213,4,0,8,20,/en/players/9592289a/matchlogs/2019-2020/passing_types/Simone-Zaza-Match-Logs
+595,Marvin Zeegelaar,nl,DF,Udinese,28,1990,6.6,303,258,45,3,0,22,2,13,0,0,0,0,179,59,65,197,51,7,42,2,245,0,0,4,9,/en/players/8abd0c03/matchlogs/2019-2020/passing_types/Marvin-Zeegelaar-Match-Logs
+596,Piotr Zieliński,pl,MF,Napoli,25,1994,32.5,2015,1970,45,33,6,352,61,42,7,3,1,1,1514,273,228,531,1426,32,5,8,1758,3,1,36,32,/en/players/a5296e55/matchlogs/2019-2020/passing_types/Piotr-Zielinski-Match-Logs
+597,Jaromír Zmrhal,cz,MF,Brescia,25,1993,12.5,381,363,18,4,0,66,15,30,10,2,4,3,206,100,75,275,66,25,3,3,273,2,4,6,20,/en/players/cbec1196/matchlogs/2019-2020/passing_types/Jaromir-Zmrhal-Match-Logs
+598,Ervin Zukanović,ba,DF,SPAL,32,1987,2.3,126,126,0,0,0,14,1,1,0,0,0,0,93,22,11,100,18,5,0,0,112,0,0,1,3,/en/players/1253a12e/matchlogs/2019-2020/passing_types/Ervin-Zukanovic-Match-Logs
+599,Szymon Żurkowski,pl,MF,Fiorentina,21,1997,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,0,0,0,4,0,0,0,0,/en/players/4e1d5e59/matchlogs/2019-2020/passing_types/Szymon-Zurkowski-Match-Logs
+600,Filip Đuričić,rs,"MF,FW",Sassuolo,27,1992,18.1,698,668,30,2,9,140,13,31,28,11,11,2,548,88,62,85,585,14,0,5,552,4,11,16,37,/en/players/eccbe56a/matchlogs/2019-2020/passing_types/Filip-Djuricic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

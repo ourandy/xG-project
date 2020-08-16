@@ -1,0 +1,625 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Press,Succ,%,Def 3rd,Mid 3rd,Att 3rd,Blocks,Sh,ShSv,Pass,Int,Tkl+Int,Clr,Err,Matches
+1,Francesco Acerbi,it,DF,Lazio,31,1988,35.1,52,33,36,10,6,52,26,50.0,13,320,114,35.6,36,10,6,61,30,0,31,42,94,166,2,/en/players/b96b595c/matchlogs/2019-2020/defense/Francesco-Acerbi-Match-Logs
+2,Bobby Adekanye,nl,FW,Lazio,20,1999,2.1,4,3,0,4,0,4,5,20.0,4,60,10,16.7,0,4,0,0,0,0,0,3,7,1,0,/en/players/3ed84b2c/matchlogs/2019-2020/defense/Bobby-Adekanye-Match-Logs
+3,Claud Adjapong,it,DF,Hellas Verona,21,1998,2.6,5,3,2,2,1,5,2,0.0,2,50,12,24.0,2,2,1,5,3,0,2,4,9,9,0,/en/players/ce5b170a/matchlogs/2019-2020/defense/Claud-Adjapong-Match-Logs
+4,Lucien Agoume,fr,MF,Inter,17,2002,0.8,4,3,1,1,2,4,1,100.0,0,15,2,13.3,1,1,2,3,1,0,2,0,4,1,0,/en/players/8bc8829a/matchlogs/2019-2020/defense/Lucien-Agoume-Match-Logs
+5,Kevin Agudelo,co,"MF,FW",Fiorentina,20,1998,0.7,3,1,1,1,1,3,1,0.0,1,22,6,27.3,1,1,1,1,0,0,1,1,4,0,0,/en/players/46fa7204/matchlogs/2019-2020/defense/Kevin-Agudelo-Match-Logs
+6,Kevin Agudelo,co,"MF,FW",Genoa,20,1998,7.4,25,18,12,10,3,25,26,38.5,16,217,46,21.2,12,10,3,12,1,0,11,6,31,3,0,/en/players/46fa7204/matchlogs/2019-2020/defense/Kevin-Agudelo-Match-Logs
+7,Emmanuel Agyemang-Badu,gh,"MF,FW",Hellas Verona,28,1990,2.6,2,1,0,2,0,2,3,0.0,3,30,4,13.3,0,2,0,4,2,0,2,1,3,6,0,/en/players/fe0b8f0e/matchlogs/2019-2020/defense/Emmanuel-Agyemang-Badu-Match-Logs
+8,Ola Aina,ng,DF,Torino,22,1996,23.1,49,28,26,19,4,49,49,49.0,25,330,96,29.1,26,19,4,70,9,0,61,42,91,56,1,/en/players/246d153b/matchlogs/2019-2020/defense/Ola-Aina-Match-Logs
+9,Luis Alberto,es,MF,Lazio,26,1992,34.6,52,34,25,21,6,52,87,24.1,66,676,203,30.0,25,21,6,43,1,0,42,24,76,16,0,/en/players/5294a83f/matchlogs/2019-2020/defense/Luis-Alberto-Match-Logs
+10,Enrico Alfonso,it,GK,Brescia,31,1988,3.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/95adf1e1/matchlogs/2019-2020/defense/Enrico-Alfonso-Match-Logs
+11,Allan,br,MF,Napoli,28,1991,14.2,55,36,21,25,9,55,50,34.0,33,411,105,25.5,21,25,9,26,3,0,23,13,68,16,0,/en/players/cc700722/matchlogs/2019-2020/defense/Allan-Match-Logs
+12,Bruno Alves,pt,DF,Parma,37,1981,29.7,23,11,17,6,0,23,14,64.3,5,172,49,28.5,17,6,0,40,26,1,14,28,51,189,3,/en/players/585a73a8/matchlogs/2019-2020/defense/Bruno-Alves-Match-Logs
+13,Sofyan Amrabat,ma,MF,Hellas Verona,22,1996,32.4,63,42,28,25,10,63,65,30.8,45,592,171,28.9,28,25,10,43,13,0,30,31,94,31,2,/en/players/5a2cb25d/matchlogs/2019-2020/defense/Sofyan-Amrabat-Match-Logs
+14,Djavan Anderson,nl,"DF,MF",Lazio,24,1995,1.9,1,1,1,0,0,1,0,,0,24,5,20.8,1,0,0,5,0,0,5,3,4,2,0,/en/players/ca241ad3/matchlogs/2019-2020/defense/Djavan-Anderson-Match-Logs
+15,Lorenzo Andrenacci,it,GK,Brescia,24,1995,5.9,0,0,0,0,0,0,2,0.0,2,4,2,50.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/fe471a89/matchlogs/2019-2020/defense/Lorenzo-Andrenacci-Match-Logs
+16,Peter Ankersen,dk,DF,Genoa,28,1990,11.8,10,5,5,4,1,10,15,13.3,13,151,34,22.5,5,4,1,29,5,0,24,9,19,22,2,/en/players/df525574/matchlogs/2019-2020/defense/Peter-Ankersen-Match-Logs
+17,Cristian Ansaldi,ar,"DF,MF",Torino,32,1986,19.6,44,27,29,9,6,44,39,35.9,25,271,91,33.6,29,9,6,28,3,0,25,15,59,32,2,/en/players/bbafc0c4/matchlogs/2019-2020/defense/Cristian-Ansaldi-Match-Logs
+18,Mirko Antonucci,it,"FW,MF",Roma,20,1999,0.9,4,2,1,0,3,4,3,66.7,1,23,6,26.1,1,0,3,2,0,0,2,2,6,2,0,/en/players/91976866/matchlogs/2019-2020/defense/Mirko-Antonucci-Match-Logs
+19,Guilherme Arana,br,DF,Atalanta,22,1997,0.9,5,2,2,3,0,5,4,75.0,1,24,7,29.2,2,3,0,2,0,0,2,2,7,2,0,/en/players/2b15a82a/matchlogs/2019-2020/defense/Guilherme-Arana-Match-Logs
+20,Nicolò Armini,it,DF,Lazio,18,2001,0.0,1,0,1,0,0,1,1,100.0,0,5,1,20.0,1,0,0,0,0,0,0,0,1,1,0,/en/players/2f7407fa/matchlogs/2019-2020/defense/Nicolo-Armini-Match-Logs
+21,Kwadwo Asamoah,gh,DF,Inter,30,1988,7.1,9,5,4,4,1,9,15,40.0,9,96,25,26.0,4,4,1,9,1,0,8,10,19,12,0,/en/players/089550f5/matchlogs/2019-2020/defense/Kwadwo-Asamoah-Match-Logs
+22,Kristoffer Askildsen,no,MF,Sampdoria,18,2001,0.8,2,1,2,0,0,2,3,66.7,1,12,1,8.3,2,0,0,1,0,0,1,1,3,0,0,/en/players/a69cc629/matchlogs/2019-2020/defense/Kristoffer-Askildsen-Match-Logs
+23,Emil Audero,it,GK,Sampdoria,22,1997,36.0,0,0,0,0,0,0,2,0.0,2,2,0,0.0,0,0,0,0,0,0,0,0,0,1,2,/en/players/649b01d8/matchlogs/2019-2020/defense/Emil-Audero-Match-Logs
+24,Tommaso Augello,it,DF,Sampdoria,24,1994,12.6,15,13,7,4,4,15,8,62.5,3,97,17,17.5,7,4,4,19,2,0,17,14,29,19,1,/en/players/3cd3b384/matchlogs/2019-2020/defense/Tommaso-Augello-Match-Logs
+25,Florian Ayé,fr,"FW,MF",Brescia,22,1997,15.3,20,13,10,6,4,20,15,40.0,9,494,100,20.2,10,6,4,34,3,0,31,4,24,19,0,/en/players/718b8afd/matchlogs/2019-2020/defense/Florian-Aye-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Khouma Babacar,sn,FW,Lecce,26,1993,15.8,17,9,2,7,8,17,15,13.3,13,290,47,16.2,2,7,8,19,6,0,13,3,20,30,0,/en/players/422ec08a/matchlogs/2019-2020/defense/Khouma-Babacar-Match-Logs
+27,Milan Badelj,hr,MF,Fiorentina,30,1989,17.6,36,26,11,23,2,36,51,21.6,40,318,87,27.4,11,23,2,35,3,0,32,42,78,42,1,/en/players/e8c930bb/matchlogs/2019-2020/defense/Milan-Badelj-Match-Logs
+28,Marco Ballarini,it,MF,Udinese,18,2001,0.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/8cb494c9/matchlogs/2019-2020/defense/Marco-Ballarini-Match-Logs
+29,Mario Balotelli,it,FW,Brescia,28,1990,15.6,4,2,1,3,0,4,2,0.0,2,153,28,18.3,1,3,0,10,3,0,7,8,12,20,0,/en/players/8ff07990/matchlogs/2019-2020/defense/Mario-Balotelli-Match-Logs
+30,Mattia Bani,it,DF,Bologna,25,1993,24.5,54,33,28,25,1,54,32,56.3,14,389,129,33.2,28,25,1,46,17,0,29,51,105,172,0,/en/players/0821331c/matchlogs/2019-2020/defense/Mattia-Bani-Match-Logs
+31,Antonín Barák,cz,MF,Lecce,24,1994,15.2,24,18,14,9,1,24,27,40.7,16,310,83,26.8,14,9,1,29,0,0,29,9,33,14,0,/en/players/01efac19/matchlogs/2019-2020/defense/Antonin-Barak-Match-Logs
+32,Antonín Barák,cz,MF,Udinese,24,1994,2.2,4,1,3,0,1,4,6,0.0,6,79,15,19.0,3,0,1,6,1,0,5,0,4,1,0,/en/players/01efac19/matchlogs/2019-2020/defense/Antonin-Barak-Match-Logs
+33,Nicolò Barella,it,MF,Inter,22,1997,22.4,41,31,15,20,6,41,48,22.9,37,402,109,27.1,15,20,6,33,5,0,28,14,55,21,0,/en/players/6928979a/matchlogs/2019-2020/defense/Nicolo-Barella-Match-Logs
+34,Antonino Barillà,it,MF,Parma,31,1988,18.8,48,33,21,19,8,48,46,28.3,33,453,107,23.6,21,19,8,41,6,0,35,19,67,35,0,/en/players/a64cbd35/matchlogs/2019-2020/defense/Antonino-Barilla-Match-Logs
+35,Antonio Barreca,it,"DF,MF",Genoa,24,1995,12.2,9,3,4,3,2,9,5,40.0,3,110,26,23.6,4,3,2,23,6,0,17,1,10,21,0,/en/players/6a189491/matchlogs/2019-2020/defense/Antonio-Barreca-Match-Logs
+36,Édgar Barreto,py,MF,Sampdoria,35,1984,1.0,5,2,0,2,3,5,4,75.0,1,19,6,31.6,0,2,3,1,0,0,1,0,5,0,0,/en/players/43a1bea5/matchlogs/2019-2020/defense/Edgar-Barreto-Match-Logs
+37,Musa Barrow,gm,"FW,MF",Atalanta,20,1998,2.1,1,1,1,0,0,1,1,0.0,1,46,10,21.7,1,0,0,3,0,0,3,0,1,1,0,/en/players/e5bf73f3/matchlogs/2019-2020/defense/Musa-Barrow-Match-Logs
+38,Musa Barrow,gm,FW,Bologna,20,1998,15.0,18,9,9,7,2,18,22,22.7,17,296,75,25.3,9,7,2,19,0,0,19,4,22,11,1,/en/players/e5bf73f3/matchlogs/2019-2020/defense/Musa-Barrow-Match-Logs
+39,Daniele Baselli,it,MF,Torino,27,1992,14.2,48,32,24,15,9,48,46,26.1,34,329,87,26.4,24,15,9,32,5,0,27,25,73,31,1,/en/players/ea06dd97/matchlogs/2019-2020/defense/Daniele-Baselli-Match-Logs
+40,Alessandro Bastoni,it,DF,Inter,20,1999,21.3,38,21,16,15,7,38,32,50.0,16,246,67,27.2,16,15,7,34,13,0,21,26,64,74,0,/en/players/75b86fb3/matchlogs/2019-2020/defense/Alessandro-Bastoni-Match-Logs
+41,Bastos,ao,DF,Lazio,28,1991,8.5,13,10,7,6,0,13,14,28.6,10,111,32,28.8,7,6,0,17,10,0,7,14,27,33,0,/en/players/c01c66d9/matchlogs/2019-2020/defense/Bastos-Match-Logs
+42,Rodrigo Becão,br,DF,Udinese,23,1996,24.6,69,45,44,20,5,69,52,53.8,24,329,103,31.3,44,20,5,50,22,0,28,43,112,95,1,/en/players/19e4eab9/matchlogs/2019-2020/defense/Rodrigo-Becao-Match-Logs
+43,Asmir Begović,ba,GK,Milan,32,1987,1.4,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/7b4de647/matchlogs/2019-2020/defense/Asmir-Begovic-Match-Logs
+44,Valon Behrami,ch,MF,Genoa,34,1985,12.3,36,25,12,18,6,36,35,22.9,27,358,100,27.9,12,18,6,35,10,0,25,9,45,17,0,/en/players/d3d758d8/matchlogs/2019-2020/defense/Valon-Behrami-Match-Logs
+45,Raoul Bellanova,it,DF,Atalanta,19,2000,0.2,0,0,0,0,0,0,0,,0,3,2,66.7,0,0,0,0,0,0,0,0,0,0,0,/en/players/e3756e72/matchlogs/2019-2020/defense/Raoul-Bellanova-Match-Logs
+46,Andrea Belotti,it,FW,Torino,25,1993,33.4,34,26,13,11,10,34,41,14.6,35,459,104,22.7,13,11,10,26,6,0,20,6,40,18,1,/en/players/d705ba44/matchlogs/2019-2020/defense/Andrea-Belotti-Match-Logs
+47,Marco Benassi,it,MF,Fiorentina,24,1994,10.9,17,10,10,3,4,17,31,32.3,21,226,50,22.1,10,3,4,19,2,0,17,4,21,13,0,/en/players/0000acda/matchlogs/2019-2020/defense/Marco-Benassi-Match-Logs
+48,Ismaël Bennacer,dz,MF,Milan,21,1997,27.6,90,59,30,50,10,90,66,40.9,39,588,176,29.9,30,50,10,39,9,0,30,52,142,19,2,/en/players/db092d3b/matchlogs/2019-2020/defense/Ismael-Bennacer-Match-Logs
+49,Rodrigo Bentancur,uy,MF,Juventus,22,1997,24.4,77,49,31,29,17,77,67,41.8,39,577,160,27.7,31,29,17,58,6,0,52,30,107,34,0,/en/players/3b8674e6/matchlogs/2019-2020/defense/Rodrigo-Bentancur-Match-Logs
+50,Romario Benzar,ro,DF,Lecce,27,1992,1.1,2,2,1,1,0,2,3,66.7,1,10,2,20.0,1,1,0,1,0,0,1,0,2,5,0,/en/players/2e3596d1/matchlogs/2019-2020/defense/Romario-Benzar-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Domenico Berardi,it,FW,Sassuolo,24,1994,27.7,38,22,19,13,6,38,68,17.6,56,635,144,22.7,19,13,6,47,4,1,43,33,71,26,0,/en/players/53a0e358/matchlogs/2019-2020/defense/Domenico-Berardi-Match-Logs
+52,Álex Berenguer,es,"MF,FW",Torino,24,1995,20.3,22,12,8,10,4,22,38,23.7,29,441,99,22.4,8,10,4,34,1,0,33,17,39,19,0,/en/players/dc1c2fce/matchlogs/2019-2020/defense/Alex-Berenguer-Match-Logs
+53,Bartosz Bereszyński,pl,DF,Sampdoria,27,1992,26.7,61,33,28,27,6,61,65,43.1,37,379,109,28.8,28,27,6,72,16,0,56,33,94,97,1,/en/players/61b3978f/matchlogs/2019-2020/defense/Bartosz-Bereszynski-Match-Logs
+54,Etrit Berisha,al,GK,SPAL,30,1989,26.0,1,0,1,0,0,1,4,25.0,3,8,1,12.5,1,0,0,0,0,0,0,0,1,1,0,/en/players/ee833569/matchlogs/2019-2020/defense/Etrit-Berisha-Match-Logs
+55,Valon Berisha,xk,"MF,FW",Lazio,26,1993,0.4,1,0,0,1,0,1,2,50.0,1,14,2,14.3,0,1,0,0,0,0,0,0,1,2,0,/en/players/d5575935/matchlogs/2019-2020/defense/Valon-Berisha-Match-Logs
+56,Federico Bernardeschi,it,"MF,FW",Juventus,25,1994,17.5,14,7,5,3,6,14,24,16.7,20,310,73,23.5,5,3,6,21,1,0,20,14,28,12,0,/en/players/ee93c1a9/matchlogs/2019-2020/defense/Federico-Bernardeschi-Match-Logs
+57,Andrea Bertolacci,it,MF,Sampdoria,28,1991,5.9,10,5,2,6,2,10,10,10.0,9,82,26,31.7,2,6,2,9,1,0,8,2,12,9,0,/en/players/c75b6a02/matchlogs/2019-2020/defense/Andrea-Bertolacci-Match-Logs
+58,Lucas Biglia,ar,MF,Milan,33,1986,7.6,12,8,7,5,0,12,21,23.8,16,213,50,23.5,7,5,0,14,5,0,9,10,22,13,0,/en/players/5710a281/matchlogs/2019-2020/defense/Lucas-Biglia-Match-Logs
+59,Cristiano Biraghi,it,"DF,MF",Inter,26,1992,17.5,28,14,13,10,5,28,27,37.0,17,230,53,23.0,13,10,5,51,7,0,44,13,41,39,0,/en/players/9e1577aa/matchlogs/2019-2020/defense/Cristiano-Biraghi-Match-Logs
+60,Davide Biraschi,it,DF,Genoa,25,1994,21.9,49,31,28,17,4,49,23,56.5,10,288,98,34.0,28,17,4,39,16,0,23,35,84,74,0,/en/players/64cd167d/matchlogs/2019-2020/defense/Davide-Biraschi-Match-Logs
+61,Valter Birsa,si,MF,Cagliari,32,1986,4.8,9,8,2,6,1,9,21,28.6,15,73,20,27.4,2,6,1,9,1,0,8,4,13,7,0,/en/players/455a2b79/matchlogs/2019-2020/defense/Valter-Birsa-Match-Logs
+62,Dimitri Bisoli,it,MF,Brescia,25,1994,23.9,80,48,38,36,6,80,68,38.2,42,622,166,26.7,38,36,6,71,7,0,64,23,103,48,0,/en/players/16569fef/matchlogs/2019-2020/defense/Dimitri-Bisoli-Match-Logs
+63,Birkir Bjarnason,is,"MF,FW",Brescia,31,1988,8.9,10,5,2,7,1,10,20,10.0,18,142,21,14.8,2,7,1,10,3,0,7,5,15,5,0,/en/players/da13074e/matchlogs/2019-2020/defense/Birkir-Bjarnason-Match-Logs
+64,Kevin-Prince Boateng,gh,FW,Fiorentina,32,1987,6.7,3,2,0,2,1,3,7,14.3,6,119,21,17.6,0,2,1,5,1,0,4,1,4,6,0,/en/players/f4ec4fd0/matchlogs/2019-2020/defense/Kevin-Prince-Boateng-Match-Logs
+65,Salvatore Bocchetti,it,DF,Hellas Verona,32,1986,3.4,5,2,3,2,0,5,1,0.0,1,40,10,25.0,3,2,0,7,2,0,5,18,23,27,1,/en/players/faa1b07d/matchlogs/2019-2020/defense/Salvatore-Bocchetti-Match-Logs
+66,Jeremie Boga,ci,FW,Sassuolo,22,1997,27.9,23,17,5,11,7,23,22,40.9,13,409,137,33.5,5,11,7,29,0,0,29,4,27,4,0,/en/players/fe012aca/matchlogs/2019-2020/defense/Jeremie-Boga-Match-Logs
+67,Giacomo Bonaventura,it,"MF,FW",Milan,29,1989,14.9,19,14,6,8,5,19,20,35.0,13,244,63,25.8,6,8,5,15,4,1,11,8,27,4,0,/en/players/d995ed27/matchlogs/2019-2020/defense/Giacomo-Bonaventura-Match-Logs
+68,Federico Bonazzoli,it,"FW,MF",Sampdoria,22,1997,8.3,7,6,1,2,4,7,9,11.1,8,159,32,20.1,1,2,4,4,1,0,3,4,11,2,0,/en/players/bf57eaab/matchlogs/2019-2020/defense/Federico-Bonazzoli-Match-Logs
+69,Kevin Bonifazi,it,DF,SPAL,23,1996,13.2,20,13,17,3,0,20,22,45.5,12,126,46,36.5,17,3,0,28,12,0,16,33,53,66,1,/en/players/fb77bfef/matchlogs/2019-2020/defense/Kevin-Bonifazi-Match-Logs
+70,Kevin Bonifazi,it,DF,Torino,23,1996,2.7,9,5,6,3,0,9,6,66.7,2,48,14,29.2,6,3,0,3,2,0,1,5,14,16,0,/en/players/fb77bfef/matchlogs/2019-2020/defense/Kevin-Bonifazi-Match-Logs
+71,Federico Bonini,it,DF,Bologna,17,2001,0.1,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/f8f0744b/matchlogs/2019-2020/defense/Federico-Bonini-Match-Logs
+72,Leonardo Bonucci,it,DF,Juventus,32,1987,34.2,32,17,21,9,2,32,21,57.1,9,184,64,34.8,21,9,2,57,34,0,23,30,62,137,3,/en/players/52ec54d0/matchlogs/2019-2020/defense/Leonardo-Bonucci-Match-Logs
+73,Fabio Borini,it,"MF,FW",Milan,28,1991,0.8,2,2,0,0,2,2,1,0.0,1,13,4,30.8,0,0,2,3,0,0,3,0,2,1,0,/en/players/ef5b337e/matchlogs/2019-2020/defense/Fabio-Borini-Match-Logs
+74,Fabio Borini,it,"FW,MF",Hellas Verona,28,1991,9.0,5,3,4,0,1,5,8,0.0,8,126,33,26.2,4,0,1,10,1,0,9,12,17,7,0,/en/players/ef5b337e/matchlogs/2019-2020/defense/Fabio-Borini-Match-Logs
+75,Mehdi Bourabia,ma,MF,Sassuolo,27,1991,10.3,27,23,9,15,3,27,25,40.0,15,182,74,40.7,9,15,3,20,2,0,18,21,48,25,0,/en/players/0d077b88/matchlogs/2019-2020/defense/Mehdi-Bourabia-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Federico Brancolini,it,GK,Fiorentina,18,2001,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/d4890c25/matchlogs/2019-2020/defense/Federico-Brancolini-Match-Logs
+77,Gleison Bremer,br,DF,Torino,22,1997,25.2,71,40,41,26,4,71,33,66.7,11,431,134,31.1,41,26,4,68,24,0,44,73,144,149,0,/en/players/5fd5ed86/matchlogs/2019-2020/defense/Gleison-Bremer-Match-Logs
+78,Marco Brescianini,it,MF,Milan,19,2000,0.3,2,2,1,1,0,2,0,,0,10,4,40.0,1,1,0,0,0,0,0,2,4,0,0,/en/players/dfd56738/matchlogs/2019-2020/defense/Marco-Brescianini-Match-Logs
+79,Marcelo Brozović,hr,MF,Inter,26,1992,30.0,72,56,29,36,7,72,90,32.2,61,639,160,25.0,29,36,7,50,10,1,40,46,118,52,1,/en/players/33b8d077/matchlogs/2019-2020/defense/Marcelo-Brozovic-Match-Logs
+80,Gastón Brugman,uy,MF,Parma,26,1992,16.2,51,36,27,18,6,51,37,32.4,25,363,102,28.1,27,18,6,35,13,0,22,25,76,26,2,/en/players/e947ee4a/matchlogs/2019-2020/defense/Gaston-Brugman-Match-Logs
+81,Gianluigi Buffon,it,GK,Juventus,41,1978,9.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/e40d028b/matchlogs/2019-2020/defense/Gianluigi-Buffon-Match-Logs
+82,Fabrizio Cacciatore,it,DF,Cagliari,32,1986,12.8,12,5,8,3,1,12,12,25.0,9,129,36,27.9,8,3,1,31,9,0,22,15,27,39,1,/en/players/00b0bb87/matchlogs/2019-2020/defense/Fabrizio-Cacciatore-Match-Logs
+83,Martín Cáceres,uy,DF,Fiorentina,32,1987,26.2,57,36,43,10,4,57,28,39.3,17,255,83,32.5,43,10,4,43,14,0,29,30,87,116,2,/en/players/e94d79e3/matchlogs/2019-2020/defense/Martin-Caceres-Match-Logs
+84,Felipe Caicedo,ec,FW,Lazio,30,1988,15.6,27,24,10,11,6,27,10,20.0,8,232,63,27.2,10,11,6,6,3,0,3,4,31,3,0,/en/players/93b891d1/matchlogs/2019-2020/defense/Felipe-Caicedo-Match-Logs
+85,Davide Calabria,it,DF,Milan,22,1996,18.0,46,20,24,21,1,46,49,40.8,29,296,78,26.4,24,21,1,42,5,2,37,22,68,53,2,/en/players/2146785a/matchlogs/2019-2020/defense/Davide-Calabria-Match-Logs
+86,Riccardo Calafiori,it,DF,Roma,17,2002,0.7,0,0,0,0,0,0,1,0.0,1,8,0,0.0,0,0,0,0,0,0,0,2,2,1,0,/en/players/aded8e6f/matchlogs/2019-2020/defense/Riccardo-Calafiori-Match-Logs
+87,Mattia Caldara,it,DF,Atalanta,25,1994,10.7,25,14,14,10,1,25,15,33.3,10,144,52,36.1,14,10,1,16,7,0,9,32,57,45,2,/en/players/ac7e640b/matchlogs/2019-2020/defense/Mattia-Caldara-Match-Logs
+88,Marco Calderoni,it,DF,Lecce,30,1989,22.9,45,30,28,15,2,45,46,47.8,24,349,88,25.2,28,15,2,60,11,0,49,35,80,48,0,/en/players/652811aa/matchlogs/2019-2020/defense/Marco-Calderoni-Match-Logs
+89,Hakan Çalhanoğlu,tr,"MF,FW",Milan,25,1994,30.0,43,34,18,19,6,43,37,27.0,27,539,158,29.3,18,19,6,33,3,0,30,26,69,23,0,/en/players/cd0fa27b/matchlogs/2019-2020/defense/Hakan-Calhanoglu-Match-Logs
+90,José Callejón,es,"FW,MF",Napoli,32,1987,24.1,16,7,4,9,3,16,20,30.0,14,334,77,23.1,4,9,3,30,3,0,27,9,25,13,1,/en/players/78841da9/matchlogs/2019-2020/defense/Jose-Callejon-Match-Logs
+91,Emre Can,de,MF,Juventus,25,1994,3.2,10,4,5,2,3,10,11,36.4,7,87,24,27.6,5,2,3,9,1,0,8,3,13,2,0,/en/players/a65ce836/matchlogs/2019-2020/defense/Emre-Can-Match-Logs
+92,Antonio Candreva,it,DF,Inter,32,1987,22.1,19,13,12,6,1,19,34,32.4,23,197,55,27.9,12,6,1,46,10,0,36,14,33,25,0,/en/players/356c9002/matchlogs/2019-2020/defense/Antonio-Candreva-Match-Logs
+93,Gianmarco Cangiano,it,"FW,MF",Bologna,17,2001,0.2,1,1,0,1,0,1,0,,0,5,2,40.0,0,1,0,0,0,0,0,1,2,0,0,/en/players/a36084cd/matchlogs/2019-2020/defense/Gianmarco-Cangiano-Match-Logs
+94,Gianluca Caprari,it,"FW,MF",Parma,26,1993,6.5,4,4,2,2,0,4,8,25.0,6,95,27,28.4,2,2,0,10,2,0,8,4,8,0,0,/en/players/54e53b7e/matchlogs/2019-2020/defense/Gianluca-Caprari-Match-Logs
+95,Gianluca Caprari,it,"FW,MF",Sampdoria,26,1993,7.4,10,8,1,7,2,10,11,27.3,8,171,41,24.0,1,7,2,5,1,0,4,7,17,3,0,/en/players/54e53b7e/matchlogs/2019-2020/defense/Gianluca-Caprari-Match-Logs
+96,Francesco Caputo,it,FW,Sassuolo,31,1987,32.6,8,5,0,6,2,8,12,0.0,12,374,99,26.5,0,6,2,17,3,0,14,1,9,9,0,/en/players/5bd72174/matchlogs/2019-2020/defense/Francesco-Caputo-Match-Logs
+97,Andrea Carboni,it,"DF,MF",Cagliari,18,2001,4.1,7,2,4,3,0,7,3,66.7,1,53,8,15.1,4,3,0,9,6,0,3,7,14,17,0,/en/players/f7e2af2c/matchlogs/2019-2020/defense/Andrea-Carboni-Match-Logs
+98,Francesco Cassata,it,MF,Genoa,22,1997,16.2,23,13,14,6,3,23,28,25.0,21,353,104,29.5,14,6,3,20,3,0,17,11,34,13,0,/en/players/96960855/matchlogs/2019-2020/defense/Francesco-Cassata-Match-Logs
+99,Timothy Castagne,be,DF,Atalanta,23,1995,19.7,39,23,12,17,10,39,38,44.7,21,278,80,28.8,12,17,10,49,5,0,44,18,57,30,0,/en/players/197640fd/matchlogs/2019-2020/defense/Timothy-Castagne-Match-Logs
+100,Samu Castillejo,es,"FW,MF",Milan,24,1995,13.4,25,18,9,11,5,25,35,25.7,26,329,88,26.7,9,11,5,37,2,0,35,24,49,6,0,/en/players/130a7a3f/matchlogs/2019-2020/defense/Samu-Castillejo-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Lucas Castro,ar,MF,Cagliari,30,1989,6.7,14,8,5,7,2,14,21,33.3,14,107,28,26.2,5,7,2,7,1,0,6,11,25,17,0,/en/players/56b2957b/matchlogs/2019-2020/defense/Lucas-Castro-Match-Logs
+102,Lucas Castro,ar,MF,SPAL,30,1989,4.7,11,6,5,5,1,11,9,55.6,4,65,20,30.8,5,5,1,6,0,0,6,3,14,3,0,/en/players/56b2957b/matchlogs/2019-2020/defense/Lucas-Castro-Match-Logs
+103,Gaetano Castrovilli,it,MF,Fiorentina,22,1997,29.7,74,46,33,24,17,74,54,25.9,40,690,185,26.8,33,24,17,53,5,0,48,16,90,28,1,/en/players/0728bebe/matchlogs/2019-2020/defense/Gaetano-Castrovilli-Match-Logs
+104,Danilo Cataldi,it,MF,Lazio,24,1994,6.6,19,14,11,5,3,19,18,33.3,12,115,28,24.3,11,5,3,8,1,0,7,13,32,6,0,/en/players/ba3d3bea/matchlogs/2019-2020/defense/Danilo-Cataldi-Match-Logs
+105,Federico Ceccherini,it,DF,Fiorentina,27,1992,9.3,12,10,8,4,0,12,8,75.0,2,63,28,44.4,8,4,0,12,5,0,7,13,25,56,1,/en/players/d9624b51/matchlogs/2019-2020/defense/Federico-Ceccherini-Match-Logs
+106,Christian Celesia,it,DF,Torino,17,2002,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/d2fd20d6/matchlogs/2019-2020/defense/Christian-Celesia-Match-Logs
+107,Luca Ceppitelli,it,DF,Cagliari,29,1989,13.8,20,12,16,4,0,20,7,71.4,2,99,26,26.3,16,4,0,30,16,1,14,22,42,85,1,/en/players/7d50454d/matchlogs/2019-2020/defense/Luca-Ceppitelli-Match-Logs
+108,Alberto Cerri,it,FW,SPAL,23,1996,4.7,3,1,0,2,1,3,3,33.3,2,46,9,19.6,0,2,1,1,0,0,1,0,3,4,0,/en/players/1079c685/matchlogs/2019-2020/defense/Alberto-Cerri-Match-Logs
+109,Alberto Cerri,it,FW,Cagliari,23,1996,2.7,4,3,3,1,0,4,5,40.0,3,34,9,26.5,3,1,0,0,0,0,0,2,6,2,0,/en/players/1079c685/matchlogs/2019-2020/defense/Alberto-Cerri-Match-Logs
+110,Julian Chabot,de,DF,Sampdoria,21,1998,6.3,14,10,10,4,0,14,6,50.0,3,67,21,31.3,10,4,0,8,2,0,6,13,27,40,1,/en/players/ae7058f9/matchlogs/2019-2020/defense/Julian-Chabot-Match-Logs
+111,Jhon Chancellor,ve,DF,Brescia,27,1992,24.9,28,19,22,5,1,28,29,41.4,17,229,63,27.5,22,5,1,55,30,1,25,33,61,198,5,/en/players/84b6acaa/matchlogs/2019-2020/defense/Jhon-Chancellor-Match-Logs
+112,Giorgio Chiellini,it,DF,Juventus,34,1984,2.2,3,2,3,0,0,3,1,100.0,0,18,11,61.1,3,0,0,5,3,0,2,1,4,10,0,/en/players/e85fb9b8/matchlogs/2019-2020/defense/Giorgio-Chiellini-Match-Logs
+113,Federico Chiesa,it,"FW,DF",Fiorentina,21,1997,29.3,49,30,16,23,10,49,52,19.2,42,658,150,22.8,16,23,10,27,0,0,27,6,55,8,0,/en/players/b0f7e36c/matchlogs/2019-2020/defense/Federico-Chiesa-Match-Logs
+114,Vlad Chiricheș,ro,DF,Sassuolo,29,1989,7.9,19,12,16,3,0,19,11,45.5,6,85,23,27.1,16,3,0,17,7,0,10,10,29,32,2,/en/players/c316607a/matchlogs/2019-2020/defense/Vlad-Chiriches-Match-Logs
+115,Luca Cigarini,it,MF,Cagliari,33,1986,17.8,37,26,21,14,2,37,48,27.1,35,254,80,31.5,21,14,2,42,10,0,32,23,60,40,0,/en/players/ae64d449/matchlogs/2019-2020/defense/Luca-Cigarini-Match-Logs
+116,Thiago Cionek,pl,DF,SPAL,33,1986,24.1,65,33,37,21,7,65,55,40.0,33,378,104,27.5,37,21,7,49,13,0,36,45,110,106,3,/en/players/46f5c54d/matchlogs/2019-2020/defense/Thiago-Cionek-Match-Logs
+117,Andrea Cistana,it,DF,Brescia,22,1997,20.4,35,21,24,9,2,35,24,66.7,8,199,57,28.6,24,9,2,52,37,0,15,34,69,121,0,/en/players/fe6a7685/matchlogs/2019-2020/defense/Andrea-Cistana-Match-Logs
+118,Denilho Cleonise,nl,FW,Genoa,17,2001,0.5,0,0,0,0,0,0,0,,0,18,4,22.2,0,0,0,0,0,0,0,1,1,0,0,/en/players/91c9de34/matchlogs/2019-2020/defense/Denilho-Cleonise-Match-Logs
+119,Ebrima Colley,gm,FW,Atalanta,19,2000,0.9,2,1,1,0,1,2,2,50.0,1,15,4,26.7,1,0,1,2,0,0,2,1,3,0,0,/en/players/bf356094/matchlogs/2019-2020/defense/Ebrima-Colley-Match-Logs
+120,Omar Colley,gm,DF,Sampdoria,26,1992,30.8,55,34,37,16,2,55,32,43.8,18,273,93,34.1,37,16,2,51,25,1,26,58,113,215,2,/en/players/8b95acda/matchlogs/2019-2020/defense/Omar-Colley-Match-Logs
+121,Simone Colombi,it,GK,Parma,28,1991,4.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/72be9309/matchlogs/2019-2020/defense/Simone-Colombi-Match-Logs
+122,Lorenzo Colombo,it,FW,Milan,17,2002,0.1,0,0,0,0,0,0,0,,0,4,1,25.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/04df29a5/matchlogs/2019-2020/defense/Lorenzo-Colombo-Match-Logs
+123,Andrea Consigli,it,GK,Sassuolo,32,1987,31.0,0,0,0,0,0,0,1,0.0,1,2,0,0.0,0,0,0,0,0,0,0,4,4,0,1,/en/players/8cabdc1e/matchlogs/2019-2020/defense/Andrea-Consigli-Match-Logs
+124,Andrea Conti,it,DF,Milan,25,1994,19.2,53,31,34,15,4,53,62,29.0,44,335,80,23.9,34,15,4,36,7,0,29,43,96,43,1,/en/players/8fef5412/matchlogs/2019-2020/defense/Andrea-Conti-Match-Logs
+125,Gabriele Corbo,it,DF,Bologna,19,2000,1.4,1,1,1,0,0,1,4,0.0,4,14,4,28.6,1,0,0,2,2,1,0,4,5,9,1,/en/players/091795f2/matchlogs/2019-2020/defense/Gabriele-Corbo-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Andreas Cornelius,dk,FW,Parma,26,1993,16.6,8,6,3,3,2,8,13,15.4,11,219,57,26.0,3,3,2,6,1,0,5,2,10,27,0,/en/players/c693347d/matchlogs/2019-2020/defense/Andreas-Cornelius-Match-Logs
+127,Joaquín Correa,ar,"FW,MF",Lazio,24,1994,22.2,15,11,5,7,3,15,23,13.0,20,357,95,26.6,5,7,3,8,2,0,6,7,22,9,0,/en/players/45b9b619/matchlogs/2019-2020/defense/Joaquin-Correa-Match-Logs
+128,Angelo da Costa Júnior,br,GK,Bologna,35,1983,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/18736214/matchlogs/2019-2020/defense/Angelo-da-Costa-Junior-Match-Logs
+129,Douglas Costa,br,"FW,MF",Juventus,28,1990,8.9,5,5,4,1,0,5,10,10.0,9,115,25,21.7,4,1,0,10,0,0,10,6,11,3,0,/en/players/4fa7cb9b/matchlogs/2019-2020/defense/Douglas-Costa-Match-Logs
+130,Alessio Cragno,it,GK,Cagliari,25,1994,16.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,1,0,/en/players/f554e29b/matchlogs/2019-2020/defense/Alessio-Cragno-Match-Logs
+131,Domenico Criscito,it,DF,Genoa,32,1986,22.8,69,44,46,17,6,69,61,44.3,34,310,99,31.9,46,17,6,53,15,0,38,52,121,83,1,/en/players/35dd6d80/matchlogs/2019-2020/defense/Domenico-Criscito-Match-Logs
+132,Bryan Cristante,it,MF,Roma,24,1995,18.0,25,14,7,14,4,25,27,37.0,17,301,71,23.6,7,14,4,21,4,0,17,26,51,31,0,/en/players/16657b95/matchlogs/2019-2020/defense/Bryan-Cristante-Match-Logs
+133,Sebastián Cristóforo,uy,MF,Fiorentina,25,1993,1.0,5,4,3,1,1,5,6,33.3,4,19,8,42.1,3,1,1,2,1,0,1,1,6,0,0,/en/players/3c05c659/matchlogs/2019-2020/defense/Sebastian-Cristoforo-Match-Logs
+134,Juan Cuadrado,co,DF,Juventus,31,1988,29.5,74,40,39,29,6,74,64,46.9,34,345,103,29.9,39,29,6,51,9,0,42,36,110,55,0,/en/players/0ab1f153/matchlogs/2019-2020/defense/Juan-Cuadrado-Match-Logs
+135,Jaume Cuéllar,bo,"FW,MF",SPAL,17,2001,0.8,1,1,0,0,1,1,1,0.0,1,14,4,28.6,0,0,1,1,0,0,1,0,1,0,0,/en/players/934e264d/matchlogs/2019-2020/defense/Jaume-Cuellar-Match-Logs
+136,Felipe Curcio,br,DF,Brescia,26,1993,0.1,0,0,0,0,0,0,0,,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/8913a9f9/matchlogs/2019-2020/defense/Felipe-Curcio-Match-Logs
+137,Patrick Cutrone,it,FW,Fiorentina,21,1998,9.3,8,6,3,2,3,8,15,0.0,15,227,49,21.6,3,2,3,9,2,0,7,2,10,5,0,/en/players/a4fe8cda/matchlogs/2019-2020/defense/Patrick-Cutrone-Match-Logs
+138,Lennart-Marten Czyborra,de,DF,Atalanta,20,1999,0.2,0,0,0,0,0,0,0,,0,7,4,57.1,0,0,0,2,0,0,2,0,0,0,0,/en/players/7ba1f1ef/matchlogs/2019-2020/defense/Lennart-Marten-Czyborra-Match-Logs
+139,Marco D'Alessandro,it,"MF,DF",SPAL,28,1991,8.7,19,9,6,7,6,19,11,27.3,8,134,39,29.1,6,7,6,12,0,0,12,4,23,7,0,/en/players/060606ec/matchlogs/2019-2020/defense/Marco-DAlessandro-Match-Logs
+140,Danilo D'Ambrosio,it,DF,Inter,30,1988,15.6,34,20,18,9,7,34,36,38.9,22,277,76,27.4,18,9,7,24,5,0,19,14,48,30,0,/en/players/44eb9093/matchlogs/2019-2020/defense/Danilo-DAmbrosio-Match-Logs
+141,Felice D'Amico,it,MF,Sampdoria,18,2000,0.0,2,1,1,0,1,2,1,100.0,0,5,1,20.0,1,0,1,0,0,0,0,0,2,0,0,/en/players/0c35d28d/matchlogs/2019-2020/defense/Felice-DAmico-Match-Logs
+142,Jacopo Da Riva,it,FW,Atalanta,18,2000,0.0,0,0,0,0,0,0,0,,0,4,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/9591723b/matchlogs/2019-2020/defense/Jacopo-Da-Riva-Match-Logs
+143,Bryan Dabo,bf,MF,SPAL,27,1992,12.5,28,14,14,11,3,28,18,22.2,14,212,60,28.3,14,11,3,17,3,0,14,11,39,13,0,/en/players/c53083ad/matchlogs/2019-2020/defense/Bryan-Dabo-Match-Logs
+144,Felipe dal Belo,br,DF,SPAL,35,1984,11.1,14,8,7,7,0,14,18,50.0,9,112,32,28.6,7,7,0,21,12,0,9,8,22,36,0,/en/players/8cea6319/matchlogs/2019-2020/defense/Felipe-dal-Belo-Match-Logs
+145,Christian Dalle Mura,it,MF,Fiorentina,17,2002,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/f32df091/matchlogs/2019-2020/defense/Christian-Dalle-Mura-Match-Logs
+146,Danilo,br,DF,Juventus,28,1991,16.0,34,17,20,7,7,34,25,56.0,11,154,50,32.5,20,7,7,22,4,0,18,23,57,47,0,/en/players/94b2001f/matchlogs/2019-2020/defense/Danilo-Match-Logs
+147,Andrea Danzi,it,MF,Hellas Verona,20,1999,0.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/263b855a/matchlogs/2019-2020/defense/Andrea-Danzi-Match-Logs
+148,Matteo Darmian,it,DF,Parma,29,1989,29.8,72,39,44,25,3,72,77,42.9,44,477,127,26.6,44,25,3,73,20,0,53,25,97,84,0,/en/players/96e0490d/matchlogs/2019-2020/defense/Matteo-Darmian-Match-Logs
+149,Paweł Dawidowicz,pl,DF,Hellas Verona,24,1995,7.7,17,8,11,5,1,17,13,46.2,7,114,34,29.8,11,5,1,11,6,0,5,12,29,53,0,/en/players/16bb656a/matchlogs/2019-2020/defense/Pawel-Dawidowicz-Match-Logs
+150,Sebastien De Maio,fr,DF,Udinese,32,1987,16.7,21,15,15,5,1,21,12,58.3,5,144,46,31.9,15,5,1,44,23,0,21,34,55,94,2,/en/players/952a03fe/matchlogs/2019-2020/defense/Sebastien-De-Maio-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Rodrigo De Paul,ar,MF,Udinese,25,1994,31.4,63,37,36,20,7,63,74,28.4,53,693,186,26.8,36,20,7,51,6,0,45,28,91,10,0,/en/players/162efffd/matchlogs/2019-2020/defense/Rodrigo-De-Paul-Match-Logs
+152,Mattia De Sciglio,it,DF,Juventus,26,1992,5.2,11,5,7,4,0,11,12,50.0,6,48,16,33.3,7,4,0,12,1,0,11,8,19,15,0,/en/players/ae4e2852/matchlogs/2019-2020/defense/Mattia-De-Sciglio-Match-Logs
+153,Lorenzo De Silvestri,it,DF,Torino,31,1988,24.9,16,9,4,9,3,16,32,34.4,21,235,62,26.4,4,9,3,46,7,0,39,20,36,86,0,/en/players/e74f0e59/matchlogs/2019-2020/defense/Lorenzo-De-Silvestri-Match-Logs
+154,Grégoire Defrel,mq,"FW,MF",Sassuolo,28,1991,10.9,11,9,4,5,2,11,16,18.8,13,226,60,26.5,4,5,2,14,0,0,14,3,14,6,0,/en/players/854ee61a/matchlogs/2019-2020/defense/Gregoire-Defrel-Match-Logs
+155,Alessandro Deiola,it,MF,Cagliari,23,1995,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,1,1,1,0,/en/players/7f267d66/matchlogs/2019-2020/defense/Alessandro-Deiola-Match-Logs
+156,Alessandro Deiola,it,MF,Lecce,23,1995,8.0,19,12,8,11,0,19,21,47.6,11,152,45,29.6,8,11,0,15,4,0,11,7,26,19,0,/en/players/7f267d66/matchlogs/2019-2020/defense/Alessandro-Deiola-Match-Logs
+157,Cristian Dell'Orco,it,DF,Lecce,25,1994,11.2,30,16,23,5,2,30,17,58.8,7,118,37,31.4,23,5,2,20,6,0,14,17,47,37,0,/en/players/b0243215/matchlogs/2019-2020/defense/Cristian-DellOrco-Match-Logs
+158,Merih Demiral,tr,DF,Juventus,21,1998,4.6,11,7,8,3,0,11,5,60.0,2,34,10,29.4,8,3,0,7,5,1,2,4,15,29,0,/en/players/e3cceee6/matchlogs/2019-2020/defense/Merih-Demiral-Match-Logs
+159,Diego Demme,de,MF,Napoli,27,1991,10.0,21,13,15,4,2,21,28,32.1,19,201,57,28.4,15,4,2,8,1,0,7,10,31,12,0,/en/players/dc3fa3b5/matchlogs/2019-2020/defense/Diego-Demme-Match-Logs
+160,Stefano Denswil,nl,DF,Bologna,26,1993,24.9,53,35,32,18,3,53,48,62.5,18,281,80,28.5,32,18,3,50,10,0,40,32,85,112,2,/en/players/5832ebfe/matchlogs/2019-2020/defense/Stefano-Denswil-Match-Logs
+161,Fabio Depaoli,it,"MF,DF",Sampdoria,22,1997,20.6,46,26,22,18,6,46,38,39.5,23,399,91,22.8,22,18,6,42,3,0,39,15,61,33,0,/en/players/d97f2e8d/matchlogs/2019-2020/defense/Fabio-Depaoli-Match-Logs
+162,Kastriot Dermaku,al,DF,Parma,27,1992,11.4,9,6,7,2,0,9,11,27.3,8,124,37,29.8,7,2,0,27,18,0,9,12,21,75,0,/en/players/2990c466/matchlogs/2019-2020/defense/Kastriot-Dermaku-Match-Logs
+163,Daniele Dessena,it,MF,Brescia,32,1987,20.8,24,15,12,10,2,24,31,32.3,21,299,72,24.1,12,10,2,21,3,0,18,10,34,24,0,/en/players/02b2937c/matchlogs/2019-2020/defense/Daniele-Dessena-Match-Logs
+164,Mattia Destro,it,"FW,MF",Genoa,28,1991,1.7,0,0,0,0,0,0,0,,0,29,6,20.7,0,0,0,1,0,0,1,0,0,0,0,/en/players/d7d32194/matchlogs/2019-2020/defense/Mattia-Destro-Match-Logs
+165,Mattia Destro,it,FW,Bologna,28,1991,2.1,3,3,0,2,1,3,2,50.0,1,43,9,20.9,0,2,1,1,0,0,1,0,3,0,0,/en/players/d7d32194/matchlogs/2019-2020/defense/Mattia-Destro-Match-Logs
+166,Samuel Di Carmine,it,FW,Hellas Verona,30,1988,14.4,3,2,0,2,1,3,7,0.0,7,208,57,27.4,0,2,1,3,0,0,3,0,3,11,0,/en/players/ef94dc2f/matchlogs/2019-2020/defense/Samuel-Di-Carmine-Match-Logs
+167,Federico Di Francesco,it,FW,SPAL,25,1994,12.0,7,6,3,3,1,7,18,11.1,16,169,43,25.4,3,3,1,13,3,0,10,3,10,3,0,/en/players/1fca9171/matchlogs/2019-2020/defense/Federico-Di-Francesco-Match-Logs
+168,Giovanni Di Lorenzo,it,DF,Napoli,25,1993,33.0,62,43,32,21,9,62,73,46.6,39,397,125,31.5,32,21,9,48,13,1,35,31,93,73,0,/en/players/230a2fac/matchlogs/2019-2020/defense/Giovanni-Di-Lorenzo-Match-Logs
+169,Amadou Diawara,gn,MF,Roma,22,1997,16.9,48,32,14,25,9,48,32,31.3,22,318,95,29.9,14,25,9,23,1,0,22,36,84,19,3,/en/players/bf309d24/matchlogs/2019-2020/defense/Amadou-Diawara-Match-Logs
+170,Mitchell Dijks,nl,DF,Bologna,26,1993,11.2,16,10,8,6,2,16,12,66.7,4,113,38,33.6,8,6,2,21,1,0,20,10,26,27,1,/en/players/0a3065c8/matchlogs/2019-2020/defense/Mitchell-Dijks-Match-Logs
+171,Federico Dimarco,it,DF,Hellas Verona,21,1997,5.8,10,6,3,5,2,10,12,41.7,7,86,28,32.6,3,5,2,8,2,0,6,4,14,18,0,/en/players/970b8574/matchlogs/2019-2020/defense/Federico-Dimarco-Match-Logs
+172,Federico Dimarco,it,"DF,MF",Inter,21,1997,0.3,1,1,0,1,0,1,0,,0,8,5,62.5,0,1,0,1,0,0,1,1,2,1,0,/en/players/970b8574/matchlogs/2019-2020/defense/Federico-Dimarco-Match-Logs
+173,Koffi Djidji,ci,DF,Torino,26,1992,9.5,29,13,20,9,0,29,15,26.7,11,169,41,24.3,20,9,0,41,22,0,19,16,45,55,1,/en/players/933d3b51/matchlogs/2019-2020/defense/Koffi-Djidji-Match-Logs
+174,Berat Djimsiti,al,DF,Atalanta,26,1993,30.9,55,25,22,32,1,55,53,52.8,25,368,131,35.6,22,32,1,38,17,0,21,49,104,158,1,/en/players/6eee05f1/matchlogs/2019-2020/defense/Berat-Djimsiti-Match-Logs
+175,Nicolás Domínguez,ar,MF,Bologna,21,1998,7.8,22,16,15,6,1,22,26,42.3,15,235,72,30.6,15,6,1,14,1,0,13,11,33,9,0,/en/players/20b3a502/matchlogs/2019-2020/defense/Nicolas-Dominguez-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Giulio Donati,it,DF,Lecce,29,1990,19.6,32,25,22,6,4,32,35,31.4,24,182,57,31.3,22,6,4,36,12,1,24,26,58,40,1,/en/players/22051fbe/matchlogs/2019-2020/defense/Giulio-Donati-Match-Logs
+177,Alfredo Donnarumma,it,FW,Brescia,28,1990,18.7,13,7,2,7,4,13,16,18.8,13,345,66,19.1,2,7,4,10,1,0,9,5,18,2,0,/en/players/5592007b/matchlogs/2019-2020/defense/Alfredo-Donnarumma-Match-Logs
+178,Gianluigi Donnarumma,it,GK,Milan,20,1999,35.6,0,0,0,0,0,0,2,0.0,2,6,2,33.3,0,0,0,0,0,0,0,3,3,1,4,/en/players/08f5afaa/matchlogs/2019-2020/defense/Gianluigi-Donnarumma-Match-Logs
+179,Bartłomiej Drągowski,pl,GK,Fiorentina,21,1997,31.0,0,0,0,0,0,0,1,0.0,1,1,0,0.0,0,0,0,0,0,0,0,2,2,0,0,/en/players/085e71a7/matchlogs/2019-2020/defense/Bartlomiej-Dragowski-Match-Logs
+180,Léo Duarte,br,DF,Milan,23,1996,4.5,5,1,2,2,1,5,3,33.3,2,53,12,22.6,2,2,1,12,6,0,6,3,8,12,0,/en/players/73ddc40c/matchlogs/2019-2020/defense/Leo-Duarte-Match-Logs
+181,Edgaras Dubickas,lt,DF,Lecce,21,1998,0.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/c59f90b0/matchlogs/2019-2020/defense/Edgaras-Dubickas-Match-Logs
+182,Alfred Duncan,gh,MF,Sassuolo,26,1993,9.4,18,11,6,7,5,18,21,33.3,14,171,47,27.5,6,7,5,12,0,0,12,10,28,19,0,/en/players/528492ea/matchlogs/2019-2020/defense/Alfred-Duncan-Match-Logs
+183,Alfred Duncan,gh,MF,Fiorentina,26,1993,9.9,13,7,11,2,0,13,18,22.2,14,152,50,32.9,11,2,0,8,1,0,7,5,18,10,0,/en/players/528492ea/matchlogs/2019-2020/defense/Alfred-Duncan-Match-Logs
+184,Paulo Dybala,ar,"FW,MF",Juventus,25,1993,23.9,24,18,7,11,6,24,32,25.0,24,401,111,27.7,7,11,6,26,0,0,26,13,37,2,0,/en/players/e0921a4f/matchlogs/2019-2020/defense/Paulo-Dybala-Match-Logs
+185,Edin Džeko,ba,FW,Roma,33,1986,31.7,17,11,2,7,8,17,12,8.3,11,280,80,28.6,2,7,8,12,3,0,9,6,23,34,0,/en/players/3bb7f478/matchlogs/2019-2020/defense/Edin-Dzeko-Match-Logs
+186,Blerim Džemaili,ch,MF,Bologna,33,1986,7.8,18,16,4,11,3,18,27,25.9,20,196,51,26.0,4,11,3,15,3,0,12,7,25,10,0,/en/players/756959aa/matchlogs/2019-2020/defense/Blerim-Dzemaili-Match-Logs
+187,Simone Edera,it,"MF,FW",Torino,22,1997,4.4,12,7,4,7,1,12,13,15.4,11,89,27,30.3,4,7,1,2,1,0,1,1,13,4,0,/en/players/8697c095/matchlogs/2019-2020/defense/Simone-Edera-Match-Logs
+188,Albin Ekdal,se,MF,Sampdoria,30,1989,26.5,58,44,21,34,3,58,74,25.7,55,507,151,29.8,21,34,3,48,13,0,35,31,89,52,1,/en/players/f503ea63/matchlogs/2019-2020/defense/Albin-Ekdal-Match-Logs
+189,Elif Elmas,mk,MF,Napoli,19,1999,12.6,16,10,5,6,5,16,24,25.0,18,251,69,27.5,5,6,5,17,1,0,16,11,27,6,0,/en/players/cf007308/matchlogs/2019-2020/defense/Elif-Elmas-Match-Logs
+190,Alan Empereur,br,DF,Hellas Verona,25,1994,9.5,20,13,16,4,0,20,12,66.7,4,100,38,38.0,16,4,0,23,12,0,11,25,45,44,0,/en/players/825b8997/matchlogs/2019-2020/defense/Alan-Empereur-Match-Logs
+191,Christian Eriksen,dk,MF,Inter,27,1992,7.8,9,6,1,7,1,9,19,10.5,17,109,24,22.0,1,7,1,4,0,0,4,0,9,0,0,/en/players/980522ec/matchlogs/2019-2020/defense/Christian-Eriksen-Match-Logs
+192,Espeto,br,"DF,MF",SPAL,22,1997,23.4,67,39,27,29,11,67,55,43.6,31,563,141,25.0,27,29,11,44,3,0,41,22,89,23,1,/en/players/674cfc5a/matchlogs/2019-2020/defense/Espeto-Match-Logs
+193,Sebastiano Esposito,it,FW,Inter,17,2002,2.2,3,3,0,2,1,3,4,0.0,4,79,24,30.4,0,2,1,5,1,0,4,3,6,0,0,/en/players/7ff93107/matchlogs/2019-2020/defense/Sebastiano-Esposito-Match-Logs
+194,Valentin Eysseric,fr,MF,Fiorentina,27,1992,0.5,0,0,0,0,0,0,0,,0,16,2,12.5,0,0,0,1,0,0,1,0,0,1,0,/en/players/ae82fa48/matchlogs/2019-2020/defense/Valentin-Eysseric-Match-Logs
+195,Valentin Eysseric,fr,"MF,FW",Hellas Verona,27,1992,3.9,4,1,2,1,1,4,3,0.0,3,64,14,21.9,2,1,1,2,0,0,2,2,6,3,0,/en/players/ae82fa48/matchlogs/2019-2020/defense/Valentin-Eysseric-Match-Logs
+196,Luca Falbo,it,DF,Lazio,19,2000,0.0,0,0,0,0,0,0,0,,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/ca8fa0c0/matchlogs/2019-2020/defense/Luca-Falbo-Match-Logs
+197,Filippo Falco,it,"FW,MF",Lecce,27,1992,22.4,19,15,3,8,8,19,16,25.0,12,236,56,23.7,3,8,8,13,1,0,12,5,24,1,0,/en/players/e23f56c1/matchlogs/2019-2020/defense/Filippo-Falco-Match-Logs
+198,Wladimiro Falcone,it,GK,Sampdoria,24,1995,2.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/9f5a610b/matchlogs/2019-2020/defense/Wladimiro-Falcone-Match-Logs
+199,Iago Falque,es,"MF,FW",Torino,29,1990,1.1,0,0,0,0,0,0,2,0.0,2,17,5,29.4,0,0,0,4,1,0,3,0,0,0,0,/en/players/440c84ed/matchlogs/2019-2020/defense/Iago-Falque-Match-Logs
+200,Iago Falque,es,MF,Genoa,29,1990,5.8,3,2,0,1,2,3,10,20.0,8,58,14,24.1,0,1,2,8,0,0,8,1,4,2,0,/en/players/440c84ed/matchlogs/2019-2020/defense/Iago-Falque-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Andri Fannar Baldursson,is,MF,Bologna,17,2002,1.6,1,1,0,1,0,1,3,33.3,2,45,10,22.2,0,1,0,1,0,0,1,1,2,2,0,/en/players/61f2f56a/matchlogs/2019-2020/defense/Andri-Fannar-Baldursson-Match-Logs
+202,Paolo Faragò,it,DF,Cagliari,26,1993,14.9,47,28,25,17,5,47,52,40.4,31,251,73,29.1,25,17,5,37,10,0,27,9,56,69,2,/en/players/9085dd7c/matchlogs/2019-2020/defense/Paolo-Farago-Match-Logs
+203,Davide Faraoni,it,DF,Hellas Verona,27,1991,35.9,62,36,39,18,5,62,81,28.4,58,502,156,31.1,39,18,5,93,18,1,75,36,98,127,1,/en/players/aae9d04a/matchlogs/2019-2020/defense/Davide-Faraoni-Match-Logs
+204,Mohamed Fares,dz,"DF,MF",SPAL,23,1996,4.7,7,3,2,4,1,7,13,15.4,11,79,19,24.1,2,4,1,7,2,0,5,6,13,10,0,/en/players/b7a5bc86/matchlogs/2019-2020/defense/Mohamed-Fares-Match-Logs
+205,Diego Farias,br,"FW,MF",Lecce,29,1990,9.2,10,5,4,5,1,10,21,23.8,16,183,27,14.8,4,5,1,9,0,0,9,4,14,4,0,/en/players/157d29b6/matchlogs/2019-2020/defense/Diego-Farias-Match-Logs
+206,Andrea Favilli,it,FW,Genoa,22,1997,7.3,7,5,2,3,2,7,6,0.0,6,110,22,20.0,2,3,2,5,0,0,5,0,7,5,0,/en/players/44510fde/matchlogs/2019-2020/defense/Andrea-Favilli-Match-Logs
+207,Federico Fazio,ar,DF,Roma,32,1987,13.5,20,11,12,6,2,20,13,46.2,7,113,43,38.1,12,6,2,16,8,0,8,24,44,63,0,/en/players/4e358a2d/matchlogs/2019-2020/defense/Federico-Fazio-Match-Logs
+208,Luiz Felipe,br,DF,Lazio,22,1997,22.5,49,24,29,17,3,49,41,61.0,16,219,62,28.3,29,17,3,65,34,0,31,43,92,77,4,/en/players/15d0c248/matchlogs/2019-2020/defense/Luiz-Felipe-Match-Logs
+209,Lucas Felippe,br,"MF,DF",Hellas Verona,19,2000,0.3,1,0,1,0,0,1,1,100.0,0,3,1,33.3,1,0,0,0,0,0,0,0,1,0,0,/en/players/85e51909/matchlogs/2019-2020/defense/Lucas-Felippe-Match-Logs
+210,Alex Ferrari,it,DF,Sampdoria,25,1994,11.2,17,12,13,4,0,17,11,36.4,7,133,34,25.6,13,4,0,22,11,0,11,11,28,52,0,/en/players/d0dbca9f/matchlogs/2019-2020/defense/Alex-Ferrari-Match-Logs
+211,Sergio Floccari,it,FW,SPAL,37,1981,10.5,9,6,1,4,4,9,14,0.0,14,247,55,22.3,1,4,4,11,1,0,10,5,14,1,0,/en/players/df301450/matchlogs/2019-2020/defense/Sergio-Floccari-Match-Logs
+212,Alessandro Florenzi,it,"DF,FW",Roma,28,1991,11.1,16,13,9,4,3,16,22,22.7,17,131,43,32.8,9,4,3,22,2,0,20,16,32,29,0,/en/players/e288d4b3/matchlogs/2019-2020/defense/Alessandro-Florenzi-Match-Logs
+213,Seko Fofana,ci,MF,Udinese,24,1995,25.0,21,12,10,9,2,21,33,18.2,27,380,89,23.4,10,9,2,27,1,0,26,15,36,21,0,/en/players/5313ed43/matchlogs/2019-2020/defense/Seko-Fofana-Match-Logs
+214,Gianluca Frabotta,it,DF,Juventus,20,1999,1.0,2,1,0,1,1,2,4,50.0,2,17,6,35.3,0,1,1,4,0,0,4,1,3,0,0,/en/players/d80b1835/matchlogs/2019-2020/defense/Gianluca-Frabotta-Match-Logs
+215,Remo Freuler,ch,MF,Atalanta,27,1992,26.0,63,48,30,26,7,63,80,26.3,59,589,191,32.4,30,26,7,60,6,0,54,25,88,37,0,/en/players/98d2c2c4/matchlogs/2019-2020/defense/Remo-Freuler-Match-Logs
+216,Daniel Fuzato,br,GK,Roma,22,1997,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/82328faf/matchlogs/2019-2020/defense/Daniel-Fuzato-Match-Logs
+217,Matteo Gabbia,it,DF,Milan,19,1999,7.6,10,5,6,4,0,10,11,45.5,6,83,23,27.7,6,4,0,10,5,0,5,10,20,36,0,/en/players/c235e803/matchlogs/2019-2020/defense/Matteo-Gabbia-Match-Logs
+218,Manolo Gabbiadini,it,FW,Sampdoria,27,1991,22.6,16,11,3,5,8,16,14,28.6,10,244,62,25.4,3,5,8,10,3,0,7,11,27,12,0,/en/players/8f866fe8/matchlogs/2019-2020/defense/Manolo-Gabbiadini-Match-Logs
+219,Gabriel,br,GK,Lecce,26,1992,33.3,0,0,0,0,0,0,1,0.0,1,6,1,16.7,0,0,0,0,0,0,0,0,0,2,2,/en/players/f93ed0df/matchlogs/2019-2020/defense/Gabriel-Match-Logs
+220,Luca Gagliano,it,FW,Cagliari,19,2000,0.6,0,0,0,0,0,0,0,,0,6,1,16.7,0,0,0,0,0,0,0,1,1,0,0,/en/players/1d00a56c/matchlogs/2019-2020/defense/Luca-Gagliano-Match-Logs
+221,Roberto Gagliardini,it,MF,Inter,25,1994,20.0,41,27,13,17,11,41,45,28.9,32,380,123,32.4,13,17,11,41,8,0,33,31,72,21,0,/en/players/ce30bfc8/matchlogs/2019-2020/defense/Roberto-Gagliardini-Match-Logs
+222,Riccardo Gagliolo,se,DF,Parma,29,1990,28.9,60,39,37,16,7,60,70,40.0,42,340,95,27.9,37,16,7,75,18,0,57,55,115,107,0,/en/players/173061c0/matchlogs/2019-2020/defense/Riccardo-Gagliolo-Match-Logs
+223,Daniele Gastaldello,it,DF,Brescia,36,1983,4.3,9,8,8,1,0,9,7,28.6,5,42,16,38.1,8,1,0,16,6,0,10,5,14,30,0,/en/players/13f89eaa/matchlogs/2019-2020/defense/Daniele-Gastaldello-Match-Logs
+224,Gervinho,ci,FW,Parma,32,1987,25.2,8,7,4,3,1,8,16,18.8,13,307,70,22.8,4,3,1,7,0,0,7,5,13,1,0,/en/players/e468c053/matchlogs/2019-2020/defense/Gervinho-Match-Logs
+225,Rachid Ghezzal,dz,"MF,FW",Fiorentina,27,1992,9.2,24,17,13,7,4,24,34,26.5,25,208,53,25.5,13,7,4,11,1,0,10,8,32,9,0,/en/players/dc3a9a0d/matchlogs/2019-2020/defense/Rachid-Ghezzal-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,Andrea Ghezzi,it,"MF,FW",Brescia,,,0.4,1,0,0,0,1,1,1,100.0,0,13,5,38.5,0,0,1,1,0,0,1,0,1,0,0,/en/players/c840baa2/matchlogs/2019-2020/defense/Andrea-Ghezzi-Match-Logs
+227,Paolo Ghiglione,it,DF,Genoa,22,1997,19.1,31,19,14,14,3,31,31,41.9,18,258,75,29.1,14,14,3,28,2,0,26,8,39,47,0,/en/players/71dc23da/matchlogs/2019-2020/defense/Paolo-Ghiglione-Match-Logs
+228,Andrea Ghion,it,"MF,FW",Sassuolo,19,2000,0.5,3,1,1,2,0,3,1,100.0,0,4,3,75.0,1,2,0,0,0,0,0,0,3,0,0,/en/players/7f24b3eb/matchlogs/2019-2020/defense/Andrea-Ghion-Match-Logs
+229,Faouzi Ghoulam,dz,DF,Napoli,28,1991,4.2,8,3,2,5,1,8,4,50.0,2,42,10,23.8,2,5,1,9,2,0,7,5,13,6,0,/en/players/c5adc293/matchlogs/2019-2020/defense/Faouzi-Ghoulam-Match-Logs
+230,Diego Godín,uy,DF,Inter,33,1986,18.1,43,29,22,19,2,43,37,45.9,20,238,76,31.9,22,19,2,23,5,0,18,45,88,82,1,/en/players/fc4f85b1/matchlogs/2019-2020/defense/Diego-Godin-Match-Logs
+231,Edoardo Goldaniga,it,DF,Genoa,25,1993,8.7,13,8,8,5,0,13,7,14.3,6,89,33,37.1,8,5,0,16,8,0,8,17,30,38,1,/en/players/4b029b31/matchlogs/2019-2020/defense/Edoardo-Goldaniga-Match-Logs
+232,Pierluigi Gollini,it,GK,Atalanta,24,1995,32.0,0,0,0,0,0,0,2,0.0,2,8,3,37.5,0,0,0,0,0,0,0,0,0,1,0,/en/players/f0f7f62f/matchlogs/2019-2020/defense/Pierluigi-Gollini-Match-Logs
+233,Papu Gómez,ar,"MF,FW",Atalanta,31,1988,31.6,31,24,11,12,8,31,46,39.1,28,364,103,28.3,11,12,8,35,0,0,35,16,47,10,1,/en/players/6e4df551/matchlogs/2019-2020/defense/Papu-Gomez-Match-Logs
+234,Robin Gosens,de,DF,Atalanta,25,1994,29.1,60,32,23,26,11,60,55,32.7,37,361,111,30.7,23,26,11,56,11,0,45,39,99,58,0,/en/players/2d970560/matchlogs/2019-2020/defense/Robin-Gosens-Match-Logs
+235,Alberto Grassi,it,MF,Parma,24,1995,7.1,10,7,6,4,0,10,11,36.4,7,109,35,32.1,6,4,0,16,4,0,12,19,29,9,0,/en/players/6cc97b6a/matchlogs/2019-2020/defense/Alberto-Grassi-Match-Logs
+236,Sinan Gümüş,tr,FW,Genoa,25,1994,1.1,0,0,0,0,0,0,3,0.0,3,20,2,10.0,0,0,0,1,0,0,1,0,0,0,0,/en/players/ac1f056e/matchlogs/2019-2020/defense/Sinan-Gumus-Match-Logs
+237,Koray Günter,de,DF,Hellas Verona,24,1994,30.4,36,23,20,15,1,36,34,41.2,20,334,102,30.5,20,15,1,61,39,0,22,53,89,178,1,/en/players/f1f1f238/matchlogs/2019-2020/defense/Koray-Gunter-Match-Logs
+238,Samir Handanović,si,GK,Inter,35,1984,35.0,0,0,0,0,0,0,2,0.0,2,5,0,0.0,0,0,0,0,0,0,0,0,0,1,1,/en/players/74419746/matchlogs/2019-2020/defense/Samir-Handanovic-Match-Logs
+239,Lukáš Haraslín,sk,FW,Sassuolo,23,1996,4.3,8,5,3,2,3,8,7,42.9,4,64,15,23.4,3,2,3,6,0,0,6,4,12,1,0,/en/players/5c397195/matchlogs/2019-2020/defense/Lukas-Haraslin-Match-Logs
+240,Hans Hateboer,nl,DF,Atalanta,25,1994,26.2,42,24,21,13,8,42,49,44.9,27,346,105,30.3,21,13,8,42,6,1,36,10,52,35,0,/en/players/3b333ac3/matchlogs/2019-2020/defense/Hans-Hateboer-Match-Logs
+241,Liam Henderson,sco,MF,Hellas Verona,23,1996,2.2,4,2,2,1,1,4,4,50.0,2,57,15,26.3,2,1,1,1,0,0,1,0,4,5,0,/en/players/d7918b13/matchlogs/2019-2020/defense/Liam-Henderson-Match-Logs
+242,Dalbert Henrique,br,DF,Fiorentina,25,1993,27.6,63,30,39,18,6,63,57,29.8,40,503,135,26.8,39,18,6,53,4,0,49,16,79,69,0,/en/players/f45f9427/matchlogs/2019-2020/defense/Dalbert-Henrique-Match-Logs
+243,Theo Hernández,fr,DF,Milan,21,1997,31.3,75,48,47,21,7,75,62,43.5,35,490,166,33.9,47,21,7,66,8,0,58,42,117,53,1,/en/players/d4c9725f/matchlogs/2019-2020/defense/Theo-Hernandez-Match-Logs
+244,Hernani,br,MF,Parma,25,1994,26.9,75,47,39,30,6,75,114,16.7,95,799,190,23.8,39,30,6,81,10,0,71,49,124,54,1,/en/players/6f5ead86/matchlogs/2019-2020/defense/Hernani-Match-Logs
+245,Gonzalo Higuaín,ar,FW,Juventus,31,1987,20.7,11,8,2,4,5,11,32,9.4,29,301,72,23.9,2,4,5,19,2,0,17,6,17,14,0,/en/players/8a08491a/matchlogs/2019-2020/defense/Gonzalo-Higuain-Match-Logs
+246,Krisztofer Horváth,hu,"FW,DF",SPAL,17,2002,0.5,1,1,0,1,0,1,1,100.0,0,8,3,37.5,0,1,0,1,0,0,1,0,1,0,0,/en/players/4ce8f4a3/matchlogs/2019-2020/defense/Krisztofer-Horvath-Match-Logs
+247,Elseid Hysaj,al,DF,Napoli,25,1994,16.5,23,17,14,7,2,23,23,39.1,14,165,52,31.5,14,7,2,32,4,0,28,24,47,33,0,/en/players/2f3452eb/matchlogs/2019-2020/defense/Elseid-Hysaj-Match-Logs
+248,Simone Iacoponi,it,DF,Parma,32,1987,33.9,52,32,32,17,3,52,51,51.0,25,326,114,35.0,32,17,3,59,38,0,21,35,87,170,2,/en/players/63071a3f/matchlogs/2019-2020/defense/Simone-Iacoponi-Match-Logs
+249,Roger Ibanez,br,DF,Roma,20,1998,6.8,13,8,9,2,2,13,10,60.0,4,67,21,31.3,9,2,2,12,7,0,5,20,33,31,1,/en/players/82efe6fa/matchlogs/2019-2020/defense/Roger-Ibanez-Match-Logs
+250,Zlatan Ibrahimović,se,FW,Milan,37,1981,15.1,4,3,0,3,1,4,7,0.0,7,128,30,23.4,0,3,1,9,4,0,5,5,9,23,0,/en/players/4cde5509/matchlogs/2019-2020/defense/Zlatan-Ibrahimovic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,Igor,br,DF,Fiorentina,21,1998,6.8,13,10,8,3,2,13,9,55.6,4,92,29,31.5,8,3,2,11,4,0,7,9,22,20,0,/en/players/a4e85758/matchlogs/2019-2020/defense/Igor-Match-Logs
+252,Igor,br,DF,SPAL,21,1998,14.9,27,17,13,12,2,27,17,47.1,9,195,48,24.6,13,12,2,34,9,0,25,25,52,57,1,/en/players/a4e85758/matchlogs/2019-2020/defense/Igor-Match-Logs
+253,Josip Iličić,si,FW,Atalanta,31,1988,18.5,28,21,8,13,7,28,30,23.3,23,329,87,26.4,8,13,7,19,0,0,19,8,36,6,0,/en/players/68252d6d/matchlogs/2019-2020/defense/Josip-Ilicic-Match-Logs
+254,Giannelli Imbula,cd,MF,Lecce,26,1992,1.4,1,0,1,0,0,1,1,0.0,1,15,0,0.0,1,0,0,2,1,0,1,2,3,1,0,/en/players/b86fe156/matchlogs/2019-2020/defense/Giannelli-Imbula-Match-Logs
+255,Ciro Immobile,it,FW,Lazio,29,1990,35.2,12,7,2,7,3,12,22,0.0,22,493,106,21.5,2,7,3,19,4,0,15,11,23,9,0,/en/players/4431aed2/matchlogs/2019-2020/defense/Ciro-Immobile-Match-Logs
+256,Roberto Inglese,it,FW,Parma,27,1991,8.5,10,7,3,3,4,10,12,16.7,10,159,41,25.8,3,3,4,10,2,0,8,2,12,1,0,/en/players/6c1f7328/matchlogs/2019-2020/defense/Roberto-Inglese-Match-Logs
+257,Lorenzo Insigne,it,"FW,MF",Napoli,28,1991,31.2,31,23,9,14,8,31,50,24.0,38,424,122,28.8,9,14,8,27,2,0,25,29,60,3,1,/en/players/2f557579/matchlogs/2019-2020/defense/Lorenzo-Insigne-Match-Logs
+258,Artur Ioniță,md,MF,Cagliari,28,1990,21.1,36,20,9,21,6,36,45,26.7,33,368,99,26.9,9,21,6,39,10,0,29,18,54,25,1,/en/players/cedb3e36/matchlogs/2019-2020/defense/Artur-Ionita-Match-Logs
+259,Jakub Iskra,pl,DF,SPAL,16,2002,0.9,0,0,0,0,0,0,0,,0,4,0,0.0,0,0,0,0,0,0,0,1,1,3,0,/en/players/103b7264/matchlogs/2019-2020/defense/Jakub-Iskra-Match-Logs
+260,Armando Izzo,it,DF,Torino,27,1992,29.8,49,33,27,17,5,49,36,44.4,20,325,101,31.1,27,17,5,67,32,0,35,72,121,161,1,/en/players/89976232/matchlogs/2019-2020/defense/Armando-Izzo-Match-Logs
+261,Filip Jagiełło,pl,MF,Genoa,21,1997,6.1,7,4,1,3,3,7,5,0.0,5,94,17,18.1,1,3,3,6,0,0,6,4,11,8,0,/en/players/4cdcbc14/matchlogs/2019-2020/defense/Filip-Jagiello-Match-Logs
+262,Mato Jajalo,ba,MF,Udinese,31,1988,18.3,47,25,22,23,2,47,53,30.2,37,368,101,27.4,22,23,2,33,11,0,22,16,63,29,0,/en/players/8c65eb5f/matchlogs/2019-2020/defense/Mato-Jajalo-Match-Logs
+263,Marko Janković,me,"MF,DF",SPAL,24,1995,1.3,3,2,1,1,1,3,3,33.3,2,39,11,28.2,1,1,1,4,2,0,2,0,3,1,0,/en/players/9866afec/matchlogs/2019-2020/defense/Marko-Jankovic-Match-Logs
+264,Jakub Jankto,cz,MF,Sampdoria,23,1996,23.3,28,15,9,15,4,28,47,21.3,37,433,94,21.7,9,15,4,45,4,0,41,22,50,23,0,/en/players/1ea5f91c/matchlogs/2019-2020/defense/Jakub-Jankto-Match-Logs
+265,Juan Jesus,br,DF,Roma,28,1991,1.5,4,2,3,1,0,4,3,0.0,3,22,11,50.0,3,1,0,4,0,0,4,0,4,3,0,/en/players/79083382/matchlogs/2019-2020/defense/Juan-Jesus-Match-Logs
+266,Jony,es,DF,Lazio,28,1991,13.1,17,11,10,3,4,17,27,22.2,21,177,49,27.7,10,3,4,26,2,0,24,14,31,14,0,/en/players/244f57b9/matchlogs/2019-2020/defense/Jony-Match-Logs
+267,Jesse Joronen,fi,GK,Brescia,26,1993,29.0,0,0,0,0,0,0,1,0.0,1,3,0,0.0,0,0,0,0,0,0,0,6,6,4,0,/en/players/7f66ea09/matchlogs/2019-2020/defense/Jesse-Joronen-Match-Logs
+268,Hamed Junior Traorè,ci,"MF,FW",Sassuolo,19,2000,17.4,32,14,12,13,7,32,30,23.3,23,295,75,25.4,12,13,7,24,2,0,22,11,43,8,0,/en/players/570bb4b9/matchlogs/2019-2020/defense/Hamed-Junior-Traore-Match-Logs
+269,Musa Juwara,gm,"FW,MF",Bologna,17,2001,1.7,3,0,1,1,1,3,2,50.0,1,34,7,20.6,1,1,1,2,1,0,1,0,3,1,0,/en/players/7737dee2/matchlogs/2019-2020/defense/Musa-Juwara-Match-Logs
+270,Nikola Kalinić,hr,FW,Roma,31,1988,6.3,0,0,0,0,0,0,0,,0,52,17,32.7,0,0,0,3,0,0,3,1,1,1,0,/en/players/d4931a5a/matchlogs/2019-2020/defense/Nikola-Kalinic-Match-Logs
+271,Yann Karamoh,fr,"FW,MF",Parma,21,1998,6.4,8,5,3,4,1,8,10,30.0,7,137,35,25.5,3,4,1,8,0,0,8,2,10,4,0,/en/players/8b66d9cc/matchlogs/2019-2020/defense/Yann-Karamoh-Match-Logs
+272,Franck Kessié,ci,MF,Milan,22,1996,32.3,52,33,24,19,9,52,52,26.9,38,593,165,27.8,24,19,9,54,6,0,48,34,86,41,1,/en/players/05e19d6a/matchlogs/2019-2020/defense/Franck-Kessie-Match-Logs
+273,Sami Khedira,de,MF,Juventus,32,1987,7.6,17,13,3,8,6,17,18,16.7,15,131,44,33.6,3,8,6,20,2,0,18,3,20,11,0,/en/players/38ac43d3/matchlogs/2019-2020/defense/Sami-Khedira-Match-Logs
+274,Giorgos Kiriakopoulos,gr,DF,Sassuolo,23,1996,18.3,41,27,27,7,7,41,40,52.5,19,271,84,31.0,27,7,7,30,5,0,25,19,60,37,0,/en/players/0a483542/matchlogs/2019-2020/defense/Giorgos-Kiriakopoulos-Match-Logs
+275,Simon Kjær,dk,DF,Atalanta,30,1989,3.2,4,3,1,3,0,4,7,42.9,4,49,14,28.6,1,3,0,11,4,0,7,7,11,19,1,/en/players/8b8a56ce/matchlogs/2019-2020/defense/Simon-Kjaer-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,Simon Kjær,dk,DF,Milan,30,1989,13.8,26,15,20,6,0,26,21,52.4,10,123,43,35.0,20,6,0,27,18,0,9,19,45,67,1,/en/players/8b8a56ce/matchlogs/2019-2020/defense/Simon-Kjaer-Match-Logs
+277,Ragnar Klavan,ee,DF,Cagliari,33,1985,26.2,36,25,26,10,0,36,40,50.0,20,243,91,37.4,26,10,0,43,25,0,18,29,65,146,1,/en/players/008a6e6d/matchlogs/2019-2020/defense/Ragnar-Klavan-Match-Logs
+278,Justin Kluivert,nl,FW,Roma,20,1999,16.8,19,12,5,9,5,19,22,31.8,15,259,69,26.6,5,9,5,26,0,0,26,6,25,6,0,/en/players/4c3a6744/matchlogs/2019-2020/defense/Justin-Kluivert-Match-Logs
+279,Aleksandar Kolarov,rs,DF,Roma,33,1985,30.4,41,25,24,12,5,41,43,46.5,23,262,112,42.7,24,12,5,36,10,0,26,31,72,71,1,/en/players/eda40760/matchlogs/2019-2020/defense/Aleksandar-Kolarov-Match-Logs
+280,Christian Kouamé,ci,FW,Genoa,21,1997,10.2,5,3,0,2,3,5,11,0.0,11,161,30,18.6,0,2,3,12,3,0,9,2,7,10,0,/en/players/58e933d2/matchlogs/2019-2020/defense/Christian-Kouame-Match-Logs
+281,Christian Kouamé,ci,FW,Fiorentina,21,1997,3.3,2,1,0,2,0,2,2,0.0,2,50,14,28.0,0,2,0,6,1,0,5,1,3,1,0,/en/players/58e933d2/matchlogs/2019-2020/defense/Christian-Kouame-Match-Logs
+282,Kalidou Koulibaly,sn,DF,Napoli,28,1991,23.4,61,41,32,25,4,61,33,66.7,11,248,89,35.9,32,25,4,40,19,2,21,33,94,92,1,/en/players/da974c7b/matchlogs/2019-2020/defense/Kalidou-Koulibaly-Match-Logs
+283,Ladislav Krejčí,cz,DF,Bologna,27,1992,11.7,18,9,6,11,1,18,21,38.1,13,186,46,24.7,6,11,1,24,4,1,20,10,28,22,0,/en/players/58027adc/matchlogs/2019-2020/defense/Ladislav-Krejci-Match-Logs
+284,Rade Krunić,ba,MF,Milan,25,1993,6.0,17,11,9,5,3,17,17,29.4,12,117,41,35.0,9,5,3,6,0,0,6,11,28,2,0,/en/players/817c6964/matchlogs/2019-2020/defense/Rade-Krunic-Match-Logs
+285,Juraj Kucka,sk,"MF,FW",Parma,32,1987,21.5,51,35,25,20,6,51,71,25.4,53,445,116,26.1,25,20,6,36,7,0,29,26,77,40,0,/en/players/5aaef9ef/matchlogs/2019-2020/defense/Juraj-Kucka-Match-Logs
+286,Dejan Kulusevski,se,"FW,MF",Parma,19,2000,32.6,38,21,10,19,9,38,51,25.5,38,728,173,23.8,10,19,9,36,3,0,33,22,60,13,0,/en/players/df3cda47/matchlogs/2019-2020/defense/Dejan-Kulusevski-Match-Logs
+287,Marash Kumbulla,al,DF,Hellas Verona,19,2000,21.7,57,39,30,24,3,57,42,54.8,19,369,123,33.3,30,24,3,40,22,0,18,49,106,105,1,/en/players/a40819d9/matchlogs/2019-2020/defense/Marash-Kumbulla-Match-Logs
+288,Jasmin Kurtić,si,MF,SPAL,30,1989,15.7,22,16,11,9,2,22,26,26.9,19,346,87,25.1,11,9,2,20,2,0,18,10,32,29,0,/en/players/144607cc/matchlogs/2019-2020/defense/Jasmin-Kurtic-Match-Logs
+289,Jasmin Kurtić,si,"MF,FW",Parma,30,1989,18.5,37,20,23,11,3,37,47,34.0,31,333,81,24.3,23,11,3,30,5,0,25,16,53,31,0,/en/players/144607cc/matchlogs/2019-2020/defense/Jasmin-Kurtic-Match-Logs
+290,Antonino La Gumina,it,FW,Sampdoria,23,1996,2.1,1,1,0,1,0,1,1,0.0,1,23,5,21.7,0,1,0,0,0,0,0,0,1,2,0,/en/players/822a7761/matchlogs/2019-2020/defense/Antonino-La-Gumina-Match-Logs
+291,Andrea La Mantia,it,FW,Lecce,28,1991,6.1,1,0,0,1,0,1,3,0.0,3,74,13,17.6,0,1,0,5,0,0,5,7,8,12,0,/en/players/c375dfa5/matchlogs/2019-2020/defense/Andrea-La-Mantia-Match-Logs
+292,Riccardo Ladinetti,it,MF,Cagliari,18,2000,1.4,2,2,1,1,0,2,2,100.0,0,19,6,31.6,1,1,0,2,0,0,2,4,6,1,0,/en/players/ff4296df/matchlogs/2019-2020/defense/Riccardo-Ladinetti-Match-Logs
+293,Gianluca Lapadula,it,FW,Lecce,29,1990,19.8,20,14,8,10,2,20,13,30.8,9,329,64,19.5,8,10,2,2,1,0,1,2,22,13,0,/en/players/2ead2809/matchlogs/2019-2020/defense/Gianluca-Lapadula-Match-Logs
+294,Danilo Larangeira,br,DF,Bologna,35,1984,29.3,46,21,29,17,0,46,35,42.9,20,346,101,29.2,29,17,0,81,42,2,39,30,76,179,0,/en/players/fed5f993/matchlogs/2019-2020/defense/Danilo-Larangeira-Match-Logs
+295,Kevin Lasagna,it,FW,Udinese,26,1992,28.5,29,18,8,13,8,29,35,14.3,30,630,153,24.3,8,13,8,23,1,0,22,7,36,17,1,/en/players/09538fdb/matchlogs/2019-2020/defense/Kevin-Lasagna-Match-Logs
+296,Vincent Laurini,fr,DF,Parma,30,1989,9.8,29,23,14,13,2,29,20,75.0,5,138,54,39.1,14,13,2,18,4,0,14,12,41,30,1,/en/players/3535098b/matchlogs/2019-2020/defense/Vincent-Laurini-Match-Logs
+297,Diego Laxalt,uy,"DF,MF",Torino,26,1993,6.6,23,10,12,6,5,23,23,21.7,18,155,42,27.1,12,6,5,21,3,0,18,7,30,18,0,/en/players/f26e3c59/matchlogs/2019-2020/defense/Diego-Laxalt-Match-Logs
+298,Diego Laxalt,uy,DF,Milan,26,1993,1.9,4,2,2,2,0,4,1,0.0,1,24,8,33.3,2,2,0,3,0,0,3,1,5,2,0,/en/players/f26e3c59/matchlogs/2019-2020/defense/Diego-Laxalt-Match-Logs
+299,Valentino Lazaro,at,"DF,MF",Inter,23,1996,3.6,10,6,4,3,3,10,9,66.7,3,74,18,24.3,4,3,3,5,0,0,5,1,11,6,1,/en/players/016ff750/matchlogs/2019-2020/defense/Valentino-Lazaro-Match-Logs
+300,Darko Lazović,rs,DF,Hellas Verona,28,1990,36.0,32,14,18,8,6,32,37,35.1,24,278,77,27.7,18,8,6,46,4,1,42,22,54,52,0,/en/players/5128bde4/matchlogs/2019-2020/defense/Darko-Lazovic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,Manuel Lazzari,it,DF,Lazio,25,1993,28.3,19,13,12,7,0,19,29,34.5,19,241,71,29.5,12,7,0,26,2,1,24,10,29,38,0,/en/players/02caf6e0/matchlogs/2019-2020/defense/Manuel-Lazzari-Match-Logs
+302,Rafael Leão,pt,FW,Milan,20,1999,15.6,8,4,2,6,0,8,8,25.0,6,196,47,24.0,2,6,0,10,1,0,9,0,8,3,0,/en/players/20730eae/matchlogs/2019-2020/defense/Rafael-Leao-Match-Logs
+303,Lucas Leiva,br,MF,Lazio,32,1987,20.1,69,41,27,38,4,69,85,28.2,61,454,135,29.7,27,38,4,25,7,0,18,46,115,49,0,/en/players/4c78b5ed/matchlogs/2019-2020/defense/Lucas-Leiva-Match-Logs
+304,Lukas Lerager,dk,MF,Genoa,26,1993,15.4,34,19,19,10,5,34,39,35.9,25,296,71,24.0,19,10,5,24,5,0,19,9,43,18,0,/en/players/1b82f8df/matchlogs/2019-2020/defense/Lukas-Lerager-Match-Logs
+305,Mehdi Léris,fr,"MF,FW",Sampdoria,21,1998,5.7,13,9,6,3,4,13,11,45.5,6,142,30,21.1,6,3,4,12,4,0,8,6,19,5,0,/en/players/7d3cbc67/matchlogs/2019-2020/defense/Mehdi-Leris-Match-Logs
+306,Karlo Letica,hr,GK,SPAL,22,1997,10.0,0,0,0,0,0,0,2,0.0,2,1,0,0.0,0,0,0,0,0,0,0,0,0,0,1,/en/players/4a6914ff/matchlogs/2019-2020/defense/Karlo-Letica-Match-Logs
+307,Matthijs de Ligt,nl,DF,Juventus,19,1999,27.2,40,27,26,12,2,40,29,48.3,15,216,72,33.3,26,12,2,51,27,1,24,29,69,142,3,/en/players/d6e53a3a/matchlogs/2019-2020/defense/Matthijs-de-Ligt-Match-Logs
+308,Anderson Lima,br,MF,Lazio,19,1999,0.7,4,4,2,2,0,4,2,0.0,2,22,11,50.0,2,2,0,2,0,0,2,0,4,0,0,/en/players/59be3a74/matchlogs/2019-2020/defense/Anderson-Lima-Match-Logs
+309,Karol Linetty,pl,MF,Sampdoria,24,1995,22.4,63,32,30,23,10,63,61,31.1,42,438,124,28.3,30,23,10,31,3,0,28,26,89,18,0,/en/players/d023d70f/matchlogs/2019-2020/defense/Karol-Linetty-Match-Logs
+310,Pol Lirola,es,DF,Fiorentina,21,1997,29.4,31,20,20,6,5,31,38,39.5,23,245,69,28.2,20,6,5,33,5,0,28,26,57,64,0,/en/players/ff800ed8/matchlogs/2019-2020/defense/Pol-Lirola-Match-Logs
+311,Fernando Llorente,es,FW,Napoli,34,1985,5.6,1,1,0,1,0,1,2,50.0,1,108,28,25.9,0,1,0,6,1,0,5,0,1,3,0,/en/players/82dbf623/matchlogs/2019-2020/defense/Fernando-Llorente-Match-Logs
+312,Stanislav Lobotka,sk,MF,Napoli,24,1994,8.4,14,10,5,7,2,14,13,30.8,9,123,41,33.3,5,7,2,7,1,0,6,9,23,4,0,/en/players/e1cbb531/matchlogs/2019-2020/defense/Stanislav-Lobotka-Match-Logs
+313,Manuel Locatelli,it,MF,Sassuolo,21,1998,28.7,87,59,34,45,8,87,75,33.3,50,520,174,33.5,34,45,8,56,16,1,40,34,121,38,1,/en/players/a8a874f1/matchlogs/2019-2020/defense/Manuel-Locatelli-Match-Logs
+314,Pau López,es,GK,Roma,24,1994,32.0,0,0,0,0,0,0,3,0.0,3,13,3,23.1,0,0,0,0,0,0,0,1,1,2,3,/en/players/20b9f052/matchlogs/2019-2020/defense/Pau-Lopez-Match-Logs
+315,Matteo Lovato,it,DF,Hellas Verona,19,2000,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/5fa57166/matchlogs/2019-2020/defense/Matteo-Lovato-Match-Logs
+316,Hirving Lozano,mx,FW,Napoli,24,1995,11.4,10,7,1,6,3,10,12,16.7,10,283,50,17.7,1,6,3,16,0,0,16,5,15,2,0,/en/players/a69e4806/matchlogs/2019-2020/defense/Hirving-Lozano-Match-Logs
+317,Fabio Lucioni,it,DF,Lecce,31,1987,34.8,40,29,31,9,0,40,32,31.3,22,255,84,32.9,31,9,0,69,41,1,28,35,75,194,3,/en/players/8efa621b/matchlogs/2019-2020/defense/Fabio-Lucioni-Match-Logs
+318,José Luis Palomino,ar,DF,Atalanta,29,1990,27.6,93,51,56,34,3,93,67,47.8,35,508,187,36.8,56,34,3,58,16,1,42,63,156,145,1,/en/players/921f6058/matchlogs/2019-2020/defense/Jose-Luis-Palomino-Match-Logs
+319,Jordan Lukaku,be,DF,Lazio,25,1994,4.4,5,3,1,3,1,5,4,50.0,2,54,18,33.3,1,3,1,7,1,0,6,0,5,6,0,/en/players/0cd0e21b/matchlogs/2019-2020/defense/Jordan-Lukaku-Match-Logs
+320,Romelu Lukaku,be,FW,Inter,26,1993,33.1,11,4,3,7,1,11,10,30.0,7,257,60,23.3,3,7,1,18,9,0,9,1,12,26,0,/en/players/5eae500a/matchlogs/2019-2020/defense/Romelu-Lukaku-Match-Logs
+321,Saša Lukić,rs,MF,Torino,22,1996,20.7,44,31,19,22,3,44,37,40.5,22,473,121,25.6,19,22,3,36,8,0,28,28,72,20,0,/en/players/c6e8cf1f/matchlogs/2019-2020/defense/Sasa-Lukic-Match-Logs
+322,Senad Lulić,ba,DF,Lazio,33,1986,17.5,34,24,19,8,7,34,48,27.1,35,290,94,32.4,19,8,7,34,4,0,30,22,56,25,0,/en/players/7fd58fe3/matchlogs/2019-2020/defense/Senad-Lulic-Match-Logs
+323,Sebastiano Luperto,it,DF,Napoli,22,1996,5.9,12,8,8,3,1,12,6,33.3,4,52,16,30.8,8,3,1,10,3,0,7,7,19,21,0,/en/players/997fff07/matchlogs/2019-2020/defense/Sebastiano-Luperto-Match-Logs
+324,Lyanco,br,DF,Torino,22,1997,13.1,26,15,12,12,2,26,10,50.0,5,133,42,31.6,12,12,2,39,22,0,17,23,49,65,2,/en/players/b5bf1770/matchlogs/2019-2020/defense/Lyanco-Match-Logs
+325,Charalambos Lykogiannis,gr,DF,Cagliari,25,1993,14.9,24,12,15,6,3,24,22,50.0,11,192,48,25.0,15,6,3,45,7,0,38,23,47,59,1,/en/players/5efc5389/matchlogs/2019-2020/defense/Charalambos-Lykogiannis-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,Francesco Magnanelli,it,MF,Sassuolo,34,1984,15.5,31,19,14,12,5,31,35,31.4,24,258,65,25.2,14,12,5,26,6,0,20,21,52,19,1,/en/players/07767f42/matchlogs/2019-2020/defense/Francesco-Magnanelli-Match-Logs
+327,Giangiacomo Magnani,it,"DF,MF",Brescia,23,1995,1.3,2,0,2,0,0,2,2,0.0,2,6,1,16.7,2,0,0,3,1,0,2,2,4,4,0,/en/players/cce9f582/matchlogs/2019-2020/defense/Giangiacomo-Magnani-Match-Logs
+328,Giangiacomo Magnani,it,DF,Sassuolo,23,1995,1.6,0,0,0,0,0,0,2,0.0,2,5,2,40.0,0,0,0,4,2,0,2,2,2,11,0,/en/players/cce9f582/matchlogs/2019-2020/defense/Giangiacomo-Magnani-Match-Logs
+329,Žan Majer,si,MF,Lecce,27,1992,18.5,34,20,16,13,5,34,55,18.2,45,407,93,22.9,16,13,5,42,9,1,33,24,58,24,1,/en/players/bf13975c/matchlogs/2019-2020/defense/Zan-Majer-Match-Logs
+330,Nikola Maksimović,rs,DF,Napoli,27,1991,20.0,36,21,23,13,0,36,27,59.3,11,175,42,24.0,23,13,0,31,14,0,17,31,67,66,0,/en/players/16b9d5cf/matchlogs/2019-2020/defense/Nikola-Maksimovic-Match-Logs
+331,Kévin Malcuit,ma,DF,Napoli,28,1991,2.8,8,5,3,4,1,8,6,83.3,1,30,6,20.0,3,4,1,8,1,0,7,3,11,1,0,/en/players/d6a889ea/matchlogs/2019-2020/defense/Kevin-Malcuit-Match-Logs
+332,Daniel Maldini,it,FW,Milan,17,2001,0.3,0,0,0,0,0,0,2,0.0,2,7,1,14.3,0,0,0,1,0,0,1,1,1,0,0,/en/players/801831fe/matchlogs/2019-2020/defense/Daniel-Maldini-Match-Logs
+333,Ruslan Malinovskyi,ua,"MF,FW",Atalanta,26,1993,17.1,21,15,5,15,1,21,34,23.5,26,319,91,28.5,5,15,1,16,2,0,14,4,25,8,0,/en/players/48d5bd33/matchlogs/2019-2020/defense/Ruslan-Malinovskyi-Match-Logs
+334,Gianluca Mancini,it,"DF,MF",Roma,23,1996,30.4,55,35,31,22,2,55,49,30.6,34,393,112,28.5,31,22,2,49,17,0,32,62,117,119,1,/en/players/5aa53281/matchlogs/2019-2020/defense/Gianluca-Mancini-Match-Logs
+335,Marco Mancosu,it,"MF,FW",Lecce,30,1988,27.1,27,17,9,11,7,27,51,11.8,45,418,96,23.0,9,11,7,31,11,0,20,17,44,23,0,/en/players/2c3a6c21/matchlogs/2019-2020/defense/Marco-Mancosu-Match-Logs
+336,Rolando Mandragora,it,MF,Udinese,22,1997,22.8,52,33,16,25,11,52,69,29.0,49,608,150,24.7,16,25,11,52,5,0,47,24,76,29,0,/en/players/c7259b83/matchlogs/2019-2020/defense/Rolando-Mandragora-Match-Logs
+337,Massimiliano Mangraviti,it,DF,Brescia,21,1998,10.8,10,5,3,5,2,10,6,66.7,2,114,25,21.9,3,5,2,22,11,0,11,7,17,52,2,/en/players/33914f14/matchlogs/2019-2020/defense/Massimiliano-Mangraviti-Match-Logs
+338,Kostas Manolas,gr,DF,Napoli,28,1991,24.2,34,17,21,12,1,34,28,53.6,13,159,53,33.3,21,12,1,34,16,1,18,27,61,104,3,/en/players/c707411f/matchlogs/2019-2020/defense/Kostas-Manolas-Match-Logs
+339,Giacomo Manzari,it,"FW,MF",Sassuolo,18,2000,0.2,0,0,0,0,0,0,0,,0,6,1,16.7,0,0,0,0,0,0,0,0,0,0,0,/en/players/d8dfae8a/matchlogs/2019-2020/defense/Giacomo-Manzari-Match-Logs
+340,Gian Marco Ferrari,it,DF,Sassuolo,27,1992,21.1,12,9,7,5,0,12,10,40.0,6,100,31,31.0,7,5,0,34,24,0,10,28,40,51,1,/en/players/8650af85/matchlogs/2019-2020/defense/Gian-Marco-Ferrari-Match-Logs
+341,Federico Marigosu,it,MF,Cagliari,18,2001,0.3,0,0,0,0,0,0,0,,0,2,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/66a9470c/matchlogs/2019-2020/defense/Federico-Marigosu-Match-Logs
+342,Marlon,br,DF,Sassuolo,23,1995,20.2,43,21,29,13,1,43,25,40.0,15,220,59,26.8,29,13,1,37,13,0,24,37,80,84,1,/en/players/cdf65d12/matchlogs/2019-2020/defense/Marlon-Match-Logs
+343,Gonzalo Maroni,ar,MF,Sampdoria,20,1999,2.0,3,1,1,1,1,3,6,33.3,4,22,9,40.9,1,1,1,3,0,0,3,3,6,0,0,/en/players/e01ca8f4/matchlogs/2019-2020/defense/Gonzalo-Maroni-Match-Logs
+344,Bruno Martella,it,"DF,MF",Brescia,26,1992,14.1,19,9,13,3,3,19,18,61.1,7,149,27,18.1,13,3,3,29,6,0,23,19,38,58,2,/en/players/1e12c53b/matchlogs/2019-2020/defense/Bruno-Martella-Match-Logs
+345,Lautaro Martínez,ar,FW,Inter,21,1997,27.2,17,13,0,7,10,17,25,8.0,23,519,131,25.2,0,7,10,37,4,0,33,16,33,12,0,/en/players/f7036e1c/matchlogs/2019-2020/defense/Lautaro-Martinez-Match-Logs
+346,Adam Marušić,me,DF,Lazio,26,1992,10.5,15,8,9,5,1,15,16,37.5,10,145,41,28.3,9,5,1,21,2,0,19,13,28,12,0,/en/players/d4535821/matchlogs/2019-2020/defense/Adam-Marusic-Match-Logs
+347,Andrea Masiello,it,DF,Genoa,33,1986,14.7,24,14,16,5,3,24,28,39.3,17,158,46,29.1,16,5,3,18,3,0,15,26,50,58,0,/en/players/e0314d87/matchlogs/2019-2020/defense/Andrea-Masiello-Match-Logs
+348,Andrea Masiello,it,DF,Atalanta,33,1986,6.0,14,13,11,3,0,14,15,60.0,6,79,25,31.6,11,3,0,12,4,0,8,10,24,32,0,/en/players/e0314d87/matchlogs/2019-2020/defense/Andrea-Masiello-Match-Logs
+349,Aleš Matějů,cz,DF,Brescia,23,1996,28.3,51,29,35,12,4,51,55,45.5,30,404,109,27.0,35,12,4,69,25,0,44,41,92,107,3,/en/players/deb748c9/matchlogs/2019-2020/defense/Ales-Mateju-Match-Logs
+350,Alessandro Matri,it,"FW,MF",Brescia,34,1984,1.0,0,0,0,0,0,0,0,,0,16,0,0.0,0,0,0,1,1,0,0,0,0,1,0,/en/players/58d97e77/matchlogs/2019-2020/defense/Alessandro-Matri-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,Federico Mattiello,it,DF,Cagliari,24,1995,10.3,33,20,22,8,3,33,24,41.7,14,125,39,31.2,22,8,3,25,9,0,16,17,50,19,0,/en/players/fba81826/matchlogs/2019-2020/defense/Federico-Mattiello-Match-Logs
+352,Blaise Matuidi,fr,MF,Juventus,32,1987,24.9,54,35,18,23,13,54,47,19.1,38,506,147,29.1,18,23,13,50,6,0,44,20,74,18,1,/en/players/c0cddebe/matchlogs/2019-2020/defense/Blaise-Matuidi-Match-Logs
+353,Luca Mazzitelli,it,MF,Sassuolo,23,1995,0.1,1,0,0,1,0,1,1,100.0,0,6,3,50.0,0,1,0,0,0,0,0,0,1,0,0,/en/players/dc61b402/matchlogs/2019-2020/defense/Luca-Mazzitelli-Match-Logs
+354,Ibrahima Mbaye,sn,DF,Bologna,24,1994,16.7,18,11,11,5,2,18,22,36.4,14,213,57,26.8,11,5,2,43,12,1,31,15,33,57,1,/en/players/cfbf9881/matchlogs/2019-2020/defense/Ibrahima-Mbaye-Match-Logs
+355,Biagio Meccariello,it,DF,Lecce,28,1991,8.5,23,15,15,7,1,23,35,28.6,25,112,40,35.7,15,7,1,19,4,0,15,10,33,27,0,/en/players/1eeeff8a/matchlogs/2019-2020/defense/Biagio-Meccariello-Match-Logs
+356,Gary Medel,cl,MF,Bologna,31,1987,19.8,34,22,14,17,3,34,54,18.5,44,346,97,28.0,14,17,3,33,9,0,24,32,66,41,1,/en/players/563a68ad/matchlogs/2019-2020/defense/Gary-Medel-Match-Logs
+357,Soualiho Meïté,fr,MF,Torino,25,1994,24.5,47,34,24,18,5,47,45,40.0,27,443,114,25.7,24,18,5,45,6,0,39,24,71,35,0,/en/players/5cec2c74/matchlogs/2019-2020/defense/Soualiho-Meite-Match-Logs
+358,Alex Meret,it,GK,Napoli,22,1997,21.7,0,0,0,0,0,0,2,0.0,2,3,0,0.0,0,0,0,1,0,0,1,1,1,1,0,/en/players/9413b19f/matchlogs/2019-2020/defense/Alex-Meret-Match-Logs
+359,Yıldırım Mert Çetin,tr,DF,Roma,22,1997,2.9,5,3,4,1,0,5,3,66.7,1,31,10,32.3,4,1,0,7,3,0,4,4,9,8,1,/en/players/c730da00/matchlogs/2019-2020/defense/Yildirim-Mert-Cetin-Match-Logs
+360,Dries Mertens,be,FW,Napoli,32,1987,18.8,23,20,4,10,9,23,31,12.9,27,502,146,29.1,4,10,9,17,3,0,14,7,30,3,0,/en/players/89b2c8a9/matchlogs/2019-2020/defense/Dries-Mertens-Match-Logs
+361,Kingsley Michael,ng,MF,Bologna,19,1999,0.8,1,0,0,1,0,1,0,,0,15,4,26.7,0,1,0,1,0,0,1,1,2,3,0,/en/players/e63e122d/matchlogs/2019-2020/defense/Kingsley-Michael-Match-Logs
+362,Nikola Milenković,rs,DF,Fiorentina,21,1997,36.2,68,48,41,24,3,68,36,47.2,19,369,114,30.9,41,24,3,61,29,0,32,31,99,177,1,/en/players/bee704fc/matchlogs/2019-2020/defense/Nikola-Milenkovic-Match-Logs
+363,Arkadiusz Milik,pl,FW,Napoli,25,1994,19.4,16,9,2,6,8,16,10,40.0,6,289,73,25.3,2,6,8,13,2,0,11,2,18,13,0,/en/players/85613cf0/matchlogs/2019-2020/defense/Arkadiusz-Milik-Match-Logs
+364,Sergej Milinković-Savić,rs,MF,Lazio,24,1995,33.7,82,59,31,38,13,82,85,22.4,66,710,193,27.2,31,38,13,82,15,1,67,40,122,60,0,/en/players/4e6dbac4/matchlogs/2019-2020/defense/Sergej-Milinkovic-Savic-Match-Logs
+365,Vincenzo Millico,it,"MF,FW",Torino,18,2000,2.4,1,1,1,0,0,1,3,33.3,2,42,9,21.4,1,0,0,4,0,0,4,0,1,2,0,/en/players/6817095b/matchlogs/2019-2020/defense/Vincenzo-Millico-Match-Logs
+366,Antonio Mirante,it,GK,Roma,36,1983,5.0,0,0,0,0,0,0,1,0.0,1,1,0,0.0,0,0,0,0,0,0,0,0,0,0,1,/en/players/30223b33/matchlogs/2019-2020/defense/Antonio-Mirante-Match-Logs
+367,Simone Missiroli,it,MF,SPAL,33,1986,31.1,52,28,23,18,11,52,42,26.2,31,420,87,20.7,23,18,11,52,23,2,29,56,108,77,0,/en/players/331c0a43/matchlogs/2019-2020/defense/Simone-Missiroli-Match-Logs
+368,Henrikh Mkhitaryan,am,"MF,FW",Roma,30,1989,17.0,40,28,11,22,7,40,41,36.6,26,296,73,24.7,11,22,7,27,3,0,24,11,51,10,0,/en/players/dd0daf32/matchlogs/2019-2020/defense/Henrikh-Mkhitaryan-Match-Logs
+369,Gabriele Moncini,it,"FW,MF",SPAL,23,1996,1.7,1,0,0,1,0,1,1,0.0,1,30,10,33.3,0,1,0,2,1,0,1,1,2,1,0,/en/players/c4efe2b4/matchlogs/2019-2020/defense/Gabriele-Moncini-Match-Logs
+370,Ilario Monterisi,it,DF,Lecce,17,2001,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/31b252fc/matchlogs/2019-2020/defense/Ilario-Monterisi-Match-Logs
+371,Raúl Moro,es,DF,Lazio,16,2002,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/919dd4b1/matchlogs/2019-2020/defense/Raul-Moro-Match-Logs
+372,Leonardo Morosini,it,"FW,MF",Brescia,23,1995,0.3,1,0,1,0,0,1,0,,0,14,4,28.6,1,0,0,1,0,0,1,1,2,2,0,/en/players/d89b0ebb/matchlogs/2019-2020/defense/Leonardo-Morosini-Match-Logs
+373,Victor Moses,ng,DF,Inter,28,1990,4.7,6,3,2,3,1,6,7,42.9,4,45,18,40.0,2,3,1,4,0,0,4,0,6,3,0,/en/players/e726e11e/matchlogs/2019-2020/defense/Victor-Moses-Match-Logs
+374,Mert Müldür,tr,DF,Sassuolo,20,1999,14.1,46,30,33,7,6,46,42,59.5,17,198,73,36.9,33,7,6,29,1,0,28,21,67,40,0,/en/players/1295552e/matchlogs/2019-2020/defense/Mert-Muldur-Match-Logs
+375,Simone Muratore,it,MF,Juventus,21,1998,1.8,3,1,1,0,2,3,5,20.0,4,37,9,24.3,1,0,2,2,1,0,1,3,6,2,0,/en/players/04989945/matchlogs/2019-2020/defense/Simone-Muratore-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,Alessandro Murgia,it,MF,SPAL,22,1996,19.4,31,20,18,10,3,31,45,35.6,29,417,101,24.2,18,10,3,20,3,0,17,19,50,21,0,/en/players/fb2c533b/matchlogs/2019-2020/defense/Alessandro-Murgia-Match-Logs
+377,Luis Muriel,co,FW,Atalanta,28,1991,14.0,16,8,3,7,6,16,18,27.8,13,259,89,34.4,3,7,6,17,0,0,17,4,20,2,0,/en/players/eb2fe5b6/matchlogs/2019-2020/defense/Luis-Muriel-Match-Logs
+378,Jeison Murillo,co,DF,Sampdoria,27,1992,7.4,16,10,12,4,0,16,22,40.9,13,86,26,30.2,12,4,0,16,5,0,11,10,26,30,1,/en/players/b233e8e4/matchlogs/2019-2020/defense/Jeison-Murillo-Match-Logs
+379,Nicola Murru,it,DF,Sampdoria,24,1994,25.1,47,34,23,16,8,47,45,48.9,23,289,82,28.4,23,16,8,57,3,0,54,25,72,63,0,/en/players/d183e9d6/matchlogs/2019-2020/defense/Nicola-Murru-Match-Logs
+380,Mateo Musacchio,ar,DF,Milan,28,1990,16.3,13,9,10,3,0,13,26,34.6,17,170,60,35.3,10,3,0,18,8,0,10,21,34,63,0,/en/players/91899ca8/matchlogs/2019-2020/defense/Mateo-Musacchio-Match-Logs
+381,Juan Musso,ar,GK,Udinese,25,1994,38.0,0,0,0,0,0,0,1,0.0,1,1,0,0.0,0,0,0,0,0,0,0,1,1,2,0,/en/players/a111cf41/matchlogs/2019-2020/defense/Juan-Musso-Match-Logs
+382,Radja Nainggolan,be,"MF,FW",Cagliari,31,1988,23.0,33,22,9,15,9,33,35,14.3,30,266,73,27.4,9,15,9,28,6,0,22,15,48,30,0,/en/players/1f9328da/matchlogs/2019-2020/defense/Radja-Nainggolan-Match-Logs
+383,Nahitan Nández,uy,"MF,DF",Cagliari,23,1995,32.2,68,46,37,25,6,68,71,32.4,48,665,156,23.5,37,25,6,38,2,0,36,21,89,36,0,/en/players/95facda1/matchlogs/2019-2020/defense/Nahitan-Nandez-Match-Logs
+384,Michel Ndary Adopo,fr,DF,Torino,19,2000,0.0,0,0,0,0,0,0,0,,0,3,0,0.0,0,0,0,1,1,0,0,0,0,1,0,/en/players/599d91d0/matchlogs/2019-2020/defense/Michel-Ndary-Adopo-Match-Logs
+385,Emanuele Ndoj,al,MF,Brescia,22,1996,6.2,10,8,4,6,0,10,19,21.1,15,177,45,25.4,4,6,0,17,1,0,16,5,15,6,0,/en/players/482145e9/matchlogs/2019-2020/defense/Emanuele-Ndoj-Match-Logs
+386,Ilija Nestorovski,mk,FW,Udinese,29,1990,13.9,13,7,5,6,2,13,18,22.2,14,239,61,25.5,5,6,2,14,2,0,12,5,18,12,0,/en/players/b1236c63/matchlogs/2019-2020/defense/Ilija-Nestorovski-Match-Logs
+387,Nicolas Nkoulou,cm,DF,Torino,29,1990,29.9,41,22,27,13,1,41,17,47.1,9,219,64,29.2,27,13,1,78,29,0,49,73,114,186,3,/en/players/93cf32a8/matchlogs/2019-2020/defense/Nicolas-Nkoulou-Match-Logs
+388,Bram Nuytinck,nl,DF,Udinese,29,1990,24.7,50,33,29,19,2,50,33,63.6,12,263,93,35.4,29,19,2,67,35,0,32,23,73,112,0,/en/players/e33f36d5/matchlogs/2019-2020/defense/Bram-Nuytinck-Match-Logs
+389,Pedro Obiang,gq,MF,Sassuolo,27,1992,18.6,46,31,18,19,9,46,40,50.0,20,354,118,33.3,18,19,9,36,11,0,25,21,67,30,2,/en/players/ba1e04b3/matchlogs/2019-2020/defense/Pedro-Obiang-Match-Logs
+390,Stefano Okaka,it,FW,Udinese,29,1989,26.8,25,16,6,9,10,25,28,17.9,23,559,128,22.9,6,9,10,25,6,0,19,9,34,23,0,/en/players/601ef102/matchlogs/2019-2020/defense/Stefano-Okaka-Match-Logs
+391,Christian Oliva,uy,MF,Cagliari,23,1996,5.2,17,12,11,5,1,17,13,38.5,8,106,38,35.8,11,5,1,9,0,0,9,7,24,18,0,/en/players/d3b888e3/matchlogs/2019-2020/defense/Christian-Oliva-Match-Logs
+392,Maximiliano Olivera,uy,DF,Fiorentina,27,1992,0.1,1,1,1,0,0,1,0,,0,4,2,50.0,1,0,0,0,0,0,0,0,1,0,0,/en/players/32a33c68/matchlogs/2019-2020/defense/Maximiliano-Olivera-Match-Logs
+393,Marco Olivieri,it,FW,Juventus,20,1999,0.3,1,0,1,0,0,1,2,50.0,1,13,2,15.4,1,0,0,0,0,0,0,0,1,0,0,/en/players/f5ba8903/matchlogs/2019-2020/defense/Marco-Olivieri-Match-Logs
+394,Robin Olsen,se,GK,Cagliari,29,1990,16.9,0,0,0,0,0,0,1,0.0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/e7ee38c3/matchlogs/2019-2020/defense/Robin-Olsen-Match-Logs
+395,Nicholas Opoku,gh,DF,Udinese,21,1997,5.3,,8,,,,,,,,,,,,,,,,,,4,0,,,/en/players/b871bf55/matchlogs/2019-2020/defense/Nicholas-Opoku-Match-Logs
+396,Riccardo Orsolini,it,"FW,MF",Bologna,22,1997,29.8,35,23,18,11,6,35,55,27.3,40,508,140,27.6,18,11,6,40,2,0,38,16,51,23,0,/en/players/e14ec482/matchlogs/2019-2020/defense/Riccardo-Orsolini-Match-Logs
+397,David Ospina,co,GK,Napoli,30,1988,16.3,0,0,0,0,0,0,0,,0,4,0,0.0,0,0,0,0,0,0,0,0,0,0,1,/en/players/82b1198a/matchlogs/2019-2020/defense/David-Ospina-Match-Logs
+398,Daniele Padelli,it,GK,Inter,33,1985,3.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/cf1c23d8/matchlogs/2019-2020/defense/Daniele-Padelli-Match-Logs
+399,Marko Pajač,hr,DF,Genoa,26,1993,8.4,9,6,4,4,1,9,16,37.5,10,110,29,26.4,4,4,1,14,0,0,14,7,16,10,0,/en/players/5df4ef30/matchlogs/2019-2020/defense/Marko-Pajac-Match-Logs
+400,Rodrigo Palacio,ar,FW,Bologna,37,1982,28.0,23,14,1,9,13,23,29,13.8,25,595,152,25.5,1,9,13,25,4,0,21,4,27,38,1,/en/players/8d8178ac/matchlogs/2019-2020/defense/Rodrigo-Palacio-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,Alberto Paloschi,it,FW,SPAL,29,1990,4.9,1,0,1,0,0,1,3,0.0,3,92,20,21.7,1,0,0,4,0,0,4,0,1,1,0,/en/players/b5cae4e6/matchlogs/2019-2020/defense/Alberto-Paloschi-Match-Logs
+402,Alberto Paloschi,it,"FW,MF",Cagliari,29,1990,2.3,0,0,0,0,0,0,0,,0,36,10,27.8,0,0,0,1,0,0,1,1,1,3,0,/en/players/b5cae4e6/matchlogs/2019-2020/defense/Alberto-Paloschi-Match-Logs
+403,Martin Palumbo,no,MF,Udinese,17,2002,0.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/f8d41a8c/matchlogs/2019-2020/defense/Martin-Palumbo-Match-Logs
+404,Goran Pandev,mk,"FW,MF",Genoa,36,1983,18.7,11,6,1,6,4,11,16,0.0,16,275,64,23.3,1,6,4,11,3,0,8,0,11,3,1,/en/players/d711d04f/matchlogs/2019-2020/defense/Goran-Pandev-Match-Logs
+405,Andrea Papetti,it,DF,Brescia,17,2002,10.2,16,12,13,3,0,16,16,18.8,13,151,47,31.1,13,3,0,22,11,0,11,14,30,49,0,/en/players/4195b8b6/matchlogs/2019-2020/defense/Andrea-Papetti-Match-Logs
+406,Lucas Paquetá,br,"MF,FW",Milan,21,1997,12.3,39,30,12,20,7,39,34,26.5,25,300,89,29.7,12,20,7,21,3,0,18,9,48,14,0,/en/players/9b6f7fd5/matchlogs/2019-2020/defense/Lucas-Paqueta-Match-Logs
+407,Marco Parolo,it,MF,Lazio,34,1985,18.9,61,33,23,26,12,61,60,23.3,46,392,104,26.5,23,26,12,52,14,0,38,23,84,54,0,/en/players/ed5886d2/matchlogs/2019-2020/defense/Marco-Parolo-Match-Logs
+408,Mario Pašalić,hr,"MF,FW",Atalanta,24,1995,26.9,44,30,22,15,7,44,56,25.0,42,532,145,27.3,22,15,7,33,7,0,26,26,70,35,0,/en/players/e599253a/matchlogs/2019-2020/defense/Mario-Pasalic-Match-Logs
+409,Javier Pastore,ar,MF,Roma,30,1989,5.7,15,10,3,4,8,15,15,40.0,9,98,30,30.6,3,4,8,4,0,0,4,6,21,5,0,/en/players/881ef58c/matchlogs/2019-2020/defense/Javier-Pastore-Match-Logs
+410,Patric,es,DF,Lazio,26,1993,18.6,34,17,23,8,3,34,28,57.1,12,194,58,29.9,23,8,3,34,12,0,22,15,49,51,0,/en/players/f7223718/matchlogs/2019-2020/defense/Patric-Match-Logs
+411,Leonardo Pavoletti,it,FW,Cagliari,30,1988,0.5,0,0,0,0,0,0,0,,0,4,1,25.0,0,0,0,0,0,0,0,1,1,2,0,/en/players/d37b0350/matchlogs/2019-2020/defense/Leonardo-Pavoletti-Match-Logs
+412,Nehuén Paz,ar,DF,Bologna,26,1993,1.3,1,1,0,1,0,1,2,0.0,2,25,8,32.0,0,1,0,6,3,0,3,5,6,9,0,/en/players/42b1a58a/matchlogs/2019-2020/defense/Nehuen-Paz-Match-Logs
+413,Nehuén Paz,ar,DF,Lecce,26,1993,9.4,10,4,8,2,0,10,10,30.0,7,103,32,31.1,8,2,0,20,7,0,13,22,32,59,0,/en/players/42b1a58a/matchlogs/2019-2020/defense/Nehuen-Paz-Match-Logs
+414,Giampaolo Pazzini,it,FW,Hellas Verona,34,1984,3.4,3,2,0,2,1,3,2,0.0,2,45,14,31.1,0,2,1,3,0,0,3,1,4,3,0,/en/players/6ca663b4/matchlogs/2019-2020/defense/Giampaolo-Pazzini-Match-Logs
+415,Pedro,br,FW,Fiorentina,22,1997,0.7,1,1,0,0,1,1,0,,0,12,4,33.3,0,0,1,1,0,0,1,0,1,0,0,/en/players/1ab6fad3/matchlogs/2019-2020/defense/Pedro-Match-Logs
+416,João Pedro,br,"FW,MF",Cagliari,27,1992,35.0,22,16,9,7,6,22,25,16.0,21,431,104,24.1,9,7,6,42,10,0,32,10,32,38,0,/en/players/81255c03/matchlogs/2019-2020/defense/Joao-Pedro-Match-Logs
+417,Daouda Peeters,be,MF,Juventus,20,1999,0.2,0,0,0,0,0,0,1,0.0,1,2,1,50.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/e83f8ebb/matchlogs/2019-2020/defense/Daouda-Peeters-Match-Logs
+418,Gianluca Pegolo,it,GK,Sassuolo,38,1981,5.0,0,0,0,0,0,0,1,0.0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/f058ed1f/matchlogs/2019-2020/defense/Gianluca-Pegolo-Match-Logs
+419,Lorenzo Pellegrini,it,MF,Roma,23,1996,23.3,32,20,10,14,8,32,34,20.6,27,395,102,25.8,10,14,8,30,1,0,29,16,48,20,0,/en/players/4a5a45c7/matchlogs/2019-2020/defense/Lorenzo-Pellegrini-Match-Logs
+420,Luca Pellegrini,it,DF,Cagliari,20,1999,21.2,38,27,23,11,4,38,37,32.4,25,252,83,32.9,23,11,4,26,3,0,23,21,59,52,2,/en/players/3b61c9ec/matchlogs/2019-2020/defense/Luca-Pellegrini-Match-Logs
+421,Federico Peluso,it,DF,Sassuolo,35,1984,16.8,25,14,13,9,3,25,10,100.0,0,126,43,34.1,13,9,3,35,13,0,22,23,48,65,1,/en/players/4f2908e5/matchlogs/2019-2020/defense/Federico-Peluso-Match-Logs
+422,Gastón Pereiro,uy,"MF,FW",Cagliari,24,1995,3.9,2,2,1,0,1,2,5,20.0,4,50,8,16.0,1,0,1,3,0,0,3,0,2,0,0,/en/players/7ec7738e/matchlogs/2019-2020/defense/Gaston-Pereiro-Match-Logs
+423,Bruno Peres,br,DF,Roma,29,1990,11.7,17,9,10,6,1,17,19,36.8,12,126,33,26.2,10,6,1,18,3,0,15,16,33,23,2,/en/players/852351df/matchlogs/2019-2020/defense/Bruno-Peres-Match-Logs
+424,Carles Pérez,es,"FW,MF",Roma,21,1998,6.3,13,7,2,6,5,13,12,8.3,11,112,28,25.0,2,6,5,8,1,0,7,3,16,1,1,/en/players/a8f21b9f/matchlogs/2019-2020/defense/Carles-Perez-Match-Logs
+425,Mattia Perin,it,GK,Genoa,26,1992,21.0,0,0,0,0,0,0,0,,0,3,2,66.7,0,0,0,0,0,0,0,0,0,0,2,/en/players/4c62d0c8/matchlogs/2019-2020/defense/Mattia-Perin-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,Diego Perotti,ar,"FW,MF",Roma,31,1988,9.7,17,9,8,5,4,17,17,29.4,12,191,61,31.9,8,5,4,13,0,0,13,4,21,5,0,/en/players/a40d5a0c/matchlogs/2019-2020/defense/Diego-Perotti-Match-Logs
+427,Matteo Pessina,it,"MF,FW",Hellas Verona,22,1997,27.7,44,31,14,25,5,44,32,21.9,25,437,136,31.1,14,25,5,49,9,0,40,24,68,47,0,/en/players/780e3631/matchlogs/2019-2020/defense/Matteo-Pessina-Match-Logs
+428,Andrea Petagna,it,FW,SPAL,24,1995,33.7,7,4,2,2,3,7,9,0.0,9,265,59,22.3,2,2,3,19,8,0,11,1,8,25,0,/en/players/03f946ed/matchlogs/2019-2020/defense/Andrea-Petagna-Match-Logs
+429,Jacopo Petriccione,it,MF,Lecce,24,1995,23.8,40,28,25,14,1,40,66,18.2,54,362,95,26.2,25,14,1,40,7,2,33,27,67,27,1,/en/players/909bce7f/matchlogs/2019-2020/defense/Jacopo-Petriccione-Match-Logs
+430,Germán Pezzella,ar,DF,Fiorentina,28,1991,31.4,43,28,31,11,1,43,29,37.9,18,270,105,38.9,31,11,1,54,20,0,34,56,99,192,1,/en/players/8c725b43/matchlogs/2019-2020/defense/German-Pezzella-Match-Logs
+431,Giuseppe Pezzella,it,DF,Parma,21,1997,10.5,17,6,14,3,0,17,20,35.0,13,146,46,31.5,14,3,0,29,9,0,20,6,23,35,0,/en/players/149c5f5d/matchlogs/2019-2020/defense/Giuseppe-Pezzella-Match-Logs
+432,Giuseppe Pezzella,it,DF,Udinese,21,1997,0.9,0,0,0,0,0,0,0,,0,8,2,25.0,0,0,0,1,0,0,1,1,1,2,0,/en/players/149c5f5d/matchlogs/2019-2020/defense/Giuseppe-Pezzella-Match-Logs
+433,Krzysztof Piątek,pl,FW,Milan,24,1995,13.1,6,1,0,3,3,6,11,18.2,9,339,84,24.8,0,3,3,11,3,0,8,3,9,8,0,/en/players/17f3620a/matchlogs/2019-2020/defense/Krzysztof-Piatek-Match-Logs
+434,Stefano Piccinini,it,DF,Sassuolo,16,2002,0.1,0,0,0,0,0,0,0,,0,3,1,33.3,0,0,0,0,0,0,0,0,0,0,0,/en/players/6010ba04/matchlogs/2019-2020/defense/Stefano-Piccinini-Match-Logs
+435,Roberto Piccoli,it,FW,Atalanta,18,2001,0.2,0,0,0,0,0,0,0,,0,5,3,60.0,0,0,0,1,0,0,1,0,0,0,0,/en/players/1cadaf34/matchlogs/2019-2020/defense/Roberto-Piccoli-Match-Logs
+436,Andrea Pinamonti,it,FW,Genoa,20,1999,24.8,21,14,3,10,8,21,26,3.8,25,490,99,20.2,3,10,8,27,2,0,25,9,30,16,0,/en/players/08aa9cd1/matchlogs/2019-2020/defense/Andrea-Pinamonti-Match-Logs
+437,Simone Pinna,it,DF,Cagliari,21,1997,1.0,2,2,1,1,0,2,0,,0,14,3,21.4,1,1,0,3,1,0,2,5,7,2,0,/en/players/6523afa4/matchlogs/2019-2020/defense/Simone-Pinna-Match-Logs
+438,Carlo Pinsoglio,it,GK,Juventus,29,1990,0.2,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/f6a06749/matchlogs/2019-2020/defense/Carlo-Pinsoglio-Match-Logs
+439,Lorenzo Pirola,it,DF,Inter,17,2002,0.1,0,0,0,0,0,0,0,,0,3,1,33.3,0,0,0,0,0,0,0,1,1,0,0,/en/players/caec77da/matchlogs/2019-2020/defense/Lorenzo-Pirola-Match-Logs
+440,Fabio Pisacane,it,DF,Cagliari,33,1986,27.1,40,25,25,15,0,40,44,43.2,25,224,79,35.3,25,15,0,58,29,1,29,28,68,134,1,/en/players/56400c01/matchlogs/2019-2020/defense/Fabio-Pisacane-Match-Logs
+441,Miralem Pjanić,ba,MF,Juventus,29,1990,25.3,46,26,16,24,6,46,57,28.1,41,384,108,28.1,16,24,6,38,12,0,26,32,78,30,3,/en/players/ad6df2d5/matchlogs/2019-2020/defense/Miralem-Pjanic-Match-Logs
+442,Andrea Poli,it,MF,Bologna,29,1989,21.3,52,40,21,25,6,52,61,27.9,44,508,152,29.9,21,25,6,33,4,0,29,39,91,21,0,/en/players/b3fd7075/matchlogs/2019-2020/defense/Andrea-Poli-Match-Logs
+443,Matteo Politano,it,FW,Napoli,25,1993,8.3,12,8,8,1,3,12,12,25.0,9,102,25,24.5,8,1,3,10,0,0,10,5,17,2,0,/en/players/5e861944/matchlogs/2019-2020/defense/Matteo-Politano-Match-Logs
+444,Matteo Politano,it,FW,Inter,25,1993,2.9,1,1,0,0,1,1,4,0.0,4,48,14,29.2,0,0,1,1,0,0,1,0,1,1,0,/en/players/5e861944/matchlogs/2019-2020/defense/Matteo-Politano-Match-Logs
+445,Erick Pulgar,cl,MF,Fiorentina,25,1994,32.8,66,39,28,32,6,66,107,17.8,88,699,196,28.0,28,32,6,76,16,0,60,51,117,52,0,/en/players/4611e028/matchlogs/2019-2020/defense/Erick-Pulgar-Match-Logs
+446,Ignacio Pussetto,ar,"FW,DF",Udinese,23,1995,3.8,6,3,2,3,1,6,9,11.1,8,105,22,21.0,2,3,1,5,1,0,4,4,10,7,0,/en/players/62437b4f/matchlogs/2019-2020/defense/Ignacio-Pussetto-Match-Logs
+447,Fabio Quagliarella,it,FW,Sampdoria,36,1983,25.3,8,5,0,7,1,8,26,11.5,23,444,113,25.5,0,7,1,16,0,0,16,7,15,16,0,/en/players/ee4f2f3b/matchlogs/2019-2020/defense/Fabio-Quagliarella-Match-Logs
+448,Adrien Rabiot,fr,MF,Juventus,24,1995,21.2,56,39,16,25,15,56,43,44.2,24,496,150,30.2,16,25,15,45,8,1,37,32,88,17,0,/en/players/8794e251/matchlogs/2019-2020/defense/Adrien-Rabiot-Match-Logs
+449,Ivan Radovanović,rs,MF,Genoa,30,1988,14.6,28,18,19,8,1,28,26,34.6,17,237,63,26.6,19,8,1,28,5,0,23,8,36,48,0,/en/players/023937a9/matchlogs/2019-2020/defense/Ivan-Radovanovic-Match-Logs
+450,Ionuț Radu,ro,GK,Genoa,22,1997,17.0,0,0,0,0,0,0,2,0.0,2,1,0,0.0,0,0,0,0,0,0,0,0,0,2,1,/en/players/67f649be/matchlogs/2019-2020/defense/Ionut-Radu-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,Ștefan Radu,ro,DF,Lazio,32,1986,25.6,51,28,32,16,3,51,51,54.9,23,255,92,36.1,32,16,3,30,9,0,21,32,83,114,0,/en/players/53de807a/matchlogs/2019-2020/defense/Stefan-Radu-Match-Logs
+452,Boris Radunović,rs,GK,Hellas Verona,23,1996,3.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/0dfce079/matchlogs/2019-2020/defense/Boris-Radunovic-Match-Logs
+453,Rafael,br,GK,Cagliari,37,1982,5.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,2,0,/en/players/dd06d56c/matchlogs/2019-2020/defense/Rafael-Match-Logs
+454,Daniele Ragatzu,it,"MF,FW",Cagliari,27,1991,3.5,2,2,0,2,0,2,4,0.0,4,38,13,34.2,0,2,0,3,0,0,3,1,3,3,0,/en/players/282b3a4d/matchlogs/2019-2020/defense/Daniele-Ragatzu-Match-Logs
+455,Gastón Ramírez,uy,"MF,FW",Sampdoria,28,1990,15.5,31,20,12,12,7,31,44,15.9,37,378,89,23.5,12,12,7,25,2,0,23,12,43,8,0,/en/players/2c851997/matchlogs/2019-2020/defense/Gaston-Ramirez-Match-Logs
+456,Aaron Ramsey,wal,MF,Juventus,28,1990,11.7,28,19,8,13,7,28,25,28.0,18,229,65,28.4,8,13,7,20,3,0,17,11,39,7,0,/en/players/ef619b0b/matchlogs/2019-2020/defense/Aaron-Ramsey-Match-Logs
+457,Luca Ranieri,it,DF,Fiorentina,20,1999,2.6,4,2,3,1,0,4,4,50.0,2,21,10,47.6,3,1,0,3,1,0,2,2,6,15,0,/en/players/8c63fae5/matchlogs/2019-2020/defense/Luca-Ranieri-Match-Logs
+458,Andrea Ranocchia,it,DF,Inter,31,1988,5.8,19,9,9,9,1,19,7,57.1,3,102,38,37.3,9,9,1,13,5,0,8,9,28,26,0,/en/players/539230cf/matchlogs/2019-2020/defense/Andrea-Ranocchia-Match-Logs
+459,Giacomo Raspadori,it,"MF,FW",Sassuolo,19,2000,2.9,10,8,5,2,3,10,3,0.0,3,51,16,31.4,5,2,3,2,0,0,2,1,11,0,0,/en/players/6e058f06/matchlogs/2019-2020/defense/Giacomo-Raspadori-Match-Logs
+460,Ante Rebić,hr,FW,Milan,25,1993,15.5,20,12,6,7,7,20,34,11.8,30,326,82,25.2,6,7,7,16,2,0,14,4,24,14,0,/en/players/536cebe5/matchlogs/2019-2020/defense/Ante-Rebic-Match-Logs
+461,Arkadiusz Reca,pl,DF,SPAL,24,1995,21.4,46,27,28,10,8,46,56,26.8,41,325,96,29.5,28,10,8,23,2,0,21,29,75,40,2,/en/players/6213fd82/matchlogs/2019-2020/defense/Arkadiusz-Reca-Match-Logs
+462,Vasco Regini,it,DF,Sampdoria,28,1990,1.9,4,1,3,1,0,4,2,0.0,2,26,8,30.8,3,1,0,6,2,0,4,1,5,7,0,/en/players/339c6ed4/matchlogs/2019-2020/defense/Vasco-Regini-Match-Logs
+463,Vasco Regini,it,DF,Parma,28,1990,0.6,0,0,0,0,0,0,0,,0,3,0,0.0,0,0,0,0,0,0,0,0,0,3,0,/en/players/339c6ed4/matchlogs/2019-2020/defense/Vasco-Regini-Match-Logs
+464,Pepe Reina,es,GK,Milan,36,1982,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/e358587b/matchlogs/2019-2020/defense/Pepe-Reina-Match-Logs
+465,Franck Ribéry,fr,FW,Fiorentina,36,1983,15.7,16,12,8,6,2,16,19,26.3,14,278,74,26.6,8,6,2,9,0,0,9,3,19,2,0,/en/players/f61c7c4e/matchlogs/2019-2020/defense/Franck-Ribery-Match-Logs
+466,Davide Riccardi,it,DF,Lecce,23,1996,0.2,0,0,0,0,0,0,3,0.0,3,2,0,0.0,0,0,0,0,0,0,0,0,0,1,0,/en/players/7b4b9221/matchlogs/2019-2020/defense/Davide-Riccardi-Match-Logs
+467,Emiliano Rigoni,ar,"MF,FW",Sampdoria,26,1993,4.8,5,5,2,2,1,5,6,33.3,4,120,25,20.8,2,2,1,4,1,0,3,3,8,1,0,/en/players/a1216563/matchlogs/2019-2020/defense/Emiliano-Rigoni-Match-Logs
+468,Tomás Rincón,ve,MF,Torino,31,1988,30.0,60,35,27,25,8,60,77,35.1,50,479,126,26.3,27,25,8,36,4,0,32,36,96,81,0,/en/players/f1cfc209/matchlogs/2019-2020/defense/Tomas-Rincon-Match-Logs
+469,Andrea Rispoli,it,DF,Lecce,30,1988,21.2,29,22,13,12,4,29,40,45.0,22,197,49,24.9,13,12,4,58,8,0,50,36,65,68,0,/en/players/39ee6cb6/matchlogs/2019-2020/defense/Andrea-Rispoli-Match-Logs
+470,Ricardo Rodríguez,ch,DF,Milan,26,1992,4.3,8,4,4,1,3,8,6,33.3,4,51,15,29.4,4,1,3,10,4,0,6,5,13,11,0,/en/players/7f78ad23/matchlogs/2019-2020/defense/Ricardo-Rodriguez-Match-Logs
+471,Marko Rog,hr,MF,Cagliari,24,1995,25.7,86,61,42,34,10,86,81,25.9,60,633,187,29.5,42,34,10,55,15,0,40,24,110,11,0,/en/players/b6b2b820/matchlogs/2019-2020/defense/Marko-Rog-Match-Logs
+472,Rogério,br,DF,Sassuolo,21,1998,11.3,25,12,13,7,5,25,19,47.4,10,122,38,31.1,13,7,5,29,4,0,25,8,33,25,0,/en/players/10e7f486/matchlogs/2019-2020/defense/Rogerio-Match-Logs
+473,Filippo Romagna,it,DF,Sassuolo,22,1997,16.4,14,7,9,5,0,14,4,50.0,2,100,32,32.0,9,5,0,34,19,0,15,10,24,84,0,/en/players/84594618/matchlogs/2019-2020/defense/Filippo-Romagna-Match-Logs
+474,Alessio Romagnoli,it,DF,Milan,24,1995,34.3,36,25,24,11,1,36,27,33.3,18,301,102,33.9,24,11,1,54,18,0,36,58,94,176,0,/en/players/3ead85f9/matchlogs/2019-2020/defense/Alessio-Romagnoli-Match-Logs
+475,Cristian Romero,ar,DF,Genoa,21,1998,28.6,61,37,46,12,3,61,54,35.2,35,474,155,32.7,46,12,3,73,34,0,39,74,135,143,2,/en/players/a3d94a58/matchlogs/2019-2020/defense/Cristian-Romero-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Rômulo,it,MF,Brescia,32,1987,19.1,32,16,12,14,6,32,44,22.7,34,344,68,19.8,12,14,6,24,1,0,23,8,40,8,0,/en/players/07abb358/matchlogs/2019-2020/defense/Romulo-Match-Logs
+477,Rômulo,it,DF,Genoa,32,1987,0.2,1,0,0,1,0,1,1,0.0,1,4,0,0.0,0,1,0,0,0,0,0,0,1,1,0,/en/players/07abb358/matchlogs/2019-2020/defense/Romulo-Match-Logs
+478,Cristiano Ronaldo,pt,FW,Juventus,34,1985,32.4,16,10,4,6,6,16,20,20.0,16,249,55,22.1,4,6,6,16,6,0,10,5,21,23,0,/en/players/dea698d9/matchlogs/2019-2020/defense/Cristiano-Ronaldo-Match-Logs
+479,Marten de Roon,nl,MF,Atalanta,28,1991,30.2,75,49,28,33,14,75,97,37.1,61,654,201,30.7,28,33,14,52,8,0,44,43,118,60,1,/en/players/2a1beb34/matchlogs/2019-2020/defense/Marten-de-Roon-Match-Logs
+480,Antonio Rosati,it,GK,Torino,36,1983,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/28a15394/matchlogs/2019-2020/defense/Antonio-Rosati-Match-Logs
+481,Luca Rossettini,it,DF,Lecce,34,1985,25.1,24,16,18,6,0,24,30,33.3,20,180,55,30.6,18,6,0,49,22,0,27,33,57,166,1,/en/players/47a500ae/matchlogs/2019-2020/defense/Luca-Rossettini-Match-Logs
+482,Francesco Rossi,it,GK,Atalanta,28,1991,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/7b5f516f/matchlogs/2019-2020/defense/Francesco-Rossi-Match-Logs
+483,Nicolò Rovella,it,MF,Genoa,17,2001,1.2,1,1,0,1,0,1,1,0.0,1,24,5,20.8,0,1,0,1,0,0,1,4,5,0,0,/en/players/e58cbfd5/matchlogs/2019-2020/defense/Nicolo-Rovella-Match-Logs
+484,Amir Rrahmani,xk,DF,Hellas Verona,25,1994,35.9,63,39,35,23,5,63,53,50.9,26,483,139,28.8,35,23,5,76,37,1,39,32,95,200,2,/en/players/4b3e1a38/matchlogs/2019-2020/defense/Amir-Rrahmani-Match-Logs
+485,Dion Ruffo Luci,it,MF,Bologna,18,2001,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/f239e6dd/matchlogs/2019-2020/defense/Dion-Ruffo-Luci-Match-Logs
+486,Daniele Rugani,it,DF,Juventus,25,1994,7.7,8,6,5,3,0,8,5,80.0,1,53,15,28.3,5,3,0,12,6,0,6,9,17,46,0,/en/players/14b8fcdf/matchlogs/2019-2020/defense/Daniele-Rugani-Match-Logs
+487,Mário Rui,pt,DF,Napoli,28,1991,21.8,37,25,17,13,7,37,27,44.4,15,229,81,35.4,17,13,7,43,6,1,37,22,59,46,0,/en/players/0b5a292a/matchlogs/2019-2020/defense/Mario-Rui-Match-Logs
+488,Fabián Ruiz Peña,es,MF,Napoli,23,1996,29.8,48,33,22,20,6,48,71,29.6,50,552,163,29.5,22,20,6,47,4,0,43,32,80,22,1,/en/players/c0c7ff58/matchlogs/2019-2020/defense/Fabian-Ruiz-Pena-Match-Logs
+489,Stefano Sabelli,it,DF,Brescia,26,1993,35.2,104,60,61,37,6,104,139,34.5,91,716,183,25.6,61,37,6,94,15,1,79,56,160,95,0,/en/players/0ccac09c/matchlogs/2019-2020/defense/Stefano-Sabelli-Match-Logs
+490,Alexis Saelemaekers,be,"FW,MF",Milan,20,1999,7.6,14,6,4,7,3,14,21,33.3,14,130,34,26.2,4,7,3,12,0,0,12,11,25,2,0,/en/players/ee251371/matchlogs/2019-2020/defense/Alexis-Saelemaekers-Match-Logs
+491,Jacopo Sala,it,DF,SPAL,27,1991,9.5,24,9,17,5,2,24,23,39.1,14,163,45,27.6,17,5,2,19,0,0,19,14,38,18,1,/en/players/da5a981b/matchlogs/2019-2020/defense/Jacopo-Sala-Match-Logs
+492,Bartosz Salamon,pl,DF,SPAL,28,1991,3.8,1,1,1,0,0,1,2,0.0,2,25,6,24.0,1,0,0,7,4,0,3,7,8,19,0,/en/players/9b30df1e/matchlogs/2019-2020/defense/Bartosz-Salamon-Match-Logs
+493,Eddy Salcedo,it,"FW,MF",Hellas Verona,17,2001,7.6,3,1,2,0,1,3,5,0.0,5,128,35,27.3,2,0,1,4,0,0,4,1,4,2,0,/en/players/0489bb30/matchlogs/2019-2020/defense/Eddy-Salcedo-Match-Logs
+494,Antonio Sanabria,py,FW,Genoa,23,1996,15.4,13,10,3,6,4,13,11,27.3,8,309,80,25.9,3,6,4,14,1,0,13,3,16,13,0,/en/players/0a447501/matchlogs/2019-2020/defense/Antonio-Sanabria-Match-Logs
+495,Alexis Sánchez,cl,FW,Inter,30,1988,10.3,9,8,1,5,3,9,11,18.2,9,209,63,30.1,1,5,3,9,2,0,7,3,12,2,0,/en/players/2c0f8e9e/matchlogs/2019-2020/defense/Alexis-Sanchez-Match-Logs
+496,Alex Sandro,br,DF,Juventus,28,1991,26.5,43,25,23,13,7,43,35,34.3,23,298,84,28.2,23,13,7,48,6,1,42,43,86,57,2,/en/players/0d82903c/matchlogs/2019-2020/defense/Alex-Sandro-Match-Logs
+497,Nicola Sansone,it,"FW,MF",Bologna,27,1991,25.2,34,20,12,16,6,34,62,24.2,47,458,125,27.3,12,16,6,28,1,0,27,11,45,10,0,/en/players/7eb97a8e/matchlogs/2019-2020/defense/Nicola-Sansone-Match-Logs
+498,Federico Santander,py,FW,Bologna,28,1991,8.6,10,6,2,1,7,10,4,50.0,2,159,53,33.3,2,1,7,11,2,0,9,7,17,12,0,/en/players/df85d472/matchlogs/2019-2020/defense/Federico-Santander-Match-Logs
+499,Davide Santon,it,DF,Roma,28,1991,6.9,13,9,6,6,1,13,14,28.6,10,104,33,31.7,6,6,1,15,2,0,13,10,23,15,0,/en/players/88c89891/matchlogs/2019-2020/defense/Davide-Santon-Match-Logs
+500,Samir Santos,br,DF,Udinese,24,1994,17.2,44,28,29,12,3,44,28,46.4,15,218,83,38.1,29,12,3,29,9,0,20,34,78,81,1,/en/players/92b4758e/matchlogs/2019-2020/defense/Samir-Santos-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+501,Riccardo Saponara,it,"MF,FW",Lecce,27,1991,10.5,10,7,2,7,1,10,13,30.8,9,114,25,21.9,2,7,1,6,0,0,6,5,15,2,0,/en/players/3bb7af3b/matchlogs/2019-2020/defense/Riccardo-Saponara-Match-Logs
+502,Riccardo Saponara,it,"MF,FW",Genoa,27,1991,1.9,4,3,3,1,0,4,3,0.0,3,30,5,16.7,3,1,0,1,1,0,0,0,4,2,0,/en/players/3bb7af3b/matchlogs/2019-2020/defense/Riccardo-Saponara-Match-Logs
+503,Lasse Schöne,dk,MF,Genoa,33,1986,27.0,46,28,12,32,2,46,54,27.8,39,488,139,28.5,12,32,2,38,7,1,31,34,80,25,2,/en/players/c3a8bcd8/matchlogs/2019-2020/defense/Lasse-Schone-Match-Logs
+504,Jerdy Schouten,nl,MF,Bologna,22,1997,12.0,26,21,11,14,1,26,20,25.0,15,232,72,31.0,11,14,1,25,6,0,19,26,52,30,0,/en/players/2cfae697/matchlogs/2019-2020/defense/Jerdy-Schouten-Match-Logs
+505,Matteo Scozzarella,it,MF,Parma,31,1988,10.2,22,15,11,9,2,22,29,34.5,19,171,39,22.8,11,9,2,28,13,0,15,28,50,34,0,/en/players/ea164f99/matchlogs/2019-2020/defense/Matteo-Scozzarella-Match-Logs
+506,Ken Sema,se,"DF,MF",Udinese,25,1993,27.3,48,27,39,8,1,48,64,42.2,37,413,108,26.2,39,8,1,46,9,0,37,20,68,40,1,/en/players/1770bd68/matchlogs/2019-2020/defense/Ken-Sema-Match-Logs
+507,Alessandro Semprini,it,DF,Brescia,21,1998,7.0,10,3,7,3,0,10,9,66.7,3,82,17,20.7,7,3,0,20,5,1,15,9,19,16,0,/en/players/dd29f81d/matchlogs/2019-2020/defense/Alessandro-Semprini-Match-Logs
+508,Stefano Sensi,it,"MF,FW",Inter,23,1995,8.0,15,11,7,7,1,15,26,26.9,19,181,51,28.2,7,7,1,18,1,0,17,9,24,3,0,/en/players/b70bde8f/matchlogs/2019-2020/defense/Stefano-Sensi-Match-Logs
+509,Luigi Sepe,it,GK,Parma,28,1991,34.0,1,0,1,0,0,1,2,50.0,1,5,1,20.0,1,0,0,0,0,0,0,0,1,0,1,/en/players/343f753a/matchlogs/2019-2020/defense/Luigi-Sepe-Match-Logs
+510,Yevhen Shakhov,ua,"MF,FW",Lecce,28,1990,12.1,34,22,16,13,5,34,23,30.4,16,287,74,25.8,16,13,5,14,3,0,11,14,48,11,1,/en/players/ff764de3/matchlogs/2019-2020/defense/Yevhen-Shakhov-Match-Logs
+511,Luca Siligardi,it,"FW,MF",Parma,31,1988,3.7,7,3,3,3,1,7,7,71.4,2,73,19,26.0,3,3,1,8,0,0,8,3,10,1,0,/en/players/1cac99dc/matchlogs/2019-2020/defense/Luca-Siligardi-Match-Logs
+512,André Silva,pt,FW,Milan,23,1995,0.7,3,1,0,1,2,3,1,0.0,1,15,2,13.3,0,1,2,0,0,0,0,0,3,0,0,/en/players/3effaa34/matchlogs/2019-2020/defense/Andre-Silva-Match-Logs
+513,Marco Silvestri,it,GK,Hellas Verona,28,1991,35.0,0,0,0,0,0,0,2,0.0,2,4,0,0.0,0,0,0,0,0,0,0,4,4,0,1,/en/players/0d422df7/matchlogs/2019-2020/defense/Marco-Silvestri-Match-Logs
+514,Giovanni Simeone,ar,FW,Cagliari,24,1995,32.5,30,11,9,12,9,30,29,20.7,23,489,128,26.2,9,12,9,36,11,0,25,12,42,13,0,/en/players/343c0d52/matchlogs/2019-2020/defense/Giovanni-Simeone-Match-Logs
+515,Wilfried Singo,ci,DF,Torino,18,2000,1.5,2,0,1,1,0,2,2,50.0,1,11,4,36.4,1,1,0,1,0,0,1,0,2,4,0,/en/players/8b609c34/matchlogs/2019-2020/defense/Wilfried-Singo-Match-Logs
+516,Salvatore Sirigu,it,GK,Torino,32,1987,36.0,0,0,0,0,0,0,0,,0,2,0,0.0,0,0,0,0,0,0,0,2,2,1,0,/en/players/10dc46f0/matchlogs/2019-2020/defense/Salvatore-Sirigu-Match-Logs
+517,Łukasz Skorupski,pl,GK,Bologna,28,1991,37.0,1,0,1,0,0,1,0,,0,6,2,33.3,1,0,0,0,0,0,0,3,4,1,3,/en/players/ab4449d6/matchlogs/2019-2020/defense/Lukasz-Skorupski-Match-Logs
+518,Andreas Skov Olsen,dk,"FW,MF",Bologna,19,1999,8.4,13,7,6,6,1,13,17,29.4,12,215,47,21.9,6,6,1,14,1,0,13,8,21,12,0,/en/players/c50cee19/matchlogs/2019-2020/defense/Andreas-Skov-Olsen-Match-Logs
+519,Simon Skrabb,fi,"MF,FW",Brescia,24,1995,2.9,7,4,2,3,2,7,10,40.0,6,72,18,25.0,2,3,2,8,1,0,7,0,7,2,0,/en/players/45af5134/matchlogs/2019-2020/defense/Simon-Skrabb-Match-Logs
+520,Milan Škriniar,sk,DF,Inter,24,1995,29.2,47,29,28,17,2,47,38,39.5,23,291,82,28.2,28,17,2,32,13,1,19,27,74,96,0,/en/players/30f5ffa9/matchlogs/2019-2020/defense/Milan-Skriniar-Match-Logs
+521,Chris Smalling,eng,DF,Roma,29,1989,28.5,36,23,22,13,1,36,12,75.0,3,187,62,33.2,22,13,1,60,39,2,21,60,96,166,3,/en/players/b6964eb6/matchlogs/2019-2020/defense/Chris-Smalling-Match-Logs
+522,Roberto Soriano,it,MF,Bologna,28,1991,27.4,52,37,15,28,9,52,55,30.9,38,455,134,29.5,15,28,9,31,2,0,29,18,70,20,1,/en/players/9d4c45d6/matchlogs/2019-2020/defense/Roberto-Soriano-Match-Logs
+523,Riccardo Sottil,it,"FW,DF",Fiorentina,20,1999,5.7,5,3,4,1,0,5,11,27.3,8,73,12,16.4,4,1,0,9,1,0,8,0,5,0,0,/en/players/94816803/matchlogs/2019-2020/defense/Riccardo-Sottil-Match-Logs
+524,Adama Soumaoro,fr,DF,Genoa,27,1992,7.1,6,5,4,2,0,6,3,66.7,1,48,17,35.4,4,2,0,13,9,0,4,8,14,45,0,/en/players/7b075c75/matchlogs/2019-2020/defense/Adama-Soumaoro-Match-Logs
+525,Nikolas Špalek,sk,"MF,FW",Brescia,22,1997,17.5,21,14,6,11,4,21,33,15.2,28,497,116,23.3,6,11,4,23,0,0,23,8,29,10,0,/en/players/9e90fb5d/matchlogs/2019-2020/defense/Nikolas-Spalek-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,Leonardo Spinazzola,it,DF,Roma,26,1993,17.2,18,10,9,7,2,18,27,40.7,16,203,62,30.5,9,7,2,34,5,0,29,21,39,44,1,/en/players/3626daea/matchlogs/2019-2020/defense/Leonardo-Spinazzola-Match-Logs
+527,Marco Sportiello,it,GK,Atalanta,27,1992,5.8,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/ac4003af/matchlogs/2019-2020/defense/Marco-Sportiello-Match-Logs
+528,Mattia Sprocati,it,FW,Parma,26,1992,6.6,4,3,4,0,0,4,4,0.0,4,92,31,33.7,4,0,0,10,1,0,9,1,5,2,0,/en/players/bdd0692f/matchlogs/2019-2020/defense/Mattia-Sprocati-Match-Logs
+529,Mariusz Stępiński,pl,FW,Hellas Verona,24,1995,7.8,6,4,1,3,2,6,2,0.0,2,138,38,27.5,1,3,2,6,1,0,5,1,7,8,0,/en/players/7b536033/matchlogs/2019-2020/defense/Mariusz-Stepinski-Match-Logs
+530,Thomas Strakosha,al,GK,Lazio,24,1995,38.0,0,0,0,0,0,0,1,0.0,1,4,0,0.0,0,0,0,2,1,0,1,0,0,1,2,/en/players/339fe0e8/matchlogs/2019-2020/defense/Thomas-Strakosha-Match-Logs
+531,Jens Stryger Larsen,dk,DF,Udinese,28,1991,31.0,39,22,24,11,4,39,37,51.4,18,336,85,25.3,24,11,4,38,6,0,32,22,61,50,0,/en/players/f91e81c9/matchlogs/2019-2020/defense/Jens-Stryger-Larsen-Match-Logs
+532,Stefano Sturaro,it,MF,Genoa,26,1993,13.9,35,26,11,17,7,35,38,23.7,29,285,86,30.2,11,17,7,27,4,0,23,10,45,30,0,/en/players/2334478a/matchlogs/2019-2020/defense/Stefano-Sturaro-Match-Logs
+533,Suso,es,"FW,MF",Milan,25,1993,15.1,17,14,5,10,2,17,15,20.0,12,206,45,21.8,5,10,2,11,0,0,11,8,25,3,0,/en/players/4e219ad2/matchlogs/2019-2020/defense/Suso-Match-Logs
+534,Bosko Sutalo,hr,DF,Atalanta,19,2000,3.1,3,2,1,1,1,3,1,0.0,1,43,11,25.6,1,1,1,4,0,0,4,6,9,9,1,/en/players/1d0bb7e4/matchlogs/2019-2020/defense/Bosko-Sutalo-Match-Logs
+535,Mattias Svanberg,se,MF,Bologna,20,1999,11.7,17,14,9,5,3,17,31,12.9,27,268,56,20.9,9,5,3,22,5,0,17,14,31,14,0,/en/players/92d83c27/matchlogs/2019-2020/defense/Mattias-Svanberg-Match-Logs
+536,Wojciech Szczęsny,pl,GK,Juventus,29,1990,28.8,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,1,1,2,3,/en/players/01b8a2b2/matchlogs/2019-2020/defense/Wojciech-Szczesny-Match-Logs
+537,Andrea Tabanelli,it,MF,Lecce,29,1990,10.7,18,12,7,8,3,18,30,26.7,22,206,47,22.8,7,8,3,20,4,0,16,10,28,18,1,/en/players/b59e02da/matchlogs/2019-2020/defense/Andrea-Tabanelli-Match-Logs
+538,Panagiotis Tachtsidis,gr,MF,Lecce,28,1991,22.3,62,45,32,21,9,62,72,41.7,42,437,127,29.1,32,21,9,41,12,0,29,30,92,43,1,/en/players/e26bd2f4/matchlogs/2019-2020/defense/Panagiotis-Tachtsidis-Match-Logs
+539,Adrien Tameze,cm,MF,Atalanta,25,1994,2.3,4,3,2,1,1,4,6,0.0,6,52,16,30.8,2,1,1,5,1,0,4,3,7,3,0,/en/players/8da74c05/matchlogs/2019-2020/defense/Adrien-Tameze-Match-Logs
+540,Łukasz Teodorczyk,pl,FW,Udinese,28,1991,2.5,8,5,2,4,2,8,6,33.3,4,79,18,22.8,2,4,2,1,0,0,1,0,8,2,0,/en/players/7e81a17d/matchlogs/2019-2020/defense/Lukasz-Teodorczyk-Match-Logs
+541,Hidde ter Avest,nl,DF,Udinese,22,1997,7.6,17,8,11,3,3,17,15,60.0,6,117,23,19.7,11,3,3,21,1,0,20,10,27,30,0,/en/players/18f9dbd0/matchlogs/2019-2020/defense/Hidde-ter-Avest-Match-Logs
+542,Pietro Terracciano,it,GK,Fiorentina,29,1990,6.9,0,0,0,0,0,0,1,0.0,1,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/e1b0a70d/matchlogs/2019-2020/defense/Pietro-Terracciano-Match-Logs
+543,Aleksa Terzić,rs,DF,Fiorentina,19,1999,0.1,0,0,0,0,0,0,0,,0,2,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/3ef0a2d7/matchlogs/2019-2020/defense/Aleksa-Terzic-Match-Logs
+544,Demba Thiam,sn,GK,SPAL,21,1998,2.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,1,0,0,1,1,1,0,0,/en/players/0f47717b/matchlogs/2019-2020/defense/Demba-Thiam-Match-Logs
+545,Morten Thorsby,no,"MF,DF",Sampdoria,23,1996,20.7,48,28,17,18,13,48,55,32.7,37,387,102,26.4,17,18,13,48,7,0,41,15,63,42,2,/en/players/d1b49282/matchlogs/2019-2020/defense/Morten-Thorsby-Match-Logs
+546,Jeremy Toljan,de,DF,Sassuolo,24,1994,24.3,38,19,27,7,4,38,42,42.9,24,342,105,30.7,27,7,4,52,16,0,36,17,55,51,2,/en/players/a96e5dc0/matchlogs/2019-2020/defense/Jeremy-Toljan-Match-Logs
+547,Rafael Tolói,br,DF,Atalanta,28,1990,29.0,69,51,37,27,5,69,88,43.2,50,351,125,35.6,37,27,5,50,22,1,28,46,115,147,1,/en/players/c56dc39e/matchlogs/2019-2020/defense/Rafael-Toloi-Match-Logs
+548,Takehiro Tomiyasu,jp,DF,Bologna,20,1998,28.1,48,28,29,11,8,48,46,52.2,22,420,128,30.5,29,11,8,65,11,1,54,49,97,107,3,/en/players/b3af9be1/matchlogs/2019-2020/defense/Takehiro-Tomiyasu-Match-Logs
+549,Nenad Tomović,rs,DF,SPAL,31,1987,19.5,21,11,15,4,2,21,17,58.8,7,202,49,24.3,15,4,2,45,26,0,19,31,52,91,0,/en/players/6aafdc27/matchlogs/2019-2020/defense/Nenad-Tomovic-Match-Logs
+550,Sandro Tonali,it,MF,Brescia,19,2000,33.5,52,41,22,27,3,52,48,29.2,34,557,140,25.1,22,27,3,57,14,0,43,41,93,46,0,/en/players/0db169ae/matchlogs/2019-2020/defense/Sandro-Tonali-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+551,Lorenzo Tonelli,it,DF,Sampdoria,29,1990,7.8,17,11,15,1,1,17,13,46.2,7,72,23,31.9,15,1,1,14,7,0,7,4,21,24,0,/en/players/8cc29864/matchlogs/2019-2020/defense/Lorenzo-Tonelli-Match-Logs
+552,Ernesto Torregrossa,it,FW,Brescia,27,1992,20.5,15,8,5,8,2,15,26,19.2,21,318,61,19.2,5,8,2,17,6,0,11,5,20,19,0,/en/players/bf39bdec/matchlogs/2019-2020/defense/Ernesto-Torregrossa-Match-Logs
+553,Amad Traoré,ci,FW,Atalanta,17,2002,0.3,1,1,0,1,0,1,0,,0,8,5,62.5,0,1,0,0,0,0,0,0,1,0,0,/en/players/9dc96f10/matchlogs/2019-2020/defense/Amad-Traore-Match-Logs
+554,Luca Tremolada,it,MF,Brescia,27,1991,0.2,0,0,0,0,0,0,1,0.0,1,6,1,16.7,0,0,0,0,0,0,0,0,0,1,0,/en/players/ed65da8c/matchlogs/2019-2020/defense/Luca-Tremolada-Match-Logs
+555,Alessandro Tripaldelli,it,DF,Sassuolo,20,1999,1.5,4,1,1,3,0,4,5,60.0,2,23,4,17.4,1,3,0,3,0,0,3,3,7,4,0,/en/players/4571fa88/matchlogs/2019-2020/defense/Alessandro-Tripaldelli-Match-Logs
+556,William Troost-Ekong,ng,DF,Udinese,25,1993,28.6,35,19,23,11,1,35,23,34.8,15,252,82,32.5,23,11,1,58,30,0,28,31,66,159,2,/en/players/7ed4921e/matchlogs/2019-2020/defense/William-Troost-Ekong-Match-Logs
+557,Georgi Tunjov,ee,MF,SPAL,18,2001,3.2,8,7,6,2,0,8,12,8.3,11,70,21,30.0,6,2,0,4,1,0,3,2,10,1,0,/en/players/7aa84ac5/matchlogs/2019-2020/defense/Georgi-Tunjov-Match-Logs
+558,Stefano Turati,it,GK,Sassuolo,,,2.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/bf168004/matchlogs/2019-2020/defense/Stefano-Turati-Match-Logs
+559,Gennaro Tutino,it,FW,Hellas Verona,22,1996,2.5,1,0,0,0,1,1,3,33.3,2,42,9,21.4,0,0,1,0,0,0,0,2,3,1,0,/en/players/8b303bcb/matchlogs/2019-2020/defense/Gennaro-Tutino-Match-Logs
+560,Samir Ujkani,xk,GK,Torino,31,1988,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/96640846/matchlogs/2019-2020/defense/Samir-Ujkani-Match-Logs
+561,Cengiz Ünder,tr,FW,Roma,22,1997,9.7,12,7,4,4,4,12,14,21.4,11,126,34,27.0,4,4,4,11,2,0,9,7,19,6,0,/en/players/1880614f/matchlogs/2019-2020/defense/Cengiz-Under-Match-Logs
+562,Mirko Valdifiori,it,MF,SPAL,33,1986,15.6,27,21,12,15,0,27,34,38.2,21,225,66,29.3,12,15,0,13,4,0,9,4,31,31,0,/en/players/c710f7d5/matchlogs/2019-2020/defense/Mirko-Valdifiori-Match-Logs
+563,Borja Valero,es,MF,Inter,34,1985,10.3,15,9,7,5,3,15,22,18.2,18,192,42,21.9,7,5,3,18,3,0,15,7,22,11,0,/en/players/0e21fc3c/matchlogs/2019-2020/defense/Borja-Valero-Match-Logs
+564,Mattia Valoti,it,"MF,FW",SPAL,25,1993,17.0,49,33,26,21,2,49,32,31.3,22,366,85,23.2,26,21,2,31,5,0,26,18,67,18,1,/en/players/c414df9d/matchlogs/2019-2020/defense/Mattia-Valoti-Match-Logs
+565,Denis Vavro,sk,DF,Lazio,23,1996,3.6,4,1,2,2,0,4,2,50.0,1,22,9,40.9,2,2,0,10,6,0,4,3,7,17,0,/en/players/08990838/matchlogs/2019-2020/defense/Denis-Vavro-Match-Logs
+566,Matías Vecino,uy,MF,Inter,27,1991,14.2,28,17,12,10,6,28,32,15.6,27,271,69,25.5,12,10,6,31,4,0,27,14,42,26,0,/en/players/44ac04e9/matchlogs/2019-2020/defense/Matias-Vecino-Match-Logs
+567,Miguel Veloso,pt,MF,Hellas Verona,33,1986,31.2,60,43,27,27,6,60,81,32.1,55,613,172,28.1,27,27,6,56,13,0,43,32,92,70,0,/en/players/ab1ca213/matchlogs/2019-2020/defense/Miguel-Veloso-Match-Logs
+568,Lorenzo Venuti,it,DF,Fiorentina,24,1995,9.5,17,9,13,3,1,17,15,60.0,6,132,32,24.2,13,3,1,9,1,0,8,10,27,22,0,/en/players/983ff2c7/matchlogs/2019-2020/defense/Lorenzo-Venuti-Match-Logs
+569,Brayan Vera,co,"DF,MF",Lecce,20,1999,1.7,6,4,3,2,1,6,4,75.0,1,58,13,22.4,3,2,1,4,0,0,4,1,7,4,0,/en/players/80c718dd/matchlogs/2019-2020/defense/Brayan-Vera-Match-Logs
+570,Simone Verdi,it,"MF,FW",Torino,27,1992,23.0,19,12,4,11,4,19,36,22.2,28,368,95,25.8,4,11,4,18,0,0,18,5,24,4,0,/en/players/0375723e/matchlogs/2019-2020/defense/Simone-Verdi-Match-Logs
+571,Jordan Veretout,fr,MF,Roma,26,1993,29.2,45,25,21,17,7,45,51,23.5,39,528,146,27.7,21,17,7,48,5,0,43,20,65,38,1,/en/players/4a56052c/matchlogs/2019-2020/defense/Jordan-Veretout-Match-Logs
+572,Valerio Verre,it,"FW,MF",Hellas Verona,25,1994,19.7,24,17,4,11,9,24,26,30.8,18,347,113,32.6,4,11,9,12,1,0,11,14,38,14,0,/en/players/33ecf462/matchlogs/2019-2020/defense/Valerio-Verre-Match-Logs
+573,Francesco Vicari,it,DF,SPAL,24,1994,32.2,30,20,24,5,1,30,27,44.4,15,231,74,32.0,24,5,1,68,42,2,26,42,72,181,2,/en/players/de045b15/matchlogs/2019-2020/defense/Francesco-Vicari-Match-Logs
+574,Ronaldo Vieira,gw,MF,Sampdoria,21,1998,20.2,46,30,20,22,4,46,32,31.3,22,485,114,23.5,20,22,4,29,3,0,26,22,68,49,0,/en/players/75e60d75/matchlogs/2019-2020/defense/Ronaldo-Vieira-Match-Logs
+575,Mauro Vigorito,it,GK,Lecce,29,1990,4.7,0,0,0,0,0,0,0,,0,2,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/582a251c/matchlogs/2019-2020/defense/Mauro-Vigorito-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+576,Gonzalo Villar,es,MF,Roma,21,1998,3.3,4,2,4,0,0,4,7,28.6,5,79,18,22.8,4,0,0,6,0,0,6,2,6,3,0,/en/players/bdc74a8f/matchlogs/2019-2020/defense/Gonzalo-Villar-Match-Logs
+577,Luigi Vitale,it,DF,Hellas Verona,31,1987,0.5,0,0,0,0,0,0,0,,0,8,0,0.0,0,0,0,1,0,0,1,0,0,2,0,/en/players/fe479e17/matchlogs/2019-2020/defense/Luigi-Vitale-Match-Logs
+578,Mattia Viviani,it,MF,Brescia,18,2000,3.8,1,1,0,1,0,1,6,0.0,6,121,15,12.4,0,1,0,3,2,0,1,9,10,6,0,/en/players/360b2bb1/matchlogs/2019-2020/defense/Mattia-Viviani-Match-Logs
+579,Dušan Vlahović,rs,FW,Fiorentina,19,2000,16.7,4,2,1,2,1,4,15,20.0,12,240,60,25.0,1,2,1,10,2,0,8,6,10,6,0,/en/players/79443529/matchlogs/2019-2020/defense/Dusan-Vlahovic-Match-Logs
+580,Stefan de Vrij,nl,DF,Inter,27,1992,31.4,39,25,17,21,1,39,29,41.4,17,289,92,31.8,17,21,1,57,31,0,26,46,85,152,2,/en/players/d0d8dd44/matchlogs/2019-2020/defense/Stefan-de-Vrij-Match-Logs
+581,Giacomo Vrioni,al,FW,Juventus,20,1998,0.1,0,0,0,0,0,0,0,,0,5,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/bf4d31d3/matchlogs/2019-2020/defense/Giacomo-Vrioni-Match-Logs
+582,Walace,br,MF,Udinese,24,1995,12.7,34,25,19,11,4,34,44,34.1,29,264,69,26.1,19,11,4,35,6,0,29,33,67,21,1,/en/players/26db8853/matchlogs/2019-2020/defense/Walace-Match-Logs
+583,Sebastian Walukiewicz,pl,DF,Cagliari,19,2000,12.9,16,9,8,7,1,16,22,36.4,14,140,37,26.4,8,7,1,33,18,1,15,15,31,49,0,/en/players/217875a4/matchlogs/2019-2020/defense/Sebastian-Walukiewicz-Match-Logs
+584,Jawad El Yamiq,ma,DF,Genoa,27,1992,2.2,3,3,3,0,0,3,3,33.3,2,28,7,25.0,3,0,0,4,2,0,2,1,4,6,0,/en/players/f6f6b6e8/matchlogs/2019-2020/defense/Jawad-El-Yamiq-Match-Logs
+585,Maya Yoshida,jp,DF,Sampdoria,30,1988,13.2,5,3,3,1,1,5,8,25.0,6,83,33,39.8,3,1,1,23,10,1,13,29,34,79,0,/en/players/caffaf5a/matchlogs/2019-2020/defense/Maya-Yoshida-Match-Logs
+586,Amin Younes,de,"FW,MF",Napoli,25,1993,2.0,4,3,1,2,1,4,2,50.0,1,40,13,32.5,1,2,1,2,0,0,2,0,4,1,0,/en/players/228f73ae/matchlogs/2019-2020/defense/Amin-Younes-Match-Logs
+587,Ashley Young,eng,DF,Inter,34,1985,13.2,17,9,5,5,7,17,23,30.4,16,125,36,28.8,5,5,7,33,3,0,30,15,32,19,0,/en/players/be927d03/matchlogs/2019-2020/defense/Ashley-Young-Match-Logs
+588,Mattia Zaccagni,it,"FW,MF",Hellas Verona,24,1995,23.5,19,12,9,4,6,19,15,13.3,13,363,102,28.1,9,4,6,32,5,0,27,17,36,13,0,/en/players/d85c238b/matchlogs/2019-2020/defense/Mattia-Zaccagni-Match-Logs
+589,Luca Zanimacchia,it,FW,Juventus,21,1998,1.3,5,1,2,1,2,5,3,33.3,2,11,3,27.3,2,1,2,1,0,0,1,0,5,0,0,/en/players/5e834dce/matchlogs/2019-2020/defense/Luca-Zanimacchia-Match-Logs
+590,Nicolò Zaniolo,it,"FW,MF",Roma,20,1999,16.7,15,11,5,5,5,15,23,17.4,19,295,71,24.1,5,5,5,16,1,0,15,5,20,7,0,/en/players/9907b1c8/matchlogs/2019-2020/defense/Nicolo-Zaniolo-Match-Logs
+591,Cristián Zapata,co,DF,Genoa,32,1986,19.1,33,21,26,6,1,33,20,45.0,11,215,74,34.4,26,6,1,41,18,0,23,27,60,99,0,/en/players/b1deecf8/matchlogs/2019-2020/defense/Cristian-Zapata-Match-Logs
+592,Duván Zapata,co,FW,Atalanta,28,1991,22.5,7,4,2,2,3,7,8,37.5,5,237,68,28.7,2,2,3,24,9,0,15,1,8,6,0,/en/players/d3de9af0/matchlogs/2019-2020/defense/Duvan-Zapata-Match-Logs
+593,Davide Zappacosta,it,DF,Roma,27,1992,5.0,7,3,3,3,1,7,9,55.6,4,68,15,22.1,3,3,1,8,0,0,8,6,13,8,0,/en/players/7fe90ccd/matchlogs/2019-2020/defense/Davide-Zappacosta-Match-Logs
+594,Simone Zaza,it,FW,Torino,28,1991,18.2,15,9,6,5,4,15,11,27.3,8,261,59,22.6,6,5,4,14,0,0,14,8,23,15,1,/en/players/9592289a/matchlogs/2019-2020/defense/Simone-Zaza-Match-Logs
+595,Marvin Zeegelaar,nl,DF,Udinese,28,1990,6.6,18,8,10,7,1,18,13,61.5,5,120,31,25.8,10,7,1,14,3,0,11,5,23,13,0,/en/players/8abd0c03/matchlogs/2019-2020/defense/Marvin-Zeegelaar-Match-Logs
+596,Piotr Zieliński,pl,MF,Napoli,25,1994,32.5,29,17,11,12,6,29,45,22.2,35,466,130,27.9,11,12,6,53,5,0,48,23,52,23,1,/en/players/a5296e55/matchlogs/2019-2020/defense/Piotr-Zielinski-Match-Logs
+597,Jaromír Zmrhal,cz,MF,Brescia,25,1993,12.5,11,5,5,4,2,11,18,38.9,11,217,49,22.6,5,4,2,11,3,0,8,5,16,10,0,/en/players/cbec1196/matchlogs/2019-2020/defense/Jaromir-Zmrhal-Match-Logs
+598,Ervin Zukanović,ba,DF,SPAL,32,1987,2.3,1,1,1,0,0,1,0,,0,16,4,25.0,1,0,0,2,1,0,1,2,3,11,0,/en/players/1253a12e/matchlogs/2019-2020/defense/Ervin-Zukanovic-Match-Logs
+599,Szymon Żurkowski,pl,MF,Fiorentina,21,1997,0.1,0,0,0,0,0,0,1,0.0,1,3,1,33.3,0,0,0,0,0,0,0,0,0,1,0,/en/players/4e1d5e59/matchlogs/2019-2020/defense/Szymon-Zurkowski-Match-Logs
+600,Filip Đuričić,rs,"MF,FW",Sassuolo,27,1992,18.1,28,19,6,12,10,28,21,19.0,17,318,104,32.7,6,12,10,26,3,0,23,9,37,8,0,/en/players/eccbe56a/matchlogs/2019-2020/defense/Filip-Djuricic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
