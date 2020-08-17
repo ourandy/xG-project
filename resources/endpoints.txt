@@ -10,6 +10,8 @@ https://fbref.com/en/comps/11/possession/Serie-A-Stats
 https://fbref.com/en/comps/11/playingtime/Serie-A-Stats
 https://fbref.com/en/comps/11/misc/Serie-A-Stats
 
+https://fbref.com/en/comps/11/1896/stats/2018-2019-Serie-A-Stats
+
  div_stats_standard
  div_stats_keeper
  div_stats_keeper_adv

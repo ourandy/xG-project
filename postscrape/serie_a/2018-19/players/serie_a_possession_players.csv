@@ -1,0 +1,593 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,#Pl,Megs,Carries,TotDist,PrgDist,Targ,Rec,Rec%,Miscon,Dispos,Matches
+1,Ignazio Abate,it,DF,Milan,31,1986,14.5,1056,74,351,587,165,9,946,5,9,55.6,8,2,700,2778,1506,709,687,96.9,6,3,/en/players/1c529186/matchlogs/2018-2019/possession/Ignazio-Abate-Match-Logs
+2,Francesco Acerbi,it,DF,Lazio,30,1988,36.8,2162,279,1117,1108,127,27,2104,9,11,81.8,9,0,1360,9766,5119,1344,1307,97.2,7,14,/en/players/b96b595c/matchlogs/2018-2019/possession/Francesco-Acerbi-Match-Logs
+3,Afriyie Acquah,gh,MF,Empoli,26,1992,16.8,921,26,151,508,360,33,911,37,48,77.1,39,1,786,5663,3296,807,699,86.6,26,28,/en/players/d7403bd5/matchlogs/2018-2019/possession/Afriyie-Acquah-Match-Logs
+4,Claud Adjapong,it,"MF,DF",Sassuolo,20,1998,3.0,146,5,38,59,61,9,124,8,13,61.5,8,0,109,634,399,104,85,81.7,13,7,/en/players/ce5b170a/matchlogs/2018-2019/possession/Claud-Adjapong-Match-Logs
+5,Ali Adnan Kadhim,iq,"MF,DF",Atalanta,24,1993,1.8,138,8,37,54,53,4,114,4,5,80.0,4,0,88,409,264,87,79,90.8,0,0,/en/players/06050480/matchlogs/2018-2019/possession/Ali-Adnan-Kadhim-Match-Logs
+6,Emmanuel Agyemang-Badu,gh,MF,Udinese,27,1990,1.8,56,4,13,30,14,3,56,0,4,0.0,0,0,25,98,37,45,34,75.6,3,1,/en/players/fe0b8f0e/matchlogs/2018-2019/possession/Emmanuel-Agyemang-Badu-Match-Logs
+7,Ola Aina,ng,"DF,MF",Torino,21,1996,24.0,1483,66,407,692,477,44,1244,37,68,54.4,39,1,847,5968,3697,880,766,87.0,26,30,/en/players/246d153b/matchlogs/2018-2019/possession/Ola-Aina-Match-Logs
+8,Luis Alberto,es,"MF,FW",Lazio,25,1992,22.1,1757,12,170,851,901,67,1527,24,54,44.4,32,3,1287,8185,5309,1459,1235,84.6,35,46,/en/players/5294a83f/matchlogs/2018-2019/possession/Luis-Alberto-Match-Logs
+9,Raúl Albiol,es,DF,Napoli,32,1985,19.0,1287,157,594,725,31,7,1255,1,2,50.0,1,0,885,4255,2292,899,885,98.4,4,2,/en/players/4bd414c1/matchlogs/2018-2019/possession/Raul-Albiol-Match-Logs
+10,Allan,br,MF,Napoli,27,1991,29.1,2583,80,551,1680,519,34,2489,56,78,71.8,58,2,2066,10334,5832,1998,1886,94.4,30,38,/en/players/cc700722/matchlogs/2018-2019/possession/Allan-Match-Logs
+11,Bruno Alves,pt,DF,Parma,36,1981,32.5,1549,323,960,609,76,30,1471,5,5,100.0,5,0,793,5046,2672,824,806,97.8,4,3,/en/players/585a73a8/matchlogs/2018-2019/possession/Bruno-Alves-Match-Logs
+12,Joachim Andersen,dk,DF,Sampdoria,22,1996,32.0,2307,345,1135,1281,69,18,2222,14,15,93.3,14,0,1529,8727,5431,1598,1576,98.6,3,8,/en/players/e34fc66d/matchlogs/2018-2019/possession/Joachim-Andersen-Match-Logs
+13,Marco Andreolli,it,DF,Cagliari,32,1986,1.2,82,13,45,40,1,1,82,0,0,,0,0,52,184,98,62,60,96.8,0,0,/en/players/13d820de/matchlogs/2018-2019/possession/Marco-Andreolli-Match-Logs
+14,Marco Andreolli,it,DF,Chievo,32,1986,7.2,315,45,192,127,6,4,308,1,1,100.0,1,0,164,701,263,193,186,96.4,2,1,/en/players/13d820de/matchlogs/2018-2019/possession/Marco-Andreolli-Match-Logs
+15,Cristian Ansaldi,ar,"DF,MF",Torino,31,1986,20.1,1141,44,259,506,510,45,951,59,95,62.1,61,2,785,6957,4177,778,665,85.5,25,34,/en/players/bbafc0c4/matchlogs/2018-2019/possession/Cristian-Ansaldi-Match-Logs
+16,Mirco Antenucci,it,FW,SPAL,33,1984,23.7,821,6,58,392,432,104,779,29,51,56.9,29,0,641,3955,1592,968,622,64.3,66,47,/en/players/43a2e16c/matchlogs/2018-2019/possession/Mirco-Antenucci-Match-Logs
+17,Luca Antonelli,it,"DF,MF",Empoli,31,1987,8.4,494,39,162,240,131,23,445,5,8,62.5,5,0,296,1814,1261,307,285,92.8,12,4,/en/players/40f0ed6c/matchlogs/2018-2019/possession/Luca-Antonelli-Match-Logs
+18,Mauro Antonio Burruchaga,ar,MF,Chievo,20,1998,0.6,49,3,16,32,7,0,47,0,2,0.0,0,0,35,205,120,29,28,96.6,0,3,/en/players/0830a4f9/matchlogs/2018-2019/possession/Mauro-Antonio-Burruchaga-Match-Logs
+19,Joaquín Ardaiz,uy,FW,Frosinone,19,1999,0.2,6,0,0,4,3,0,6,0,0,,0,0,4,31,21,11,4,36.4,0,2,/en/players/eb823875/matchlogs/2018-2019/possession/Joaquin-Ardaiz-Match-Logs
+20,Lorenzo Ariaudo,it,DF,Frosinone,29,1989,18.7,811,176,516,342,22,14,777,3,3,100.0,3,0,450,3227,1798,465,453,97.4,3,1,/en/players/68b78c2a/matchlogs/2018-2019/possession/Lorenzo-Ariaudo-Match-Logs
+21,Nicolò Armini,it,DF,Lazio,17,2001,0.4,26,2,12,17,3,0,24,0,0,,0,0,20,187,145,19,19,100.0,0,0,/en/players/2f7407fa/matchlogs/2018-2019/possession/Nicolo-Armini-Match-Logs
+22,Kwadwo Asamoah,gh,DF,Inter,29,1988,29.7,2480,79,631,1379,669,33,2269,53,73,72.6,54,1,1898,9847,6263,1855,1774,95.6,23,20,/en/players/089550f5/matchlogs/2018-2019/possession/Kwadwo-Asamoah-Match-Logs
+23,Emil Audero,it,GK,Sampdoria,21,1997,36.0,1248,1152,1244,6,1,1,867,0,0,,0,0,602,2122,938,490,488,99.6,1,0,/en/players/649b01d8/matchlogs/2018-2019/possession/Emil-Audero-Match-Logs
+24,Khouma Babacar,sn,FW,Sassuolo,25,1993,16.5,527,25,48,232,270,86,486,11,20,55.0,11,0,358,1900,879,663,367,55.4,55,29,/en/players/422ec08a/matchlogs/2018-2019/possession/Khouma-Babacar-Match-Logs
+25,Milan Badelj,hr,MF,Lazio,29,1989,12.7,1017,26,236,640,210,7,993,24,34,70.6,25,0,705,3303,1769,729,692,94.9,5,7,/en/players/e8c930bb/matchlogs/2018-2019/possession/Milan-Badelj-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Tiemoué Bakayoko,fr,MF,Milan,23,1994,25.6,1706,78,397,1138,305,35,1689,59,84,70.2,60,1,1209,6863,3808,1207,1123,93.0,32,40,/en/players/59bf127b/matchlogs/2018-2019/possession/Tiemoue-Bakayoko-Match-Logs
+27,Keita Baldé,sn,"FW,MF",Inter,23,1995,9.9,474,6,29,174,309,66,469,20,29,69.0,20,0,405,3014,1730,492,378,76.8,23,22,/en/players/509a4ccb/matchlogs/2018-2019/possession/Keita-Balde-Match-Logs
+28,Andrija Balić,hr,"FW,MF",Udinese,20,1997,0.3,30,1,7,13,10,0,26,2,3,66.7,2,0,23,101,50,23,18,78.3,0,1,/en/players/9be4ee80/matchlogs/2018-2019/possession/Andrija-Balic-Match-Logs
+29,Mattia Bani,it,DF,Chievo,24,1993,29.0,1618,261,1025,629,62,21,1562,2,3,66.7,2,0,919,4502,2353,963,935,97.1,7,7,/en/players/0821331c/matchlogs/2018-2019/possession/Mattia-Bani-Match-Logs
+30,Antonín Barák,cz,"MF,FW",Udinese,23,1994,3.7,216,2,42,135,53,2,207,3,5,60.0,3,0,168,976,487,193,161,83.4,3,8,/en/players/01efac19/matchlogs/2018-2019/possession/Antonin-Barak-Match-Logs
+31,Federico Barba,it,DF,Chievo,24,1993,27.6,1576,166,736,735,188,15,1406,7,12,58.3,8,0,874,4929,2739,878,835,95.1,10,5,/en/players/c010b898/matchlogs/2018-2019/possession/Federico-Barba-Match-Logs
+32,Francesco Bardi,it,GK,Frosinone,26,1992,3.0,80,73,80,1,0,0,53,0,0,,0,0,35,186,113,24,24,100.0,0,0,/en/players/0acda699/matchlogs/2018-2019/possession/Francesco-Bardi-Match-Logs
+33,Nicolò Barella,it,"MF,FW",Cagliari,21,1997,34.5,2443,51,421,1441,799,65,2340,53,95,55.8,59,2,1832,11820,6143,2011,1711,85.1,72,70,/en/players/6928979a/matchlogs/2018-2019/possession/Nicolo-Barella-Match-Logs
+34,Antonino Barillà,it,MF,Parma,30,1988,29.1,1156,74,341,592,308,35,1142,26,41,63.4,29,3,787,4439,2282,854,712,83.4,29,43,/en/players/a64cbd35/matchlogs/2018-2019/possession/Antonino-Barilla-Match-Logs
+35,Édgar Barreto,py,MF,Sampdoria,34,1984,8.7,597,14,98,354,162,19,583,6,10,60.0,6,0,434,1106,478,470,434,92.3,5,9,/en/players/43a1bea5/matchlogs/2018-2019/possession/Edgar-Barreto-Match-Logs
+36,Musa Barrow,gm,"FW,MF",Atalanta,19,1998,6.7,372,1,17,131,253,71,358,18,34,52.9,19,2,320,1987,1060,456,299,65.6,32,19,/en/players/e5bf73f3/matchlogs/2018-2019/possession/Musa-Barrow-Match-Logs
+37,Andrea Barzagli,it,DF,Juventus,37,1981,2.9,219,16,96,120,14,0,215,0,1,0.0,0,0,160,664,374,172,169,98.3,0,0,/en/players/7c0000fd/matchlogs/2018-2019/possession/Andrea-Barzagli-Match-Logs
+38,Daniele Baselli,it,MF,Torino,26,1992,26.4,1593,45,292,846,558,55,1482,31,53,58.5,32,2,1044,5908,3121,1128,983,87.1,44,37,/en/players/ea06dd97/matchlogs/2018-2019/possession/Daniele-Baselli-Match-Logs
+39,Alessandro Bastoni,it,DF,Parma,19,1999,18.8,831,162,494,364,28,5,785,8,10,80.0,8,1,454,2834,1584,447,434,97.1,4,5,/en/players/75b86fb3/matchlogs/2018-2019/possession/Alessandro-Bastoni-Match-Logs
+40,Bastos,ao,DF,Lazio,27,1991,12.7,675,79,318,329,83,11,653,12,13,92.3,12,0,467,3271,1819,448,437,97.5,3,7,/en/players/c01c66d9/matchlogs/2018-2019/possession/Bastos-Match-Logs
+41,Andrea Beghetto,it,"DF,MF",Frosinone,23,1994,24.7,1310,70,391,503,473,34,1090,9,25,36.0,14,3,828,3708,2247,874,759,86.8,14,12,/en/players/438dfc6a/matchlogs/2018-2019/possession/Andrea-Beghetto-Match-Logs
+42,Valon Behrami,ch,MF,Udinese,33,1985,15.1,685,42,221,420,71,9,650,11,14,78.6,11,0,370,1629,755,336,302,89.9,11,14,/en/players/d3d758d8/matchlogs/2018-2019/possession/Valon-Behrami-Match-Logs
+43,Andrea Belotti,it,FW,Torino,24,1993,36.7,1386,29,113,609,782,230,1360,45,92,48.9,47,1,918,6616,4238,1763,1025,58.1,99,91,/en/players/d705ba44/matchlogs/2018-2019/possession/Andrea-Belotti-Match-Logs
+44,Marco Benassi,it,MF,Fiorentina,23,1994,25.4,1070,34,165,556,421,80,1046,24,34,70.6,24,2,770,4046,2364,933,736,78.9,26,25,/en/players/0000acda/matchlogs/2018-2019/possession/Marco-Benassi-Match-Logs
+45,Medhi Benatia,ma,DF,Juventus,31,1987,5.0,370,42,183,190,10,3,365,1,1,100.0,1,0,258,1011,444,264,260,98.5,0,1,/en/players/3b15ef2d/matchlogs/2018-2019/possession/Medhi-Benatia-Match-Logs
+46,Ismaël Bennacer,dz,MF,Empoli,20,1997,32.9,2345,77,602,1423,497,15,2166,60,82,73.2,62,1,1698,9998,5017,1561,1474,94.4,24,38,/en/players/db092d3b/matchlogs/2018-2019/possession/Ismael-Bennacer-Match-Logs
+47,Rodrigo Bentancur,uy,MF,Juventus,21,1997,22.3,1480,63,305,903,371,27,1463,26,43,60.5,27,1,1119,6017,2911,1177,1056,89.7,19,27,/en/players/3b8674e6/matchlogs/2018-2019/possession/Rodrigo-Bentancur-Match-Logs
+48,Domenico Berardi,it,"FW,MF",Sassuolo,23,1994,31.9,1820,27,207,761,996,119,1731,59,103,57.3,63,6,1448,9513,5721,1663,1330,80.0,68,64,/en/players/53a0e358/matchlogs/2018-2019/possession/Domenico-Berardi-Match-Logs
+49,Álex Berenguer,es,"MF,FW",Torino,23,1995,16.5,998,11,136,446,510,60,875,48,83,57.8,50,6,712,5256,3223,846,676,79.9,41,57,/en/players/dc1c2fce/matchlogs/2018-2019/possession/Alex-Berenguer-Match-Logs
+50,Bartosz Bereszyński,pl,DF,Sampdoria,26,1992,24.4,1821,92,509,929,473,19,1589,29,43,67.4,29,2,1249,5638,3108,1232,1166,94.6,17,20,/en/players/61b3978f/matchlogs/2018-2019/possession/Bartosz-Bereszynski-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Etrit Berisha,al,GK,Atalanta,29,1989,18.0,521,447,521,1,0,0,356,0,0,,0,0,248,1228,714,174,174,100.0,0,0,/en/players/ee833569/matchlogs/2018-2019/possession/Etrit-Berisha-Match-Logs
+52,Valon Berisha,xk,MF,Lazio,25,1993,2.2,179,3,30,109,57,3,170,5,5,100.0,5,1,129,670,335,145,125,86.2,1,4,/en/players/d5575935/matchlogs/2018-2019/possession/Valon-Berisha-Match-Logs
+53,Federico Bernardeschi,it,"FW,MF",Juventus,24,1994,16.4,908,15,121,371,500,85,838,33,58,56.9,36,0,717,5355,2685,827,659,79.7,23,21,/en/players/ee93c1a9/matchlogs/2018-2019/possession/Federico-Bernardeschi-Match-Logs
+54,Daniel Bessa,it,MF,Genoa,25,1993,27.1,1341,18,219,647,614,69,1267,26,38,68.4,29,0,1007,7083,3926,1122,890,79.3,27,38,/en/players/88895312/matchlogs/2018-2019/possession/Daniel-Bessa-Match-Logs
+55,Jonathan Biabiany,fr,"FW,MF",Parma,30,1988,11.9,469,29,140,217,153,8,457,16,34,47.1,21,0,330,2448,1397,422,299,70.9,21,24,/en/players/6b99d135/matchlogs/2018-2019/possession/Jonathan-Biabiany-Match-Logs
+56,Lucas Biglia,ar,MF,Milan,32,1986,12.4,975,58,319,557,137,3,941,6,8,75.0,6,0,647,2373,1086,655,626,95.6,5,14,/en/players/5710a281/matchlogs/2018-2019/possession/Lucas-Biglia-Match-Logs
+57,Cristiano Biraghi,it,DF,Fiorentina,25,1992,35.5,2306,132,605,1052,793,40,1835,24,43,55.8,29,5,1292,6728,4010,1336,1220,91.3,24,12,/en/players/9e1577aa/matchlogs/2018-2019/possession/Cristiano-Biraghi-Match-Logs
+58,Davide Biraschi,it,DF,Genoa,24,1994,31.6,1633,143,635,898,230,6,1465,39,57,68.4,46,1,974,6815,3950,840,817,97.3,13,20,/en/players/64cd167d/matchlogs/2018-2019/possession/Davide-Biraschi-Match-Logs
+59,Valter Birsa,si,"MF,FW",Chievo,31,1986,12.2,689,9,80,384,281,17,631,20,37,54.1,21,0,507,3220,1721,621,497,80.0,18,22,/en/players/455a2b79/matchlogs/2018-2019/possession/Valter-Birsa-Match-Logs
+60,Valter Birsa,si,"MF,FW",Cagliari,31,1986,3.9,289,1,24,138,141,6,262,5,9,55.6,5,0,212,1140,552,254,210,82.7,5,5,/en/players/455a2b79/matchlogs/2018-2019/possession/Valter-Birsa-Match-Logs
+61,Kevin-Prince Boateng,gh,FW,Sassuolo,31,1987,10.4,439,12,30,222,200,48,411,6,12,50.0,8,1,298,1060,379,503,336,66.8,28,14,/en/players/f4ec4fd0/matchlogs/2018-2019/possession/Kevin-Prince-Boateng-Match-Logs
+62,Jeremie Boga,ci,"FW,MF",Sassuolo,21,1997,16.0,690,6,106,344,337,62,681,82,124,66.1,85,1,673,6029,3839,757,551,72.8,33,26,/en/players/fe012aca/matchlogs/2018-2019/possession/Jeremie-Boga-Match-Logs
+63,Giacomo Bonaventura,it,MF,Milan,28,1989,7.2,444,13,94,227,161,34,439,12,14,85.7,12,0,372,2444,1519,411,370,90.0,8,4,/en/players/d995ed27/matchlogs/2018-2019/possession/Giacomo-Bonaventura-Match-Logs
+64,Kevin Bonifazi,it,DF,SPAL,22,1996,25.6,1485,220,787,709,124,18,1423,30,33,90.9,30,1,1013,6987,3931,954,928,97.3,12,24,/en/players/fb77bfef/matchlogs/2018-2019/possession/Kevin-Bonifazi-Match-Logs
+65,Leonardo Bonucci,it,DF,Juventus,31,1987,27.5,1820,204,851,1022,55,19,1746,3,3,100.0,3,1,1240,5546,3151,1319,1293,98.0,9,1,/en/players/52ec54d0/matchlogs/2018-2019/possession/Leonardo-Bonucci-Match-Logs
+66,Fabio Borini,it,"FW,MF",Milan,27,1991,11.7,564,29,122,246,223,46,528,7,16,43.8,7,0,377,1757,858,460,372,80.9,18,25,/en/players/ef5b337e/matchlogs/2018-2019/possession/Fabio-Borini-Match-Logs
+67,Mehdi Bourabia,ma,MF,Sassuolo,26,1991,22.3,1367,48,267,746,436,44,1319,34,67,50.7,39,7,998,4542,2400,1064,922,86.7,28,26,/en/players/0d077b88/matchlogs/2018-2019/possession/Mehdi-Bourabia-Match-Logs
+68,Filip Bradarić,hr,MF,Cagliari,26,1992,16.6,1208,67,308,772,182,11,1171,3,6,50.0,3,0,797,3057,1537,858,824,96.0,4,13,/en/players/605873e1/matchlogs/2018-2019/possession/Filip-Bradaric-Match-Logs
+69,Gleison Bremer,br,DF,Torino,21,1997,2.0,125,12,63,69,4,2,123,1,1,100.0,1,0,80,495,236,76,74,97.4,0,1,/en/players/5fd5ed86/matchlogs/2018-2019/possession/Gleison-Bremer-Match-Logs
+70,Nicolò Brighenti,it,DF,Frosinone,28,1989,11.0,684,47,275,375,78,7,626,2,5,40.0,2,0,414,2361,1507,397,391,98.5,5,1,/en/players/54c356b0/matchlogs/2018-2019/possession/Nicolo-Brighenti-Match-Logs
+71,Matteo Brighi,it,MF,Empoli,37,1981,2.6,124,4,28,65,35,3,120,1,3,33.3,1,0,75,267,95,81,62,76.5,3,3,/en/players/d417b306/matchlogs/2018-2019/possession/Matteo-Brighi-Match-Logs
+72,Enrico Brignola,it,FW,Sassuolo,19,1999,1.9,97,0,27,49,31,7,94,2,3,66.7,2,0,72,571,310,88,72,81.8,3,5,/en/players/d0643f8f/matchlogs/2018-2019/possession/Enrico-Brignola-Match-Logs
+73,Marcelo Brozović,hr,MF,Inter,25,1992,29.4,2977,95,704,1793,655,17,2769,31,41,75.6,31,0,2154,11258,5331,2216,2152,97.1,31,30,/en/players/33b8d077/matchlogs/2018-2019/possession/Marcelo-Brozovic-Match-Logs
+74,Rafael Cabral,br,GK,Sampdoria,28,1990,2.0,66,60,65,1,0,0,41,0,0,,0,0,30,88,57,30,30,100.0,0,0,/en/players/806f7a26/matchlogs/2018-2019/possession/Rafael-Cabral-Match-Logs
+75,Fabrizio Cacciatore,it,DF,Cagliari,31,1986,6.4,432,30,152,200,100,9,386,3,4,75.0,3,1,272,1182,533,293,278,94.9,4,3,/en/players/00b0bb87/matchlogs/2018-2019/possession/Fabrizio-Cacciatore-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Fabrizio Cacciatore,it,DF,Chievo,31,1986,5.5,309,27,101,142,83,6,264,3,7,42.9,3,2,181,800,436,193,182,94.3,2,0,/en/players/00b0bb87/matchlogs/2018-2019/possession/Fabrizio-Cacciatore-Match-Logs
+77,Martín Cáceres,uy,DF,Juventus,31,1987,7.0,513,37,190,311,44,5,498,0,1,0.0,0,0,393,2183,1269,396,386,97.5,3,1,/en/players/e94d79e3/matchlogs/2018-2019/possession/Martin-Caceres-Match-Logs
+78,Martín Cáceres,uy,"DF,FW",Lazio,31,1987,3.4,182,21,60,102,29,2,171,0,1,0.0,0,0,126,633,328,133,119,89.5,2,0,/en/players/e94d79e3/matchlogs/2018-2019/possession/Martin-Caceres-Match-Logs
+79,Felipe Caicedo,ec,FW,Lazio,29,1988,15.2,515,10,39,238,269,85,508,24,32,75.0,24,1,386,1847,950,657,413,62.9,27,24,/en/players/93b891d1/matchlogs/2018-2019/possession/Felipe-Caicedo-Match-Logs
+80,Arturo Calabresi,it,DF,Bologna,22,1996,15.7,886,73,373,455,112,3,791,6,12,50.0,6,1,514,2794,1418,512,491,95.9,4,6,/en/players/34bb6fbd/matchlogs/2018-2019/possession/Arturo-Calabresi-Match-Logs
+81,Davide Calabria,it,DF,Milan,21,1996,21.7,1754,88,610,875,393,20,1567,16,40,40.0,21,3,1171,6031,3767,1195,1128,94.4,21,18,/en/players/2146785a/matchlogs/2018-2019/possession/Davide-Calabria-Match-Logs
+82,Hakan Çalhanoğlu,tr,"FW,MF",Milan,24,1994,32.0,2257,30,337,1129,974,104,2091,36,62,58.1,41,0,1714,10577,5883,1919,1660,86.5,53,34,/en/players/cd0fa27b/matchlogs/2018-2019/possession/Hakan-Calhanoglu-Match-Logs
+83,José Callejón,es,"MF,FW",Napoli,31,1987,29.4,1936,32,288,845,917,121,1802,22,40,55.0,25,6,1443,6158,3495,1767,1467,83.0,23,19,/en/players/78841da9/matchlogs/2018-2019/possession/Jose-Callejon-Match-Logs
+84,Joel Campbell,cr,"FW,MF",Frosinone,26,1992,9.9,405,3,35,247,174,24,385,16,30,53.3,18,2,338,2814,1618,449,312,69.5,27,24,/en/players/895ff3ca/matchlogs/2018-2019/possession/Joel-Campbell-Match-Logs
+85,Emre Can,de,MF,Juventus,24,1994,20.1,1279,45,301,761,311,53,1257,27,35,77.1,29,0,916,5277,2778,953,872,91.5,21,16,/en/players/a65ce836/matchlogs/2018-2019/possession/Emre-Can-Match-Logs
+86,João Cancelo,pt,DF,Juventus,24,1994,21.9,1761,53,431,869,609,46,1585,67,97,69.1,70,4,1329,8788,5882,1347,1238,91.9,25,24,/en/players/bd6351cd/matchlogs/2018-2019/possession/Joao-Cancelo-Match-Logs
+87,Antonio Candreva,it,"FW,MF",Inter,31,1987,5.6,362,3,33,122,247,36,328,10,15,66.7,10,1,286,2299,1263,332,276,83.1,8,7,/en/players/356c9002/matchlogs/2018-2019/possession/Antonio-Candreva-Match-Logs
+88,Luan Capanni,br,FW,Lazio,18,2000,0.1,8,0,0,2,6,0,8,0,0,,0,0,6,30,26,7,6,85.7,1,0,/en/players/28237d7e/matchlogs/2018-2019/possession/Luan-Capanni-Match-Logs
+89,Leonardo Capezzi,it,MF,Empoli,23,1995,8.6,622,30,135,401,124,8,602,9,10,90.0,9,0,452,2171,1167,426,407,95.5,3,5,/en/players/07ea0ef2/matchlogs/2018-2019/possession/Leonardo-Capezzi-Match-Logs
+90,Gianluca Caprari,it,"FW,MF",Sampdoria,25,1993,11.5,601,4,40,271,342,48,556,34,57,59.6,37,2,478,2906,1532,650,464,71.4,29,30,/en/players/54e53b7e/matchlogs/2018-2019/possession/Gianluca-Caprari-Match-Logs
+91,Marco Capuano,it,DF,Frosinone,26,1991,25.6,1451,193,770,688,73,12,1395,1,3,33.3,1,0,868,4695,2544,871,852,97.8,4,7,/en/players/616aea37/matchlogs/2018-2019/possession/Marco-Capuano-Match-Logs
+92,Francesco Caputo,it,FW,Empoli,30,1987,38.0,1282,21,63,421,843,286,1224,15,44,34.1,18,2,997,5235,2505,1739,1002,57.6,84,55,/en/players/5bd72174/matchlogs/2018-2019/possession/Francesco-Caputo-Match-Logs
+93,Francesco Cassata,it,"MF,FW",Frosinone,21,1997,12.5,487,21,136,275,129,11,484,21,42,50.0,25,4,396,2641,1588,389,321,82.5,20,17,/en/players/96960855/matchlogs/2018-2019/possession/Francesco-Cassata-Match-Logs
+94,Timothy Castagne,be,"DF,MF",Atalanta,22,1995,22.3,1537,61,390,699,567,62,1373,26,51,51.0,28,1,1013,6044,3746,1079,972,90.1,29,31,/en/players/197640fd/matchlogs/2018-2019/possession/Timothy-Castagne-Match-Logs
+95,Samu Castillejo,es,"FW,MF",Milan,23,1995,11.4,687,10,78,295,389,56,636,21,49,42.9,24,3,541,4154,2379,645,494,76.6,17,33,/en/players/130a7a3f/matchlogs/2018-2019/possession/Samu-Castillejo-Match-Logs
+96,Lucas Castro,ar,"MF,FW",Cagliari,29,1989,10.0,614,11,76,343,232,25,607,21,35,60.0,23,0,479,2116,1169,519,437,84.2,28,19,/en/players/56b2957b/matchlogs/2018-2019/possession/Lucas-Castro-Match-Logs
+97,Danilo Cataldi,it,"MF,FW",Lazio,23,1994,6.4,433,10,89,232,147,11,380,8,9,88.9,8,0,300,1742,909,318,286,89.9,4,2,/en/players/ba3d3bea/matchlogs/2018-2019/possession/Danilo-Cataldi-Match-Logs
+98,Federico Ceccherini,it,DF,Fiorentina,26,1992,11.0,687,55,273,427,41,10,656,5,8,62.5,5,0,458,2960,1713,449,439,97.8,5,1,/en/players/d9624b51/matchlogs/2018-2019/possession/Federico-Ceccherini-Match-Logs
+99,Žan Celar,si,FW,Roma,19,1999,0.1,3,0,0,2,1,0,3,1,1,100.0,1,0,3,10,0,4,3,75.0,1,0,/en/players/868c6958/matchlogs/2018-2019/possession/Zan-Celar-Match-Logs
+100,Luca Ceppitelli,it,DF,Cagliari,28,1989,22.8,1425,202,781,698,37,24,1388,3,5,60.0,3,0,895,4613,2701,901,887,98.4,5,3,/en/players/7d50454d/matchlogs/2018-2019/possession/Luca-Ceppitelli-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Fabio Ceravolo,it,FW,Parma,31,1987,13.2,421,20,58,212,181,51,392,17,33,51.5,20,2,288,1983,893,643,291,45.3,32,38,/en/players/4cc93246/matchlogs/2018-2019/possession/Fabio-Ceravolo-Match-Logs
+102,Alberto Cerri,it,FW,Cagliari,22,1996,7.4,315,6,35,146,147,47,314,5,9,55.6,5,0,185,874,381,403,245,60.8,23,14,/en/players/1079c685/matchlogs/2018-2019/possession/Alberto-Cerri-Match-Logs
+103,Boštjan Cesar,si,DF,Chievo,36,1982,12.0,523,97,350,183,10,7,511,3,3,100.0,3,0,283,1362,534,297,288,97.0,2,2,/en/players/c1d18f10/matchlogs/2018-2019/possession/Bostjan-Cesar-Match-Logs
+104,Raman Chibsah,gh,MF,Frosinone,25,1993,29.1,1290,60,336,771,292,39,1275,70,99,70.7,72,5,988,6019,3687,1006,828,82.3,43,52,/en/players/aa5a409a/matchlogs/2018-2019/possession/Raman-Chibsah-Match-Logs
+105,Giorgio Chiellini,it,DF,Juventus,33,1984,22.1,1559,219,733,834,86,21,1527,9,12,75.0,9,0,1036,5750,3011,1083,1065,98.3,9,2,/en/players/e85fb9b8/matchlogs/2018-2019/possession/Giorgio-Chiellini-Match-Logs
+106,Federico Chiesa,it,"FW,MF",Fiorentina,20,1997,33.7,1558,12,130,603,979,242,1490,89,174,51.1,98,8,1310,10773,7182,1599,1130,70.7,88,98,/en/players/b0f7e36c/matchlogs/2018-2019/possession/Federico-Chiesa-Match-Logs
+107,Vlad Chiricheș,ro,DF,Napoli,28,1989,1.6,145,9,65,92,1,1,141,2,2,100.0,2,0,111,711,422,111,111,100.0,0,0,/en/players/c316607a/matchlogs/2018-2019/possession/Vlad-Chiriches-Match-Logs
+108,Camillo Ciano,it,"FW,MF",Frosinone,28,1990,27.3,1354,24,138,624,676,49,1159,31,67,46.3,35,2,926,5324,2637,1297,854,65.8,58,54,/en/players/2114abf9/matchlogs/2018-2019/possession/Camillo-Ciano-Match-Logs
+109,Amato Ciciretti,it,"FW,MF",Parma,24,1993,1.5,82,2,14,49,28,3,80,6,8,75.0,6,1,71,403,197,81,61,75.3,2,3,/en/players/1ab0b878/matchlogs/2018-2019/possession/Amato-Ciciretti-Match-Logs
+110,Luca Cigarini,it,MF,Cagliari,32,1986,18.7,1546,59,385,953,298,3,1411,15,21,71.4,17,0,962,3930,2272,1000,964,96.4,5,9,/en/players/ae64d449/matchlogs/2018-2019/possession/Luca-Cigarini-Match-Logs
+111,Daniel Ciofani,it,FW,Frosinone,33,1985,18.0,507,13,27,267,225,87,483,4,9,44.4,6,0,246,901,325,845,368,43.6,42,13,/en/players/b09a3ecc/matchlogs/2018-2019/possession/Daniel-Ciofani-Match-Logs
+112,Thiago Cionek,pl,DF,SPAL,32,1986,28.2,1968,198,975,926,217,18,1783,8,18,44.4,11,1,1209,7677,4572,1207,1163,96.4,10,14,/en/players/46f5c54d/matchlogs/2018-2019/possession/Thiago-Cionek-Match-Logs
+113,Omar Colley,gm,DF,Sampdoria,25,1992,19.6,1309,214,706,635,40,21,1259,5,5,100.0,5,0,805,4434,2272,844,832,98.6,3,5,/en/players/8b95acda/matchlogs/2018-2019/possession/Omar-Colley-Match-Logs
+114,Andrea Consigli,it,GK,Sassuolo,31,1987,35.7,1280,1100,1276,4,0,0,870,1,1,100.0,1,0,621,2987,1497,504,499,99.0,0,0,/en/players/8cabdc1e/matchlogs/2018-2019/possession/Andrea-Consigli-Match-Logs
+115,Andrea Conti,it,DF,Milan,24,1994,5.6,417,18,115,210,127,8,358,7,10,70.0,7,1,268,1556,946,290,272,93.8,2,3,/en/players/8fef5412/matchlogs/2018-2019/possession/Andrea-Conti-Match-Logs
+116,Gabriele Corbo,it,DF,Bologna,18,2000,0.1,5,0,4,1,0,0,5,0,0,,0,0,4,14,5,5,5,100.0,0,0,/en/players/091795f2/matchlogs/2018-2019/possession/Gabriele-Corbo-Match-Logs
+117,Ante Ćorić,hr,MF,Roma,21,1997,0.3,15,0,0,9,7,0,13,0,0,,0,0,11,72,31,18,12,66.7,0,0,/en/players/2d3f7367/matchlogs/2018-2019/possession/Ante-Coric-Match-Logs
+118,Joaquín Correa,ar,"FW,MF",Lazio,23,1994,21.4,1182,15,82,514,704,153,1142,60,113,53.1,70,1,1001,7807,5057,1353,975,72.1,50,35,/en/players/45b9b619/matchlogs/2018-2019/possession/Joaquin-Correa-Match-Logs
+119,Douglas Costa,br,"FW,MF",Juventus,27,1990,6.9,452,5,49,206,253,28,434,29,60,48.3,34,1,397,3683,2165,430,358,83.3,14,13,/en/players/4fa7cb9b/matchlogs/2018-2019/possession/Douglas-Costa-Match-Logs
+120,Filippo Costa,it,"MF,DF",SPAL,23,1995,6.3,332,35,117,136,94,3,281,7,8,87.5,7,0,187,1060,638,183,164,89.6,9,3,/en/players/00528660/matchlogs/2018-2019/possession/Filippo-Costa-Match-Logs
+121,Alessio Cragno,it,GK,Cagliari,24,1994,38.0,1375,1232,1373,2,0,0,896,0,0,,0,0,563,2571,1535,462,459,99.4,0,0,/en/players/f554e29b/matchlogs/2018-2019/possession/Alessio-Cragno-Match-Logs
+122,Domenico Criscito,it,DF,Genoa,31,1986,34.1,2192,194,720,1024,608,27,1919,20,34,58.8,24,3,1268,6955,4186,1189,1143,96.1,11,14,/en/players/35dd6d80/matchlogs/2018-2019/possession/Domenico-Criscito-Match-Logs
+123,Lorenzo Crisetig,it,MF,Frosinone,25,1993,5.6,250,14,84,155,22,2,248,2,2,100.0,2,0,166,726,417,178,159,89.3,6,5,/en/players/f54dfca8/matchlogs/2018-2019/possession/Lorenzo-Crisetig-Match-Logs
+124,Bryan Cristante,it,MF,Roma,23,1995,26.9,1640,66,329,974,438,51,1620,35,46,76.1,36,1,1141,6310,2967,1242,1115,89.8,21,33,/en/players/16657b95/matchlogs/2018-2019/possession/Bryan-Cristante-Match-Logs
+125,Alessio da Cruz,nl,"FW,MF",Parma,21,1997,1.6,42,1,7,28,15,2,42,3,5,60.0,4,0,39,323,156,57,31,54.4,5,2,/en/players/b6667741/matchlogs/2018-2019/possession/Alessio-da-Cruz-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Juan Cuadrado,co,"MF,DF",Juventus,30,1988,13.6,968,15,132,476,437,50,947,23,39,59.0,24,0,799,4481,2960,858,757,88.2,19,19,/en/players/0ab1f153/matchlogs/2018-2019/possession/Juan-Cuadrado-Match-Logs
+127,Patrick Cutrone,it,FW,Milan,20,1998,16.2,543,20,54,219,294,87,519,11,31,35.5,14,1,388,2299,972,748,389,52.0,46,34,/en/players/a4fe8cda/matchlogs/2018-2019/possession/Patrick-Cutrone-Match-Logs
+128,Marco D'Alessandro,it,"DF,MF",Udinese,27,1991,16.6,892,42,247,449,275,48,777,33,59,55.9,36,0,587,4886,3289,555,485,87.4,18,21,/en/players/060606ec/matchlogs/2018-2019/possession/Marco-DAlessandro-Match-Logs
+129,Danilo D'Ambrosio,it,DF,Inter,29,1988,28.7,2186,84,604,1177,525,54,1923,19,40,47.5,19,3,1483,6963,3731,1586,1505,94.9,19,20,/en/players/44eb9093/matchlogs/2018-2019/possession/Danilo-DAmbrosio-Match-Logs
+130,Bryan Dabo,bf,"MF,DF",Fiorentina,26,1992,9.2,541,30,100,339,144,13,512,7,18,38.9,8,1,351,2217,1304,391,340,87.0,11,10,/en/players/c53083ad/matchlogs/2018-2019/possession/Bryan-Dabo-Match-Logs
+131,Felipe dal Belo,br,DF,SPAL,34,1984,26.2,1500,158,754,740,94,22,1400,5,6,83.3,5,0,958,4670,2615,994,983,98.9,5,3,/en/players/8cea6319/matchlogs/2018-2019/possession/Felipe-dal-Belo-Match-Logs
+132,Nicola Dalmonte,it,"MF,FW",Genoa,20,1997,0.5,33,0,3,10,23,5,28,1,1,100.0,1,0,25,220,109,24,20,83.3,2,1,/en/players/59a3efba/matchlogs/2018-2019/possession/Nicola-Dalmonte-Match-Logs
+133,Vitalie Damașcan,md,MF,Torino,19,1999,0.0,5,0,0,4,1,0,5,0,0,,0,0,3,7,0,6,4,66.7,0,0,/en/players/54e0c0cc/matchlogs/2018-2019/possession/Vitalie-Damascan-Match-Logs
+134,Sebastien De Maio,fr,DF,Udinese,31,1987,13.0,597,107,343,241,47,13,556,6,7,85.7,6,0,285,1571,816,296,288,97.3,5,2,/en/players/952a03fe/matchlogs/2018-2019/possession/Sebastien-De-Maio-Match-Logs
+135,Sebastien De Maio,fr,DF,Bologna,31,1987,5.5,290,41,162,140,14,1,277,0,1,0.0,0,0,179,1062,719,182,180,98.9,0,1,/en/players/952a03fe/matchlogs/2018-2019/possession/Sebastien-De-Maio-Match-Logs
+136,Rodrigo De Paul,ar,"MF,FW",Udinese,24,1994,35.4,2297,24,353,1298,909,63,2073,96,145,66.2,98,5,1798,15054,8959,1941,1619,83.4,65,76,/en/players/162efffd/matchlogs/2018-2019/possession/Rodrigo-De-Paul-Match-Logs
+137,Daniele De Rossi,it,MF,Roma,35,1983,14.1,1023,56,276,662,141,8,990,6,7,85.7,6,0,738,2968,1657,787,766,97.3,6,2,/en/players/532d2690/matchlogs/2018-2019/possession/Daniele-De-Rossi-Match-Logs
+138,Mattia De Sciglio,it,DF,Juventus,25,1992,19.4,1351,77,418,707,324,18,1198,10,18,55.6,11,0,898,4787,2557,929,870,93.6,6,11,/en/players/ae4e2852/matchlogs/2018-2019/possession/Mattia-De-Sciglio-Match-Logs
+139,Lorenzo De Silvestri,it,"DF,MF",Torino,30,1988,26.8,1512,71,301,727,566,74,1268,10,21,47.6,13,0,773,4637,2545,1063,859,80.8,36,23,/en/players/e74f0e59/matchlogs/2018-2019/possession/Lorenzo-De-Silvestri-Match-Logs
+140,Grégoire Defrel,mq,"FW,MF",Sampdoria,27,1991,26.0,1090,11,99,454,612,114,1075,41,67,61.2,43,1,892,4581,2139,1314,833,63.4,53,52,/en/players/854ee61a/matchlogs/2018-2019/possession/Gregoire-Defrel-Match-Logs
+141,Alessandro Deiola,it,MF,Parma,22,1995,6.1,247,16,80,125,59,3,245,8,14,57.1,8,0,167,813,370,179,144,80.4,2,4,/en/players/7f267d66/matchlogs/2018-2019/possession/Alessandro-Deiola-Match-Logs
+142,Alessandro Deiola,it,MF,Cagliari,22,1995,5.0,224,10,53,113,72,8,217,4,6,66.7,4,0,153,814,407,187,146,78.1,3,8,/en/players/7f267d66/matchlogs/2018-2019/possession/Alessandro-Deiola-Match-Logs
+143,Cristian Dell'Orco,it,DF,Empoli,24,1994,11.5,625,66,303,322,51,6,575,2,5,40.0,2,0,406,2718,1842,412,403,97.8,3,5,/en/players/b0243215/matchlogs/2018-2019/possession/Cristian-DellOrco-Match-Logs
+144,Cristian Dell'Orco,it,DF,Sassuolo,24,1994,1.2,81,5,25,36,23,1,70,2,2,100.0,2,0,55,178,121,61,53,86.9,0,1,/en/players/b0243215/matchlogs/2018-2019/possession/Cristian-DellOrco-Match-Logs
+145,Merih Demiral,tr,DF,Sassuolo,20,1998,14.0,861,112,436,448,24,11,830,2,3,66.7,2,0,537,3330,1521,552,539,97.6,2,2,/en/players/e3cceee6/matchlogs/2018-2019/possession/Merih-Demiral-Match-Logs
+146,Fabio Depaoli,it,DF,Chievo,21,1997,27.4,1557,112,500,703,460,31,1304,19,27,70.4,20,0,868,5324,3208,945,820,86.8,20,25,/en/players/d97f2e8d/matchlogs/2018-2019/possession/Fabio-Depaoli-Match-Logs
+147,Kiril Despodov,bg,"FW,MF",Cagliari,21,1996,1.2,27,0,5,10,15,4,27,2,3,66.7,2,0,22,132,64,66,22,33.3,5,0,/en/players/13c8e5f6/matchlogs/2018-2019/possession/Kiril-Despodov-Match-Logs
+148,Daniele Dessena,it,MF,Cagliari,31,1987,3.9,226,9,41,132,64,6,221,1,3,33.3,1,0,159,642,308,182,159,87.4,10,5,/en/players/02b2937c/matchlogs/2018-2019/possession/Daniele-Dessena-Match-Logs
+149,Mattia Destro,it,"FW,MF",Bologna,27,1991,5.5,159,6,24,70,69,21,149,0,5,0.0,1,0,83,492,235,220,107,48.6,19,8,/en/players/d7d32194/matchlogs/2018-2019/possession/Mattia-Destro-Match-Logs
+150,Jacopo Dezi,it,MF,Parma,26,1992,1.0,58,5,16,37,7,1,58,2,3,66.7,3,0,41,192,87,38,37,97.4,2,0,/en/players/e921b9db/matchlogs/2018-2019/possession/Jacopo-Dezi-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Federico Di Francesco,it,"FW,MF",Sassuolo,24,1994,11.9,526,5,96,217,252,59,500,16,35,45.7,16,1,422,2793,1789,542,396,73.1,21,18,/en/players/1fca9171/matchlogs/2018-2019/possession/Federico-Di-Francesco-Match-Logs
+152,Antonio Di Gaudio,it,"FW,MF",Parma,28,1989,7.8,224,4,42,92,111,32,224,8,23,34.8,10,0,190,1589,1014,253,157,62.1,30,11,/en/players/434b8c73/matchlogs/2018-2019/possession/Antonio-Di-Gaudio-Match-Logs
+153,Giovanni Di Lorenzo,it,DF,Empoli,24,1993,37.0,2581,146,629,1191,924,77,2277,33,56,58.9,34,7,1808,9093,5063,1890,1731,91.6,41,48,/en/players/230a2fac/matchlogs/2018-2019/possession/Giovanni-Di-Lorenzo-Match-Logs
+154,Amadou Diawara,gn,MF,Napoli,21,1997,7.3,596,21,105,428,92,5,592,7,9,77.8,8,0,486,1586,720,479,465,97.1,3,3,/en/players/bf309d24/matchlogs/2018-2019/possession/Amadou-Diawara-Match-Logs
+155,Lorenzo Dickmann,it,"DF,MF",SPAL,21,1996,1.9,76,3,35,27,16,1,66,1,1,100.0,1,0,48,205,101,53,38,71.7,4,1,/en/players/12851227/matchlogs/2018-2019/possession/Lorenzo-Dickmann-Match-Logs
+156,Mitchell Dijks,nl,"DF,MF",Bologna,25,1993,22.5,1270,63,372,577,467,26,1049,33,79,41.8,40,5,776,6823,4496,809,703,86.9,31,24,/en/players/0a3065c8/matchlogs/2018-2019/possession/Mitchell-Dijks-Match-Logs
+157,Federico Dimarco,it,DF,Parma,20,1997,9.9,547,44,167,246,171,13,454,9,14,64.3,9,0,322,1977,1178,323,288,89.2,7,10,/en/players/970b8574/matchlogs/2018-2019/possession/Federico-Dimarco-Match-Logs
+158,Federico Dionisi,it,FW,Frosinone,31,1987,2.3,108,0,4,46,64,17,105,1,4,25.0,1,0,77,449,230,119,89,74.8,9,9,/en/players/a74d2999/matchlogs/2018-2019/possession/Federico-Dionisi-Match-Logs
+159,Assane Dioussé,sn,MF,Chievo,20,1997,9.9,588,26,160,380,85,0,570,10,13,76.9,11,0,410,2170,874,399,363,91.0,5,6,/en/players/7f622eef/matchlogs/2018-2019/possession/Assane-Diousse-Match-Logs
+160,Koffi Djidji,ci,DF,Torino,25,1992,15.4,782,114,409,379,35,1,761,15,18,83.3,16,0,467,2471,1078,411,402,97.8,2,9,/en/players/933d3b51/matchlogs/2018-2019/possession/Koffi-Djidji-Match-Logs
+161,Berat Djimsiti,al,DF,Atalanta,25,1993,20.1,1255,188,705,568,50,17,1223,6,7,85.7,6,0,783,4868,1736,811,790,97.4,9,3,/en/players/6eee05f1/matchlogs/2018-2019/possession/Berat-Djimsiti-Match-Logs
+162,Johan Djourou,ch,DF,SPAL,31,1987,3.1,149,25,102,48,4,2,144,1,1,100.0,1,0,85,316,143,87,85,97.7,0,0,/en/players/b8673e18/matchlogs/2018-2019/possession/Johan-Djourou-Match-Logs
+163,Gianluigi Donnarumma,it,GK,Milan,19,1999,34.3,1254,1155,1252,4,0,0,898,1,1,100.0,1,0,647,2836,1563,536,536,100.0,0,0,/en/players/08f5afaa/matchlogs/2018-2019/possession/Gianluigi-Donnarumma-Match-Logs
+164,Godfred Donsah,gh,MF,Bologna,22,1996,1.7,77,8,19,50,14,1,77,6,7,85.7,6,0,59,408,256,57,49,86.0,0,1,/en/players/384dd218/matchlogs/2018-2019/possession/Godfred-Donsah-Match-Logs
+165,Riccardo Doratiotto,it,FW,Cagliari,19,1999,0.9,15,0,1,9,5,2,15,1,1,100.0,1,0,11,76,44,29,7,24.1,2,3,/en/players/c1bcb2df/matchlogs/2018-2019/possession/Riccardo-Doratiotto-Match-Logs
+166,Bartłomiej Drągowski,pl,GK,Empoli,20,1997,14.0,539,500,538,2,0,0,354,0,0,,0,0,208,1201,754,157,156,99.4,0,1,/en/players/085e71a7/matchlogs/2018-2019/possession/Bartlomiej-Dragowski-Match-Logs
+167,Bartłomiej Drągowski,pl,GK,Fiorentina,20,1997,2.5,113,105,112,1,0,0,80,0,1,0.0,0,0,64,258,107,54,54,100.0,0,0,/en/players/085e71a7/matchlogs/2018-2019/possession/Bartlomiej-Dragowski-Match-Logs
+168,Alfred Duncan,gh,MF,Sassuolo,25,1993,20.5,1063,31,199,616,313,35,1044,29,48,60.4,33,5,801,4082,2290,934,792,84.8,23,29,/en/players/528492ea/matchlogs/2018-2019/possession/Alfred-Duncan-Match-Logs
+169,Riza Durmisi,dk,"DF,MF",Lazio,24,1994,3.6,193,10,47,70,93,14,165,4,7,57.1,5,0,132,830,539,140,120,85.7,1,1,/en/players/e5cd9da6/matchlogs/2018-2019/possession/Riza-Durmisi-Match-Logs
+170,Paulo Dybala,ar,"FW,MF",Juventus,24,1993,23.7,1612,6,149,846,742,87,1479,54,106,50.9,60,4,1320,7833,3678,1518,1251,82.4,58,37,/en/players/e0921a4f/matchlogs/2018-2019/possession/Paulo-Dybala-Match-Logs
+171,Edin Džeko,ba,FW,Roma,32,1986,28.7,1136,35,72,512,622,222,1073,51,83,61.4,53,1,796,5383,2328,1461,876,60.0,66,56,/en/players/3bb7f478/matchlogs/2018-2019/possession/Edin-Dzeko-Match-Logs
+172,Blerim Džemaili,ch,MF,Bologna,32,1986,19.4,939,14,186,527,331,33,905,23,36,63.9,23,0,674,4627,2937,680,599,88.1,20,27,/en/players/756959aa/matchlogs/2018-2019/possession/Blerim-Dzemaili-Match-Logs
+173,Simone Edera,it,FW,Bologna,21,1997,2.2,119,0,21,45,60,12,110,6,16,37.5,6,1,90,611,435,123,81,65.9,3,5,/en/players/8697c095/matchlogs/2018-2019/possession/Simone-Edera-Match-Logs
+174,Simone Edera,it,"FW,MF",Torino,21,1997,0.9,48,1,8,18,26,2,44,1,4,25.0,1,0,36,203,149,41,35,85.4,6,2,/en/players/8697c095/matchlogs/2018-2019/possession/Simone-Edera-Match-Logs
+175,Albin Ekdal,se,MF,Sampdoria,29,1989,29.4,1981,115,494,1319,301,14,1929,37,44,84.1,37,0,1397,7103,3665,1451,1358,93.6,19,35,/en/players/f503ea63/matchlogs/2018-2019/possession/Albin-Ekdal-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Valentin Eysseric,fr,"FW,MF",Fiorentina,26,1992,4.0,224,3,46,108,87,9,213,5,9,55.6,5,0,185,972,475,193,161,83.4,9,8,/en/players/ae82fa48/matchlogs/2018-2019/possession/Valentin-Eysseric-Match-Logs
+177,Diego Falcinelli,it,FW,Bologna,27,1991,7.8,257,3,27,124,123,30,249,12,22,54.5,12,1,193,1226,588,349,189,54.2,18,25,/en/players/a39b9ef6/matchlogs/2018-2019/possession/Diego-Falcinelli-Match-Logs
+178,Iago Falque,es,"FW,MF",Torino,28,1990,17.9,1150,2,70,552,613,108,1047,27,54,50.0,28,2,918,6358,3142,1162,876,75.4,38,37,/en/players/440c84ed/matchlogs/2018-2019/possession/Iago-Falque-Match-Logs
+179,Paolo Faragò,it,"MF,DF",Cagliari,25,1993,18.9,1098,56,244,527,379,58,1016,16,26,61.5,16,1,621,3368,1633,812,645,79.4,30,19,/en/players/9085dd7c/matchlogs/2018-2019/possession/Paolo-Farago-Match-Logs
+180,Mohamed Fares,dz,"DF,MF",SPAL,22,1996,32.8,1946,99,605,834,671,56,1711,43,68,63.2,44,2,1235,9633,6172,1289,1158,89.8,42,47,/en/players/b7a5bc86/matchlogs/2018-2019/possession/Mohamed-Fares-Match-Logs
+181,Diego Farias,br,FW,Empoli,28,1990,13.3,472,4,25,187,305,77,461,14,30,46.7,16,0,384,2962,2018,592,383,64.7,28,20,/en/players/157d29b6/matchlogs/2018-2019/possession/Diego-Farias-Match-Logs
+182,Diego Farias,br,FW,Cagliari,28,1990,7.8,341,5,31,141,199,42,329,12,22,54.5,14,0,266,1639,935,414,271,65.5,15,18,/en/players/157d29b6/matchlogs/2018-2019/possession/Diego-Farias-Match-Logs
+183,Andrea Favilli,it,"FW,MF",Genoa,21,1997,1.9,70,1,4,22,48,17,65,1,3,33.3,1,0,44,337,219,91,53,58.2,4,3,/en/players/44510fde/matchlogs/2018-2019/possession/Andrea-Favilli-Match-Logs
+184,Federico Fazio,ar,DF,Roma,31,1987,31.2,1779,268,848,918,108,42,1729,17,17,100.0,17,0,1046,5399,2856,1038,1010,97.3,7,11,/en/players/4e358a2d/matchlogs/2018-2019/possession/Federico-Fazio-Match-Logs
+185,Luiz Felipe,br,DF,Lazio,21,1997,14.3,862,107,420,434,68,7,828,4,9,44.4,5,1,556,4044,2308,570,557,97.7,1,6,/en/players/15d0c248/matchlogs/2018-2019/possession/Luiz-Felipe-Match-Logs
+186,Edimilson Fernandes,ch,MF,Fiorentina,22,1996,21.9,1132,43,216,743,258,28,1122,23,40,57.5,25,2,861,5186,2411,818,743,90.8,19,38,/en/players/3bb625ac/matchlogs/2018-2019/possession/Edimilson-Fernandes-Match-Logs
+187,Alex Ferrari,it,DF,Sampdoria,24,1994,6.0,390,52,164,225,20,6,372,1,3,33.3,1,0,237,1345,700,249,244,98.0,2,1,/en/players/d0dbca9f/matchlogs/2018-2019/possession/Alex-Ferrari-Match-Logs
+188,Sergio Floccari,it,FW,SPAL,36,1981,10.8,379,3,34,186,190,52,362,10,19,52.6,12,0,281,2106,773,456,280,61.4,37,21,/en/players/df301450/matchlogs/2018-2019/possession/Sergio-Floccari-Match-Logs
+189,Alessandro Florenzi,it,"DF,FW",Roma,27,1991,24.2,1703,85,495,807,528,47,1451,12,33,36.4,17,0,1050,6187,3944,1122,1012,90.2,13,9,/en/players/e288d4b3/matchlogs/2018-2019/possession/Alessandro-Florenzi-Match-Logs
+190,Seko Fofana,ci,MF,Udinese,23,1995,29.3,1494,36,282,872,450,64,1479,66,92,71.7,70,1,1282,8788,4220,1290,1092,84.7,51,63,/en/players/5313ed43/matchlogs/2018-2019/possession/Seko-Fofana-Match-Logs
+191,Pierluigi Frattali,it,GK,Parma,32,1985,1.0,42,41,42,0,0,0,27,0,0,,0,0,17,44,26,14,14,100.0,0,0,/en/players/71dac2c2/matchlogs/2018-2019/possession/Pierluigi-Frattali-Match-Logs
+192,Remo Freuler,ch,MF,Atalanta,26,1992,33.6,2669,65,465,1633,796,68,2577,36,52,69.2,39,0,2001,12365,6553,2030,1878,92.5,38,46,/en/players/98d2c2c4/matchlogs/2018-2019/possession/Remo-Freuler-Match-Logs
+193,Nicolas Frey,fr,DF,Chievo,34,1984,2.5,150,25,66,73,13,0,125,0,0,,0,0,80,277,143,78,77,98.7,0,0,/en/players/6378443d/matchlogs/2018-2019/possession/Nicolas-Frey-Match-Logs
+194,Manolo Gabbiadini,it,FW,Sampdoria,26,1991,9.0,410,7,23,166,242,44,382,9,13,69.2,10,1,293,1466,636,489,317,64.8,19,12,/en/players/8f866fe8/matchlogs/2018-2019/possession/Manolo-Gabbiadini-Match-Logs
+195,Gianluca Gaetano,it,FW,Napoli,18,2000,0.1,16,0,2,3,11,3,16,0,0,,0,0,10,82,39,16,14,87.5,1,2,/en/players/3b387cc7/matchlogs/2018-2019/possession/Gianluca-Gaetano-Match-Logs
+196,Roberto Gagliardini,it,MF,Inter,24,1994,12.1,952,29,157,610,246,34,940,8,12,66.7,8,0,661,3212,1808,798,724,90.7,20,14,/en/players/ce30bfc8/matchlogs/2018-2019/possession/Roberto-Gagliardini-Match-Logs
+197,Riccardo Gagliolo,se,DF,Parma,28,1990,33.8,1826,332,947,795,187,25,1646,8,13,61.5,9,2,958,5035,2965,925,893,96.5,16,7,/en/players/173061c0/matchlogs/2018-2019/possession/Riccardo-Gagliolo-Match-Logs
+198,Marcello Gazzola,it,"DF,MF",Parma,33,1985,10.2,475,25,137,210,148,6,408,7,15,46.7,7,1,241,1212,557,312,273,87.5,2,4,/en/players/93390969/matchlogs/2018-2019/possession/Marcello-Gazzola-Match-Logs
+199,Gerson,br,"MF,FW",Fiorentina,21,1997,27.0,1480,47,260,919,422,63,1454,28,47,59.6,30,1,1105,6883,3839,1192,1005,84.3,31,51,/en/players/8827bf46/matchlogs/2018-2019/possession/Gerson-Match-Logs
+200,Gervinho,ci,FW,Parma,31,1987,25.6,860,6,119,424,454,113,849,80,157,51.0,89,7,790,8110,5628,1012,641,63.3,66,56,/en/players/e468c053/matchlogs/2018-2019/possession/Gervinho-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Paolo Ghiglione,it,"MF,DF",Frosinone,21,1997,5.7,305,24,109,123,93,11,268,3,11,27.3,3,1,203,1217,672,203,180,88.7,3,9,/en/players/71dc23da/matchlogs/2018-2019/possession/Paolo-Ghiglione-Match-Logs
+202,Faouzi Ghoulam,dz,DF,Napoli,27,1991,12.8,1102,24,181,521,456,25,925,4,9,44.4,4,0,712,3515,2144,832,757,91.0,10,6,/en/players/c5adc293/matchlogs/2018-2019/possession/Faouzi-Ghoulam-Match-Logs
+203,Emanuele Giaccherini,it,"MF,FW",Chievo,33,1985,22.3,1336,20,160,678,614,61,1217,26,47,55.3,28,0,978,6167,3642,1204,941,78.2,39,54,/en/players/1c50f354/matchlogs/2018-2019/possession/Emanuele-Giaccherini-Match-Logs
+204,Massimo Gobbi,it,DF,Parma,37,1980,13.1,725,66,260,367,150,5,591,1,3,33.3,1,0,413,2230,1259,406,378,93.1,6,3,/en/players/635b0bae/matchlogs/2018-2019/possession/Massimo-Gobbi-Match-Logs
+205,Edoardo Goldaniga,it,DF,Frosinone,24,1993,29.0,1437,146,738,648,137,14,1260,9,15,60.0,10,1,769,4137,2441,778,741,95.2,5,7,/en/players/4b029b31/matchlogs/2018-2019/possession/Edoardo-Goldaniga-Match-Logs
+206,Pierluigi Gollini,it,GK,Atalanta,23,1995,20.0,633,557,628,7,0,0,455,0,0,,0,0,338,1735,804,259,259,100.0,0,0,/en/players/f0f7f62f/matchlogs/2018-2019/possession/Pierluigi-Gollini-Match-Logs
+207,Papu Gómez,ar,"MF,FW",Atalanta,30,1988,32.2,2393,15,177,1095,1397,133,2111,75,125,60.0,78,6,1905,15631,9615,2129,1822,85.6,54,81,/en/players/6e4df551/matchlogs/2018-2019/possession/Papu-Gomez-Match-Logs
+208,Alfred Gomis,sn,GK,SPAL,24,1993,19.2,724,652,721,2,1,0,510,0,0,,0,0,366,1322,698,284,284,100.0,1,0,/en/players/cecbce23/matchlogs/2018-2019/possession/Alfred-Gomis-Match-Logs
+209,Giancarlo González,cr,DF,Bologna,30,1988,8.3,437,56,241,209,16,7,416,0,0,,0,0,229,1519,811,224,217,96.9,1,2,/en/players/117beb8f/matchlogs/2018-2019/possession/Giancarlo-Gonzalez-Match-Logs
+210,Mirko Gori,it,MF,Frosinone,25,1993,3.7,184,5,45,88,59,7,179,2,2,100.0,2,1,109,599,318,132,111,84.1,1,4,/en/players/7d86864c/matchlogs/2018-2019/possession/Mirko-Gori-Match-Logs
+211,Robin Gosens,de,"DF,MF",Atalanta,24,1994,21.6,1538,49,364,726,568,71,1366,29,48,60.4,33,0,1027,6411,3986,1015,939,92.5,26,16,/en/players/2d970560/matchlogs/2018-2019/possession/Robin-Gosens-Match-Logs
+212,Paolo Gozzi Iweru,it,DF,Juventus,17,2001,1.0,59,3,26,36,4,0,57,1,1,100.0,1,0,48,417,259,48,47,97.9,0,0,/en/players/94230890/matchlogs/2018-2019/possession/Paolo-Gozzi-Iweru-Match-Logs
+213,Alberto Grassi,it,MF,Parma,23,1995,5.1,178,9,48,100,42,9,178,6,10,60.0,6,0,114,636,282,120,98,81.7,5,2,/en/players/6cc97b6a/matchlogs/2018-2019/possession/Alberto-Grassi-Match-Logs
+214,Sergej Grubac,me,"FW,MF",Chievo,18,2000,1.7,46,2,4,24,19,7,44,0,1,0.0,0,0,25,148,42,71,34,47.9,4,4,/en/players/a1bedc05/matchlogs/2018-2019/possession/Sergej-Grubac-Match-Logs
+215,Guido Guerrieri,it,GK,Lazio,22,1996,1.0,39,31,37,3,0,0,29,0,0,,0,0,23,134,94,15,15,100.0,0,0,/en/players/77e401c7/matchlogs/2018-2019/possession/Guido-Guerrieri-Match-Logs
+216,Koray Günter,de,DF,Genoa,23,1994,9.3,431,50,228,210,21,6,414,0,0,,0,0,243,1209,596,248,239,96.4,0,0,/en/players/f1f1f238/matchlogs/2018-2019/possession/Koray-Gunter-Match-Logs
+217,Emil Hallfreðsson,is,MF,Udinese,34,1984,1.5,77,7,28,44,9,0,76,0,0,,0,0,35,128,47,42,40,95.2,0,0,/en/players/86015b20/matchlogs/2018-2019/possession/Emil-Hallfredsson-Match-Logs
+218,Emil Hallfreðsson,is,MF,Frosinone,34,1984,4.4,191,9,50,123,31,0,187,3,4,75.0,4,0,135,675,303,127,114,89.8,1,5,/en/players/86015b20/matchlogs/2018-2019/possession/Emil-Hallfredsson-Match-Logs
+219,Marek Hamšík,sk,MF,Napoli,31,1987,10.2,912,14,148,620,202,12,893,7,10,70.0,7,0,737,2911,1641,793,760,95.8,1,7,/en/players/e6ad16b2/matchlogs/2018-2019/possession/Marek-Hamsik-Match-Logs
+220,Dávid Hancko,sk,DF,Fiorentina,20,1997,3.1,151,11,46,67,44,8,130,0,1,0.0,0,0,78,382,184,86,80,93.0,2,2,/en/players/4fac8f81/matchlogs/2018-2019/possession/David-Hancko-Match-Logs
+221,Samir Handanović,si,GK,Inter,34,1984,38.0,1214,1110,1209,6,2,0,902,0,0,,0,0,672,2709,1688,600,600,100.0,0,0,/en/players/74419746/matchlogs/2018-2019/possession/Samir-Handanovic-Match-Logs
+222,Hans Hateboer,nl,"DF,MF",Atalanta,24,1994,33.0,2140,64,479,987,849,100,1936,23,45,51.1,26,0,1493,8735,5330,1759,1509,85.8,32,40,/en/players/3b333ac3/matchlogs/2018-2019/possession/Hans-Hateboer-Match-Logs
+223,Filip Helander,se,DF,Bologna,25,1993,19.0,964,118,494,465,46,15,929,7,8,87.5,7,0,539,3046,1512,574,550,95.8,2,5,/en/players/27f0ddef/matchlogs/2018-2019/possession/Filip-Helander-Match-Logs
+224,Dalbert Henrique,br,DF,Inter,24,1993,8.6,634,28,187,342,159,7,555,5,10,50.0,6,1,392,2430,1483,387,359,92.8,3,9,/en/players/f45f9427/matchlogs/2018-2019/possession/Dalbert-Henrique-Match-Logs
+225,Përparim Hetemaj,fi,MF,Chievo,31,1986,24.0,1256,46,296,737,323,17,1230,31,42,73.8,32,2,918,5386,2614,994,833,83.8,32,40,/en/players/90b70194/matchlogs/2018-2019/possession/Perparim-Hetemaj-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,Gonzalo Higuaín,ar,FW,Milan,30,1987,14.2,518,13,37,228,285,92,496,26,41,63.4,30,5,449,2886,1191,637,405,63.6,33,27,/en/players/8a08491a/matchlogs/2018-2019/possession/Gonzalo-Higuain-Match-Logs
+227,Oscar Hiljemark,se,MF,Genoa,26,1992,13.3,621,22,112,333,214,27,581,11,18,61.1,11,1,412,2126,957,455,383,84.2,12,15,/en/players/98e958af/matchlogs/2018-2019/possession/Oscar-Hiljemark-Match-Logs
+228,Vitor Hugo,br,DF,Fiorentina,27,1991,27.4,1597,194,834,839,46,20,1559,1,4,25.0,2,0,954,5406,3004,966,949,98.2,8,4,/en/players/f2c1300a/matchlogs/2018-2019/possession/Vitor-Hugo-Match-Logs
+229,Elseid Hysaj,al,DF,Napoli,24,1994,23.4,1984,64,580,1092,454,32,1796,24,38,63.2,26,3,1448,8284,4745,1437,1377,95.8,15,27,/en/players/2f3452eb/matchlogs/2018-2019/possession/Elseid-Hysaj-Match-Logs
+230,Simone Iacoponi,it,DF,Parma,31,1987,37.2,1829,221,815,863,249,23,1551,13,34,38.2,13,3,975,4909,2310,995,913,91.8,20,15,/en/players/63071a3f/matchlogs/2018-2019/possession/Simone-Iacoponi-Match-Logs
+231,Roger Ibanez,br,FW,Atalanta,19,1998,0.0,3,2,3,0,0,0,3,0,0,,0,0,0,0,0,0,0,,0,0,/en/players/82efe6fa/matchlogs/2018-2019/possession/Roger-Ibanez-Match-Logs
+232,Mauro Icardi,ar,FW,Inter,25,1993,25.2,660,21,41,261,384,173,620,11,19,57.9,13,1,410,1881,711,975,483,49.5,40,33,/en/players/43b78598/matchlogs/2018-2019/possession/Mauro-Icardi-Match-Logs
+233,Salvador Ichazo,uy,GK,Torino,26,1992,2.8,90,83,90,0,0,0,54,0,0,,0,0,29,154,69,29,29,100.0,0,0,/en/players/514f0896/matchlogs/2018-2019/possession/Salvador-Ichazo-Match-Logs
+234,Josip Iličić,si,"FW,MF",Atalanta,30,1988,23.8,1708,6,96,746,1023,179,1638,108,169,63.9,112,7,1538,10821,6167,1792,1446,80.7,59,73,/en/players/68252d6d/matchlogs/2018-2019/possession/Josip-Ilicic-Match-Logs
+235,Ciro Immobile,it,FW,Lazio,28,1990,31.8,1331,8,89,501,831,246,1290,34,85,40.0,43,2,1054,7173,4188,1704,1077,63.2,69,48,/en/players/4431aed2/matchlogs/2018-2019/possession/Ciro-Immobile-Match-Logs
+236,Svante Ingelsson,se,"MF,DF",Udinese,20,1998,1.1,56,7,17,23,18,0,52,1,2,50.0,1,0,30,186,88,32,27,84.4,2,2,/en/players/4133cfcf/matchlogs/2018-2019/possession/Svante-Ingelsson-Match-Logs
+237,Roberto Inglese,it,FW,Parma,26,1991,21.8,736,34,120,343,312,103,676,38,59,64.4,39,2,501,3197,1169,1106,495,44.8,71,57,/en/players/6c1f7328/matchlogs/2018-2019/possession/Roberto-Inglese-Match-Logs
+238,Lorenzo Insigne,it,"FW,MF",Napoli,27,1991,23.0,1610,7,99,697,931,138,1534,34,70,48.6,41,0,1359,6853,4000,1748,1380,78.9,37,32,/en/players/2f557579/matchlogs/2018-2019/possession/Lorenzo-Insigne-Match-Logs
+239,Artur Ioniță,md,MF,Cagliari,27,1990,33.0,1491,56,271,887,436,60,1474,26,47,55.3,29,3,1011,5340,2559,1258,1003,79.7,36,32,/en/players/cedb3e36/matchlogs/2018-2019/possession/Artur-Ionita-Match-Logs
+240,Armando Izzo,it,DF,Torino,26,1992,36.3,2321,218,972,1275,253,42,2235,14,17,82.4,14,1,1417,9344,5312,1329,1294,97.4,7,11,/en/players/89976232/matchlogs/2018-2019/possession/Armando-Izzo-Match-Logs
+241,Jandrei,br,GK,Genoa,25,1993,1.0,34,31,34,0,0,0,24,0,0,,0,0,21,93,40,17,17,100.0,0,0,/en/players/85ea4399/matchlogs/2018-2019/possession/Jandrei-Match-Logs
+242,Marko Janković,me,"MF,DF",SPAL,23,1995,0.6,38,0,5,19,18,3,37,1,1,100.0,1,0,29,216,128,35,30,85.7,1,0,/en/players/9866afec/matchlogs/2018-2019/possession/Marko-Jankovic-Match-Logs
+243,Jakub Jankto,cz,MF,Sampdoria,22,1996,10.7,651,20,113,324,262,28,632,3,5,60.0,3,0,471,2636,1697,548,482,88.0,4,6,/en/players/1ea5f91c/matchlogs/2018-2019/possession/Jakub-Jankto-Match-Logs
+244,Paweł Jaroszyński,pl,"DF,MF",Chievo,23,1994,15.0,975,61,323,490,216,7,833,11,20,55.0,12,0,594,3213,1853,616,570,92.5,8,12,/en/players/958a601f/matchlogs/2018-2019/possession/Pawel-Jaroszynski-Match-Logs
+245,Juan Jesus,br,DF,Roma,27,1991,15.6,965,86,473,498,27,1,918,3,4,75.0,3,0,635,2730,980,657,641,97.6,0,1,/en/players/79083382/matchlogs/2018-2019/possession/Juan-Jesus-Match-Logs
+246,Bruno Jordão,pt,MF,Lazio,19,1998,1.0,56,2,13,32,17,2,56,3,3,100.0,3,0,40,252,163,48,41,85.4,3,2,/en/players/41ff002d/matchlogs/2018-2019/possession/Bruno-Jordao-Match-Logs
+247,Hamed Junior Traorè,ci,MF,Empoli,18,2000,25.1,1301,33,232,724,467,51,1271,52,91,57.1,59,2,1038,7409,4494,1067,896,84.0,31,38,/en/players/570bb4b9/matchlogs/2018-2019/possession/Hamed-Junior-Traore-Match-Logs
+248,Musa Juwara,gm,FW,Chievo,16,2001,0.1,8,0,1,6,2,0,8,0,1,0.0,0,0,5,51,25,10,6,60.0,0,0,/en/players/7737dee2/matchlogs/2018-2019/possession/Musa-Juwara-Match-Logs
+249,Yann Karamoh,fr,MF,Inter,20,1998,0.1,7,0,0,4,5,1,6,1,2,50.0,2,0,7,56,37,6,6,100.0,1,0,/en/players/8b66d9cc/matchlogs/2018-2019/possession/Yann-Karamoh-Match-Logs
+250,Ibrahim Karamoko,gn,MF,Chievo,17,2001,0.7,26,1,5,12,12,2,26,1,3,33.3,1,0,18,119,37,22,17,77.3,0,1,/en/players/550985aa/matchlogs/2018-2019/possession/Ibrahim-Karamoko-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,Orestis Karnezis,gr,GK,Napoli,33,1985,9.0,252,234,251,1,0,0,183,0,0,,0,0,122,565,261,110,110,100.0,0,0,/en/players/85b011bb/matchlogs/2018-2019/possession/Orestis-Karnezis-Match-Logs
+252,Rick Karsdorp,nl,DF,Roma,23,1995,6.6,455,22,130,246,119,1,385,8,13,61.5,10,1,299,2018,1195,295,270,91.5,0,4,/en/players/9f84febe/matchlogs/2018-2019/possession/Rick-Karsdorp-Match-Logs
+253,Grigoris Kastanos,cy,MF,Juventus,20,1998,0.7,27,1,5,11,12,1,27,1,1,100.0,1,0,19,78,39,19,18,94.7,1,1,/en/players/2a82aa85/matchlogs/2018-2019/possession/Grigoris-Kastanos-Match-Logs
+254,Moise Kean,it,FW,Juventus,18,2000,6.0,178,2,20,66,107,40,175,9,28,32.1,10,1,138,1114,541,273,134,49.1,18,13,/en/players/3d50bcdb/matchlogs/2018-2019/possession/Moise-Kean-Match-Logs
+255,Franck Kessié,ci,MF,Milan,21,1996,33.5,2105,86,408,1200,667,120,2068,46,68,67.6,50,2,1658,9438,4899,1816,1566,86.2,59,43,/en/players/05e19d6a/matchlogs/2018-2019/possession/Franck-Kessie-Match-Logs
+256,Sami Khedira,de,MF,Juventus,31,1987,7.8,419,14,70,249,119,31,412,2,2,100.0,2,1,303,1306,565,354,312,88.1,6,3,/en/players/38ac43d3/matchlogs/2018-2019/possession/Sami-Khedira-Match-Logs
+257,Sofian Kiyine,be,"MF,DF",Chievo,20,1997,9.1,504,19,104,280,169,17,465,36,52,69.2,37,3,405,2898,1834,403,339,84.1,19,24,/en/players/ce1806be/matchlogs/2018-2019/possession/Sofian-Kiyine-Match-Logs
+258,Ragnar Klavan,ee,DF,Cagliari,32,1985,13.7,748,109,401,378,24,3,726,2,2,100.0,2,0,454,3267,1840,463,459,99.1,1,3,/en/players/008a6e6d/matchlogs/2018-2019/possession/Ragnar-Klavan-Match-Logs
+259,Justin Kluivert,nl,FW,Roma,19,1999,14.9,667,8,81,258,386,70,649,30,62,48.4,31,1,520,4445,2741,695,480,69.1,41,25,/en/players/4c3a6744/matchlogs/2018-2019/possession/Justin-Kluivert-Match-Logs
+260,Aleksandar Kolarov,rs,DF,Roma,32,1985,32.3,2401,128,688,1146,770,46,2025,36,63,57.1,37,1,1538,9454,6084,1582,1493,94.4,21,19,/en/players/eda40760/matchlogs/2018-2019/possession/Aleksandar-Kolarov-Match-Logs
+261,Christian Kouamé,ci,"FW,MF",Genoa,20,1997,34.1,1473,34,151,613,806,204,1446,62,111,55.9,66,6,1017,6499,3546,1909,1097,57.5,100,79,/en/players/58e933d2/matchlogs/2018-2019/possession/Christian-Kouame-Match-Logs
+262,Kalidou Koulibaly,sn,DF,Napoli,27,1991,34.8,2867,264,1205,1739,134,36,2797,11,15,73.3,12,0,2067,11984,7499,2125,2069,97.4,8,16,/en/players/da974c7b/matchlogs/2018-2019/possession/Kalidou-Koulibaly-Match-Logs
+263,Dawid Kownacki,pl,FW,Sampdoria,21,1997,1.9,113,0,6,50,63,13,110,7,13,53.8,8,1,94,515,275,148,94,63.5,7,6,/en/players/be5e1c4c/matchlogs/2018-2019/possession/Dawid-Kownacki-Match-Logs
+264,Luka Krajnc,si,DF,Frosinone,23,1994,8.8,445,60,267,187,14,2,436,2,2,100.0,2,0,285,1435,701,293,291,99.3,0,0,/en/players/2b71b88a/matchlogs/2018-2019/possession/Luka-Krajnc-Match-Logs
+265,Ladislav Krejčí,cz,"MF,DF",Bologna,26,1992,11.8,707,28,185,331,242,23,604,7,13,53.8,7,0,470,2901,1775,530,451,85.1,11,3,/en/players/58027adc/matchlogs/2018-2019/possession/Ladislav-Krejci-Match-Logs
+266,Rade Krunić,ba,MF,Empoli,24,1993,30.8,1719,70,284,859,751,113,1694,49,76,64.5,51,2,1354,10232,6347,1575,1292,82.0,54,51,/en/players/817c6964/matchlogs/2018-2019/possession/Rade-Krunic-Match-Logs
+267,Juraj Kucka,sk,MF,Parma,31,1987,17.1,812,55,183,476,202,25,793,23,37,62.2,25,2,465,2838,1393,587,491,83.6,22,24,/en/players/5aaef9ef/matchlogs/2018-2019/possession/Juraj-Kucka-Match-Logs
+268,Dejan Kulusevski,se,"DF,MF",Atalanta,18,2000,1.2,77,0,7,39,40,5,76,3,4,75.0,3,0,70,501,263,83,69,83.1,4,2,/en/players/df3cda47/matchlogs/2018-2019/possession/Dejan-Kulusevski-Match-Logs
+269,Jasmin Kurtić,si,MF,SPAL,29,1989,28.4,1681,55,298,932,596,52,1567,33,46,71.7,35,4,1188,7929,4580,1425,1223,85.8,28,23,/en/players/144607cc/matchlogs/2018-2019/possession/Jasmin-Kurtic-Match-Logs
+270,Antonino La Gumina,it,FW,Empoli,22,1996,12.1,291,6,17,110,186,58,274,16,31,51.6,16,0,219,1523,613,461,200,43.4,35,16,/en/players/822a7761/matchlogs/2018-2019/possession/Antonino-La-Gumina-Match-Logs
+271,Alban Lafont,fr,GK,Fiorentina,19,1999,33.5,1098,988,1091,8,0,0,764,2,2,100.0,2,0,564,2460,1172,424,422,99.5,0,0,/en/players/4e7db402/matchlogs/2018-2019/possession/Alban-Lafont-Match-Logs
+272,Abdou Lahat Diakhate,sn,FW,Parma,19,1998,0.0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,,0,0,/en/players/8e809937/matchlogs/2018-2019/possession/Abdou-Lahat-Diakhate-Match-Logs
+273,Gianluca Lapadula,it,"FW,MF",Genoa,28,1990,4.5,150,0,7,58,89,40,146,4,8,50.0,5,0,81,389,213,221,102,46.2,14,5,/en/players/2ead2809/matchlogs/2018-2019/possession/Gianluca-Lapadula-Match-Logs
+274,Danilo Larangeira,br,DF,Bologna,34,1984,34.2,1795,274,1030,841,46,20,1697,3,4,75.0,3,0,993,6108,3581,1024,998,97.5,3,3,/en/players/fed5f993/matchlogs/2018-2019/possession/Danilo-Larangeira-Match-Logs
+275,Kevin Lasagna,it,FW,Udinese,25,1992,27.3,777,40,93,371,361,128,723,11,22,50.0,13,0,432,3101,1749,1045,493,47.2,71,29,/en/players/09538fdb/matchlogs/2018-2019/possession/Kevin-Lasagna-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,Vincent Laurini,fr,DF,Fiorentina,29,1989,10.2,684,38,186,401,148,1,571,7,7,100.0,7,0,400,2461,1482,407,369,90.7,4,12,/en/players/3535098b/matchlogs/2018-2019/possession/Vincent-Laurini-Match-Logs
+277,Diego Laxalt,uy,"DF,MF",Milan,25,1993,7.2,482,13,126,235,154,16,437,12,25,48.0,13,0,334,2281,1264,330,302,91.5,11,7,/en/players/f26e3c59/matchlogs/2018-2019/possession/Diego-Laxalt-Match-Logs
+278,Darko Lazović,rs,"MF,DF",Genoa,27,1990,28.2,1332,46,265,564,629,92,1142,49,84,58.3,52,2,911,7540,5263,962,798,83.0,39,21,/en/players/5128bde4/matchlogs/2018-2019/possession/Darko-Lazovic-Match-Logs
+279,Manuel Lazzari,it,"MF,DF",SPAL,24,1993,31.5,1859,65,381,858,859,77,1663,66,111,59.5,71,1,1415,13428,9213,1488,1292,86.8,56,61,/en/players/02caf6e0/matchlogs/2018-2019/possession/Manuel-Lazzari-Match-Logs
+280,Lucas Leiva,br,MF,Lazio,31,1987,22.1,1693,69,417,1084,280,17,1628,15,23,65.2,16,0,1153,5292,2699,1137,1082,95.2,10,16,/en/players/4c78b5ed/matchlogs/2018-2019/possession/Lucas-Leiva-Match-Logs
+281,Mauricio Lemos,uy,DF,Sassuolo,22,1995,2.0,87,15,48,42,2,1,83,0,0,,0,0,51,270,124,49,49,100.0,1,0,/en/players/dbe5a587/matchlogs/2018-2019/possession/Mauricio-Lemos-Match-Logs
+282,Lukas Lerager,dk,MF,Genoa,25,1993,12.5,538,16,104,297,167,28,526,2,4,50.0,2,0,303,1336,576,356,290,81.5,4,12,/en/players/1b82f8df/matchlogs/2018-2019/possession/Lukas-Lerager-Match-Logs
+283,Mehdi Léris,fr,"MF,FW",Chievo,20,1998,17.9,1009,27,218,513,352,30,975,34,57,59.6,36,1,707,3901,1876,779,639,82.0,31,39,/en/players/7d3cbc67/matchlogs/2018-2019/possession/Mehdi-Leris-Match-Logs
+284,Karol Linetty,pl,MF,Sampdoria,23,1995,27.9,1619,40,318,902,528,55,1596,21,45,46.7,22,2,1228,6441,4131,1322,1156,87.4,48,43,/en/players/d023d70f/matchlogs/2018-2019/possession/Karol-Linetty-Match-Logs
+285,Pol Lirola,es,"DF,MF",Sassuolo,20,1997,33.1,2055,114,601,980,644,72,1776,51,84,60.7,54,2,1385,9229,5859,1432,1290,90.1,28,32,/en/players/ff800ed8/matchlogs/2018-2019/possession/Pol-Lirola-Match-Logs
+286,Adem Ljajić,rs,FW,Torino,26,1991,0.3,26,0,2,11,17,3,24,0,0,,0,0,15,112,85,24,21,87.5,0,0,/en/players/2648e18f/matchlogs/2018-2019/possession/Adem-Ljajic-Match-Logs
+287,Manuel Locatelli,it,MF,Sassuolo,20,1998,20.5,1481,67,314,826,426,38,1424,28,43,65.1,32,1,1108,4598,2453,1248,1081,86.6,35,28,/en/players/a8a874f1/matchlogs/2018-2019/possession/Manuel-Locatelli-Match-Logs
+288,José Luis Palomino,ar,DF,Atalanta,28,1990,25.1,1555,160,789,779,57,10,1490,10,14,71.4,10,0,928,4806,1884,876,860,98.2,2,3,/en/players/921f6058/matchlogs/2018-2019/possession/Jose-Luis-Palomino-Match-Logs
+289,Everton Luiz,br,MF,SPAL,30,1988,3.5,187,6,33,124,50,3,184,3,7,42.9,4,0,135,790,378,142,127,89.4,6,5,/en/players/3799e138/matchlogs/2018-2019/possession/Everton-Luiz-Match-Logs
+290,Jordan Lukaku,be,"MF,DF",Lazio,24,1994,1.9,125,3,19,56,59,5,112,4,7,57.1,5,0,83,565,361,95,81,85.3,2,2,/en/players/0cd0e21b/matchlogs/2018-2019/possession/Jordan-Lukaku-Match-Logs
+291,Saša Lukić,rs,MF,Torino,21,1996,11.0,579,14,99,329,200,16,548,13,18,72.2,13,0,403,2970,1534,454,375,82.6,9,20,/en/players/c6e8cf1f/matchlogs/2018-2019/possession/Sasa-Lukic-Match-Logs
+292,Senad Lulić,ba,"DF,MF",Lazio,32,1986,32.5,2052,72,447,932,838,92,1853,49,95,51.6,53,2,1399,10513,6494,1486,1295,87.1,47,43,/en/players/7fd58fe3/matchlogs/2018-2019/possession/Senad-Lulic-Match-Logs
+293,Sebastiano Luperto,it,DF,Napoli,21,1996,8.1,526,52,239,291,18,4,501,0,0,,0,0,340,1767,1023,371,362,97.6,0,2,/en/players/997fff07/matchlogs/2018-2019/possession/Sebastiano-Luperto-Match-Logs
+294,Lyanco,br,DF,Torino,21,1997,1.0,40,10,30,15,1,0,39,2,2,100.0,2,0,21,170,87,15,14,93.3,1,0,/en/players/b5bf1770/matchlogs/2018-2019/possession/Lyanco-Match-Logs
+295,Lyanco,br,DF,Bologna,21,1997,12.4,685,115,403,299,34,9,651,10,14,71.4,10,0,377,2778,1533,334,326,97.6,3,8,/en/players/b5bf1770/matchlogs/2018-2019/possession/Lyanco-Match-Logs
+296,Charalambos Lykogiannis,gr,DF,Cagliari,24,1993,9.2,542,37,159,247,161,7,428,5,14,35.7,5,0,270,1345,650,268,247,92.2,3,12,/en/players/5efc5389/matchlogs/2018-2019/possession/Charalambos-Lykogiannis-Match-Logs
+297,Darwin Machís,ve,"FW,MF",Udinese,25,1993,5.1,255,7,35,115,139,19,238,16,22,72.7,17,0,206,1992,1395,221,174,78.7,14,8,/en/players/ed6ea4d9/matchlogs/2018-2019/possession/Darwin-Machis-Match-Logs
+298,Francesco Magnanelli,it,MF,Sassuolo,33,1984,20.7,1500,80,409,971,184,1,1450,11,14,78.6,12,1,1057,3988,1742,1116,1069,95.8,4,9,/en/players/07767f42/matchlogs/2018-2019/possession/Francesco-Magnanelli-Match-Logs
+299,Giangiacomo Magnani,it,DF,Sassuolo,22,1995,16.8,1061,176,632,508,9,4,1036,2,2,100.0,2,0,734,4538,2986,764,750,98.2,1,2,/en/players/cce9f582/matchlogs/2018-2019/possession/Giangiacomo-Magnani-Match-Logs
+300,Raffaele Maiello,it,MF,Frosinone,27,1991,22.7,1446,69,430,881,224,15,1360,19,32,59.4,24,0,999,5240,2549,931,882,94.7,10,16,/en/players/02febfdc/matchlogs/2018-2019/possession/Raffaele-Maiello-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,Domenico Maietta,it,DF,Empoli,35,1982,19.0,1141,114,550,610,61,7,1075,4,7,57.1,6,0,786,4260,2731,756,741,98.0,2,1,/en/players/3d936ba9/matchlogs/2018-2019/possession/Domenico-Maietta-Match-Logs
+302,Nikola Maksimović,rs,DF,Napoli,26,1991,15.3,998,120,496,528,38,5,962,6,9,66.7,6,1,689,4138,2148,703,684,97.3,2,2,/en/players/16b9d5cf/matchlogs/2018-2019/possession/Nikola-Maksimovic-Match-Logs
+303,Kévin Malcuit,ma,DF,Napoli,27,1991,20.1,1543,76,461,722,469,30,1369,40,72,55.6,47,1,1074,6779,3920,1039,968,93.2,33,29,/en/players/d6a889ea/matchlogs/2018-2019/possession/Kevin-Malcuit-Match-Logs
+304,Gianluca Mancini,it,DF,Atalanta,22,1996,25.0,1615,109,669,841,219,50,1533,12,13,92.3,12,0,1051,5991,3376,1078,1031,95.6,7,7,/en/players/5aa53281/matchlogs/2018-2019/possession/Gianluca-Mancini-Match-Logs
+305,Rolando Mandragora,it,MF,Udinese,21,1997,32.4,1553,63,383,834,392,36,1447,8,17,47.1,8,0,886,3156,1611,1018,875,86.0,22,19,/en/players/c7259b83/matchlogs/2018-2019/possession/Rolando-Mandragora-Match-Logs
+306,Mario Mandžukić,hr,FW,Juventus,32,1986,22.4,813,29,115,327,400,103,796,14,18,77.8,14,1,476,2150,983,932,574,61.6,30,19,/en/players/afa0d4e0/matchlogs/2018-2019/possession/Mario-Mandzukic-Match-Logs
+307,Kostas Manolas,gr,DF,Roma,27,1991,25.8,1294,185,697,637,31,16,1242,5,5,100.0,5,0,747,4192,2035,744,724,97.3,3,0,/en/players/c707411f/matchlogs/2018-2019/possession/Kostas-Manolas-Match-Logs
+308,Juan Manuel Valencia,co,FW,Bologna,20,1998,0.3,15,0,1,7,9,1,15,0,1,0.0,0,0,13,114,56,16,12,75.0,0,2,/en/players/7f50c23b/matchlogs/2018-2019/possession/Juan-Manuel-Valencia-Match-Logs
+309,Iván Marcano,es,DF,Roma,31,1987,9.0,648,77,289,340,48,8,620,5,7,71.4,6,0,416,1607,775,414,407,98.3,1,2,/en/players/7a20d90a/matchlogs/2018-2019/possession/Ivan-Marcano-Match-Logs
+310,Federico Marchetti,it,GK,Genoa,35,1983,4.0,123,101,123,0,0,0,79,0,0,,0,0,60,235,100,41,41,100.0,0,0,/en/players/f794b426/matchlogs/2018-2019/possession/Federico-Marchetti-Match-Logs
+311,Gian Marco Ferrari,it,DF,Sassuolo,26,1992,31.0,2158,221,1031,1182,102,28,2062,9,11,81.8,9,0,1498,9122,5624,1536,1513,98.5,12,5,/en/players/8650af85/matchlogs/2018-2019/possession/Gian-Marco-Ferrari-Match-Logs
+312,João Mário,pt,"MF,FW",Inter,25,1993,12.0,880,14,142,491,351,30,855,24,32,75.0,24,1,688,4852,2737,785,660,84.1,17,21,/en/players/f0021247/matchlogs/2018-2019/possession/Joao-Mario-Match-Logs
+313,Marlon,br,DF,Sassuolo,22,1995,16.8,1210,105,541,683,72,5,1151,6,9,66.7,7,0,884,4729,2637,921,896,97.3,3,3,/en/players/cdf65d12/matchlogs/2018-2019/possession/Marlon-Match-Logs
+314,Lautaro Martínez,ar,FW,Inter,20,1997,14.9,473,7,20,226,249,89,449,18,31,58.1,18,0,321,1789,983,661,351,53.1,55,27,/en/players/f7036e1c/matchlogs/2018-2019/possession/Lautaro-Martinez-Match-Logs
+315,Adam Marušić,me,"DF,MF",Lazio,25,1992,23.5,1200,41,286,513,480,49,1038,35,63,55.6,37,5,787,4893,3236,857,722,84.2,18,23,/en/players/d4535821/matchlogs/2018-2019/possession/Adam-Marusic-Match-Logs
+316,Andrea Masiello,it,DF,Atalanta,32,1986,20.4,1469,100,615,777,161,16,1400,0,3,0.0,0,0,957,4665,2539,976,946,96.9,4,7,/en/players/e0314d87/matchlogs/2018-2019/possession/Andrea-Masiello-Match-Logs
+317,Luca Matarese,it,FW,Frosinone,20,1998,0.2,7,0,3,2,5,1,7,0,0,,0,0,6,116,85,7,5,71.4,1,2,/en/players/a6fc1a22/matchlogs/2018-2019/possession/Luca-Matarese-Match-Logs
+318,Alessandro Matri,it,FW,Sassuolo,33,1984,6.7,236,9,19,131,97,35,219,6,8,75.0,7,2,159,581,297,346,181,52.3,24,17,/en/players/58d97e77/matchlogs/2018-2019/possession/Alessandro-Matri-Match-Logs
+319,Federico Mattiello,it,"MF,DF",Bologna,23,1995,14.8,808,46,207,370,305,17,695,14,30,46.7,16,2,497,3796,2403,544,470,86.4,19,18,/en/players/fba81826/matchlogs/2018-2019/possession/Federico-Mattiello-Match-Logs
+320,Blaise Matuidi,fr,MF,Juventus,31,1987,26.9,1510,34,259,918,399,67,1482,20,34,58.8,22,1,1179,4881,1992,1333,1119,83.9,36,29,/en/players/c0cddebe/matchlogs/2018-2019/possession/Blaise-Matuidi-Match-Logs
+321,José Mauri,it,MF,Milan,22,1996,2.3,130,1,27,86,24,1,128,5,6,83.3,5,1,87,326,138,91,84,92.3,1,3,/en/players/644faf10/matchlogs/2018-2019/possession/Jose-Mauri-Match-Logs
+322,Stephy Mavididi,eng,FW,Juventus,20,1998,0.2,11,0,0,2,10,3,11,1,2,50.0,1,0,10,61,8,15,10,66.7,2,1,/en/players/30144daa/matchlogs/2018-2019/possession/Stephy-Mavididi-Match-Logs
+323,Luca Mazzitelli,it,"MF,FW",Genoa,22,1995,3.6,260,9,53,158,69,7,249,2,4,50.0,3,0,188,772,383,179,167,93.3,3,4,/en/players/dc61b402/matchlogs/2018-2019/possession/Luca-Mazzitelli-Match-Logs
+324,Ibrahima Mbaye,sn,DF,Bologna,23,1994,22.3,1238,91,484,582,222,15,977,10,20,50.0,11,0,624,3183,1670,665,600,90.2,13,13,/en/players/cfbf9881/matchlogs/2018-2019/possession/Ibrahima-Mbaye-Match-Logs
+325,Levan Mchedlidze,ge,"FW,DF",Empoli,28,1990,2.3,70,4,9,24,43,5,69,2,3,66.7,2,0,48,316,154,91,55,60.4,9,4,/en/players/54ab361e/matchlogs/2018-2019/possession/Levan-Mchedlidze-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,Iuri Medeiros,pt,"MF,FW",Genoa,24,1994,1.2,62,0,9,33,26,5,56,4,4,100.0,4,1,51,292,178,56,49,87.5,1,4,/en/players/97e2aa67/matchlogs/2018-2019/possession/Iuri-Medeiros-Match-Logs
+327,Nicky Medja,ch,MF,Fiorentina,18,2000,0.5,17,0,2,11,5,1,17,0,0,,0,0,11,28,13,26,12,46.2,3,1,/en/players/714ffae7/matchlogs/2018-2019/possession/Nicky-Medja-Match-Logs
+328,Riccardo Meggiorini,it,FW,Chievo,32,1985,17.2,649,24,86,322,271,65,640,7,12,58.3,7,0,350,1922,821,790,475,60.1,36,29,/en/players/2ec0f902/matchlogs/2018-2019/possession/Riccardo-Meggiorini-Match-Logs
+329,Soualiho Meïté,fr,MF,Torino,24,1994,29.5,1523,46,258,952,433,54,1503,65,92,70.7,66,3,1112,6798,3560,1203,988,82.1,40,51,/en/players/5cec2c74/matchlogs/2018-2019/possession/Soualiho-Meite-Match-Logs
+330,Alex Meret,it,GK,Napoli,21,1997,12.8,386,363,386,1,0,0,265,0,0,,0,0,183,782,314,158,156,98.7,0,0,/en/players/9413b19f/matchlogs/2018-2019/possession/Alex-Meret-Match-Logs
+331,Dries Mertens,be,FW,Napoli,31,1987,25.0,1163,5,53,424,749,161,1103,22,49,44.9,24,1,913,4147,2624,1325,941,71.0,40,34,/en/players/89b2c8a9/matchlogs/2018-2019/possession/Dries-Mertens-Match-Logs
+332,Petar Mićin,rs,MF,Udinese,19,1998,0.0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,,0,0,/en/players/259deea9/matchlogs/2018-2019/possession/Petar-Micin-Match-Logs
+333,Nikola Milenković,rs,DF,Fiorentina,20,1997,33.4,2180,178,854,1203,256,27,1981,11,12,91.7,12,1,1244,5947,3575,1309,1254,95.8,10,12,/en/players/bee704fc/matchlogs/2018-2019/possession/Nikola-Milenkovic-Match-Logs
+334,Arkadiusz Milik,pl,FW,Napoli,24,1994,26.6,875,20,43,334,540,138,843,14,26,53.8,16,0,617,2578,1209,1274,698,54.8,47,22,/en/players/85613cf0/matchlogs/2018-2019/possession/Arkadiusz-Milik-Match-Logs
+335,Sergej Milinković-Savić,rs,MF,Lazio,23,1995,26.6,1859,61,312,991,684,123,1826,44,76,57.9,49,2,1382,7562,3835,1754,1422,81.1,49,50,/en/players/4e6dbac4/matchlogs/2018-2019/possession/Sergej-Milinkovic-Savic-Match-Logs
+336,Vanja Milinković-Savić,rs,GK,SPAL,21,1997,1.8,85,77,85,0,0,0,64,0,0,,0,0,38,200,90,30,30,100.0,1,0,/en/players/9fa26bc2/matchlogs/2018-2019/possession/Vanja-Milinkovic-Savic-Match-Logs
+337,Vincenzo Millico,it,MF,Torino,17,2000,0.0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,1,0,0.0,0,0,/en/players/6817095b/matchlogs/2018-2019/possession/Vincenzo-Millico-Match-Logs
+338,Kevin Mirallas,be,"FW,MF",Fiorentina,30,1987,14.4,620,13,72,250,359,58,563,16,38,42.1,20,3,454,3512,2132,569,418,73.5,27,23,/en/players/aa51343f/matchlogs/2018-2019/possession/Kevin-Mirallas-Match-Logs
+339,Miranda,br,DF,Inter,33,1984,12.9,919,93,430,508,19,9,891,1,3,33.3,2,0,646,2801,1400,679,662,97.5,2,4,/en/players/314f2124/matchlogs/2018-2019/possession/Miranda-Match-Logs
+340,Antonio Mirante,it,GK,Roma,35,1983,11.0,349,306,349,0,0,0,224,1,1,100.0,1,0,148,666,463,119,119,100.0,0,0,/en/players/30223b33/matchlogs/2018-2019/possession/Antonio-Mirante-Match-Logs
+341,Simone Missiroli,it,MF,SPAL,32,1986,30.5,1826,78,419,1136,439,18,1790,27,41,65.9,28,0,1282,8040,4382,1370,1247,91.0,25,23,/en/players/331c0a43/matchlogs/2018-2019/possession/Simone-Missiroli-Match-Logs
+342,Cristian Molinaro,it,"DF,MF",Frosinone,35,1983,12.9,688,55,252,312,174,8,573,8,14,57.1,8,0,403,2603,1686,409,370,90.5,6,5,/en/players/1c8c5aed/matchlogs/2018-2019/possession/Cristian-Molinaro-Match-Logs
+343,Gabriele Moncini,it,MF,SPAL,22,1996,0.1,3,0,1,1,1,1,3,0,0,,0,0,1,11,1,2,2,100.0,0,0,/en/players/c4efe2b4/matchlogs/2018-2019/possession/Gabriele-Moncini-Match-Logs
+344,Cristóbal Montiel Rodríguez,es,FW,Fiorentina,18,2000,0.1,7,0,0,3,5,1,7,0,0,,0,0,5,62,59,5,5,100.0,0,0,/en/players/dd52d069/matchlogs/2018-2019/possession/Cristobal-Montiel-Rodriguez-Match-Logs
+345,Emiliano Moretti,it,DF,Torino,37,1981,22.3,1229,122,571,672,40,4,1179,4,5,80.0,4,0,797,3917,2217,793,777,98.0,5,5,/en/players/55667895/matchlogs/2018-2019/possession/Emiliano-Moretti-Match-Logs
+346,Samuel Mráz,sk,FW,Empoli,21,1997,1.9,56,2,2,30,26,5,56,0,0,,0,0,47,195,57,77,46,59.7,4,4,/en/players/be6c1ccc/matchlogs/2018-2019/possession/Samuel-Mraz-Match-Logs
+347,Gianni Munari,it,MF,Parma,35,1983,0.0,2,0,0,2,0,0,2,0,0,,0,0,1,14,0,3,2,66.7,0,0,/en/players/e50613bd/matchlogs/2018-2019/possession/Gianni-Munari-Match-Logs
+348,Alessandro Murgia,it,MF,SPAL,21,1996,11.9,654,24,159,363,169,20,603,6,11,54.5,7,1,423,2319,1150,493,414,84.0,15,15,/en/players/fb2c533b/matchlogs/2018-2019/possession/Alessandro-Murgia-Match-Logs
+349,Alessandro Murgia,it,MF,Lazio,21,1996,0.1,11,0,3,7,1,0,11,0,0,,0,0,7,8,3,9,9,100.0,1,1,/en/players/fb2c533b/matchlogs/2018-2019/possession/Alessandro-Murgia-Match-Logs
+350,Luis Muriel,co,FW,Fiorentina,27,1991,16.0,618,6,27,290,352,67,593,38,65,58.5,46,4,488,3665,2233,727,459,63.1,47,32,/en/players/eb2fe5b6/matchlogs/2018-2019/possession/Luis-Muriel-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,Nicola Murru,it,DF,Sampdoria,23,1994,32.6,2362,137,745,1220,542,28,2052,20,36,55.6,23,4,1489,7535,4508,1496,1407,94.1,13,24,/en/players/d183e9d6/matchlogs/2018-2019/possession/Nicola-Murru-Match-Logs
+352,Mateo Musacchio,ar,DF,Milan,27,1990,29.0,1980,257,1142,930,54,21,1913,9,11,81.8,9,1,1393,7841,4619,1480,1451,98.0,5,4,/en/players/91899ca8/matchlogs/2018-2019/possession/Mateo-Musacchio-Match-Logs
+353,Juan Musso,ar,GK,Udinese,24,1994,29.0,977,884,974,4,0,0,601,0,0,,0,0,378,2026,1279,270,270,100.0,0,0,/en/players/a111cf41/matchlogs/2018-2019/possession/Juan-Musso-Match-Logs
+354,Ádám Nagy,hu,MF,Bologna,23,1995,10.8,632,29,187,385,99,2,609,7,14,50.0,8,0,413,2488,1235,396,371,93.7,7,8,/en/players/788b31e2/matchlogs/2018-2019/possession/Adam-Nagy-Match-Logs
+355,Radja Nainggolan,be,MF,Inter,30,1988,21.9,1280,11,109,653,613,53,1268,32,50,64.0,35,3,995,5406,2660,1186,990,83.5,39,43,/en/players/1f9328da/matchlogs/2018-2019/possession/Radja-Nainggolan-Match-Logs
+356,Angelo Ndrecka,al,DF,Chievo,16,2001,1.0,57,5,15,27,17,0,52,1,1,100.0,1,0,40,116,35,38,35,92.1,0,0,/en/players/fcd20025/matchlogs/2018-2019/possession/Angelo-Ndrecka-Match-Logs
+357,Pedro Neto,pt,FW,Lazio,18,2000,0.5,33,1,2,18,19,1,31,0,1,0.0,0,0,29,269,161,37,26,70.3,0,3,/en/players/7ba2eaa9/matchlogs/2018-2019/possession/Pedro-Neto-Match-Logs
+358,Hans Nicolussi Caviglia,it,"MF,FW",Juventus,18,2000,0.6,37,1,5,21,13,2,33,0,2,0.0,0,0,22,153,82,30,25,83.3,1,1,/en/players/b136c945/matchlogs/2018-2019/possession/Hans-Nicolussi-Caviglia-Match-Logs
+359,Dimitris Nikolaou,gr,DF,Empoli,19,1998,3.9,194,32,128,80,5,0,187,0,0,,0,0,137,1009,557,138,138,100.0,0,2,/en/players/cf961d8d/matchlogs/2018-2019/possession/Dimitris-Nikolaou-Match-Logs
+360,Nicolas Nkoulou,cm,DF,Torino,28,1990,35.7,1791,218,1056,773,30,14,1717,9,12,75.0,10,0,1109,4491,1665,993,978,98.5,3,6,/en/players/93cf32a8/matchlogs/2018-2019/possession/Nicolas-Nkoulou-Match-Logs
+361,Bram Nuytinck,nl,DF,Udinese,28,1990,23.6,1141,163,664,500,42,10,1100,1,2,50.0,1,0,649,3430,1786,659,644,97.7,4,4,/en/players/e33f36d5/matchlogs/2018-2019/possession/Bram-Nuytinck-Match-Logs
+362,Steven Nzonzi,fr,MF,Roma,29,1988,29.1,1940,84,462,1266,315,40,1914,19,25,76.0,19,1,1347,5175,2379,1495,1385,92.6,9,13,/en/players/c7526c18/matchlogs/2018-2019/possession/Steven-Nzonzi-Match-Logs
+363,Christian Nørgaard,dk,MF,Fiorentina,24,1994,3.6,209,15,47,134,37,0,201,3,3,100.0,3,0,138,622,372,128,120,93.8,3,5,/en/players/df0a4c90/matchlogs/2018-2019/possession/Christian-Norgaard-Match-Logs
+364,Dimitri Oberlin,ch,FW,Empoli,20,1997,1.5,52,1,4,17,34,6,52,1,7,14.3,3,0,38,299,194,76,39,51.3,7,5,/en/players/af45e954/matchlogs/2018-2019/possession/Dimitri-Oberlin-Match-Logs
+365,Joel Obi,ng,MF,Chievo,27,1991,7.3,394,19,112,224,80,11,385,6,11,54.5,6,0,257,1225,634,294,246,83.7,12,2,/en/players/614c38fb/matchlogs/2018-2019/possession/Joel-Obi-Match-Logs
+366,Jens Odgaard,dk,FW,Sassuolo,19,1999,0.2,6,1,1,1,4,2,6,0,0,,0,0,4,23,12,9,3,33.3,1,0,/en/players/75374ee7/matchlogs/2018-2019/possession/Jens-Odgaard-Match-Logs
+367,Stefano Okaka,it,FW,Udinese,28,1989,10.8,416,19,46,240,167,44,405,24,33,72.7,26,0,314,2360,1214,497,305,61.4,36,51,/en/players/601ef102/matchlogs/2018-2019/possession/Stefano-Okaka-Match-Logs
+368,Orji Okwonkwo,ng,FW,Bologna,20,1998,2.9,80,0,5,42,46,8,80,1,3,33.3,1,0,52,742,505,112,57,50.9,9,9,/en/players/905a4f61/matchlogs/2018-2019/possession/Orji-Okwonkwo-Match-Logs
+369,Robin Olsen,se,GK,Roma,28,1990,27.0,913,834,912,1,0,0,650,0,0,,0,0,477,1962,1154,383,380,99.2,0,0,/en/players/e7ee38c3/matchlogs/2018-2019/possession/Robin-Olsen-Match-Logs
+370,Stephane Omeonga,be,MF,Genoa,22,1996,0.6,38,0,15,21,4,0,37,0,1,0.0,0,0,20,92,33,17,14,82.4,0,1,/en/players/72c803a0/matchlogs/2018-2019/possession/Stephane-Omeonga-Match-Logs
+371,Nicholas Opoku,gh,DF,Udinese,20,1997,3.6,,,,,,,,,,,,,,,,,,,,,/en/players/b871bf55/matchlogs/2018-2019/possession/Nicholas-Opoku-Match-Logs
+372,Nicholas Opoku,es,DF,Udinese,20,1997,6.5,,,,,,,,,,,,,,,,,,,,,/en/players/ae852b7d/matchlogs/2018-2019/possession/Nicholas-Opoku-Match-Logs
+373,Riccardo Orsolini,it,"FW,MF",Bologna,21,1997,21.8,1108,29,178,481,530,75,1020,35,76,46.1,40,0,747,4876,3044,976,735,75.3,51,34,/en/players/e14ec482/matchlogs/2018-2019/possession/Riccardo-Orsolini-Match-Logs
+374,David Ospina,co,GK,Napoli,29,1988,16.2,486,436,486,0,0,0,344,2,2,100.0,2,0,259,1138,615,208,207,99.5,0,0,/en/players/82b1198a/matchlogs/2018-2019/possession/David-Ospina-Match-Logs
+375,Adam Ounas,dz,"MF,FW",Napoli,21,1996,6.0,380,2,28,158,237,37,375,19,35,54.3,20,2,343,2612,1903,360,311,86.4,15,12,/en/players/ed90babd/matchlogs/2018-2019/possession/Adam-Ounas-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,Simone Padoin,it,"DF,MF",Cagliari,34,1984,21.3,1224,85,370,629,296,13,1038,10,15,66.7,10,1,723,4217,2249,739,682,92.3,7,9,/en/players/5eb72339/matchlogs/2018-2019/possession/Simone-Padoin-Match-Logs
+377,Luca Paganini,it,"DF,MF",Frosinone,25,1993,12.5,601,24,122,298,230,50,569,10,23,43.5,10,1,364,2272,1108,495,365,73.7,13,16,/en/players/e5b98a70/matchlogs/2018-2019/possession/Luca-Paganini-Match-Logs
+378,Marko Pajač,hr,DF,Cagliari,25,1993,1.1,66,3,14,29,30,4,51,0,0,,0,0,44,247,148,38,36,94.7,2,3,/en/players/5df4ef30/matchlogs/2018-2019/possession/Marko-Pajac-Match-Logs
+379,Marko Pajač,hr,DF,Empoli,25,1993,8.2,431,26,102,204,159,14,379,8,14,57.1,9,1,313,2115,1344,321,291,90.7,5,10,/en/players/5df4ef30/matchlogs/2018-2019/possession/Marko-Pajac-Match-Logs
+380,Rodrigo Palacio,ar,FW,Bologna,36,1982,25.9,1190,21,105,501,682,162,1166,44,82,53.7,48,3,918,7585,4235,1459,928,63.6,74,61,/en/players/8d8178ac/matchlogs/2018-2019/possession/Rodrigo-Palacio-Match-Logs
+381,Alberto Paloschi,it,FW,SPAL,28,1990,9.6,253,2,24,135,100,35,234,2,10,20.0,2,0,162,563,212,371,179,48.2,32,13,/en/players/b5cae4e6/matchlogs/2018-2019/possession/Alberto-Paloschi-Match-Logs
+382,Goran Pandev,mk,"FW,MF",Genoa,35,1983,12.5,557,6,62,263,287,62,530,24,38,63.2,26,4,461,2758,1583,582,412,70.8,28,37,/en/players/d711d04f/matchlogs/2018-2019/possession/Goran-Pandev-Match-Logs
+383,Lucas Paquetá,br,MF,Milan,20,1997,9.4,507,17,89,287,160,23,504,20,30,66.7,20,3,388,2011,1075,462,379,82.0,16,26,/en/players/9b6f7fd5/matchlogs/2018-2019/possession/Lucas-Paqueta-Match-Logs
+384,Vittorio Parigini,it,"MF,FW",Torino,22,1996,4.2,231,2,44,97,121,13,207,9,24,37.5,9,2,167,1860,1277,174,132,75.9,17,12,/en/players/75efed2e/matchlogs/2018-2019/possession/Vittorio-Parigini-Match-Logs
+385,Marco Parolo,it,MF,Lazio,33,1985,28.5,1420,63,297,675,508,108,1358,7,16,43.8,8,0,796,3448,1767,1065,874,82.1,24,18,/en/players/ed5886d2/matchlogs/2018-2019/possession/Marco-Parolo-Match-Logs
+386,Mario Pašalić,hr,"MF,FW",Atalanta,23,1995,18.0,1211,21,201,704,389,66,1200,24,44,54.5,27,2,936,5571,2481,1075,920,85.6,34,31,/en/players/e599253a/matchlogs/2018-2019/possession/Mario-Pasalic-Match-Logs
+387,Manuel Pasqual,it,"DF,MF",Empoli,36,1982,14.9,1161,45,282,542,392,17,957,5,10,50.0,5,1,741,2869,1642,803,742,92.4,3,8,/en/players/548902cc/matchlogs/2018-2019/possession/Manuel-Pasqual-Match-Logs
+388,Javier Pastore,ar,MF,Roma,29,1989,6.6,458,7,41,232,228,34,441,17,25,68.0,17,1,377,2411,1464,419,366,87.4,8,9,/en/players/881ef58c/matchlogs/2018-2019/possession/Javier-Pastore-Match-Logs
+389,Patric,es,"DF,MF",Lazio,25,1993,12.1,838,50,275,393,221,27,783,3,6,50.0,3,0,563,3043,1690,611,581,95.1,9,7,/en/players/f7223718/matchlogs/2018-2019/possession/Patric-Match-Logs
+390,Leonardo Pavoletti,it,FW,Cagliari,29,1988,30.4,1199,21,93,598,553,155,1188,22,34,64.7,23,0,669,2143,577,1588,943,59.4,80,39,/en/players/d37b0350/matchlogs/2018-2019/possession/Leonardo-Pavoletti-Match-Logs
+391,Nehuén Paz,ar,DF,Bologna,25,1993,1.3,52,4,35,21,1,0,51,1,1,100.0,1,0,36,190,129,38,38,100.0,0,0,/en/players/42b1a58a/matchlogs/2018-2019/possession/Nehuen-Paz-Match-Logs
+392,João Pedro,br,"FW,MF",Cagliari,26,1992,28.4,1136,25,96,516,586,132,1044,27,64,42.2,30,2,743,4315,1890,1382,809,58.5,63,44,/en/players/81255c03/matchlogs/2018-2019/possession/Joao-Pedro-Match-Logs
+393,Gianluca Pegolo,it,GK,Sassuolo,37,1981,2.3,79,73,79,0,0,0,45,0,0,,0,0,30,138,86,22,22,100.0,0,0,/en/players/f058ed1f/matchlogs/2018-2019/possession/Gianluca-Pegolo-Match-Logs
+394,Lorenzo Pellegrini,it,MF,Roma,22,1996,20.2,1246,35,175,608,546,61,1121,31,53,58.5,36,2,880,4943,2340,1045,852,81.5,40,32,/en/players/4a5a45c7/matchlogs/2018-2019/possession/Lorenzo-Pellegrini-Match-Logs
+395,Luca Pellegrini,it,DF,Roma,19,1999,1.8,136,4,33,73,38,2,117,1,2,50.0,1,0,100,502,323,93,86,92.5,0,4,/en/players/3b61c9ec/matchlogs/2018-2019/possession/Luca-Pellegrini-Match-Logs
+396,Luca Pellegrini,it,DF,Cagliari,19,1999,10.4,620,33,200,275,189,10,511,9,20,45.0,11,0,361,2635,1691,361,333,92.2,14,8,/en/players/3b61c9ec/matchlogs/2018-2019/possession/Luca-Pellegrini-Match-Logs
+397,Sergio Pellissier,it,FW,Chievo,39,1979,10.6,304,8,24,127,174,71,288,9,11,81.8,9,1,206,1111,430,447,225,50.3,23,19,/en/players/878ee034/matchlogs/2018-2019/possession/Sergio-Pellissier-Match-Logs
+398,Federico Peluso,it,DF,Sassuolo,34,1984,15.1,971,82,481,533,39,2,919,9,9,100.0,9,0,653,4119,2393,679,667,98.2,1,1,/en/players/4f2908e5/matchlogs/2018-2019/possession/Federico-Peluso-Match-Logs
+399,Pepín,gq,MF,Parma,21,1996,0.9,38,4,12,16,11,1,35,3,3,100.0,3,0,23,102,29,28,21,75.0,1,1,/en/players/7afb1573/matchlogs/2018-2019/possession/Pepin-Match-Logs
+400,Pedro Pereira,pt,"DF,MF",Genoa,20,1998,15.4,859,57,218,389,323,15,695,15,28,53.6,15,1,519,3523,2302,529,458,86.6,20,17,/en/players/c77be0cf/matchlogs/2018-2019/possession/Pedro-Pereira-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,Stipe Perica,hr,FW,Frosinone,23,1995,5.3,148,5,15,87,55,15,143,3,6,50.0,3,0,104,491,193,209,117,56.0,10,6,/en/players/269b4638/matchlogs/2018-2019/possession/Stipe-Perica-Match-Logs
+402,Mattia Perin,it,GK,Juventus,25,1992,9.0,236,221,236,0,0,0,158,1,1,100.0,1,0,115,568,246,98,98,100.0,0,0,/en/players/4c62d0c8/matchlogs/2018-2019/possession/Mattia-Perin-Match-Logs
+403,Ivan Perišić,hr,"FW,MF",Inter,29,1989,30.0,1778,62,203,655,1027,229,1666,34,57,59.6,34,4,1211,8698,5249,1635,1290,78.9,52,29,/en/players/6fe90922/matchlogs/2018-2019/possession/Ivan-Perisic-Match-Logs
+404,Diego Perotti,ar,"FW,MF",Roma,30,1988,7.4,444,9,66,200,232,41,416,23,31,74.2,23,1,352,3293,2004,395,339,85.8,12,12,/en/players/a40d5a0c/matchlogs/2018-2019/possession/Diego-Perotti-Match-Logs
+405,Matteo Pessina,it,MF,Atalanta,21,1997,2.6,212,5,38,124,64,2,206,0,0,,0,0,154,919,515,170,155,91.2,3,1,/en/players/780e3631/matchlogs/2018-2019/possession/Matteo-Pessina-Match-Logs
+406,Andrea Petagna,it,FW,SPAL,23,1995,33.7,1189,27,104,550,643,168,1147,43,80,53.8,48,4,927,7166,2995,1384,930,67.2,85,74,/en/players/03f946ed/matchlogs/2018-2019/possession/Andrea-Petagna-Match-Logs
+407,Germán Pezzella,ar,DF,Fiorentina,27,1991,31.7,1997,224,1098,948,73,41,1921,6,7,85.7,6,0,1166,6917,3584,1216,1197,98.4,10,6,/en/players/8c725b43/matchlogs/2018-2019/possession/German-Pezzella-Match-Logs
+408,Giuseppe Pezzella,it,DF,Genoa,20,1997,1.2,54,5,20,19,17,0,49,0,0,,0,0,33,154,68,39,31,79.5,0,1,/en/players/149c5f5d/matchlogs/2018-2019/possession/Giuseppe-Pezzella-Match-Logs
+409,Giuseppe Pezzella,it,"DF,MF",Udinese,20,1997,2.0,90,10,30,49,14,1,71,1,2,50.0,1,0,42,285,157,40,36,90.0,1,1,/en/players/149c5f5d/matchlogs/2018-2019/possession/Giuseppe-Pezzella-Match-Logs
+410,Krzysztof Piątek,pl,FW,Milan,23,1995,15.3,431,14,34,177,233,87,403,7,19,36.8,8,0,291,1360,527,698,322,46.1,49,21,/en/players/17f3620a/matchlogs/2018-2019/possession/Krzysztof-Piatek-Match-Logs
+411,Krzysztof Piątek,pl,FW,Genoa,23,1995,17.7,558,19,49,223,319,105,534,15,25,60.0,17,1,375,2496,1180,825,405,49.1,44,27,/en/players/17f3620a/matchlogs/2018-2019/possession/Krzysztof-Piatek-Match-Logs
+412,Lucas Piazon,br,"MF,FW",Chievo,24,1994,0.9,50,0,11,28,16,1,44,1,3,33.3,1,0,34,225,114,41,30,73.2,1,5,/en/players/f201798c/matchlogs/2018-2019/possession/Lucas-Piazon-Match-Logs
+413,Roberto Piccoli,it,FW,Atalanta,17,2001,0.5,20,0,0,6,15,5,20,0,0,,0,0,10,33,19,30,16,53.3,7,1,/en/players/1cadaf34/matchlogs/2018-2019/possession/Roberto-Piccoli-Match-Logs
+414,Andrea Pinamonti,it,FW,Frosinone,19,1999,18.1,630,15,61,308,293,82,618,16,30,53.3,17,1,429,2183,900,906,467,51.5,43,30,/en/players/08aa9cd1/matchlogs/2018-2019/possession/Andrea-Pinamonti-Match-Logs
+415,Carlo Pinsoglio,it,GK,Juventus,28,1990,1.0,37,36,37,0,0,0,23,0,0,,0,0,15,80,36,14,14,100.0,0,0,/en/players/f6a06749/matchlogs/2018-2019/possession/Carlo-Pinsoglio-Match-Logs
+416,Fabio Pisacane,it,DF,Cagliari,32,1986,25.2,1405,189,771,651,63,19,1358,3,7,42.9,4,0,865,5128,2295,834,813,97.5,5,9,/en/players/56400c01/matchlogs/2018-2019/possession/Fabio-Pisacane-Match-Logs
+417,Marko Pjaca,hr,"FW,MF",Fiorentina,23,1995,8.3,352,6,37,142,198,42,346,16,35,45.7,18,1,279,1910,1269,341,262,76.8,19,17,/en/players/2c38b327/matchlogs/2018-2019/possession/Marko-Pjaca-Match-Logs
+418,Miralem Pjanić,ba,MF,Juventus,28,1990,25.3,2272,47,431,1344,627,25,2035,16,22,72.7,17,0,1602,6870,3443,1717,1628,94.8,14,21,/en/players/ad6df2d5/matchlogs/2018-2019/possession/Miralem-Pjanic-Match-Logs
+419,Andrea Poli,it,MF,Bologna,28,1989,21.5,1021,21,248,542,295,50,996,15,29,51.7,18,2,751,3663,1860,773,645,83.4,26,22,/en/players/b3fd7075/matchlogs/2018-2019/possession/Andrea-Poli-Match-Logs
+420,Matteo Politano,it,"FW,MF",Inter,24,1993,28.3,1789,14,149,658,1137,118,1623,45,82,54.9,50,0,1371,10976,6466,1587,1341,84.5,36,55,/en/players/5e861944/matchlogs/2018-2019/possession/Matteo-Politano-Match-Logs
+421,Giacomo Poluzzi,it,GK,SPAL,30,1988,0.1,3,3,3,0,0,0,3,0,0,,0,0,2,3,0,2,2,100.0,0,0,/en/players/07f55871/matchlogs/2018-2019/possession/Giacomo-Poluzzi-Match-Logs
+422,Manolo Portanova,it,MF,Juventus,18,2000,0.4,17,1,4,12,3,1,17,1,2,50.0,1,1,12,77,44,11,9,81.8,0,2,/en/players/c8c0dccd/matchlogs/2018-2019/possession/Manolo-Portanova-Match-Logs
+423,Dennis Praet,be,MF,Sampdoria,24,1994,32.1,2220,70,391,1177,807,76,2134,53,86,61.6,55,2,1703,8616,4712,1792,1613,90.0,33,37,/en/players/86695068/matchlogs/2018-2019/possession/Dennis-Praet-Match-Logs
+424,Silvio Proto,be,GK,Lazio,35,1983,2.0,72,68,72,0,0,0,46,0,0,,0,0,32,164,72,30,30,100.0,0,0,/en/players/c8a88acd/matchlogs/2018-2019/possession/Silvio-Proto-Match-Logs
+425,Ivan Provedel,it,GK,Empoli,24,1994,16.0,529,503,529,0,0,0,342,0,0,,0,0,216,1063,658,157,157,100.0,1,0,/en/players/277da414/matchlogs/2018-2019/possession/Ivan-Provedel-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,Manuel Pucciarelli,it,FW,Chievo,27,1991,3.4,134,1,16,74,53,4,130,2,6,33.3,2,0,104,570,282,135,95,70.4,10,8,/en/players/a1c7b425/matchlogs/2018-2019/possession/Manuel-Pucciarelli-Match-Logs
+427,Erick Pulgar,cl,MF,Bologna,24,1994,26.2,1880,99,449,1075,456,15,1622,22,32,68.8,24,2,1105,5540,2793,1035,995,96.1,18,21,/en/players/4611e028/matchlogs/2018-2019/possession/Erick-Pulgar-Match-Logs
+428,Ignacio Pussetto,ar,"FW,MF",Udinese,22,1995,24.2,1146,37,177,567,503,112,1080,51,99,51.5,53,2,765,5679,3565,1146,732,63.9,72,61,/en/players/62437b4f/matchlogs/2018-2019/possession/Ignacio-Pussetto-Match-Logs
+429,Fabio Quagliarella,it,FW,Sampdoria,35,1983,35.5,1369,22,116,568,743,204,1278,35,61,57.4,39,4,965,3937,1382,1799,1009,56.1,80,60,/en/players/ee4f2f3b/matchlogs/2018-2019/possession/Fabio-Quagliarella-Match-Logs
+430,Ivan Radovanović,rs,MF,Chievo,29,1988,19.0,1188,53,338,799,139,5,1137,9,10,90.0,9,0,824,3787,1886,818,786,96.1,6,7,/en/players/023937a9/matchlogs/2018-2019/possession/Ivan-Radovanovic-Match-Logs
+431,Ivan Radovanović,rs,MF,Genoa,29,1988,14.2,811,26,188,546,122,4,768,6,6,100.0,6,0,524,2854,1382,488,466,95.5,4,5,/en/players/023937a9/matchlogs/2018-2019/possession/Ivan-Radovanovic-Match-Logs
+432,Ionuț Radu,ro,GK,Genoa,21,1997,33.0,1045,895,1039,8,0,0,630,4,4,100.0,4,0,410,2063,1348,304,303,99.7,0,0,/en/players/67f649be/matchlogs/2018-2019/possession/Ionut-Radu-Match-Logs
+433,Ștefan Radu,ro,DF,Lazio,31,1986,24.9,1556,103,563,843,282,17,1473,6,11,54.5,6,0,1021,6543,4097,980,956,97.6,11,13,/en/players/53de807a/matchlogs/2018-2019/possession/Stefan-Radu-Match-Logs
+434,Gastón Ramírez,uy,"MF,FW",Sampdoria,27,1990,17.5,1118,31,165,523,495,53,1043,24,44,54.5,26,1,780,3674,1842,1073,816,76.0,29,47,/en/players/2c851997/matchlogs/2018-2019/possession/Gaston-Ramirez-Match-Logs
+435,Andrea Ranocchia,it,"DF,MF",Inter,30,1988,0.7,39,2,19,16,6,3,39,0,0,,0,0,19,83,65,41,28,68.3,0,0,/en/players/539230cf/matchlogs/2018-2019/possession/Andrea-Ranocchia-Match-Logs
+436,Jacob Rasmussen,dk,"DF,MF",Empoli,21,1997,11.3,772,82,413,365,38,8,744,1,2,50.0,1,1,478,2084,1210,489,478,97.8,2,2,/en/players/283699b4/matchlogs/2018-2019/possession/Jacob-Rasmussen-Match-Logs
+437,Giacomo Raspadori,it,DF,Sassuolo,18,2000,0.0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,,0,0,/en/players/6e058f06/matchlogs/2018-2019/possession/Giacomo-Raspadori-Match-Logs
+438,Arkadiusz Reca,pl,"DF,FW",Atalanta,23,1995,0.5,43,0,9,14,23,2,40,2,6,33.3,3,0,34,214,132,33,30,90.9,0,0,/en/players/6213fd82/matchlogs/2018-2019/possession/Arkadiusz-Reca-Match-Logs
+439,Vasco Regini,it,DF,SPAL,27,1990,0.9,56,5,27,25,6,0,49,0,0,,0,0,30,235,165,29,29,100.0,1,0,/en/players/339c6ed4/matchlogs/2018-2019/possession/Vasco-Regini-Match-Logs
+440,Pepe Reina,es,GK,Milan,35,1982,3.7,121,109,121,0,0,0,84,0,0,,0,0,56,237,155,49,49,100.0,0,0,/en/players/e358587b/matchlogs/2018-2019/possession/Pepe-Reina-Match-Logs
+441,Emiliano Rigoni,ar,"FW,MF",Atalanta,25,1993,5.8,336,2,18,134,209,26,320,26,47,55.3,29,1,286,1963,1044,332,255,76.8,21,15,/en/players/a1216563/matchlogs/2018-2019/possession/Emiliano-Rigoni-Match-Logs
+442,Luca Rigoni,it,MF,Parma,33,1984,19.6,728,70,252,384,135,31,721,8,15,53.3,8,1,457,2484,1315,509,425,83.5,10,18,/en/players/4dba2a97/matchlogs/2018-2019/possession/Luca-Rigoni-Match-Logs
+443,Nicola Rigoni,it,MF,Chievo,27,1990,21.7,1093,69,291,671,170,18,1064,7,10,70.0,8,2,674,2152,1066,726,663,91.3,8,12,/en/players/e327bd76/matchlogs/2018-2019/possession/Nicola-Rigoni-Match-Logs
+444,Tomás Rincón,ve,MF,Torino,30,1988,31.1,1722,62,366,1049,423,25,1634,29,43,67.4,31,0,1097,6602,3625,1038,964,92.9,13,39,/en/players/f1cfc209/matchlogs/2018-2019/possession/Tomas-Rincon-Match-Logs
+445,Alejandro Rodríguez,es,FW,Empoli,27,1991,0.3,10,1,2,5,4,1,9,0,0,,0,0,5,7,5,17,6,35.3,2,0,/en/players/7602ddf6/matchlogs/2018-2019/possession/Alejandro-Rodriguez-Match-Logs
+446,Ricardo Rodríguez,ch,DF,Milan,25,1992,33.9,2463,137,853,1374,444,15,2161,20,30,66.7,23,1,1711,9784,5550,1713,1643,95.9,12,16,/en/players/7f78ad23/matchlogs/2018-2019/possession/Ricardo-Rodriguez-Match-Logs
+447,Marko Rog,hr,MF,Napoli,23,1995,3.7,239,2,42,170,47,3,233,6,11,54.5,7,0,192,738,423,180,163,90.6,4,4,/en/players/b6b2b820/matchlogs/2018-2019/possession/Marko-Rog-Match-Logs
+448,Rogério,br,"DF,MF",Sassuolo,20,1998,29.7,2063,105,648,986,564,40,1757,28,40,70.0,31,1,1341,7914,3992,1387,1242,89.5,27,31,/en/players/10e7f486/matchlogs/2018-2019/possession/Rogerio-Match-Logs
+449,Esteban Rolón,ar,MF,Genoa,23,1995,11.6,505,15,97,289,143,15,491,14,18,77.8,14,0,326,1588,884,311,262,84.2,9,20,/en/players/10e25802/matchlogs/2018-2019/possession/Esteban-Rolon-Match-Logs
+450,Filippo Romagna,it,DF,Cagliari,21,1997,16.4,806,128,492,345,20,8,788,0,0,,0,0,534,3139,1631,500,498,99.6,2,2,/en/players/84594618/matchlogs/2018-2019/possession/Filippo-Romagna-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,Alessio Romagnoli,it,DF,Milan,23,1995,31.6,2086,306,1162,999,41,18,2042,3,4,75.0,3,0,1357,6540,3257,1489,1451,97.4,5,3,/en/players/3ead85f9/matchlogs/2018-2019/possession/Alessio-Romagnoli-Match-Logs
+452,Cristian Romero,ar,DF,Genoa,20,1998,26.0,1140,184,639,507,53,28,1108,16,22,72.7,17,0,612,3827,1940,556,523,94.1,5,6,/en/players/a3d94a58/matchlogs/2018-2019/possession/Cristian-Romero-Match-Logs
+453,Rômulo,it,"MF,DF",Genoa,31,1987,15.0,818,29,169,386,335,15,685,16,27,59.3,16,1,520,3847,2035,552,473,85.7,13,15,/en/players/07abb358/matchlogs/2018-2019/possession/Romulo-Match-Logs
+454,Rômulo,it,"DF,MF",Lazio,31,1987,8.6,488,20,101,222,199,20,416,8,14,57.1,8,0,339,2446,1294,368,306,83.2,4,6,/en/players/07abb358/matchlogs/2018-2019/possession/Romulo-Match-Logs
+455,Cristiano Ronaldo,pt,FW,Juventus,33,1985,29.9,1559,37,85,650,982,220,1499,51,97,52.6,54,2,1296,9530,6114,1830,1307,71.4,62,39,/en/players/dea698d9/matchlogs/2018-2019/possession/Cristiano-Ronaldo-Match-Logs
+456,Marten de Roon,nl,MF,Atalanta,27,1991,33.1,2517,78,517,1543,620,29,2446,16,20,80.0,16,0,1801,8525,4177,1800,1722,95.7,18,21,/en/players/2a1beb34/matchlogs/2018-2019/possession/Marten-de-Roon-Match-Logs
+457,Luca Rossettini,it,DF,Chievo,33,1985,20.3,997,154,656,355,26,4,979,1,1,100.0,1,0,594,2709,1287,589,577,98.0,0,2,/en/players/47a500ae/matchlogs/2018-2019/possession/Luca-Rossettini-Match-Logs
+458,Francesco Rossi,it,GK,Atalanta,27,1991,0.0,1,1,1,0,0,0,1,0,0,,0,0,0,0,0,1,1,100.0,0,0,/en/players/7b5f516f/matchlogs/2018-2019/possession/Francesco-Rossi-Match-Logs
+459,Daniele Rugani,it,DF,Juventus,24,1994,15.0,903,112,442,489,25,9,889,1,2,50.0,1,0,614,3267,1605,633,627,99.1,1,3,/en/players/14b8fcdf/matchlogs/2018-2019/possession/Daniele-Rugani-Match-Logs
+460,Mário Rui,pt,DF,Napoli,27,1991,15.7,1450,50,309,687,549,22,1302,13,28,46.4,16,1,1085,5205,3336,1093,1045,95.6,18,7,/en/players/0b5a292a/matchlogs/2018-2019/possession/Mario-Rui-Match-Logs
+461,Fabián Ruiz Peña,es,"MF,FW",Napoli,22,1996,22.1,2085,44,308,1285,652,77,2041,41,62,66.1,43,3,1723,9095,4969,1851,1693,91.5,25,26,/en/players/c0c7ff58/matchlogs/2018-2019/possession/Fabian-Ruiz-Pena-Match-Logs
+462,Jacopo Sala,it,DF,Sampdoria,26,1991,16.9,1332,64,356,689,374,13,1179,10,17,58.8,10,0,915,4601,2976,901,862,95.7,9,11,/en/players/da5a981b/matchlogs/2018-2019/possession/Jacopo-Sala-Match-Logs
+463,Bartosz Salamon,pl,DF,Frosinone,27,1991,19.2,1001,181,610,406,29,12,965,2,2,100.0,2,0,536,2988,1701,528,514,97.3,2,1,/en/players/9b30df1e/matchlogs/2018-2019/possession/Bartosz-Salamon-Match-Logs
+464,Paolo Sammarco,it,MF,Frosinone,35,1983,6.1,352,5,64,235,82,4,340,2,3,66.7,2,0,236,1383,689,250,232,92.8,2,3,/en/players/3c1e4e84/matchlogs/2018-2019/possession/Paolo-Sammarco-Match-Logs
+465,Antonio Sanabria,py,FW,Genoa,22,1996,8.5,262,3,20,109,150,50,256,8,13,61.5,9,0,168,1145,572,436,188,43.1,21,18,/en/players/0a447501/matchlogs/2018-2019/possession/Antonio-Sanabria-Match-Logs
+466,Sandro,br,MF,Genoa,29,1989,7.9,424,46,132,239,65,6,420,1,1,100.0,1,0,217,805,297,235,209,88.9,2,2,/en/players/c1c2c925/matchlogs/2018-2019/possession/Sandro-Match-Logs
+467,Sandro,br,MF,Udinese,29,1989,6.6,344,35,103,201,57,6,334,6,6,100.0,6,0,182,893,421,169,158,93.5,3,4,/en/players/c1c2c925/matchlogs/2018-2019/possession/Sandro-Match-Logs
+468,Alex Sandro,br,DF,Juventus,27,1991,26.5,2228,103,543,1130,738,64,2034,34,61,55.7,35,1,1604,9465,5729,1651,1561,94.5,28,34,/en/players/0d82903c/matchlogs/2018-2019/possession/Alex-Sandro-Match-Logs
+469,Nicola Sansone,it,FW,Bologna,26,1991,12.7,581,7,65,243,328,57,568,20,40,50.0,22,1,467,3366,1930,582,423,72.7,30,39,/en/players/7eb97a8e/matchlogs/2018-2019/possession/Nicola-Sansone-Match-Logs
+470,Federico Santander,py,FW,Bologna,27,1991,22.9,837,33,81,362,418,145,820,9,20,45.0,9,0,442,2137,650,1137,621,54.6,50,24,/en/players/df85d472/matchlogs/2018-2019/possession/Federico-Santander-Match-Logs
+471,Davide Santon,it,DF,Roma,27,1991,11.2,794,40,206,435,209,7,669,21,29,72.4,22,1,545,3626,2131,527,500,94.9,8,7,/en/players/88c89891/matchlogs/2018-2019/possession/Davide-Santon-Match-Logs
+472,Samir Santos,br,DF,Udinese,23,1994,20.0,1068,113,500,509,103,14,959,9,14,64.3,9,0,594,2658,1489,605,573,94.7,9,8,/en/players/92b4758e/matchlogs/2018-2019/possession/Samir-Santos-Match-Logs
+473,Riccardo Saponara,it,"MF,FW",Sampdoria,26,1991,10.1,627,14,68,320,299,42,618,13,26,50.0,14,4,526,3001,1961,652,505,77.5,22,37,/en/players/3bb7af3b/matchlogs/2018-2019/possession/Riccardo-Saponara-Match-Logs
+474,Marco Sau,it,FW,Cagliari,30,1987,6.2,226,4,30,87,130,40,221,5,12,41.7,6,0,188,1310,587,278,176,63.3,16,19,/en/players/1ad1f50d/matchlogs/2018-2019/possession/Marco-Sau-Match-Logs
+475,Marco Sau,it,"MF,FW",Sampdoria,30,1987,0.6,40,0,3,19,21,3,40,1,3,33.3,1,0,33,248,105,43,29,67.4,1,3,/en/players/1ad1f50d/matchlogs/2018-2019/possession/Marco-Sau-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Ezequiel Schelotto,it,"DF,MF",Chievo,29,1989,1.6,120,13,45,60,30,5,107,0,3,0.0,0,0,64,709,468,61,58,95.1,1,5,/en/players/a6e316c1/matchlogs/2018-2019/possession/Ezequiel-Schelotto-Match-Logs
+477,Nicolás Schiappacasse,uy,FW,Parma,19,1999,0.9,30,0,5,16,12,2,26,1,3,33.3,2,0,15,64,31,38,18,47.4,3,2,/en/players/afe31d55/matchlogs/2018-2019/possession/Nicolas-Schiappacasse-Match-Logs
+478,Pasquale Schiattarella,it,MF,SPAL,31,1987,20.5,1542,52,378,898,380,17,1415,16,24,66.7,17,0,1080,5534,3108,1141,1078,94.5,12,17,/en/players/bd84fc61/matchlogs/2018-2019/possession/Pasquale-Schiattarella-Match-Logs
+479,Patrik Schick,cz,FW,Roma,22,1996,14.6,466,21,54,202,231,87,453,16,27,59.3,16,1,287,1665,693,640,343,53.6,50,22,/en/players/5d4f7d61/matchlogs/2018-2019/possession/Patrik-Schick-Match-Logs
+480,Matteo Scozzarella,it,MF,Parma,30,1988,16.2,849,61,250,456,186,2,750,11,17,64.7,11,0,478,2837,1223,467,444,95.1,4,8,/en/players/ea164f99/matchlogs/2018-2019/possession/Matteo-Scozzarella-Match-Logs
+481,Simone Scuffet,it,GK,Udinese,22,1996,9.0,285,266,284,1,0,0,178,0,0,,0,0,125,648,311,92,92,100.0,0,0,/en/players/41bd99ea/matchlogs/2018-2019/possession/Simone-Scuffet-Match-Logs
+482,Andrea Seculin,it,GK,Chievo,28,1990,1.0,26,21,26,0,0,0,21,0,0,,0,0,13,43,14,11,11,100.0,0,0,/en/players/c4f573f4/matchlogs/2018-2019/possession/Andrea-Seculin-Match-Logs
+483,Adrian Šemper,hr,GK,Chievo,20,1998,6.0,219,204,219,0,0,0,145,0,0,,0,0,89,513,335,60,60,100.0,0,0,/en/players/f02dde20/matchlogs/2018-2019/possession/Adrian-Semper-Match-Logs
+484,Stefano Sensi,it,MF,Sassuolo,22,1995,21.9,1715,33,319,1036,484,28,1584,30,44,68.2,31,2,1230,6896,3628,1333,1222,91.7,34,25,/en/players/b70bde8f/matchlogs/2018-2019/possession/Stefano-Sensi-Match-Logs
+485,Luigi Sepe,it,GK,Parma,27,1991,37.0,1322,1223,1320,4,0,0,745,0,0,,0,0,463,2391,1712,333,332,99.7,0,0,/en/players/343f753a/matchlogs/2018-2019/possession/Luigi-Sepe-Match-Logs
+486,Leonardo Sernicola,it,FW,Sassuolo,21,1997,0.1,4,0,0,1,3,0,4,0,0,,0,0,3,36,6,5,4,80.0,0,0,/en/players/dd7febd8/matchlogs/2018-2019/possession/Leonardo-Sernicola-Match-Logs
+487,Stephan El Shaarawy,it,FW,Roma,25,1992,23.4,1160,13,160,489,611,129,1139,56,98,57.1,62,1,979,6959,4091,1189,904,76.0,42,34,/en/players/d3aaad90/matchlogs/2018-2019/possession/Stephan-El-Shaarawy-Match-Logs
+488,Francisco Sierralta,cl,DF,Parma,21,1997,3.0,141,24,83,59,6,1,133,2,2,100.0,2,0,74,456,273,71,70,98.6,0,3,/en/players/0f933743/matchlogs/2018-2019/possession/Francisco-Sierralta-Match-Logs
+489,Luca Siligardi,it,FW,Parma,30,1988,18.2,755,19,132,356,327,36,716,38,70,54.3,41,1,573,4071,1995,672,500,74.4,29,38,/en/players/1cac99dc/matchlogs/2018-2019/possession/Luca-Siligardi-Match-Logs
+490,Matheus Pereira da Silva,br,MF,Juventus,20,1998,1.0,55,0,4,24,29,5,51,0,1,0.0,0,0,38,184,73,48,41,85.4,0,1,/en/players/bef22bc4/matchlogs/2018-2019/possession/Matheus-Pereira-da-Silva-Match-Logs
+491,Matías Silvestre,ar,DF,Empoli,33,1984,34.0,1758,279,995,823,42,23,1703,1,1,100.0,1,0,1138,6157,3323,1163,1150,98.9,4,1,/en/players/b6ca47a2/matchlogs/2018-2019/possession/Matias-Silvestre-Match-Logs
+492,Giovanni Simeone,ar,FW,Fiorentina,23,1995,27.3,767,13,74,342,411,141,741,32,55,58.2,33,1,552,4229,2102,1062,518,48.8,80,88,/en/players/343c0d52/matchlogs/2018-2019/possession/Giovanni-Simeone-Match-Logs
+493,Lorenco Šimić,hr,DF,SPAL,22,1996,2.6,193,25,95,100,8,6,189,1,1,100.0,1,0,122,770,431,125,121,96.8,2,2,/en/players/65e4dede/matchlogs/2018-2019/possession/Lorenco-Simic-Match-Logs
+494,Salvatore Sirigu,it,GK,Torino,31,1987,35.2,1207,1024,1202,9,1,0,805,2,2,100.0,2,0,587,2787,1638,446,445,99.8,0,0,/en/players/10dc46f0/matchlogs/2018-2019/possession/Salvatore-Sirigu-Match-Logs
+495,Łukasz Skorupski,pl,GK,Bologna,27,1991,38.0,1218,1123,1216,2,0,0,796,0,0,,0,0,525,2369,1390,387,383,99.0,0,0,/en/players/ab4449d6/matchlogs/2018-2019/possession/Lukasz-Skorupski-Match-Logs
+496,Milan Škriniar,sk,DF,Inter,23,1995,35.0,2720,300,1286,1489,87,31,2661,11,15,73.3,11,0,1965,10594,5441,1966,1948,99.1,17,8,/en/players/30f5ffa9/matchlogs/2018-2019/possession/Milan-Skriniar-Match-Logs
+497,Cédric Soares,pt,DF,Inter,26,1991,2.9,233,6,48,116,82,4,186,1,1,100.0,1,0,140,706,281,154,144,93.5,2,2,/en/players/839c14e1/matchlogs/2018-2019/possession/Cedric-Soares-Match-Logs
+498,Danilo Soddimo,it,MF,Frosinone,30,1987,2.8,171,4,36,84,63,8,161,4,10,40.0,4,1,118,825,327,136,109,80.1,7,2,/en/players/098139eb/matchlogs/2018-2019/possession/Danilo-Soddimo-Match-Logs
+499,Roberto Soriano,it,"MF,FW",Torino,27,1991,5.2,293,2,28,138,152,18,282,10,11,90.9,10,0,210,1508,750,263,201,76.4,6,9,/en/players/9d4c45d6/matchlogs/2018-2019/possession/Roberto-Soriano-Match-Logs
+500,Roberto Soriano,it,MF,Bologna,27,1991,16.5,782,16,98,410,356,48,774,20,26,76.9,20,1,589,4340,2235,788,587,74.5,14,24,/en/players/9d4c45d6/matchlogs/2018-2019/possession/Roberto-Soriano-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+501,Stefano Sorrentino,it,GK,Chievo,39,1979,31.0,987,871,978,9,0,0,569,0,0,,0,0,362,2051,1101,297,295,99.3,0,0,/en/players/048877f5/matchlogs/2018-2019/possession/Stefano-Sorrentino-Match-Logs
+502,Riccardo Sottil,it,"FW,MF",Fiorentina,19,1999,0.2,13,0,0,3,10,1,13,0,1,0.0,0,0,13,81,31,11,10,90.9,1,1,/en/players/94816803/matchlogs/2018-2019/possession/Riccardo-Sottil-Match-Logs
+503,Leonardo Spinazzola,it,DF,Juventus,25,1993,6.7,449,15,97,191,214,32,405,10,26,38.5,11,1,327,3530,2417,361,320,88.6,9,10,/en/players/3626daea/matchlogs/2018-2019/possession/Leonardo-Spinazzola-Match-Logs
+504,Nicolás Spolli,ar,DF,Genoa,35,1983,6.0,252,52,146,105,9,7,246,0,0,,0,0,145,689,347,146,143,97.9,1,1,/en/players/9a560ebe/matchlogs/2018-2019/possession/Nicolas-Spolli-Match-Logs
+505,Marco Sportiello,it,GK,Frosinone,26,1992,35.0,1320,1153,1313,10,0,0,846,0,0,,0,0,589,2827,1567,415,413,99.5,0,0,/en/players/ac4003af/matchlogs/2018-2019/possession/Marco-Sportiello-Match-Logs
+506,Mattia Sprocati,it,"FW,MF",Parma,25,1992,7.2,292,10,56,112,145,18,284,5,10,50.0,5,0,207,1560,812,282,205,72.7,7,7,/en/players/bdd0692f/matchlogs/2018-2019/possession/Mattia-Sprocati-Match-Logs
+507,Darijo Srna,hr,DF,Cagliari,36,1982,23.2,1854,86,389,1006,549,7,1559,8,15,53.3,8,1,1205,5541,2844,1255,1178,93.9,19,17,/en/players/edd6c8e9/matchlogs/2018-2019/possession/Darijo-Srna-Match-Logs
+508,Mariusz Stępiński,pl,FW,Chievo,23,1995,27.5,930,24,81,478,416,117,889,16,26,61.5,16,0,656,3234,1242,1337,688,51.5,82,76,/en/players/7b536033/matchlogs/2018-2019/possession/Mariusz-Stepinski-Match-Logs
+509,Thomas Strakosha,al,GK,Lazio,23,1995,35.0,1163,985,1143,25,0,0,858,1,1,100.0,1,0,606,2694,1581,500,499,99.8,0,0,/en/players/339fe0e8/matchlogs/2018-2019/possession/Thomas-Strakosha-Match-Logs
+510,Kevin Strootman,nl,MF,Roma,28,1990,1.0,49,3,10,27,15,2,48,0,1,0.0,0,0,30,112,59,32,27,84.4,0,0,/en/players/ef2e5e1a/matchlogs/2018-2019/possession/Kevin-Strootman-Match-Logs
+511,Jens Stryger Larsen,dk,"DF,MF",Udinese,27,1991,35.9,1918,112,624,995,426,28,1716,20,34,58.8,23,1,1258,7128,4085,1344,1237,92.0,21,20,/en/players/f91e81c9/matchlogs/2018-2019/possession/Jens-Stryger-Larsen-Match-Logs
+512,Leo Štulac,si,MF,Parma,23,1994,16.1,879,64,295,485,161,2,809,12,18,66.7,12,0,558,3296,1778,571,523,91.6,11,14,/en/players/92948398/matchlogs/2018-2019/possession/Leo-Stulac-Match-Logs
+513,Stefano Sturaro,it,MF,Genoa,25,1993,2.4,105,5,11,62,38,5,102,5,7,71.4,5,0,77,385,147,81,60,74.1,2,5,/en/players/2334478a/matchlogs/2018-2019/possession/Stefano-Sturaro-Match-Logs
+514,Suso,es,"FW,MF",Milan,24,1993,33.5,2132,7,186,936,1201,128,1990,93,128,72.7,97,3,1857,11629,7107,2012,1714,85.2,52,62,/en/players/4e219ad2/matchlogs/2018-2019/possession/Suso-Match-Logs
+515,Mattias Svanberg,se,MF,Bologna,19,1999,13.1,506,17,112,236,185,24,482,10,24,41.7,11,1,329,1545,841,371,305,82.2,15,20,/en/players/92d83c27/matchlogs/2018-2019/possession/Mattias-Svanberg-Match-Logs
+516,Wojciech Szczęsny,pl,GK,Juventus,28,1990,28.0,787,700,784,4,0,0,552,0,0,,0,0,367,1782,893,316,315,99.7,0,0,/en/players/01b8a2b2/matchlogs/2018-2019/possession/Wojciech-Szczesny-Match-Logs
+517,Strahinja Tanasijević,rs,DF,Chievo,21,1997,0.2,15,0,6,8,2,1,15,0,0,,0,0,14,48,22,15,15,100.0,0,0,/en/players/618ab91f/matchlogs/2018-2019/possession/Strahinja-Tanasijevic-Match-Logs
+518,Júnior Tavares,br,DF,Sampdoria,21,1996,2.0,213,5,33,138,70,0,202,2,3,66.7,2,0,162,1104,724,168,163,97.0,0,5,/en/players/f1675fdd/matchlogs/2018-2019/possession/Junior-Tavares-Match-Logs
+519,Łukasz Teodorczyk,pl,"FW,MF",Udinese,27,1991,4.4,152,8,16,72,70,29,148,6,8,75.0,6,0,93,503,156,187,110,58.8,13,15,/en/players/7e81a17d/matchlogs/2018-2019/possession/Lukasz-Teodorczyk-Match-Logs
+520,Hidde ter Avest,nl,"DF,MF",Udinese,21,1997,10.8,612,31,182,293,178,14,526,2,9,22.2,4,0,366,1659,993,381,338,88.7,5,7,/en/players/18f9dbd0/matchlogs/2018-2019/possession/Hidde-ter-Avest-Match-Logs
+521,Pietro Terracciano,it,GK,Empoli,28,1990,8.0,261,249,261,0,0,0,188,0,0,,0,0,138,567,339,118,118,100.0,1,0,/en/players/e1b0a70d/matchlogs/2018-2019/possession/Pietro-Terracciano-Match-Logs
+522,Pietro Terracciano,it,GK,Fiorentina,28,1990,2.0,75,64,75,0,0,0,56,0,0,,0,0,38,207,101,23,23,100.0,0,0,/en/players/e1b0a70d/matchlogs/2018-2019/possession/Pietro-Terracciano-Match-Logs
+523,Cyril Théréau,fr,FW,Fiorentina,35,1983,0.3,12,1,2,6,4,1,12,0,0,,0,0,8,44,0,17,10,58.8,0,0,/en/players/4d3ab428/matchlogs/2018-2019/possession/Cyril-Thereau-Match-Logs
+524,Cyril Théréau,fr,"FW,MF",Cagliari,35,1983,1.5,77,2,6,44,30,4,76,0,3,0.0,0,0,45,228,71,106,62,58.5,2,2,/en/players/4d3ab428/matchlogs/2018-2019/possession/Cyril-Thereau-Match-Logs
+525,Rafael Tolói,br,DF,Atalanta,27,1990,19.4,1436,98,607,717,225,36,1364,7,12,58.3,8,2,1011,5931,3300,1010,983,97.3,9,4,/en/players/c56dc39e/matchlogs/2018-2019/possession/Rafael-Toloi-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,Nenad Tomović,rs,DF,Chievo,30,1987,8.2,457,49,208,215,56,8,412,0,2,0.0,0,0,265,1435,720,273,262,96.0,4,2,/en/players/6aafdc27/matchlogs/2018-2019/possession/Nenad-Tomovic-Match-Logs
+527,Lorenzo Tonelli,it,DF,Sampdoria,28,1990,18.4,1400,167,643,808,47,12,1340,6,6,100.0,6,0,947,4756,3281,993,975,98.2,4,9,/en/players/8cc29864/matchlogs/2018-2019/possession/Lorenzo-Tonelli-Match-Logs
+528,William Troost-Ekong,ng,DF,Udinese,24,1993,34.0,1493,256,927,638,31,21,1440,2,3,66.7,2,0,801,4801,2413,804,790,98.3,5,4,/en/players/7ed4921e/matchlogs/2018-2019/possession/William-Troost-Ekong-Match-Logs
+529,Marcello Trotta,it,FW,Sassuolo,25,1992,0.1,3,0,1,1,1,1,3,0,0,,0,0,2,1,0,4,2,50.0,1,0,/en/players/acdad0aa/matchlogs/2018-2019/possession/Marcello-Trotta-Match-Logs
+530,Marcello Trotta,it,FW,Frosinone,25,1992,4.4,166,5,22,84,69,12,161,4,7,57.1,5,1,117,756,315,195,113,57.9,11,6,/en/players/acdad0aa/matchlogs/2018-2019/possession/Marcello-Trotta-Match-Logs
+531,Marco Tumminello,it,"FW,DF",Atalanta,19,1998,0.1,9,0,1,3,6,2,9,1,1,100.0,1,0,6,20,1,10,7,70.0,2,0,/en/players/5bdd44d8/matchlogs/2018-2019/possession/Marco-Tumminello-Match-Logs
+532,Salih Uçan,tr,"MF,DF",Empoli,24,1994,2.9,237,3,34,102,123,18,227,12,17,70.6,12,0,194,1070,472,189,164,86.8,9,6,/en/players/fe154b26/matchlogs/2018-2019/possession/Salih-Ucan-Match-Logs
+533,Cengiz Ünder,tr,FW,Roma,21,1997,15.3,765,9,74,316,438,77,734,29,57,50.9,31,5,657,4760,2482,793,608,76.7,40,19,/en/players/1880614f/matchlogs/2018-2019/possession/Cengiz-Under-Match-Logs
+534,Joel Untersee,ch,DF,Empoli,24,1994,1.4,81,9,29,34,22,1,70,2,3,66.7,2,0,53,255,142,50,47,94.0,2,1,/en/players/3300c14c/matchlogs/2018-2019/possession/Joel-Untersee-Match-Logs
+535,Mirko Valdifiori,it,MF,SPAL,32,1986,7.4,606,15,128,380,129,1,540,4,5,80.0,4,0,405,1512,849,450,435,96.7,2,5,/en/players/c710f7d5/matchlogs/2018-2019/possession/Mirko-Valdifiori-Match-Logs
+536,Borja Valero,es,MF,Inter,33,1985,13.7,1323,41,237,841,340,17,1291,4,5,80.0,4,0,1032,5127,2716,1106,1062,96.0,11,6,/en/players/0e21fc3c/matchlogs/2018-2019/possession/Borja-Valero-Match-Logs
+537,Mattia Valoti,it,MF,SPAL,24,1993,13.6,731,25,159,404,223,35,715,13,24,54.2,15,1,509,3108,1762,609,516,84.7,16,25,/en/players/c414df9d/matchlogs/2018-2019/possession/Mattia-Valoti-Match-Logs
+538,Luca Valzania,it,MF,Frosinone,22,1996,10.0,389,14,86,190,139,19,381,7,17,41.2,7,0,240,1638,892,267,215,80.5,13,6,/en/players/2b28ba9f/matchlogs/2018-2019/possession/Luca-Valzania-Match-Logs
+539,Luca Valzania,it,"MF,FW",Atalanta,22,1996,0.8,38,0,5,25,9,1,38,1,1,100.0,1,0,25,101,41,30,24,80.0,2,1,/en/players/2b28ba9f/matchlogs/2018-2019/possession/Luca-Valzania-Match-Logs
+540,Matías Vecino,uy,MF,Inter,26,1991,22.4,1435,45,261,872,399,82,1400,14,24,58.3,15,0,979,5481,3090,1200,1026,85.5,23,20,/en/players/44ac04e9/matchlogs/2018-2019/possession/Matias-Vecino-Match-Logs
+541,Miguel Veloso,pt,MF,Genoa,32,1986,14.0,775,34,140,417,251,8,687,12,13,92.3,12,1,451,2223,988,414,375,90.6,5,10,/en/players/ab1ca213/matchlogs/2018-2019/possession/Miguel-Veloso-Match-Logs
+542,Francesco Verde,it,FW,Cagliari,19,1999,0.1,3,0,0,3,0,0,3,0,0,,0,0,1,2,0,6,1,16.7,0,0,/en/players/0497a545/matchlogs/2018-2019/possession/Francesco-Verde-Match-Logs
+543,Simone Verdi,it,"MF,FW",Napoli,26,1992,7.8,470,6,51,229,233,32,449,15,24,62.5,16,1,394,2324,1302,434,367,84.6,16,20,/en/players/0375723e/matchlogs/2018-2019/possession/Simone-Verdi-Match-Logs
+544,Jordan Veretout,fr,MF,Fiorentina,25,1993,32.7,2260,69,484,1441,505,27,2030,25,34,73.5,28,0,1512,9770,5051,1474,1365,92.6,19,31,/en/players/4a56052c/matchlogs/2018-2019/possession/Jordan-Veretout-Match-Logs
+545,Freddie Veseli,al,DF,Empoli,25,1992,28.2,1543,142,669,803,198,10,1396,9,14,64.3,10,0,1013,6264,3737,999,966,96.7,9,9,/en/players/d541e703/matchlogs/2018-2019/possession/Freddie-Veseli-Match-Logs
+546,Francesco Vicari,it,DF,SPAL,23,1994,25.9,1238,232,763,513,26,11,1199,1,3,33.3,1,0,722,3214,2078,737,724,98.2,2,4,/en/players/de045b15/matchlogs/2018-2019/possession/Francesco-Vicari-Match-Logs
+547,Ronaldo Vieira,gw,MF,Sampdoria,20,1998,6.7,497,36,118,331,77,3,478,9,12,75.0,9,0,347,1455,640,356,335,94.1,3,7,/en/players/75e60d75/matchlogs/2018-2019/possession/Ronaldo-Vieira-Match-Logs
+548,Emanuel Vignato,it,MF,Chievo,17,2000,7.3,361,2,56,177,157,9,328,12,17,70.6,12,0,270,1786,965,309,249,80.6,6,9,/en/players/ec5dae45/matchlogs/2018-2019/possession/Emanuel-Vignato-Match-Logs
+549,Federico Viviani,it,MF,Frosinone,26,1992,3.7,254,8,54,166,48,1,237,4,5,80.0,4,0,176,926,440,179,171,95.5,1,3,/en/players/2258c078/matchlogs/2018-2019/possession/Federico-Viviani-Match-Logs
+550,Emiliano Viviano,it,GK,SPAL,32,1985,16.9,631,567,630,2,0,0,393,1,1,100.0,1,0,273,1128,587,236,235,99.6,1,0,/en/players/03760df0/matchlogs/2018-2019/possession/Emiliano-Viviano-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+551,Felipe Vizeu,br,"FW,DF",Udinese,21,1997,0.4,12,1,1,2,9,4,12,0,0,,0,0,9,27,2,18,8,44.4,2,1,/en/players/0412b9cd/matchlogs/2018-2019/possession/Felipe-Vizeu-Match-Logs
+552,Dušan Vlahović,rs,"FW,MF",Fiorentina,18,2000,1.8,78,3,6,39,40,16,77,2,3,66.7,2,0,54,408,169,83,55,66.3,8,6,/en/players/79443529/matchlogs/2018-2019/possession/Dusan-Vlahovic-Match-Logs
+553,Rai Vloet,nl,"FW,DF",Frosinone,23,1995,1.4,54,1,7,25,26,5,52,2,2,100.0,2,0,39,233,129,49,35,71.4,1,3,/en/players/b32e8c5f/matchlogs/2018-2019/possession/Rai-Vloet-Match-Logs
+554,Stefan de Vrij,nl,DF,Inter,26,1992,28.0,1881,190,907,1044,52,29,1843,7,7,100.0,7,0,1306,6652,3380,1350,1331,98.6,3,2,/en/players/d0d8dd44/matchlogs/2018-2019/possession/Stefan-de-Vrij-Match-Logs
+555,Šime Vrsaljko,hr,DF,Inter,26,1992,8.1,719,34,177,366,223,4,606,2,3,66.7,2,0,474,2448,1374,490,454,92.7,6,8,/en/players/46a8347f/matchlogs/2018-2019/possession/Sime-Vrsaljko-Match-Logs
+556,Molla Wagué,ml,DF,Udinese,27,1991,1.1,66,7,32,29,5,4,64,0,0,,0,0,31,80,38,35,30,85.7,0,0,/en/players/a440d8ca/matchlogs/2018-2019/possession/Molla-Wague-Match-Logs
+557,Wallace,br,DF,Lazio,23,1994,13.7,881,99,393,483,52,9,862,3,5,60.0,3,0,591,3173,1639,581,572,98.5,1,1,/en/players/d61b3354/matchlogs/2018-2019/possession/Wallace-Match-Logs
+558,Ben Wilmot,eng,"DF,MF",Udinese,18,1999,2.2,122,15,51,68,12,0,119,0,1,0.0,0,0,83,591,348,85,84,98.8,1,0,/en/players/2876eaa3/matchlogs/2018-2019/possession/Ben-Wilmot-Match-Logs
+559,Amin Younes,de,"FW,MF",Napoli,24,1993,5.5,405,0,31,199,209,38,400,20,35,57.1,21,1,348,2158,1229,391,347,88.7,10,8,/en/players/228f73ae/matchlogs/2018-2019/possession/Amin-Younes-Match-Logs
+560,Miha Zajc,si,"FW,MF",Empoli,24,1994,13.0,757,8,71,350,397,61,680,29,48,60.4,30,2,604,3505,1850,722,557,77.1,27,22,/en/players/83e4643e/matchlogs/2018-2019/possession/Miha-Zajc-Match-Logs
+561,Francesco Zampano,it,"DF,MF",Frosinone,24,1993,23.4,1155,56,355,493,401,34,991,16,36,44.4,17,0,735,5513,3451,795,666,83.8,23,26,/en/players/8e45910b/matchlogs/2018-2019/possession/Francesco-Zampano-Match-Logs
+562,Nicolò Zaniolo,it,"MF,FW",Roma,19,1999,19.6,901,10,106,444,432,95,883,47,96,49.0,49,3,747,4923,2459,879,649,73.8,52,64,/en/players/9907b1c8/matchlogs/2018-2019/possession/Nicolo-Zaniolo-Match-Logs
+563,Cristián Zapata,co,DF,Milan,31,1986,11.4,761,88,375,416,23,8,729,3,4,75.0,3,0,489,3029,1585,518,509,98.3,1,1,/en/players/b1deecf8/matchlogs/2018-2019/possession/Cristian-Zapata-Match-Logs
+564,Duván Zapata,co,FW,Atalanta,27,1991,32.2,1297,30,67,493,829,320,1231,65,111,58.6,68,4,1033,7283,3957,1801,992,55.1,138,105,/en/players/d3de9af0/matchlogs/2018-2019/possession/Duvan-Zapata-Match-Logs
+565,Simone Zaza,it,FW,Torino,27,1991,16.0,490,9,28,213,265,96,476,6,8,75.0,7,0,291,1455,569,695,346,49.8,54,22,/en/players/9592289a/matchlogs/2018-2019/possession/Simone-Zaza-Match-Logs
+566,Marvin Zeegelaar,nl,DF,Udinese,27,1990,10.6,511,49,188,231,126,11,422,18,26,69.2,19,0,283,1741,977,279,233,83.5,7,15,/en/players/8abd0c03/matchlogs/2018-2019/possession/Marvin-Zeegelaar-Match-Logs
+567,Piotr Zieliński,pl,"MF,FW",Napoli,24,1994,31.9,2356,32,294,1344,941,107,2310,52,81,64.2,55,3,1910,12348,7182,2163,1898,87.7,38,33,/en/players/a5296e55/matchlogs/2018-2019/possession/Piotr-Zielinski-Match-Logs
+568,Ervin Zukanović,ba,DF,Genoa,31,1987,21.8,1210,135,525,650,137,24,1172,6,8,75.0,6,0,789,4243,2127,774,750,96.9,2,5,/en/players/1253a12e/matchlogs/2018-2019/possession/Ervin-Zukanovic-Match-Logs
+569,Filip Đorđević,rs,FW,Chievo,30,1987,7.0,270,7,35,142,108,20,264,6,8,75.0,6,0,146,685,346,364,195,53.6,17,10,/en/players/dfb933e0/matchlogs/2018-2019/possession/Filip-Djordjevic-Match-Logs
+570,Filip Đuričić,rs,"FW,MF",Sassuolo,26,1992,13.9,752,6,103,379,337,40,726,28,60,46.7,30,2,619,3961,2316,713,567,79.5,24,37,/en/players/eccbe56a/matchlogs/2018-2019/possession/Filip-Djuricic-Match-Logs

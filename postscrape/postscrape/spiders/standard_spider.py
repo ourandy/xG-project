@@ -11,7 +11,7 @@ class PostSpider(scrapy.Spider):
     name = "players"
 
     start_urls = [
-        "https://fbref.com/en/comps/11/playingtime/Serie-A-Stats",
+        "https://fbref.com/en/comps/11/1896/misc/2018-2019-Serie-A-Stats",
     ]
 
     def parse(self, response):
@@ -25,13 +25,13 @@ class PostSpider(scrapy.Spider):
         selector = Selector(text=re_string, type="html")
 
         columns = []
-        for column_node in selector.xpath('//*[@id="stats_playing_time"]/thead/tr[2]/th'):
+        for column_node in selector.xpath('//*[@id="stats_misc"]/thead/tr[2]/th'):
             column_name = column_node.xpath("./text()").extract_first()
             columns.append(column_name)
 
         stats = []
 
-        for row in selector.xpath('//*[@id="stats_playing_time"]/tbody/tr'):
+        for row in selector.xpath('//*[@id="stats_misc"]/tbody/tr'):
             match = {}
             suffixes = {}
             for column_index, column_name in enumerate(columns):
@@ -63,4 +63,4 @@ class PostSpider(scrapy.Spider):
 
         # final_df = su.clean_df(df)
 
-        yield df.to_csv("serie_a_playing_time_players.csv", sep=",", index=False)
+        yield df.to_csv("serie_a_misc_players.csv", sep=",", index=False)
