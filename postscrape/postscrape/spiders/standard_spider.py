@@ -11,7 +11,7 @@ class PostSpider(scrapy.Spider):
     name = "players"
 
     start_urls = [
-        "https://fbref.com/en/comps/11/1896/misc/2018-2019-Serie-A-Stats",
+        "https://fbref.com/en/comps/11/1640/misc/2017-2018-Serie-A-Stats",
     ]
 
     def parse(self, response):
@@ -49,7 +49,11 @@ class PostSpider(scrapy.Spider):
                     if not link_list:
                         match[df_name] = ""
                     else:
-                        match[df_name] = link_list[3]
+                        try: 
+                            match[df_name] = link_list[3]
+                        except IndexError:
+                            # match[df_name]='null'    
+                            match[df_name]=''
                 else:
                     match[df_name] = row.xpath(
                         "./td[{index}]//text()".format(index=column_index)

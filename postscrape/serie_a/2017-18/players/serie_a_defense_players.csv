@@ -1,0 +1,575 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Press,Succ,%,Def 3rd,Mid 3rd,Att 3rd,Blocks,Sh,ShSv,Pass,Int,Tkl+Int,Clr,Err,Matches
+1,Rolando Aarons,eng,"MF,FW",Hellas Verona,21,1995,5.7,12,9,4,5,3,12,5,20.0,4,117,32,27.4,4,5,3,4,0,0,4,1,13,0,0,/en/players/c5942695/matchlogs/2017-2018/defense/Rolando-Aarons-Match-Logs
+2,Ignazio Abate,it,DF,Milan,30,1986,11.7,21,15,12,8,1,21,18,61.1,7,141,46,32.6,12,8,1,29,2,0,27,9,30,17,0,/en/players/1c529186/matchlogs/2017-2018/defense/Ignazio-Abate-Match-Logs
+3,Francesco Acerbi,it,DF,Sassuolo,29,1988,38.0,55,34,33,18,4,55,33,51.5,16,328,112,34.1,33,18,4,73,26,0,47,91,146,225,2,/en/players/b96b595c/matchlogs/2017-2018/defense/Francesco-Acerbi-Match-Logs
+4,Afriyie Acquah,gh,MF,Torino,25,1992,10.6,11,7,2,7,2,11,12,8.3,11,161,32,19.9,2,7,2,10,1,0,9,19,30,7,1,/en/players/d7403bd5/matchlogs/2017-2018/defense/Afriyie-Acquah-Match-Logs
+5,Claud Adjapong,it,"DF,MF",Sassuolo,19,1998,13.6,29,19,16,8,5,29,10,60.0,4,278,79,28.4,16,8,5,31,3,0,28,25,54,30,0,/en/players/ce5b170a/matchlogs/2017-2018/defense/Claud-Adjapong-Match-Logs
+6,Ali Adnan Kadhim,iq,"DF,MF",Udinese,23,1993,18.6,57,23,38,16,3,57,54,53.7,25,259,72,27.8,38,16,3,41,7,0,34,42,99,72,0,/en/players/06050480/matchlogs/2017-2018/defense/Ali-Adnan-Kadhim-Match-Logs
+7,Arlind Ajeti,al,"DF,MF",Crotone,23,1993,14.1,41,24,22,17,2,41,28,50.0,14,174,55,31.6,22,17,2,34,17,0,17,32,73,86,2,/en/players/f9714604/matchlogs/2017-2018/defense/Arlind-Ajeti-Match-Logs
+8,Luis Alberto,es,"MF,FW",Lazio,24,1992,29.7,31,28,5,19,7,31,38,13.2,33,525,156,29.7,5,19,7,38,4,0,34,18,49,3,0,/en/players/5294a83f/matchlogs/2017-2018/defense/Luis-Alberto-Match-Logs
+9,Raúl Albiol,es,DF,Napoli,31,1985,30.5,43,25,21,22,0,43,28,60.7,11,164,61,37.2,21,22,0,32,15,1,17,36,79,107,1,/en/players/4bd414c1/matchlogs/2017-2018/defense/Raul-Albiol-Match-Logs
+10,Alisson,br,GK,Roma,24,1992,37.0,0,0,0,0,0,0,1,0.0,1,3,0,0.0,0,0,0,0,0,0,0,2,2,1,2,/en/players/7a2e46a8/matchlogs/2017-2018/defense/Alisson-Match-Logs
+11,Allan,br,MF,Napoli,26,1991,31.7,111,80,23,66,22,111,103,26.2,76,925,292,31.6,23,66,22,55,2,0,53,31,142,14,0,/en/players/cc700722/matchlogs/2017-2018/defense/Allan-Match-Logs
+12,Ricky Álvarez,ar,"MF,FW",Sampdoria,29,1988,3.0,6,3,3,2,1,6,9,33.3,6,84,18,21.4,3,2,1,5,0,0,5,3,9,3,0,/en/players/92a5ac34/matchlogs/2017-2018/defense/Ricky-Alvarez-Match-Logs
+13,Joachim Andersen,dk,DF,Sampdoria,21,1996,6.1,8,4,6,2,0,8,4,100.0,0,29,7,24.1,6,2,0,6,4,0,2,10,18,41,0,/en/players/e34fc66d/matchlogs/2017-2018/defense/Joachim-Andersen-Match-Logs
+14,Felipe Anderson,br,"MF,FW",Lazio,24,1993,12.9,28,19,4,13,11,28,33,21.2,26,265,79,29.8,4,13,11,17,0,0,17,12,40,3,0,/en/players/9f1893b9/matchlogs/2017-2018/defense/Felipe-Anderson-Match-Logs
+15,Nícolas Andrade,br,GK,Hellas Verona,29,1988,36.0,0,0,0,0,0,0,2,0.0,2,4,0,0.0,0,0,0,2,0,0,2,3,3,3,2,/en/players/326d09ef/matchlogs/2017-2018/defense/Nicolas-Andrade-Match-Logs
+16,Marco Andreolli,it,DF,Cagliari,31,1986,20.3,28,19,19,7,2,28,15,46.7,8,180,58,32.2,19,7,2,33,19,0,14,31,59,141,2,/en/players/13d820de/matchlogs/2017-2018/defense/Marco-Andreolli-Match-Logs
+17,Gabriele Angella,it,DF,Udinese,28,1989,9.9,18,13,13,4,1,18,11,63.6,4,90,34,37.8,13,4,1,19,10,1,9,22,40,80,0,/en/players/0c971997/matchlogs/2017-2018/defense/Gabriele-Angella-Match-Logs
+18,Cristian Ansaldi,ar,"DF,MF",Torino,30,1986,20.8,52,33,29,18,5,52,42,38.1,26,327,110,33.6,29,18,5,42,5,0,37,24,76,41,0,/en/players/bbafc0c4/matchlogs/2017-2018/defense/Cristian-Ansaldi-Match-Logs
+19,Luca Antei,it,DF,Benevento,25,1992,6.6,23,13,17,6,0,23,14,42.9,8,83,27,32.5,17,6,0,10,8,0,2,33,56,32,1,/en/players/97c9bce3/matchlogs/2017-2018/defense/Luca-Antei-Match-Logs
+20,Mirco Antenucci,it,FW,SPAL,32,1984,28.6,17,12,7,6,4,17,24,8.3,22,369,83,22.5,7,6,4,19,2,0,17,13,30,11,0,/en/players/43a2e16c/matchlogs/2017-2018/defense/Mirco-Antenucci-Match-Logs
+21,Luca Antonelli,it,"DF,MF",Milan,30,1987,1.6,4,3,2,2,0,4,2,0.0,2,19,7,36.8,2,2,0,2,0,0,2,1,5,6,0,/en/players/40f0ed6c/matchlogs/2017-2018/defense/Luca-Antonelli-Match-Logs
+22,Mirko Antonucci,it,FW,Roma,18,1999,0.3,1,1,0,0,1,1,0,,0,4,2,50.0,0,0,1,0,0,0,0,1,2,0,0,/en/players/91976866/matchlogs/2017-2018/defense/Mirko-Antonucci-Match-Logs
+23,Samuel Armenteros,se,FW,Benevento,27,1990,4.8,4,1,0,4,0,4,3,0.0,3,114,20,17.5,0,4,0,3,0,0,3,1,5,4,0,/en/players/9c8f641a/matchlogs/2017-2018/defense/Samuel-Armenteros-Match-Logs
+24,Kwadwo Asamoah,gh,DF,Juventus,28,1988,17.4,28,17,13,13,2,28,26,46.2,14,183,58,31.7,13,13,2,32,1,0,31,18,46,16,0,/en/players/089550f5/matchlogs/2017-2018/defense/Kwadwo-Asamoah-Match-Logs
+25,Davide Astori,it,DF,Fiorentina,30,1987,25.0,54,32,35,19,0,54,29,51.7,14,234,86,36.8,35,19,0,40,16,0,24,49,103,141,1,/en/players/1522dab2/matchlogs/2017-2018/defense/Davide-Astori-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Felipe Avenatti,uy,"FW,MF",Bologna,24,1993,5.2,4,1,1,3,0,4,2,50.0,1,50,16,32.0,1,3,0,5,0,0,5,2,6,8,0,/en/players/23f9e9d3/matchlogs/2017-2018/defense/Felipe-Avenatti-Match-Logs
+27,Khouma Babacar,sn,FW,Sassuolo,24,1993,8.3,11,10,2,3,6,11,5,40.0,3,172,49,28.5,2,3,6,10,1,0,9,6,17,3,0,/en/players/422ec08a/matchlogs/2017-2018/defense/Khouma-Babacar-Match-Logs
+28,Khouma Babacar,sn,"FW,MF",Fiorentina,24,1993,5.0,3,1,2,0,1,3,8,25.0,6,76,19,25.0,2,0,1,3,0,0,3,2,5,5,0,/en/players/422ec08a/matchlogs/2017-2018/defense/Khouma-Babacar-Match-Logs
+29,Milan Badelj,hr,MF,Fiorentina,28,1989,26.1,77,51,29,38,10,77,69,30.4,48,503,154,30.6,29,38,10,59,1,0,58,71,148,54,0,/en/players/e8c930bb/matchlogs/2017-2018/defense/Milan-Badelj-Match-Logs
+30,Riad Bajić,ba,"FW,MF",Udinese,23,1994,0.9,0,0,0,0,0,0,0,,0,19,2,10.5,0,0,0,0,0,0,0,0,0,2,0,/en/players/49d399d5/matchlogs/2017-2018/defense/Riad-Bajic-Match-Logs
+31,Andrija Balić,hr,MF,Udinese,19,1997,12.0,21,17,11,8,2,21,29,24.1,22,233,52,22.3,11,8,2,14,3,0,11,18,39,11,0,/en/players/9be4ee80/matchlogs/2017-2018/defense/Andrija-Balic-Match-Logs
+32,Mattia Bani,it,DF,Chievo,23,1993,14.6,28,15,18,9,1,28,20,40.0,12,188,49,26.1,18,9,1,30,14,0,16,26,54,110,0,/en/players/0821331c/matchlogs/2017-2018/defense/Mattia-Bani-Match-Logs
+33,Antonín Barák,cz,MF,Udinese,22,1994,30.1,57,31,26,21,10,57,63,30.2,44,678,166,24.5,26,21,10,42,1,0,41,21,78,31,0,/en/players/01efac19/matchlogs/2017-2018/defense/Antonin-Barak-Match-Logs
+34,Andrea Barberis,it,MF,Crotone,23,1993,33.7,81,56,32,38,11,81,86,15.1,73,819,201,24.5,32,38,11,70,9,0,61,57,138,56,1,/en/players/32ebfe1e/matchlogs/2017-2018/defense/Andrea-Barberis-Match-Logs
+35,Nicolò Barella,it,MF,Cagliari,20,1997,32.8,92,60,43,42,7,92,87,24.1,66,740,230,31.1,43,42,7,48,6,0,42,39,131,42,0,/en/players/6928979a/matchlogs/2017-2018/defense/Nicolo-Barella-Match-Logs
+36,Antonio Barreca,it,"DF,MF",Torino,22,1995,5.2,9,4,5,3,1,9,7,57.1,3,73,18,24.7,5,3,1,13,0,0,13,3,12,6,0,/en/players/6a189491/matchlogs/2017-2018/defense/Antonio-Barreca-Match-Logs
+37,Édgar Barreto,py,MF,Sampdoria,33,1984,21.8,61,33,20,29,12,61,86,30.2,60,451,135,29.9,20,29,12,50,3,0,47,21,82,23,0,/en/players/43a1bea5/matchlogs/2017-2018/defense/Edgar-Barreto-Match-Logs
+38,Musa Barrow,gm,"FW,MF",Atalanta,18,1998,4.9,3,1,1,1,1,3,1,0.0,1,97,26,26.8,1,1,1,4,1,0,3,0,3,3,0,/en/players/e5bf73f3/matchlogs/2017-2018/defense/Musa-Barrow-Match-Logs
+39,Andrea Barzagli,it,DF,Juventus,36,1981,16.1,25,19,16,9,0,25,14,50.0,7,134,44,32.8,16,9,0,22,7,0,15,14,39,52,1,/en/players/7c0000fd/matchlogs/2017-2018/defense/Andrea-Barzagli-Match-Logs
+40,Daniele Baselli,it,MF,Torino,25,1992,28.0,61,39,29,27,5,61,55,36.4,35,563,152,27.0,29,27,5,37,4,0,33,57,118,44,1,/en/players/ea06dd97/matchlogs/2017-2018/defense/Daniele-Baselli-Match-Logs
+41,Dušan Basta,rs,"DF,MF",Lazio,32,1984,8.6,7,4,5,1,1,7,13,23.1,10,97,32,33.0,5,1,1,18,3,1,15,14,21,7,0,/en/players/3b57f7f8/matchlogs/2017-2018/defense/Dusan-Basta-Match-Logs
+42,Gil Bastião Dias,pt,"FW,MF",Fiorentina,20,1996,13.2,48,28,26,14,8,48,53,28.3,38,297,79,26.6,26,14,8,20,0,0,20,22,70,7,1,/en/players/e61bdd69/matchlogs/2017-2018/defense/Gil-Bastiao-Dias-Match-Logs
+43,Samuel Bastien,be,"MF,FW",Chievo,20,1996,15.1,23,17,8,11,4,23,19,21.1,15,341,86,25.2,8,11,4,28,3,0,25,22,45,17,0,/en/players/ec30b9c8/matchlogs/2017-2018/defense/Samuel-Bastien-Match-Logs
+44,Alessandro Bastoni,it,DF,Atalanta,18,1999,1.0,3,3,1,2,0,3,2,0.0,2,14,4,28.6,1,2,0,1,0,0,1,1,4,4,0,/en/players/75b86fb3/matchlogs/2017-2018/defense/Alessandro-Bastoni-Match-Logs
+45,Bastos,ao,DF,Lazio,26,1991,15.6,39,24,24,13,2,39,30,56.7,13,157,59,37.6,24,13,2,28,8,0,20,24,63,50,0,/en/players/c01c66d9/matchlogs/2017-2018/defense/Bastos-Match-Logs
+46,Enrico Bearzotti,it,"DF,FW",Hellas Verona,20,1996,4.6,4,1,3,0,1,4,5,20.0,4,38,8,21.1,3,0,1,5,2,0,3,4,8,22,0,/en/players/c67836b8/matchlogs/2017-2018/defense/Enrico-Bearzotti-Match-Logs
+47,Valon Behrami,ch,MF,Udinese,32,1985,15.5,69,49,33,30,6,69,46,21.7,36,513,146,28.5,33,30,6,54,13,0,41,26,95,24,0,/en/players/d3d758d8/matchlogs/2017-2018/defense/Valon-Behrami-Match-Logs
+48,Vid Belec,si,GK,Sampdoria,27,1990,2.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,1,0,/en/players/4f8ce0e1/matchlogs/2017-2018/defense/Vid-Belec-Match-Logs
+49,Vid Belec,si,GK,Benevento,27,1990,12.4,0,0,0,0,0,0,0,,0,5,1,20.0,0,0,0,0,0,0,0,1,1,0,1,/en/players/4f8ce0e1/matchlogs/2017-2018/defense/Vid-Belec-Match-Logs
+50,Andrea Belotti,it,FW,Torino,23,1993,29.8,33,24,11,13,9,33,35,11.4,31,505,132,26.1,11,13,9,18,1,0,17,7,40,20,0,/en/players/d705ba44/matchlogs/2017-2018/defense/Andrea-Belotti-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Ahmad Benali,ly,MF,Crotone,25,1992,9.0,26,19,10,13,3,26,25,20.0,20,254,62,24.4,10,13,3,17,1,0,16,7,33,13,0,/en/players/a128b07e/matchlogs/2017-2018/defense/Ahmad-Benali-Match-Logs
+52,Marco Benassi,it,"MF,FW",Fiorentina,22,1994,30.9,58,39,17,24,17,58,78,30.8,54,527,181,34.3,17,24,17,61,6,0,55,32,90,30,0,/en/players/0000acda/matchlogs/2017-2018/defense/Marco-Benassi-Match-Logs
+53,Medhi Benatia,ma,DF,Juventus,30,1987,19.5,31,24,20,9,2,31,19,42.1,11,146,60,41.1,20,9,2,23,11,0,12,43,74,88,0,/en/players/3b15ef2d/matchlogs/2017-2018/defense/Medhi-Benatia-Match-Logs
+54,Rodrigo Bentancur,uy,MF,Juventus,20,1997,6.5,28,19,11,15,2,28,20,25.0,15,169,65,38.5,11,15,2,10,1,0,9,3,31,11,0,/en/players/3b8674e6/matchlogs/2017-2018/defense/Rodrigo-Bentancur-Match-Logs
+55,Domenico Berardi,it,FW,Sassuolo,22,1994,25.5,30,21,7,15,8,30,55,18.2,45,595,135,22.7,7,15,8,26,0,0,26,16,46,14,1,/en/players/53a0e358/matchlogs/2017-2018/defense/Domenico-Berardi-Match-Logs
+56,Álex Berenguer,es,FW,Torino,22,1995,11.6,22,12,6,10,6,22,20,40.0,12,294,82,27.9,6,10,6,26,2,0,24,12,34,8,0,/en/players/dc1c2fce/matchlogs/2017-2018/defense/Alex-Berenguer-Match-Logs
+57,Bartosz Bereszyński,pl,DF,Sampdoria,25,1992,27.6,70,45,37,27,6,70,58,50.0,29,382,124,32.5,37,27,6,74,11,1,63,37,107,64,0,/en/players/61b3978f/matchlogs/2017-2018/defense/Bartosz-Bereszynski-Match-Logs
+58,Etrit Berisha,al,GK,Atalanta,28,1989,31.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,2,2,2,2,/en/players/ee833569/matchlogs/2017-2018/defense/Etrit-Berisha-Match-Logs
+59,Federico Bernardeschi,it,"FW,MF",Juventus,23,1994,9.4,14,10,7,4,3,14,9,55.6,4,134,30,22.4,7,4,3,19,0,0,19,12,26,11,1,/en/players/ee93c1a9/matchlogs/2017-2018/defense/Federico-Bernardeschi-Match-Logs
+60,Andrea Bertolacci,it,MF,Genoa,26,1991,32.2,85,57,44,34,7,85,67,26.9,49,692,203,29.3,44,34,7,54,10,0,44,55,140,28,0,/en/players/c75b6a02/matchlogs/2017-2018/defense/Andrea-Bertolacci-Match-Logs
+61,Daniel Bessa,it,"MF,FW",Hellas Verona,24,1993,15.4,22,18,7,13,2,22,26,30.8,18,384,87,22.7,7,13,2,20,2,0,18,15,37,6,0,/en/players/88895312/matchlogs/2017-2018/defense/Daniel-Bessa-Match-Logs
+62,Daniel Bessa,it,MF,Genoa,24,1993,4.9,7,4,2,3,2,7,3,33.3,2,127,24,18.9,2,3,2,7,0,0,7,6,13,3,0,/en/players/88895312/matchlogs/2017-2018/defense/Daniel-Bessa-Match-Logs
+63,Matteo Bianchetti,it,DF,Hellas Verona,24,1993,1.4,3,0,3,0,0,3,5,40.0,3,26,5,19.2,3,0,0,5,2,0,3,1,4,5,0,/en/players/b3a20f18/matchlogs/2017-2018/defense/Matteo-Bianchetti-Match-Logs
+64,Lucas Biglia,ar,MF,Milan,31,1986,22.7,54,41,21,26,7,54,77,33.8,51,548,164,29.9,21,26,7,50,12,0,38,30,84,32,0,/en/players/5710a281/matchlogs/2017-2018/defense/Lucas-Biglia-Match-Logs
+65,Jean-Claude Billong,fr,DF,Benevento,23,1993,3.3,10,7,6,4,0,10,12,50.0,6,42,14,33.3,6,4,0,8,3,0,5,6,16,15,0,/en/players/a3e1d20d/matchlogs/2017-2018/defense/Jean-Claude-Billong-Match-Logs
+66,Davide Biondini,it,"MF,FW",Sassuolo,34,1983,2.3,3,3,2,1,0,3,5,0.0,5,63,14,22.2,2,1,0,2,0,0,2,2,5,2,0,/en/players/b4c3070a/matchlogs/2017-2018/defense/Davide-Biondini-Match-Logs
+67,Cristiano Biraghi,it,DF,Fiorentina,24,1992,33.1,75,40,35,28,12,75,68,48.5,35,487,144,29.6,35,28,12,76,5,0,71,50,125,85,1,/en/players/9e1577aa/matchlogs/2017-2018/defense/Cristiano-Biraghi-Match-Logs
+68,Davide Biraschi,it,DF,Genoa,23,1994,20.0,37,28,15,20,2,37,23,47.8,12,319,111,34.8,15,20,2,38,10,1,28,38,75,65,2,/en/players/64cd167d/matchlogs/2017-2018/defense/Davide-Biraschi-Match-Logs
+69,Valter Birsa,si,"MF,FW",Chievo,30,1986,27.8,26,15,3,16,7,26,71,11.3,63,572,132,23.1,3,16,7,39,2,0,37,24,50,8,0,/en/players/455a2b79/matchlogs/2017-2018/defense/Valter-Birsa-Match-Logs
+70,Albano Bizzarri,ar,GK,Udinese,39,1977,32.0,0,0,0,0,0,0,0,,0,5,2,40.0,0,0,0,0,0,0,0,2,2,0,0,/en/players/32b9b5fa/matchlogs/2017-2018/defense/Albano-Bizzarri-Match-Logs
+71,Deian Boldor,ro,DF,Hellas Verona,22,1995,1.0,1,0,1,0,0,1,1,100.0,0,8,2,25.0,1,0,0,5,3,0,2,3,4,7,0,/en/players/9b7533de/matchlogs/2017-2018/defense/Deian-Boldor-Match-Logs
+72,Giacomo Bonaventura,it,MF,Milan,27,1989,28.2,27,21,7,16,4,27,54,20.4,43,443,117,26.4,7,16,4,43,7,0,36,33,60,22,0,/en/players/d995ed27/matchlogs/2017-2018/defense/Giacomo-Bonaventura-Match-Logs
+73,Federico Bonazzoli,it,FW,Sampdoria,20,1997,0.3,0,0,0,0,0,0,0,,0,4,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/bf57eaab/matchlogs/2017-2018/defense/Federico-Bonazzoli-Match-Logs
+74,Federico Bonazzoli,it,FW,SPAL,20,1997,2.0,3,2,0,3,0,3,3,33.3,2,42,9,21.4,0,3,0,2,0,0,2,0,3,2,0,/en/players/bf57eaab/matchlogs/2017-2018/defense/Federico-Bonazzoli-Match-Logs
+75,Kevin Bonifazi,it,"DF,FW",Torino,21,1996,4.5,8,7,6,2,0,8,6,50.0,3,46,17,37.0,6,2,0,11,4,0,7,12,20,17,0,/en/players/fb77bfef/matchlogs/2017-2018/defense/Kevin-Bonifazi-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Leonardo Bonucci,it,DF,Milan,30,1987,34.3,28,16,17,9,2,28,21,33.3,14,152,51,33.6,17,9,2,55,30,0,25,47,75,129,1,/en/players/52ec54d0/matchlogs/2017-2018/defense/Leonardo-Bonucci-Match-Logs
+77,Fabio Borini,it,"FW,DF",Milan,26,1991,17.9,29,14,13,11,5,29,37,32.4,25,281,68,24.2,13,11,5,38,6,0,32,17,46,22,0,/en/players/ef5b337e/matchlogs/2017-2018/defense/Fabio-Borini-Match-Logs
+78,Marco Borriello,it,FW,SPAL,35,1982,8.6,4,2,3,0,1,4,4,0.0,4,112,28,25.0,3,0,1,6,1,0,5,3,7,4,1,/en/players/a889ffc7/matchlogs/2017-2018/defense/Marco-Borriello-Match-Logs
+79,Lucas Boyé,ar,"FW,MF",Torino,21,1996,1.7,9,6,3,5,1,9,8,50.0,4,47,22,46.8,3,5,1,4,0,0,4,2,11,3,0,/en/players/d49f3e6b/matchlogs/2017-2018/defense/Lucas-Boye-Match-Logs
+80,Enrico Brignola,it,"FW,MF",Benevento,18,1999,15.0,29,18,17,8,4,29,32,21.9,25,327,88,26.9,17,8,4,18,0,0,18,6,35,4,0,/en/players/d0643f8f/matchlogs/2017-2018/defense/Enrico-Brignola-Match-Logs
+81,Alberto Brignoli,it,GK,Benevento,25,1991,12.5,0,0,0,0,0,0,1,0.0,1,2,1,50.0,0,0,0,0,0,0,0,0,0,2,2,/en/players/6989550f/matchlogs/2017-2018/defense/Alberto-Brignoli-Match-Logs
+82,Petar Brlek,hr,MF,Genoa,23,1994,2.6,6,4,2,4,0,6,4,50.0,2,50,18,36.0,2,4,0,2,0,0,2,2,8,1,0,/en/players/4590c6e7/matchlogs/2017-2018/defense/Petar-Brlek-Match-Logs
+83,Marcelo Brozović,hr,MF,Inter,24,1992,21.4,59,35,19,32,8,59,49,24.5,37,546,131,24.0,19,32,8,38,8,0,30,19,78,15,0,/en/players/33b8d077/matchlogs/2017-2018/defense/Marcelo-Brozovic-Match-Logs
+84,Marcel Büchel,li,MF,Hellas Verona,26,1991,18.8,43,24,15,24,4,43,48,25.0,36,346,91,26.3,15,24,4,39,8,0,31,48,91,42,1,/en/players/2edeb221/matchlogs/2017-2018/defense/Marcel-Buchel-Match-Logs
+85,Ante Budimir,hr,FW,Crotone,26,1991,17.6,25,15,2,16,7,25,25,16.0,21,532,137,25.8,2,16,7,17,4,0,13,6,31,28,0,/en/players/8f3565b3/matchlogs/2017-2018/defense/Ante-Budimir-Match-Logs
+86,Gianluigi Buffon,it,GK,Juventus,39,1978,20.7,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,1,0,0,1,1,1,1,1,/en/players/e40d028b/matchlogs/2017-2018/defense/Gianluigi-Buffon-Match-Logs
+87,Alessandro Buongiorno,it,DF,Torino,18,1999,0.1,0,0,0,0,0,0,0,,0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,0,/en/players/4ae67f27/matchlogs/2017-2018/defense/Alessandro-Buongiorno-Match-Logs
+88,Nicolás Burdisso,ar,DF,Torino,36,1981,23.0,17,10,9,8,0,17,12,33.3,8,106,39,36.8,9,8,0,28,11,0,17,30,47,141,3,/en/players/9417f322/matchlogs/2017-2018/defense/Nicolas-Burdisso-Match-Logs
+89,Leandro Cabrera,uy,DF,Crotone,26,1991,4.1,8,5,8,0,0,8,4,0.0,4,45,9,20.0,8,0,0,7,3,0,4,9,17,24,0,/en/players/69cbc8b6/matchlogs/2017-2018/defense/Leandro-Cabrera-Match-Logs
+90,Fabrizio Cacciatore,it,DF,Chievo,30,1986,31.9,50,30,29,16,5,50,46,43.5,26,441,134,30.4,29,16,5,57,11,0,46,44,94,82,1,/en/players/00b0bb87/matchlogs/2017-2018/defense/Fabrizio-Cacciatore-Match-Logs
+91,Martín Cáceres,uy,DF,Hellas Verona,30,1987,12.9,23,13,18,3,2,23,25,32.0,17,94,28,29.8,18,3,2,14,4,0,10,22,45,38,1,/en/players/e94d79e3/matchlogs/2017-2018/defense/Martin-Caceres-Match-Logs
+92,Martín Cáceres,uy,DF,Lazio,30,1987,4.9,8,7,4,4,0,8,9,33.3,6,37,13,35.1,4,4,0,8,5,0,3,4,12,14,0,/en/players/e94d79e3/matchlogs/2017-2018/defense/Martin-Caceres-Match-Logs
+93,Felipe Caicedo,ec,FW,Lazio,28,1988,8.0,10,6,2,7,1,10,8,25.0,6,169,43,25.4,2,7,1,4,0,0,4,1,11,4,0,/en/players/93b891d1/matchlogs/2017-2018/defense/Felipe-Caicedo-Match-Logs
+94,Davide Calabria,it,DF,Milan,20,1996,17.4,66,38,40,17,9,66,52,40.4,31,321,96,29.9,40,17,9,39,5,1,34,31,97,49,0,/en/players/2146785a/matchlogs/2017-2018/defense/Davide-Calabria-Match-Logs
+95,Mattia Caldara,it,DF,Atalanta,23,1994,24.0,47,24,20,24,3,47,28,28.6,20,299,96,32.1,20,24,3,40,19,0,21,44,91,130,0,/en/players/ac7e640b/matchlogs/2017-2018/defense/Mattia-Caldara-Match-Logs
+96,Hakan Çalhanoğlu,tr,"FW,MF",Milan,23,1994,24.1,35,24,9,17,9,35,35,22.9,27,439,116,26.4,9,17,9,42,3,0,39,25,60,10,0,/en/players/cd0fa27b/matchlogs/2017-2018/defense/Hakan-Calhanoglu-Match-Logs
+97,Fabrizio Caligara,it,MF,Cagliari,17,2000,0.2,0,0,0,0,0,0,0,,0,4,0,0.0,0,0,0,1,1,0,0,1,1,0,0,/en/players/22ca11f1/matchlogs/2017-2018/defense/Fabrizio-Caligara-Match-Logs
+98,José Callejón,es,FW,Napoli,30,1987,36.0,35,27,16,12,7,35,64,14.1,55,726,171,23.6,16,12,7,44,6,0,38,19,54,27,0,/en/players/78841da9/matchlogs/2017-2018/defense/Jose-Callejon-Match-Logs
+99,Simone Calvano,it,MF,Hellas Verona,24,1993,7.2,16,12,4,11,1,16,13,7.7,12,137,29,21.2,4,11,1,15,4,0,11,16,32,16,1,/en/players/9dabfcf5/matchlogs/2017-2018/defense/Simone-Calvano-Match-Logs
+100,João Cancelo,pt,DF,Inter,23,1994,20.6,44,31,32,7,5,44,47,27.7,34,262,81,30.9,32,7,5,32,2,0,30,32,76,32,0,/en/players/bd6351cd/matchlogs/2017-2018/defense/Joao-Cancelo-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Antonio Candreva,it,FW,Inter,30,1987,28.2,20,13,9,9,2,20,43,27.9,31,385,94,24.4,9,9,2,33,3,0,30,24,44,10,0,/en/players/356c9002/matchlogs/2017-2018/defense/Antonio-Candreva-Match-Logs
+102,Paolo Cannavaro,it,DF,Sassuolo,36,1981,16.0,21,12,12,8,1,21,21,42.9,12,108,32,29.6,12,8,1,27,15,0,12,28,49,89,0,/en/players/46ed55b6/matchlogs/2017-2018/defense/Paolo-Cannavaro-Match-Logs
+103,Leonardo Capezzi,it,MF,Sampdoria,22,1995,2.4,8,6,5,3,0,8,8,37.5,5,52,22,42.3,5,3,0,5,1,0,4,2,10,0,0,/en/players/07ea0ef2/matchlogs/2017-2018/defense/Leonardo-Capezzi-Match-Logs
+104,Elio Capradossi,it,DF,Roma,21,1996,0.9,2,1,2,0,0,2,0,,0,9,2,22.2,2,0,0,5,3,1,2,2,4,9,0,/en/players/174944a3/matchlogs/2017-2018/defense/Elio-Capradossi-Match-Logs
+105,Gianluca Caprari,it,"FW,MF",Sampdoria,24,1993,20.1,21,13,2,9,10,21,20,20.0,16,348,92,26.4,2,9,10,25,2,0,23,8,29,3,0,/en/players/54e53b7e/matchlogs/2017-2018/defense/Gianluca-Caprari-Match-Logs
+106,Marco Capuano,it,DF,Crotone,25,1991,15.6,22,11,15,7,0,22,15,33.3,10,118,32,27.1,15,7,0,25,14,0,11,29,51,99,0,/en/players/616aea37/matchlogs/2017-2018/defense/Marco-Capuano-Match-Logs
+107,Marco Capuano,it,DF,Cagliari,25,1991,7.7,14,11,9,5,0,14,13,46.2,7,118,36,30.5,9,5,0,11,2,0,9,7,21,19,0,/en/players/616aea37/matchlogs/2017-2018/defense/Marco-Capuano-Match-Logs
+108,Antonio Caracciolo,it,DF,Hellas Verona,27,1990,31.7,52,32,42,8,2,52,40,42.5,23,257,88,34.2,42,8,2,83,45,1,38,47,99,200,0,/en/players/99d8fc35/matchlogs/2017-2018/defense/Antonio-Caracciolo-Match-Logs
+109,Francesco Cassata,it,MF,Sassuolo,20,1997,5.1,13,7,7,5,1,13,20,40.0,12,164,44,26.8,7,5,1,6,0,0,6,5,18,5,0,/en/players/96960855/matchlogs/2017-2018/defense/Francesco-Cassata-Match-Logs
+110,Timothy Castagne,be,"DF,MF",Atalanta,21,1995,16.7,53,32,28,17,8,53,37,35.1,24,290,93,32.1,28,17,8,33,5,0,28,22,75,56,0,/en/players/197640fd/matchlogs/2017-2018/defense/Timothy-Castagne-Match-Logs
+111,Leandro Castán,br,DF,Cagliari,30,1986,12.7,28,14,21,7,0,28,16,62.5,6,147,46,31.3,21,7,0,24,10,0,14,22,50,41,0,/en/players/019f4d0d/matchlogs/2017-2018/defense/Leandro-Castan-Match-Logs
+112,Lucas Castro,ar,MF,Chievo,28,1989,22.1,57,36,20,29,8,57,41,36.6,26,428,113,26.4,20,29,8,46,6,0,40,41,98,32,0,/en/players/56b2957b/matchlogs/2017-2018/defense/Lucas-Castro-Match-Logs
+113,Danilo Cataldi,it,MF,Benevento,22,1994,25.4,39,29,12,22,5,39,46,26.1,34,412,117,28.4,12,22,5,23,5,0,18,42,81,19,1,/en/players/ba3d3bea/matchlogs/2017-2018/defense/Danilo-Cataldi-Match-Logs
+114,Federico Ceccherini,it,DF,Crotone,25,1992,35.9,41,23,34,4,3,41,24,37.5,15,265,86,32.5,34,4,3,61,24,0,37,90,131,266,4,/en/players/d9624b51/matchlogs/2017-2018/defense/Federico-Ceccherini-Match-Logs
+115,Ricardo Centurión,ar,"MF,FW",Genoa,24,1993,0.6,0,0,0,0,0,0,1,0.0,1,13,4,30.8,0,0,0,0,0,0,0,0,0,0,0,/en/players/fac896b0/matchlogs/2017-2018/defense/Ricardo-Centurion-Match-Logs
+116,Luca Ceppitelli,it,DF,Cagliari,27,1989,24.7,58,34,44,13,1,58,31,38.7,19,239,96,40.2,44,13,1,44,20,0,24,50,108,178,1,/en/players/7d50454d/matchlogs/2017-2018/defense/Luca-Ceppitelli-Match-Logs
+117,Fabio Ceravolo,it,FW,Benevento,30,1987,0.6,0,0,0,0,0,0,1,0.0,1,15,3,20.0,0,0,0,1,0,0,1,0,0,0,0,/en/players/4cc93246/matchlogs/2017-2018/defense/Fabio-Ceravolo-Match-Logs
+118,Alessio Cerci,it,"FW,MF",Hellas Verona,30,1987,18.2,18,8,6,6,6,18,17,29.4,12,266,63,23.7,6,6,6,10,1,0,9,5,23,4,0,/en/players/5370cba7/matchlogs/2017-2018/defense/Alessio-Cerci-Match-Logs
+119,Boštjan Cesar,si,DF,Chievo,35,1982,6.1,6,4,4,1,1,6,3,66.7,1,51,11,21.6,4,1,1,9,4,0,5,4,10,39,1,/en/players/c1d18f10/matchlogs/2017-2018/defense/Bostjan-Cesar-Match-Logs
+120,Damir Ceter,co,"FW,MF",Cagliari,19,1997,2.2,2,1,1,1,0,2,0,,0,54,16,29.6,1,1,0,3,0,0,3,1,3,0,0,/en/players/eade5337/matchlogs/2017-2018/defense/Damir-Ceter-Match-Logs
+121,Raman Chibsah,gh,MF,Benevento,24,1993,11.6,21,16,12,7,2,21,24,25.0,18,283,75,26.5,12,7,2,21,3,0,18,10,31,10,0,/en/players/aa5a409a/matchlogs/2017-2018/defense/Raman-Chibsah-Match-Logs
+122,Giorgio Chiellini,it,DF,Juventus,32,1984,24.0,35,15,22,10,3,35,15,20.0,12,166,55,33.1,22,10,3,28,13,0,15,49,84,127,1,/en/players/e85fb9b8/matchlogs/2017-2018/defense/Giorgio-Chiellini-Match-Logs
+123,Federico Chiesa,it,"FW,MF",Fiorentina,19,1997,33.5,59,37,21,22,16,59,49,24.5,37,622,182,29.3,21,22,16,55,1,0,54,19,78,12,0,/en/players/b0f7e36c/matchlogs/2017-2018/defense/Federico-Chiesa-Match-Logs
+124,Vlad Chiricheș,ro,DF,Napoli,27,1989,6.5,7,2,5,1,1,7,4,50.0,2,56,23,41.1,5,1,1,5,2,0,3,15,22,18,0,/en/players/c316607a/matchlogs/2017-2018/defense/Vlad-Chiriches-Match-Logs
+125,Amato Ciciretti,it,"MF,FW",Benevento,23,1993,9.0,9,7,5,3,1,9,15,13.3,13,171,48,28.1,5,3,1,11,0,0,11,5,14,4,0,/en/players/1ab0b878/matchlogs/2017-2018/defense/Amato-Ciciretti-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Luca Cigarini,it,MF,Cagliari,31,1986,22.5,58,37,25,27,6,58,84,28.6,60,358,114,31.8,25,27,6,44,4,0,40,40,98,28,1,/en/players/ae64d449/matchlogs/2017-2018/defense/Luca-Cigarini-Match-Logs
+127,Thiago Cionek,pl,DF,SPAL,31,1986,15.0,31,16,21,6,4,31,28,46.4,15,193,69,35.8,21,6,4,24,10,0,14,38,69,69,0,/en/players/46f5c54d/matchlogs/2017-2018/defense/Thiago-Cionek-Match-Logs
+128,Karamoko Cissé,gn,"FW,DF",Benevento,28,1988,0.2,1,0,1,0,0,1,0,,0,1,0,0.0,1,0,0,0,0,0,0,0,1,0,0,/en/players/b39569c0/matchlogs/2017-2018/defense/Karamoko-Cisse-Match-Logs
+129,Massimo Coda,it,FW,Benevento,28,1988,15.7,10,6,2,3,5,10,10,20.0,8,255,46,18.0,2,3,5,13,2,0,11,6,16,9,0,/en/players/4c7940d6/matchlogs/2017-2018/defense/Massimo-Coda-Match-Logs
+130,Isaac Cofie,gh,MF,Genoa,25,1991,6.6,18,13,6,10,2,18,18,27.8,13,161,57,35.4,6,10,2,15,4,0,11,10,28,15,0,/en/players/c6dda86e/matchlogs/2017-2018/defense/Isaac-Cofie-Match-Logs
+131,Andrea Consigli,it,GK,Sassuolo,30,1987,36.8,0,0,0,0,0,0,3,0.0,3,1,0,0.0,0,0,0,0,0,0,0,0,0,0,3,/en/players/8cabdc1e/matchlogs/2017-2018/defense/Andrea-Consigli-Match-Logs
+132,Andrea Conti,it,DF,Milan,23,1994,1.7,4,0,0,3,1,4,5,60.0,2,15,4,26.7,0,3,1,3,0,0,3,1,5,2,0,/en/players/8fef5412/matchlogs/2017-2018/defense/Andrea-Conti-Match-Logs
+133,Duje Čop,hr,FW,Cagliari,27,1990,1.1,1,1,0,0,1,1,0,,0,30,9,30.0,0,0,1,1,0,0,1,0,1,0,0,/en/players/8b0b02c9/matchlogs/2017-2018/defense/Duje-Cop-Match-Logs
+134,Alex Cordaz,it,GK,Crotone,34,1983,38.0,0,0,0,0,0,0,0,,0,1,1,100.0,0,0,0,0,0,0,0,0,0,1,3,/en/players/e66ebabb/matchlogs/2017-2018/defense/Alex-Cordaz-Match-Logs
+135,Andreas Cornelius,dk,FW,Atalanta,24,1993,10.4,8,5,5,1,2,8,7,14.3,6,155,44,28.4,5,1,2,4,0,0,4,0,8,8,0,/en/players/c693347d/matchlogs/2017-2018/defense/Andreas-Cornelius-Match-Logs
+136,Andrea Cossu,it,"MF,FW",Cagliari,37,1980,2.7,1,1,0,1,0,1,2,0.0,2,72,16,22.2,0,1,0,2,0,0,2,4,5,2,0,/en/players/70fd593e/matchlogs/2017-2018/defense/Andrea-Cossu-Match-Logs
+137,Angelo da Costa Júnior,br,GK,Bologna,33,1983,4.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/18736214/matchlogs/2017-2018/defense/Angelo-da-Costa-Junior-Match-Logs
+138,Andrea Costa,it,DF,Benevento,31,1986,15.3,29,20,22,7,0,29,30,36.7,19,124,47,37.9,22,7,0,23,15,0,8,36,65,63,1,/en/players/f5e9a8bd/matchlogs/2017-2018/defense/Andrea-Costa-Match-Logs
+139,Douglas Costa,br,"FW,MF",Juventus,26,1990,19.9,15,11,6,6,3,15,18,22.2,14,319,78,24.5,6,6,3,20,0,0,20,12,27,4,0,/en/players/4fa7cb9b/matchlogs/2017-2018/defense/Douglas-Costa-Match-Logs
+140,Filippo Costa,it,"DF,MF",SPAL,22,1995,16.4,25,15,9,10,6,25,26,46.2,14,279,84,30.1,9,10,6,46,5,0,41,23,48,35,0,/en/players/00528660/matchlogs/2017-2018/defense/Filippo-Costa-Match-Logs
+141,Alessio Cragno,it,GK,Cagliari,23,1994,28.2,0,0,0,0,0,0,0,,0,7,1,14.3,0,0,0,0,0,0,0,0,0,0,1,/en/players/f554e29b/matchlogs/2017-2018/defense/Alessio-Cragno-Match-Logs
+142,Michele Cremonesi,it,DF,SPAL,29,1988,4.3,7,2,3,4,0,7,3,33.3,2,38,10,26.3,3,4,0,6,2,0,4,9,16,20,1,/en/players/53636fce/matchlogs/2017-2018/defense/Michele-Cremonesi-Match-Logs
+143,Lorenzo Crisetig,it,MF,Bologna,24,1993,6.2,19,11,11,7,1,19,21,33.3,14,130,32,24.6,11,7,1,11,2,0,9,12,31,15,0,/en/players/f54dfca8/matchlogs/2017-2018/defense/Lorenzo-Crisetig-Match-Logs
+144,Bryan Cristante,it,"MF,FW",Atalanta,22,1995,31.4,69,51,24,32,13,69,54,20.4,43,834,281,33.7,24,32,13,53,8,0,45,22,91,40,1,/en/players/16657b95/matchlogs/2017-2018/defense/Bryan-Cristante-Match-Logs
+145,Sebastián Cristóforo,uy,MF,Fiorentina,23,1993,3.0,17,12,9,7,1,17,14,57.1,6,86,25,29.1,9,7,1,8,0,0,8,5,22,6,0,/en/players/3c05c659/matchlogs/2017-2018/defense/Sebastian-Cristoforo-Match-Logs
+146,Giovanni Crociata,it,"FW,MF",Crotone,19,1997,3.2,11,5,3,5,3,11,10,20.0,8,104,19,18.3,3,5,3,7,0,0,7,3,14,0,0,/en/players/8c964914/matchlogs/2017-2018/defense/Giovanni-Crociata-Match-Logs
+147,Luca Crosta,it,GK,Cagliari,19,1998,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/a4ec7d09/matchlogs/2017-2018/defense/Luca-Crosta-Match-Logs
+148,Juan Cuadrado,co,"FW,MF",Juventus,29,1988,15.0,29,15,17,8,4,29,37,48.6,19,236,58,24.6,17,8,4,19,0,0,19,19,48,4,0,/en/players/0ab1f153/matchlogs/2017-2018/defense/Juan-Cuadrado-Match-Logs
+149,Patrick Cutrone,it,FW,Milan,19,1998,16.7,16,12,1,8,7,16,20,5.0,19,413,77,18.6,1,8,7,8,2,0,6,4,20,9,0,/en/players/a4fe8cda/matchlogs/2017-2018/defense/Patrick-Cutrone-Match-Logs
+150,Marco D'Alessandro,it,"MF,FW",Benevento,26,1991,11.6,25,16,11,8,6,25,25,28.0,18,218,72,33.0,11,8,6,13,1,0,12,9,34,3,0,/en/players/060606ec/matchlogs/2017-2018/defense/Marco-DAlessandro-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Danilo D'Ambrosio,it,DF,Inter,28,1988,33.1,85,60,40,37,8,85,69,46.4,37,457,152,33.3,40,37,8,53,8,0,45,51,136,81,1,/en/players/44eb9093/matchlogs/2017-2018/defense/Danilo-DAmbrosio-Match-Logs
+152,Bryan Dabo,bf,MF,Fiorentina,25,1992,6.6,12,6,3,7,2,12,15,20.0,12,108,32,29.6,3,7,2,20,1,0,19,13,25,18,0,/en/players/c53083ad/matchlogs/2017-2018/defense/Bryan-Dabo-Match-Logs
+153,Dario Dainelli,it,DF,Chievo,38,1979,16.7,25,17,17,7,1,25,25,48.0,13,144,58,40.3,17,7,1,30,21,0,9,48,73,123,0,/en/players/3858e611/matchlogs/2017-2018/defense/Dario-Dainelli-Match-Logs
+154,Felipe dal Belo,br,DF,SPAL,33,1984,28.6,54,37,33,18,3,54,49,38.8,30,295,92,31.2,33,18,3,59,25,0,34,53,107,141,2,/en/players/8cea6319/matchlogs/2017-2018/defense/Felipe-dal-Belo-Match-Logs
+155,Andrea Danzi,it,MF,Hellas Verona,18,1999,4.4,10,6,5,5,0,10,13,30.8,9,80,22,27.5,5,5,0,1,0,0,1,5,15,4,0,/en/players/263b855a/matchlogs/2017-2018/defense/Andrea-Danzi-Match-Logs
+156,Sebastien De Maio,fr,DF,Bologna,30,1987,22.8,31,18,18,11,2,31,25,40.0,15,223,82,36.8,18,11,2,38,17,0,21,32,63,146,0,/en/players/952a03fe/matchlogs/2017-2018/defense/Sebastien-De-Maio-Match-Logs
+157,Rodrigo De Paul,ar,"MF,FW",Udinese,23,1994,25.8,31,22,13,12,6,31,39,15.4,33,538,144,26.8,13,12,6,44,2,1,42,12,43,5,0,/en/players/162efffd/matchlogs/2017-2018/defense/Rodrigo-De-Paul-Match-Logs
+158,Daniele De Rossi,it,MF,Roma,34,1983,20.3,20,13,9,8,3,20,30,23.3,23,202,57,28.2,9,8,3,38,13,0,25,41,61,35,1,/en/players/532d2690/matchlogs/2017-2018/defense/Daniele-De-Rossi-Match-Logs
+159,Mattia De Sciglio,it,DF,Juventus,24,1992,10.8,28,19,13,13,2,28,14,64.3,5,104,39,37.5,13,13,2,20,2,0,18,15,43,21,0,/en/players/ae4e2852/matchlogs/2017-2018/defense/Mattia-De-Sciglio-Match-Logs
+160,Lorenzo De Silvestri,it,"DF,MF",Torino,29,1988,32.8,32,18,17,12,3,32,33,39.4,20,379,113,29.8,17,12,3,71,11,1,60,28,60,157,0,/en/players/e74f0e59/matchlogs/2017-2018/defense/Lorenzo-De-Silvestri-Match-Logs
+161,Grégoire Defrel,mq,"FW,MF",Roma,26,1991,5.4,8,4,0,2,6,8,12,33.3,8,119,23,19.3,0,2,6,6,0,0,6,4,12,5,0,/en/players/854ee61a/matchlogs/2017-2018/defense/Gregoire-Defrel-Match-Logs
+162,Alessandro Deiola,it,MF,Cagliari,21,1995,5.0,9,6,3,4,2,9,9,33.3,6,83,18,21.7,3,4,2,10,0,0,10,4,13,11,0,/en/players/7f267d66/matchlogs/2017-2018/defense/Alessandro-Deiola-Match-Logs
+163,Lorenzo Del Pinto,it,MF,Benevento,27,1990,8.4,21,13,7,10,4,21,26,23.1,20,232,59,25.4,7,10,4,17,4,0,13,17,38,8,0,/en/players/081b6080/matchlogs/2017-2018/defense/Lorenzo-Del-Pinto-Match-Logs
+164,Cristian Dell'Orco,it,DF,Sassuolo,23,1994,4.7,4,2,3,1,0,4,5,40.0,3,62,20,32.3,3,1,0,5,1,0,4,12,16,23,0,/en/players/b0243215/matchlogs/2017-2018/defense/Cristian-DellOrco-Match-Logs
+165,Fabio Depaoli,it,"MF,DF",Chievo,20,1997,13.2,38,18,23,14,1,38,43,37.2,27,308,68,22.1,23,14,1,40,9,0,31,14,52,36,0,/en/players/d97f2e8d/matchlogs/2017-2018/defense/Fabio-Depaoli-Match-Logs
+166,Gregory van der Wiel,nl,DF,Cagliari,29,1988,3.2,7,3,5,2,0,7,7,57.1,3,34,11,32.4,5,2,0,5,0,0,5,10,17,7,0,/en/players/2fb3ad46/matchlogs/2017-2018/defense/Gregory-van-der-Wiel-Match-Logs
+167,Daniele Dessena,it,"MF,DF",Cagliari,30,1987,6.4,13,7,7,4,2,13,11,45.5,6,103,39,37.9,7,4,2,11,1,0,10,8,21,11,0,/en/players/02b2937c/matchlogs/2017-2018/defense/Daniele-Dessena-Match-Logs
+168,Mattia Destro,it,FW,Bologna,26,1991,18.0,20,15,7,8,5,20,17,47.1,9,304,87,28.6,7,8,5,20,3,0,17,4,24,18,0,/en/players/d7d32194/matchlogs/2017-2018/defense/Mattia-Destro-Match-Logs
+169,Gianluca Di Chiara,it,DF,Benevento,23,1993,11.2,26,14,19,5,2,26,28,25.0,21,173,54,31.2,19,5,2,19,3,0,16,8,34,21,0,/en/players/68852c0a/matchlogs/2017-2018/defense/Gianluca-Di-Chiara-Match-Logs
+170,Federico Di Francesco,it,"FW,DF",Bologna,23,1994,17.7,25,14,13,7,5,25,31,25.8,23,313,66,21.1,13,7,5,34,2,0,32,14,39,11,0,/en/players/1fca9171/matchlogs/2017-2018/defense/Federico-Di-Francesco-Match-Logs
+171,Davide Di Gennaro,it,MF,Lazio,29,1988,0.1,1,0,1,0,0,1,1,100.0,0,5,0,0.0,1,0,0,0,0,0,0,0,1,0,0,/en/players/951a4ee4/matchlogs/2017-2018/defense/Davide-Di-Gennaro-Match-Logs
+172,Cheick Diabaté,ml,"FW,MF",Benevento,29,1988,7.4,1,0,0,1,0,1,3,33.3,2,71,15,21.1,0,1,0,1,0,0,1,0,1,5,0,/en/players/95cfe655/matchlogs/2017-2018/defense/Cheick-Diabate-Match-Logs
+173,Moussa Diaby,fr,MF,Crotone,18,1999,0.8,1,0,1,0,0,1,2,50.0,1,23,3,13.0,1,0,0,1,0,0,1,1,2,0,0,/en/players/aeed5c06/matchlogs/2017-2018/defense/Moussa-Diaby-Match-Logs
+174,Amadou Diawara,gn,MF,Napoli,20,1997,7.3,14,13,3,10,1,14,6,16.7,5,95,34,35.8,3,10,1,10,2,0,8,11,25,4,0,/en/players/bf309d24/matchlogs/2017-2018/defense/Amadou-Diawara-Match-Logs
+175,Berat Djimsiti,al,DF,Benevento,24,1993,30.0,31,19,25,6,0,31,35,48.6,18,231,83,35.9,25,6,0,56,24,0,32,62,93,171,0,/en/players/6eee05f1/matchlogs/2017-2018/defense/Berat-Djimsiti-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Gianluigi Donnarumma,it,GK,Milan,18,1999,38.0,1,0,1,0,0,1,1,100.0,0,1,0,0.0,1,0,0,0,0,0,0,2,3,1,3,/en/players/08f5afaa/matchlogs/2017-2018/defense/Gianluigi-Donnarumma-Match-Logs
+177,Godfred Donsah,gh,MF,Bologna,21,1996,19.9,32,22,14,14,4,32,19,47.4,10,356,94,26.4,14,14,4,31,0,0,31,20,52,38,0,/en/players/384dd218/matchlogs/2017-2018/defense/Godfred-Donsah-Match-Logs
+178,Bartłomiej Drągowski,pl,GK,Fiorentina,19,1997,2.4,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/085e71a7/matchlogs/2017-2018/defense/Bartlomiej-Dragowski-Match-Logs
+179,Boukary Dramé,sn,"DF,MF",SPAL,32,1985,1.1,3,2,2,1,0,3,0,,0,8,3,37.5,2,1,0,2,0,0,2,2,5,1,0,/en/players/a5cd894b/matchlogs/2017-2018/defense/Boukary-Drame-Match-Logs
+180,Alfred Duncan,gh,MF,Sassuolo,24,1993,21.6,39,31,15,18,6,39,44,34.1,29,503,152,30.2,15,18,6,43,2,0,41,26,65,26,1,/en/players/528492ea/matchlogs/2017-2018/defense/Alfred-Duncan-Match-Logs
+181,Noë Dussenne,be,DF,Crotone,25,1992,0.9,0,0,0,0,0,0,0,,0,11,0,0.0,0,0,0,2,0,0,2,3,3,2,0,/en/players/8b9b8e43/matchlogs/2017-2018/defense/Noe-Dussenne-Match-Logs
+182,Paulo Dybala,ar,"MF,FW",Juventus,23,1993,26.1,20,16,5,10,5,20,35,17.1,29,408,102,25.0,5,10,5,26,0,0,26,12,32,4,0,/en/players/e0921a4f/matchlogs/2017-2018/defense/Paulo-Dybala-Match-Logs
+183,Edin Džeko,ba,FW,Roma,31,1986,33.5,19,10,1,8,10,19,18,27.8,13,419,111,26.5,1,8,10,16,5,0,11,4,23,35,0,/en/players/3bb7f478/matchlogs/2017-2018/defense/Edin-Dzeko-Match-Logs
+184,Blerim Džemaili,ch,MF,Bologna,31,1986,13.3,30,19,9,16,5,30,33,33.3,22,243,66,27.2,9,16,5,19,3,0,16,17,47,13,0,/en/players/756959aa/matchlogs/2017-2018/defense/Blerim-Dzemaili-Match-Logs
+185,Éder,it,"FW,MF",Inter,30,1986,8.9,9,4,1,3,5,9,7,14.3,6,182,36,19.8,1,3,5,6,2,0,4,7,16,2,0,/en/players/5a325298/matchlogs/2017-2018/defense/Eder-Match-Logs
+186,Simone Edera,it,FW,Torino,20,1997,3.6,6,5,4,2,0,6,11,27.3,8,105,23,21.9,4,2,0,2,0,0,2,1,7,2,0,/en/players/8697c095/matchlogs/2017-2018/defense/Simone-Edera-Match-Logs
+187,Valentin Eysseric,fr,"FW,MF",Fiorentina,25,1992,7.8,19,13,9,5,5,19,21,42.9,12,156,46,29.5,9,5,5,10,1,0,9,4,23,4,0,/en/players/ae82fa48/matchlogs/2017-2018/defense/Valentin-Eysseric-Match-Logs
+188,Diego Falcinelli,it,"FW,MF",Fiorentina,26,1991,4.9,3,2,1,2,0,3,3,33.3,2,94,31,33.0,1,2,0,3,0,0,3,1,4,3,0,/en/players/a39b9ef6/matchlogs/2017-2018/defense/Diego-Falcinelli-Match-Logs
+189,Diego Falcinelli,it,FW,Sassuolo,26,1991,14.6,7,5,2,3,2,7,15,13.3,13,281,70,24.9,2,3,2,17,3,0,14,3,10,4,1,/en/players/a39b9ef6/matchlogs/2017-2018/defense/Diego-Falcinelli-Match-Logs
+190,Cesar Falletti,uy,"FW,MF",Bologna,24,1992,3.6,11,8,5,5,1,11,9,55.6,4,65,20,30.8,5,5,1,9,0,0,9,0,11,0,0,/en/players/00823e9a/matchlogs/2017-2018/defense/Cesar-Falletti-Match-Logs
+191,Iago Falque,es,FW,Torino,27,1990,31.3,45,25,19,16,10,45,55,20.0,44,581,161,27.7,19,16,10,29,1,0,28,19,64,14,1,/en/players/440c84ed/matchlogs/2017-2018/defense/Iago-Falque-Match-Logs
+192,Paolo Faragò,it,"DF,MF",Cagliari,24,1993,27.3,103,69,55,34,14,103,71,35.2,46,515,197,38.3,55,34,14,56,3,0,53,26,129,77,1,/en/players/9085dd7c/matchlogs/2017-2018/defense/Paolo-Farago-Match-Logs
+193,Davide Faraoni,it,DF,Crotone,25,1991,19.5,57,35,35,19,3,57,58,44.8,32,282,85,30.1,35,19,3,51,9,1,42,60,117,62,0,/en/players/aae9d04a/matchlogs/2017-2018/defense/Davide-Faraoni-Match-Logs
+194,Mohamed Fares,dz,"DF,MF",Hellas Verona,21,1996,28.9,58,33,34,20,4,58,50,42.0,29,512,151,29.5,34,20,4,68,6,0,62,55,113,117,1,/en/players/b7a5bc86/matchlogs/2017-2018/defense/Mohamed-Fares-Match-Logs
+195,Diego Farias,br,"FW,MF",Cagliari,27,1990,17.9,24,10,2,11,11,24,26,15.4,22,322,79,24.5,2,11,11,16,0,0,16,9,33,3,0,/en/players/157d29b6/matchlogs/2017-2018/defense/Diego-Farias-Match-Logs
+196,Federico Fazio,ar,DF,Roma,30,1987,32.5,48,28,32,14,2,48,34,67.6,11,220,82,37.3,32,14,2,44,27,2,17,49,97,148,2,/en/players/4e358a2d/matchlogs/2017-2018/defense/Federico-Fazio-Match-Logs
+197,Luiz Felipe,br,DF,Lazio,20,1997,13.0,39,23,22,17,0,39,23,39.1,14,146,43,29.5,22,17,0,39,15,0,24,22,61,33,0,/en/players/15d0c248/matchlogs/2017-2018/defense/Luiz-Felipe-Match-Logs
+198,Alex Ferrari,it,DF,Hellas Verona,23,1994,23.7,77,53,45,22,10,77,80,51.3,39,353,113,32.0,45,22,10,58,18,2,40,51,128,101,1,/en/players/d0dbca9f/matchlogs/2017-2018/defense/Alex-Ferrari-Match-Logs
+199,Gian Filippo Felicioli,it,"FW,DF",Hellas Verona,19,1997,3.1,11,5,5,3,3,11,9,55.6,4,62,14,22.6,5,3,3,2,0,0,2,5,16,0,0,/en/players/ff219f73/matchlogs/2017-2018/defense/Gian-Filippo-Felicioli-Match-Logs
+200,Sergio Floccari,it,"FW,MF",SPAL,35,1981,9.8,17,15,10,6,1,17,12,41.7,7,150,46,30.7,10,6,1,7,2,0,5,1,18,7,0,/en/players/df301450/matchlogs/2017-2018/defense/Sergio-Floccari-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Alessandro Florenzi,it,DF,Roma,26,1991,26.5,37,25,20,13,4,37,52,30.8,36,320,84,26.3,20,13,4,46,7,1,39,45,82,43,3,/en/players/e288d4b3/matchlogs/2017-2018/defense/Alessandro-Florenzi-Match-Logs
+202,Seko Fofana,ci,MF,Udinese,22,1995,20.8,19,16,8,9,2,19,24,20.8,19,362,84,23.2,8,9,2,31,3,0,28,27,46,27,0,/en/players/5313ed43/matchlogs/2017-2018/defense/Seko-Fofana-Match-Logs
+203,Marco Fossati,it,MF,Hellas Verona,24,1992,12.2,27,18,13,12,2,27,43,32.6,29,215,42,19.5,13,12,2,25,5,0,20,20,47,27,0,/en/players/39bec070/matchlogs/2017-2018/defense/Marco-Fossati-Match-Logs
+204,Remo Freuler,ch,MF,Atalanta,25,1992,33.4,96,54,37,41,18,96,96,21.9,75,754,233,30.9,37,41,18,65,12,0,53,29,125,24,0,/en/players/98d2c2c4/matchlogs/2017-2018/defense/Remo-Freuler-Match-Logs
+205,Roberto Gagliardini,it,MF,Inter,23,1994,22.1,66,45,30,29,7,66,59,30.5,41,474,135,28.5,30,29,7,18,1,0,17,47,113,37,0,/en/players/ce30bfc8/matchlogs/2017-2018/defense/Roberto-Gagliardini-Match-Logs
+206,Andrey Galabinov,bg,FW,Genoa,28,1988,12.5,12,9,1,8,3,12,1,0.0,1,232,62,26.7,1,8,3,13,3,0,10,3,15,7,0,/en/players/0a1efd3c/matchlogs/2017-2018/defense/Andrey-Galabinov-Match-Logs
+207,Alessandro Gamberini,it,DF,Chievo,35,1981,20.2,19,7,17,2,0,19,14,50.0,7,137,34,24.8,17,2,0,45,26,1,19,18,37,119,0,/en/players/8ec95452/matchlogs/2017-2018/defense/Alessandro-Gamberini-Match-Logs
+208,Luca Garritano,it,"MF,FW",Chievo,23,1994,2.1,6,5,2,2,2,6,5,0.0,5,70,20,28.6,2,2,2,4,0,0,4,2,8,3,0,/en/players/1ceeae3e/matchlogs/2017-2018/defense/Luca-Garritano-Match-Logs
+209,Bruno Gaspar,ao,DF,Fiorentina,24,1993,8.7,22,11,14,6,2,22,12,58.3,5,155,43,27.7,14,6,2,18,1,0,17,13,35,17,0,/en/players/55ae91f0/matchlogs/2017-2018/defense/Bruno-Gaspar-Match-Logs
+210,Gianluca Gaudino,de,MF,Chievo,20,1996,0.2,0,0,0,0,0,0,0,,0,7,1,14.3,0,0,0,1,0,0,1,0,0,0,0,/en/players/0d72fbca/matchlogs/2017-2018/defense/Gianluca-Gaudino-Match-Logs
+211,Marcello Gazzola,it,DF,Sassuolo,32,1985,8.2,8,2,5,3,0,8,12,41.7,7,56,11,19.6,5,3,0,12,2,0,10,7,15,29,0,/en/players/93390969/matchlogs/2017-2018/defense/Marcello-Gazzola-Match-Logs
+212,Santiago Gentiletti,ar,DF,Genoa,32,1985,3.2,3,3,3,0,0,3,2,50.0,1,16,2,12.5,3,0,0,3,0,0,3,5,8,9,2,/en/players/4ac07e1b/matchlogs/2017-2018/defense/Santiago-Gentiletti-Match-Logs
+213,Gerson,br,"MF,FW",Roma,20,1997,10.1,20,16,7,12,1,20,10,30.0,7,193,58,30.1,7,12,1,18,2,0,16,13,33,9,0,/en/players/8827bf46/matchlogs/2017-2018/defense/Gerson-Match-Logs
+214,Faouzi Ghoulam,dz,DF,Napoli,26,1991,10.9,10,5,3,7,0,10,7,42.9,4,77,25,32.5,3,7,0,17,1,0,16,13,23,8,0,/en/players/c5adc293/matchlogs/2017-2018/defense/Faouzi-Ghoulam-Match-Logs
+215,Emanuele Giaccherini,it,FW,Napoli,32,1985,0.7,1,1,0,1,0,1,0,,0,19,5,26.3,0,1,0,0,0,0,0,0,1,0,0,/en/players/1c50f354/matchlogs/2017-2018/defense/Emanuele-Giaccherini-Match-Logs
+216,Emanuele Giaccherini,it,"MF,FW",Chievo,32,1985,10.0,6,5,3,2,1,6,21,4.8,20,188,36,19.1,3,2,1,12,1,0,11,6,12,6,0,/en/players/1c50f354/matchlogs/2017-2018/defense/Emanuele-Giaccherini-Match-Logs
+217,Niccolò Giannetti,it,"FW,MF",Cagliari,26,1991,3.3,5,4,2,2,1,5,5,0.0,5,71,13,18.3,2,2,1,2,0,0,2,1,6,2,0,/en/players/d9e750e5/matchlogs/2017-2018/defense/Niccolo-Giannetti-Match-Logs
+218,Massimo Gobbi,it,DF,Chievo,36,1980,22.8,30,22,16,10,4,30,31,35.5,20,232,70,30.2,16,10,4,50,7,0,43,24,54,74,1,/en/players/635b0bae/matchlogs/2017-2018/defense/Massimo-Gobbi-Match-Logs
+219,Edoardo Goldaniga,it,DF,Sassuolo,23,1993,12.8,8,6,7,1,0,8,10,30.0,7,89,34,38.2,7,1,0,14,7,0,7,20,28,53,0,/en/players/4b029b31/matchlogs/2017-2018/defense/Edoardo-Goldaniga-Match-Logs
+220,Pierluigi Gollini,it,GK,Atalanta,22,1995,6.9,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/f0f7f62f/matchlogs/2017-2018/defense/Pierluigi-Gollini-Match-Logs
+221,Papu Gómez,ar,"FW,MF",Atalanta,29,1988,30.6,19,15,9,6,4,19,26,11.5,23,409,124,30.3,9,6,4,21,1,0,20,19,38,5,0,/en/players/6e4df551/matchlogs/2017-2018/defense/Papu-Gomez-Match-Logs
+222,Alfred Gomis,sn,GK,SPAL,23,1993,25.1,0,0,0,0,0,0,3,0.0,3,4,1,25.0,0,0,0,0,0,0,0,1,1,0,0,/en/players/cecbce23/matchlogs/2017-2018/defense/Alfred-Gomis-Match-Logs
+223,Maxime Gonalons,fr,MF,Roma,28,1989,12.2,27,20,9,12,6,27,26,23.1,20,216,76,35.2,9,12,6,23,3,0,20,22,49,23,0,/en/players/b8c1de25/matchlogs/2017-2018/defense/Maxime-Gonalons-Match-Logs
+224,Giancarlo González,cr,DF,Bologna,29,1988,20.6,29,14,19,8,2,29,15,66.7,5,146,45,30.8,19,8,2,44,22,0,22,42,71,145,1,/en/players/117beb8f/matchlogs/2017-2018/defense/Giancarlo-Gonzalez-Match-Logs
+225,Robin Gosens,de,"DF,MF",Atalanta,23,1994,16.1,60,32,33,23,4,60,53,50.9,26,265,95,35.8,33,23,4,34,3,0,31,25,85,37,0,/en/players/2d970560/matchlogs/2017-2018/defense/Robin-Gosens-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,Alberto Grassi,it,MF,SPAL,22,1995,25.0,43,28,15,19,9,43,38,31.6,26,328,108,32.9,15,19,9,43,8,0,35,43,86,40,1,/en/players/6cc97b6a/matchlogs/2017-2018/defense/Alberto-Grassi-Match-Logs
+227,Andrew Gravillon,fr,DF,Benevento,19,1998,0.9,5,4,5,0,0,5,4,50.0,2,18,8,44.4,5,0,0,2,1,0,1,3,8,7,0,/en/players/49136c42/matchlogs/2017-2018/defense/Andrew-Gravillon-Match-Logs
+228,Guilherme,br,"MF,FW",Benevento,26,1991,10.5,23,16,8,9,6,23,16,31.3,11,230,57,24.8,8,9,6,16,1,0,15,8,31,2,0,/en/players/9e61c019/matchlogs/2017-2018/defense/Guilherme-Match-Logs
+229,Samuel Gustafson,se,"MF,FW",Torino,22,1995,0.9,4,3,2,2,0,4,2,0.0,2,30,9,30.0,2,2,0,1,0,0,1,1,5,0,0,/en/players/b1e61f23/matchlogs/2017-2018/defense/Samuel-Gustafson-Match-Logs
+230,Bright Gyamfi,gh,"DF,MF",Benevento,21,1996,3.6,6,4,5,0,1,6,11,45.5,6,53,13,24.5,5,0,1,4,0,0,4,8,14,9,0,/en/players/251d982a/matchlogs/2017-2018/defense/Bright-Gyamfi-Match-Logs
+231,Nicolas Haas,ch,MF,Atalanta,21,1996,1.9,3,2,2,1,0,3,5,0.0,5,44,13,29.5,2,1,0,1,1,0,0,0,3,4,0,/en/players/fa449bba/matchlogs/2017-2018/defense/Nicolas-Haas-Match-Logs
+232,Emil Hallfreðsson,is,MF,Udinese,33,1984,8.5,23,17,8,10,5,23,27,22.2,21,200,54,27.0,8,10,5,18,3,0,15,21,44,20,0,/en/players/86015b20/matchlogs/2017-2018/defense/Emil-Hallfredsson-Match-Logs
+233,Marek Hamšík,sk,MF,Napoli,30,1987,26.3,36,25,10,17,9,36,50,26.0,37,372,100,26.9,10,17,9,40,3,0,37,16,52,15,0,/en/players/e6ad16b2/matchlogs/2017-2018/defense/Marek-Hamsik-Match-Logs
+234,Samir Handanović,si,GK,Inter,33,1984,38.0,0,0,0,0,0,0,1,0.0,1,3,1,33.3,0,0,0,0,0,0,0,0,0,0,0,/en/players/74419746/matchlogs/2017-2018/defense/Samir-Handanovic-Match-Logs
+235,Hans Hateboer,nl,"DF,MF",Atalanta,23,1994,26.6,42,27,18,21,3,42,28,57.1,12,361,105,29.1,18,21,3,52,7,0,45,30,72,40,0,/en/players/3b333ac3/matchlogs/2017-2018/defense/Hans-Hateboer-Match-Logs
+236,Filip Helander,se,DF,Bologna,24,1993,27.8,46,27,34,11,1,46,35,54.3,16,370,118,31.9,34,11,1,69,21,0,48,38,84,138,0,/en/players/27f0ddef/matchlogs/2017-2018/defense/Filip-Helander-Match-Logs
+237,Dalbert Henrique,br,DF,Inter,23,1993,5.9,16,10,11,3,2,16,12,58.3,5,89,31,34.8,11,3,2,19,4,1,15,12,28,22,0,/en/players/f45f9427/matchlogs/2017-2018/defense/Dalbert-Henrique-Match-Logs
+238,Përparim Hetemaj,fi,MF,Chievo,30,1986,26.8,79,48,38,26,15,79,81,35.8,52,760,198,26.1,38,26,15,61,7,0,54,36,115,47,0,/en/players/90b70194/matchlogs/2017-2018/defense/Perparim-Hetemaj-Match-Logs
+239,Thomas Heurtaux,fr,DF,Hellas Verona,29,1988,15.5,19,9,16,2,1,19,8,50.0,4,101,38,37.6,16,2,1,33,20,2,13,38,57,99,1,/en/players/32d1c24f/matchlogs/2017-2018/defense/Thomas-Heurtaux-Match-Logs
+240,Gonzalo Higuaín,ar,FW,Juventus,29,1987,31.3,24,16,3,10,11,24,30,23.3,23,415,111,26.7,3,10,11,19,4,0,15,6,30,19,0,/en/players/8a08491a/matchlogs/2017-2018/defense/Gonzalo-Higuain-Match-Logs
+241,Oscar Hiljemark,se,MF,Genoa,25,1992,14.2,12,9,3,7,2,12,24,16.7,20,323,94,29.1,3,7,2,17,5,0,12,9,21,13,1,/en/players/98e958af/matchlogs/2017-2018/defense/Oscar-Hiljemark-Match-Logs
+242,Benedikt Höwedes,de,DF,Juventus,29,1988,2.7,1,1,1,0,0,1,0,,0,12,5,41.7,1,0,0,3,0,0,3,6,7,8,1,/en/players/d5c04323/matchlogs/2017-2018/defense/Benedikt-Howedes-Match-Logs
+243,Vitor Hugo,br,DF,Fiorentina,26,1991,13.4,31,21,27,4,0,31,23,39.1,14,118,47,39.8,27,4,0,21,6,0,15,43,74,78,2,/en/players/f2c1300a/matchlogs/2017-2018/defense/Vitor-Hugo-Match-Logs
+244,Elseid Hysaj,al,DF,Napoli,23,1994,34.7,64,37,36,24,4,64,65,44.6,36,411,153,37.2,36,24,4,60,5,0,55,42,106,54,1,/en/players/2f3452eb/matchlogs/2017-2018/defense/Elseid-Hysaj-Match-Logs
+245,Mauro Icardi,ar,FW,Inter,24,1993,32.9,4,3,1,2,1,4,13,7.7,12,404,108,26.7,1,2,1,18,8,0,10,7,11,24,1,/en/players/43b78598/matchlogs/2017-2018/defense/Mauro-Icardi-Match-Logs
+246,Pietro Iemmello,it,FW,Benevento,25,1992,9.8,6,5,2,4,0,6,8,0.0,8,136,39,28.7,2,4,0,7,1,0,6,3,9,10,0,/en/players/0861b8d6/matchlogs/2017-2018/defense/Pietro-Iemmello-Match-Logs
+247,Josip Iličić,si,"FW,MF",Atalanta,29,1988,22.2,23,12,4,15,4,23,29,17.2,24,306,97,31.7,4,15,4,18,0,0,18,12,35,6,0,/en/players/68252d6d/matchlogs/2017-2018/defense/Josip-Ilicic-Match-Logs
+248,Ciro Immobile,it,FW,Lazio,27,1990,29.8,10,8,2,6,2,10,17,5.9,16,382,103,27.0,2,6,2,19,2,0,17,0,10,7,0,/en/players/4431aed2/matchlogs/2017-2018/defense/Ciro-Immobile-Match-Logs
+249,Svante Ingelsson,se,MF,Udinese,19,1998,3.6,12,8,4,6,2,12,11,18.2,9,71,17,23.9,4,6,2,4,0,0,4,5,17,4,0,/en/players/4133cfcf/matchlogs/2017-2018/defense/Svante-Ingelsson-Match-Logs
+250,Roberto Inglese,it,FW,Chievo,25,1991,30.9,32,20,9,12,11,32,35,40.0,21,454,102,22.5,9,12,11,31,3,0,28,7,39,19,0,/en/players/6c1f7328/matchlogs/2017-2018/defense/Roberto-Inglese-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,Lorenzo Insigne,it,FW,Napoli,26,1991,34.3,30,14,12,12,6,30,41,24.4,31,446,115,25.8,12,12,6,20,2,0,18,19,49,3,0,/en/players/2f557579/matchlogs/2017-2018/defense/Lorenzo-Insigne-Match-Logs
+252,Artur Ioniță,md,MF,Cagliari,26,1990,29.7,65,44,27,29,9,65,46,34.8,30,672,176,26.2,27,29,9,46,8,0,38,31,96,34,0,/en/players/cedb3e36/matchlogs/2017-2018/defense/Artur-Ionita-Match-Logs
+253,Armando Izzo,it,DF,Genoa,25,1992,15.4,35,23,16,13,6,35,23,69.6,7,171,64,37.4,16,13,6,18,6,0,12,31,66,88,0,/en/players/89976232/matchlogs/2017-2018/defense/Armando-Izzo-Match-Logs
+254,Jakub Jankto,cz,"MF,FW",Udinese,21,1996,29.5,33,18,10,15,8,33,49,16.3,41,525,121,23.0,10,15,8,54,7,0,47,17,50,31,0,/en/players/1ea5f91c/matchlogs/2017-2018/defense/Jakub-Jankto-Match-Logs
+255,Paweł Jaroszyński,pl,"DF,MF",Chievo,22,1994,9.0,32,15,20,9,3,32,23,52.2,11,157,39,24.8,20,9,3,24,3,0,21,18,50,36,1,/en/players/958a601f/matchlogs/2017-2018/defense/Pawel-Jaroszynski-Match-Logs
+256,Juan Jesus,br,DF,Roma,26,1991,18.4,40,32,21,17,2,40,38,47.4,20,160,70,43.8,21,17,2,32,7,0,25,41,81,50,0,/en/players/79083382/matchlogs/2017-2018/defense/Juan-Jesus-Match-Logs
+257,Jorginho,it,MF,Napoli,25,1991,29.4,67,44,18,36,13,67,71,22.5,55,574,180,31.4,18,36,13,37,3,0,34,59,126,11,0,/en/players/45db685d/matchlogs/2017-2018/defense/Jorginho-Match-Logs
+258,Mariano Julio Izco,ar,MF,Crotone,34,1983,2.0,5,3,1,4,0,5,4,25.0,3,53,18,34.0,1,4,0,0,0,0,0,4,9,1,0,/en/players/0d2bdb4b/matchlogs/2017-2018/defense/Mariano-Julio-Izco-Match-Logs
+259,Nikola Kalinić,hr,FW,Milan,29,1988,20.1,5,3,1,2,2,5,12,0.0,12,276,72,26.1,1,2,2,10,4,0,6,3,8,9,0,/en/players/d4931a5a/matchlogs/2017-2018/defense/Nikola-Kalinic-Match-Logs
+260,Mamadou Kanouté,sn,"FW,MF",Benevento,23,1993,0.4,0,0,0,0,0,0,1,0.0,1,5,1,20.0,0,0,0,1,0,0,1,,,0,0,/en/players/3d5ed93d/matchlogs/2017-2018/defense/Mamadou-Kanoute-Match-Logs
+261,Yann Karamoh,fr,"FW,MF",Inter,19,1998,5.4,4,2,2,2,0,4,4,25.0,3,113,40,35.4,2,2,0,6,1,0,5,3,7,0,0,/en/players/8b66d9cc/matchlogs/2017-2018/defense/Yann-Karamoh-Match-Logs
+262,Rick Karsdorp,nl,DF,Roma,22,1995,0.9,1,1,1,0,0,1,2,50.0,1,7,4,57.1,1,0,0,0,0,0,0,1,2,0,0,/en/players/9f84febe/matchlogs/2017-2018/defense/Rick-Karsdorp-Match-Logs
+263,Moise Kean,it,FW,Hellas Verona,17,2000,12.6,9,7,3,3,3,9,3,0.0,3,159,30,18.9,3,3,3,9,1,0,8,5,14,4,0,/en/players/3d50bcdb/matchlogs/2017-2018/defense/Moise-Kean-Match-Logs
+264,Cheick Keita,ml,DF,Bologna,21,1996,1.4,3,2,1,2,0,3,3,0.0,3,35,5,14.3,1,2,0,6,0,0,6,2,5,2,0,/en/players/82f32d55/matchlogs/2017-2018/defense/Cheick-Keita-Match-Logs
+265,Franck Kessié,ci,MF,Milan,20,1996,36.3,49,35,21,19,9,49,43,32.6,29,657,173,26.3,21,19,9,64,8,0,56,31,80,35,0,/en/players/05e19d6a/matchlogs/2017-2018/defense/Franck-Kessie-Match-Logs
+266,Sami Khedira,de,MF,Juventus,30,1987,21.2,13,8,1,10,2,13,23,13.0,20,369,83,22.5,1,10,2,33,3,0,30,24,37,14,0,/en/players/38ac43d3/matchlogs/2017-2018/defense/Sami-Khedira-Match-Logs
+267,Aleksandar Kolarov,rs,DF,Roma,31,1985,34.0,64,37,35,19,10,64,54,51.9,26,256,83,32.4,35,19,10,59,9,0,50,59,123,60,2,/en/players/eda40760/matchlogs/2017-2018/defense/Aleksandar-Kolarov-Match-Logs
+268,Kalidou Koulibaly,sn,DF,Napoli,26,1991,34.1,70,48,39,28,3,70,46,39.1,28,259,96,37.1,39,28,3,40,19,0,21,41,111,122,0,/en/players/da974c7b/matchlogs/2017-2018/defense/Kalidou-Koulibaly-Match-Logs
+269,Dawid Kownacki,pl,FW,Sampdoria,20,1997,9.1,9,6,0,6,3,9,11,36.4,7,200,45,22.5,0,6,3,8,0,0,8,1,10,5,0,/en/players/be5e1c4c/matchlogs/2017-2018/defense/Dawid-Kownacki-Match-Logs
+270,Emil Krafth,se,DF,Bologna,22,1994,10.5,21,14,12,8,1,21,24,41.7,14,138,43,31.2,12,8,1,20,5,0,15,16,37,33,1,/en/players/77cf6852/matchlogs/2017-2018/defense/Emil-Krafth-Match-Logs
+271,Oliver Kragl,de,MF,Crotone,27,1990,1.1,1,1,0,0,1,1,3,0.0,3,36,7,19.4,0,0,1,2,0,0,2,3,4,2,0,/en/players/1c17dfe0/matchlogs/2017-2018/defense/Oliver-Kragl-Match-Logs
+272,Ladislav Krejčí,cz,"FW,DF",Bologna,25,1992,4.4,4,2,1,2,1,4,4,0.0,4,88,19,21.6,1,2,1,4,0,0,4,2,6,3,0,/en/players/58027adc/matchlogs/2017-2018/defense/Ladislav-Krejci-Match-Logs
+273,Jasmin Kurtić,si,MF,SPAL,28,1989,16.0,29,18,14,12,3,29,22,36.4,14,288,74,25.7,14,12,3,19,2,0,17,15,44,14,0,/en/players/144607cc/matchlogs/2017-2018/defense/Jasmin-Kurtic-Match-Logs
+274,Jasmin Kurtić,si,"MF,FW",Atalanta,28,1989,7.4,12,11,4,4,4,12,12,33.3,8,124,42,33.9,4,4,4,9,0,0,9,5,17,5,0,/en/players/144607cc/matchlogs/2017-2018/defense/Jasmin-Kurtic-Match-Logs
+275,Han Kwang-song,kp,FW,Cagliari,18,1998,3.1,2,0,0,1,1,2,4,0.0,4,60,14,23.3,0,1,1,3,0,0,3,1,3,0,0,/en/players/87243064/matchlogs/2017-2018/defense/Han-Kwang-song-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,Eugenio Lamanna,it,GK,Genoa,27,1989,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/349601c3/matchlogs/2017-2018/defense/Eugenio-Lamanna-Match-Logs
+277,Gianluca Lapadula,it,FW,Genoa,27,1990,16.6,9,8,4,4,1,9,8,0.0,8,238,53,22.3,4,4,1,10,1,0,9,3,12,12,0,/en/players/2ead2809/matchlogs/2017-2018/defense/Gianluca-Lapadula-Match-Logs
+278,Danilo Larangeira,br,DF,Udinese,33,1984,30.8,35,21,26,8,1,35,25,44.0,14,255,85,33.3,26,8,1,65,41,4,24,57,92,176,2,/en/players/fed5f993/matchlogs/2017-2018/defense/Danilo-Larangeira-Match-Logs
+279,Kevin Lasagna,it,"FW,MF",Udinese,24,1992,23.7,14,11,2,8,4,14,18,22.2,14,332,83,25.0,2,8,4,28,5,1,23,9,23,18,0,/en/players/09538fdb/matchlogs/2017-2018/defense/Kevin-Lasagna-Match-Logs
+280,Vincent Laurini,fr,DF,Fiorentina,28,1989,17.9,32,24,13,14,5,32,31,35.5,20,251,82,32.7,13,14,5,41,4,0,37,13,45,59,1,/en/players/3535098b/matchlogs/2017-2018/defense/Vincent-Laurini-Match-Logs
+281,Diego Laxalt,uy,"DF,MF",Genoa,24,1993,31.2,56,39,34,15,7,56,70,37.1,44,491,134,27.3,34,15,7,76,4,1,72,23,79,40,0,/en/players/f26e3c59/matchlogs/2017-2018/defense/Diego-Laxalt-Match-Logs
+282,Achraf Lazaar,ma,"DF,MF",Benevento,25,1992,5.3,13,10,11,2,0,13,15,26.7,11,109,30,27.5,11,2,0,7,1,0,6,5,18,10,0,/en/players/957d41d2/matchlogs/2017-2018/defense/Achraf-Lazaar-Match-Logs
+283,Darko Lazović,rs,"MF,DF",Genoa,26,1990,13.8,22,15,16,6,0,22,15,40.0,9,176,44,25.0,16,6,0,13,1,0,12,13,35,12,0,/en/players/5128bde4/matchlogs/2017-2018/defense/Darko-Lazovic-Match-Logs
+284,Manuel Lazzari,it,"DF,MF",SPAL,23,1993,34.6,57,41,30,19,8,57,67,35.8,43,422,120,28.4,30,19,8,62,7,0,55,36,93,57,0,/en/players/02caf6e0/matchlogs/2017-2018/defense/Manuel-Lazzari-Match-Logs
+285,Lucas Leiva,br,MF,Lazio,30,1987,32.0,107,74,49,51,7,107,113,33.6,75,658,253,38.4,49,51,7,42,6,0,36,73,180,55,0,/en/players/4c78b5ed/matchlogs/2017-2018/defense/Lucas-Leiva-Match-Logs
+286,Mauricio Lemos,uy,DF,Sassuolo,21,1995,7.8,17,11,12,4,1,17,13,69.2,4,80,26,32.5,12,4,1,17,6,0,11,9,26,31,0,/en/players/dbe5a587/matchlogs/2017-2018/defense/Mauricio-Lemos-Match-Logs
+287,Mehdi Léris,fr,"MF,FW",Chievo,19,1998,0.5,1,1,1,0,0,1,1,0.0,1,22,3,13.6,1,0,0,0,0,0,0,1,2,0,0,/en/players/7d3cbc67/matchlogs/2017-2018/defense/Mehdi-Leris-Match-Logs
+288,Gaetano Letizia,it,DF,Benevento,27,1990,23.8,42,29,27,13,2,42,57,35.1,37,317,85,26.8,27,13,2,41,5,0,36,37,79,30,3,/en/players/3dd45b70/matchlogs/2017-2018/defense/Gaetano-Letizia-Match-Logs
+289,Timo Letschert,nl,DF,Sassuolo,24,1993,4.6,14,12,12,2,0,14,7,42.9,4,83,31,37.3,12,2,0,6,1,0,5,8,22,21,0,/en/players/be9938ed/matchlogs/2017-2018/defense/Timo-Letschert-Match-Logs
+290,Stephan Lichtsteiner,ch,DF,Juventus,33,1984,18.9,36,21,17,15,4,36,27,44.4,15,225,65,28.9,17,15,4,25,2,0,23,15,51,23,0,/en/players/99b1d0e6/matchlogs/2017-2018/defense/Stephan-Lichtsteiner-Match-Logs
+291,Karol Linetty,pl,MF,Sampdoria,22,1995,23.8,75,50,27,37,11,75,102,29.4,72,630,177,28.1,27,37,11,45,3,0,42,27,102,15,0,/en/players/d023d70f/matchlogs/2017-2018/defense/Karol-Linetty-Match-Logs
+292,Pol Lirola,es,"DF,MF",Sassuolo,19,1997,22.5,32,24,24,6,2,32,37,37.8,23,250,77,30.8,24,6,2,29,4,0,25,30,62,68,2,/en/players/ff800ed8/matchlogs/2017-2018/defense/Pol-Lirola-Match-Logs
+293,Adem Ljajić,rs,"MF,FW",Torino,25,1991,24.1,14,11,5,5,4,14,10,40.0,6,372,112,30.1,5,5,4,25,0,0,25,8,22,7,0,/en/players/2648e18f/matchlogs/2017-2018/defense/Adem-Ljajic-Match-Logs
+294,Simone Lo Faso,it,FW,Fiorentina,19,1998,0.4,1,0,1,0,0,1,1,0.0,1,17,2,11.8,1,0,0,0,0,0,0,1,2,0,0,/en/players/51c614fd/matchlogs/2017-2018/defense/Simone-Lo-Faso-Match-Logs
+295,Manuel Locatelli,it,MF,Milan,19,1998,7.6,17,12,5,11,1,17,20,20.0,16,127,32,25.2,5,11,1,9,2,0,7,11,28,15,0,/en/players/a8a874f1/matchlogs/2017-2018/defense/Manuel-Locatelli-Match-Logs
+296,Cristiano Lombardi,it,"DF,MF",Benevento,21,1995,12.4,31,25,18,10,3,31,20,15.0,17,234,54,23.1,18,10,3,20,3,0,17,15,46,15,0,/en/players/f124b4c9/matchlogs/2017-2018/defense/Cristiano-Lombardi-Match-Logs
+297,Lisandro López,ar,DF,Inter,27,1989,0.5,2,2,2,0,0,2,2,0.0,2,5,3,60.0,2,0,0,0,0,0,0,1,3,5,0,/en/players/8320fe65/matchlogs/2017-2018/defense/Lisandro-Lopez-Match-Logs
+298,Maxi López,ar,FW,Udinese,33,1984,18.7,13,8,2,8,3,13,7,28.6,5,210,61,29.0,2,8,3,12,1,0,11,2,15,17,0,/en/players/ad469944/matchlogs/2017-2018/defense/Maxi-Lopez-Match-Logs
+299,Fabio Lucioni,it,DF,Benevento,29,1987,8.0,12,8,5,7,0,12,5,60.0,2,71,34,47.9,5,7,0,17,12,0,5,7,19,47,0,/en/players/8efa621b/matchlogs/2017-2018/defense/Fabio-Lucioni-Match-Logs
+300,José Luis Palomino,ar,DF,Atalanta,27,1990,22.0,67,41,44,20,3,67,44,45.5,24,373,129,34.6,44,20,3,50,18,0,32,36,103,120,0,/en/players/921f6058/matchlogs/2017-2018/defense/Jose-Luis-Palomino-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,Everton Luiz,br,MF,SPAL,29,1988,7.1,24,16,13,11,0,24,29,24.1,22,205,47,22.9,13,11,0,13,2,0,11,7,31,7,0,/en/players/3799e138/matchlogs/2017-2018/defense/Everton-Luiz-Match-Logs
+302,Jordan Lukaku,be,"DF,MF",Lazio,23,1994,15.1,26,19,14,11,1,26,12,25.0,9,223,82,36.8,14,11,1,19,2,0,17,14,40,14,0,/en/players/0cd0e21b/matchlogs/2017-2018/defense/Jordan-Lukaku-Match-Logs
+303,Senad Lulić,ba,"DF,MF",Lazio,31,1986,27.0,54,36,25,20,9,54,96,19.8,77,543,167,30.8,25,20,9,46,4,0,42,39,93,30,1,/en/players/7fd58fe3/matchlogs/2017-2018/defense/Senad-Lulic-Match-Logs
+304,Lyanco,br,DF,Torino,20,1997,3.5,12,9,8,4,0,12,8,37.5,5,45,14,31.1,8,4,0,4,3,1,1,7,19,13,1,/en/players/b5bf1770/matchlogs/2017-2018/defense/Lyanco-Match-Logs
+305,Charalambos Lykogiannis,gr,DF,Cagliari,23,1993,7.6,22,4,13,7,2,22,13,46.2,7,121,26,21.5,13,7,2,18,4,1,14,18,40,37,0,/en/players/5efc5389/matchlogs/2017-2018/defense/Charalambos-Lykogiannis-Match-Logs
+306,Christian Maggio,it,DF,Napoli,35,1982,7.1,21,13,9,8,4,21,26,34.6,17,110,35,31.8,9,8,4,14,3,0,11,13,34,19,0,/en/players/31d7f557/matchlogs/2017-2018/defense/Christian-Maggio-Match-Logs
+307,Francesco Magnanelli,it,MF,Sassuolo,32,1984,27.7,57,36,29,19,9,57,76,22.4,59,570,167,29.3,29,19,9,55,10,0,45,61,118,62,1,/en/players/07767f42/matchlogs/2017-2018/defense/Francesco-Magnanelli-Match-Logs
+308,Domenico Maietta,it,DF,Bologna,34,1982,5.2,4,3,3,1,0,4,6,16.7,5,49,23,46.9,3,1,0,8,5,1,3,10,14,14,0,/en/players/3d936ba9/matchlogs/2017-2018/defense/Domenico-Maietta-Match-Logs
+309,Nikola Maksimović,rs,DF,Napoli,25,1991,1.1,1,1,0,1,0,1,1,100.0,0,6,2,33.3,0,1,0,4,0,0,4,1,2,2,0,/en/players/16b9d5cf/matchlogs/2017-2018/defense/Nikola-Maksimovic-Match-Logs
+310,Gianluca Mancini,it,DF,Atalanta,21,1996,7.6,17,9,10,6,1,17,12,50.0,6,139,45,32.4,10,6,1,12,2,0,10,16,33,22,0,/en/players/5aa53281/matchlogs/2017-2018/defense/Gianluca-Mancini-Match-Logs
+311,Rolando Mandragora,it,MF,Crotone,20,1997,36.0,87,51,35,44,8,87,82,28.0,59,613,164,26.8,35,44,8,63,14,0,49,75,162,65,0,/en/players/c7259b83/matchlogs/2017-2018/defense/Rolando-Mandragora-Match-Logs
+312,Mario Mandžukić,hr,FW,Juventus,31,1986,25.8,42,25,13,14,15,42,35,22.9,27,346,103,29.8,13,14,15,28,4,0,24,24,66,36,0,/en/players/afa0d4e0/matchlogs/2017-2018/defense/Mario-Mandzukic-Match-Logs
+313,Kostas Manolas,gr,DF,Roma,26,1991,26.0,33,21,19,12,2,33,22,40.9,13,151,54,35.8,19,12,2,39,22,0,17,51,84,110,0,/en/players/c707411f/matchlogs/2017-2018/defense/Kostas-Manolas-Match-Logs
+314,Gabriele Marchegiani,it,GK,SPAL,21,1996,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/8cf63012/matchlogs/2017-2018/defense/Gabriele-Marchegiani-Match-Logs
+315,Claudio Marchisio,it,MF,Juventus,31,1986,9.1,21,15,9,10,2,21,23,34.8,15,132,37,28.0,9,10,2,10,3,0,7,4,25,5,0,/en/players/e304acd5/matchlogs/2017-2018/defense/Claudio-Marchisio-Match-Logs
+316,Gian Marco Ferrari,it,DF,Sampdoria,25,1992,29.4,11,7,7,4,0,11,12,41.7,7,97,29,29.9,7,4,0,56,43,1,13,30,41,133,2,/en/players/8650af85/matchlogs/2017-2018/defense/Gian-Marco-Ferrari-Match-Logs
+317,João Mário,pt,"MF,FW",Inter,24,1993,6.2,8,5,2,4,2,8,15,26.7,11,139,32,23.0,2,4,2,7,1,0,6,5,13,3,0,/en/players/f0021247/matchlogs/2017-2018/defense/Joao-Mario-Match-Logs
+318,Bruno Martella,it,DF,Crotone,24,1992,29.1,20,10,15,2,3,20,30,23.3,23,246,73,29.7,15,2,3,64,12,1,52,51,71,113,0,/en/players/1e12c53b/matchlogs/2017-2018/defense/Bruno-Martella-Match-Logs
+319,Adam Marušić,me,"DF,MF",Lazio,24,1992,28.0,29,20,21,6,2,29,32,40.6,19,334,96,28.7,21,6,2,41,2,0,39,33,62,18,0,/en/players/d4535821/matchlogs/2017-2018/defense/Adam-Marusic-Match-Logs
+320,Andrea Masiello,it,DF,Atalanta,31,1986,30.1,69,36,39,25,5,69,55,41.8,32,274,95,34.7,39,25,5,54,9,0,45,80,149,154,0,/en/players/e0314d87/matchlogs/2017-2018/defense/Andrea-Masiello-Match-Logs
+321,Adam Masina,it,DF,Bologna,23,1994,31.4,100,61,51,38,11,100,101,43.6,57,547,155,28.3,51,38,11,67,9,0,58,56,156,101,0,/en/players/de0f152c/matchlogs/2017-2018/defense/Adam-Masina-Match-Logs
+322,Ryder Matos,br,MF,Udinese,24,1993,1.9,2,0,1,0,1,2,3,33.3,2,40,10,25.0,1,0,1,4,0,0,4,2,4,2,0,/en/players/7280b54f/matchlogs/2017-2018/defense/Ryder-Matos-Match-Logs
+323,Ryder Matos,br,"FW,MF",Hellas Verona,24,1993,10.9,18,12,13,4,1,18,13,30.8,9,147,44,29.9,13,4,1,6,2,0,4,4,22,8,1,/en/players/7280b54f/matchlogs/2017-2018/defense/Ryder-Matos-Match-Logs
+324,Alessandro Matri,it,FW,Sassuolo,32,1984,10.2,4,1,1,0,3,4,3,0.0,3,95,18,18.9,1,0,3,5,1,0,4,0,4,5,0,/en/players/58d97e77/matchlogs/2017-2018/defense/Alessandro-Matri-Match-Logs
+325,Federico Mattiello,it,DF,SPAL,22,1995,24.5,77,45,39,31,7,77,53,47.2,28,386,102,26.4,39,31,7,60,15,0,45,67,144,48,0,/en/players/fba81826/matchlogs/2017-2018/defense/Federico-Mattiello-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,Blaise Matuidi,fr,MF,Juventus,30,1987,26.2,55,36,19,24,12,55,39,25.6,29,692,187,27.0,19,24,12,37,5,0,32,30,85,15,0,/en/players/c0cddebe/matchlogs/2017-2018/defense/Blaise-Matuidi-Match-Logs
+327,José Mauri,it,MF,Milan,21,1996,0.1,0,0,0,0,0,0,0,,0,5,2,40.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/644faf10/matchlogs/2017-2018/defense/Jose-Mauri-Match-Logs
+328,Maurício,br,DF,Lazio,28,1988,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/d5bd1abc/matchlogs/2017-2018/defense/Mauricio-Match-Logs
+329,Luca Mazzitelli,it,MF,Sassuolo,21,1995,11.3,34,17,14,13,7,34,33,27.3,24,298,66,22.1,14,13,7,33,2,0,31,26,60,17,1,/en/players/dc61b402/matchlogs/2017-2018/defense/Luca-Mazzitelli-Match-Logs
+330,Ibrahima Mbaye,sn,DF,Bologna,22,1994,19.6,62,32,35,22,5,62,40,62.5,15,294,98,33.3,35,22,5,38,6,0,32,29,91,72,0,/en/players/cfbf9881/matchlogs/2017-2018/defense/Ibrahima-Mbaye-Match-Logs
+331,Iuri Medeiros,pt,"FW,MF",Genoa,23,1994,7.1,4,3,2,2,0,4,9,11.1,8,101,27,26.7,2,2,0,3,1,0,2,3,7,2,0,/en/players/97e2aa67/matchlogs/2017-2018/defense/Iuri-Medeiros-Match-Logs
+332,Riccardo Meggiorini,it,FW,Chievo,31,1985,8.7,9,6,5,3,1,9,10,10.0,9,156,33,21.2,5,3,1,14,3,0,11,2,11,6,0,/en/players/2ec0f902/matchlogs/2017-2018/defense/Riccardo-Meggiorini-Match-Logs
+333,Ledian Memushaj,al,MF,Benevento,30,1986,14.0,35,24,16,15,4,35,40,30.0,28,303,97,32.0,16,15,4,21,5,0,16,12,47,8,0,/en/players/8011fcf6/matchlogs/2017-2018/defense/Ledian-Memushaj-Match-Logs
+334,Alex Meret,it,GK,SPAL,20,1997,12.9,0,0,0,0,0,0,1,0.0,1,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/9413b19f/matchlogs/2017-2018/defense/Alex-Meret-Match-Logs
+335,Dries Mertens,be,FW,Napoli,30,1987,33.4,25,19,4,12,9,25,31,19.4,25,856,242,28.3,4,12,9,20,3,0,17,6,31,7,0,/en/players/89b2c8a9/matchlogs/2017-2018/defense/Dries-Mertens-Match-Logs
+336,Senna Miangue,be,"MF,DF",Cagliari,20,1997,8.9,9,6,6,3,0,9,10,40.0,6,102,32,31.4,6,3,0,11,1,0,10,7,16,28,0,/en/players/42591ed0/matchlogs/2017-2018/defense/Senna-Miangue-Match-Logs
+337,Francesco Migliore,it,DF,Genoa,29,1988,3.7,7,5,4,2,1,7,7,42.9,4,61,14,23.0,4,2,1,5,0,0,5,4,11,7,0,/en/players/1a584cb2/matchlogs/2017-2018/defense/Francesco-Migliore-Match-Logs
+338,Nikola Milenković,rs,DF,Fiorentina,19,1997,13.9,37,21,18,15,4,37,22,45.5,12,149,53,35.6,18,15,4,25,9,0,16,24,61,57,0,/en/players/bee704fc/matchlogs/2017-2018/defense/Nikola-Milenkovic-Match-Logs
+339,Arkadiusz Milik,pl,"FW,MF",Napoli,23,1994,5.0,3,2,0,2,1,3,2,0.0,2,102,23,22.5,0,2,1,3,0,0,3,2,5,4,0,/en/players/85613cf0/matchlogs/2017-2018/defense/Arkadiusz-Milik-Match-Logs
+340,Sergej Milinković-Savić,rs,MF,Lazio,22,1995,31.6,53,37,16,26,11,53,53,28.3,38,471,150,31.8,16,26,11,49,8,0,41,35,88,37,0,/en/players/4e6dbac4/matchlogs/2017-2018/defense/Sergej-Milinkovic-Savic-Match-Logs
+341,Vanja Milinković-Savić,rs,GK,Torino,20,1997,1.0,0,0,0,0,0,0,0,,0,2,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/9fa26bc2/matchlogs/2017-2018/defense/Vanja-Milinkovic-Savic-Match-Logs
+342,Miranda,br,DF,Inter,32,1984,30.3,51,33,42,9,0,51,27,63.0,10,225,81,36.0,42,9,0,51,26,0,25,37,88,128,2,/en/players/314f2124/matchlogs/2017-2018/defense/Miranda-Match-Logs
+343,Antonio Mirante,it,GK,Bologna,34,1983,33.0,0,0,0,0,0,0,2,0.0,2,4,2,50.0,0,0,0,1,0,0,1,0,0,0,1,/en/players/30223b33/matchlogs/2017-2018/defense/Antonio-Mirante-Match-Logs
+344,Simone Missiroli,it,MF,Sassuolo,31,1986,32.4,69,42,30,32,7,69,79,22.8,61,588,167,28.4,30,32,7,67,9,0,58,72,141,64,0,/en/players/331c0a43/matchlogs/2017-2018/defense/Simone-Missiroli-Match-Logs
+345,Cristian Molinaro,it,DF,Torino,34,1983,17.4,42,24,21,17,4,42,18,55.6,8,207,57,27.5,21,17,4,28,6,0,22,27,69,56,0,/en/players/1c8c5aed/matchlogs/2017-2018/defense/Cristian-Molinaro-Match-Logs
+346,Riccardo Montolivo,it,MF,Milan,32,1985,12.1,28,20,12,13,3,28,33,30.3,23,216,62,28.7,12,13,3,22,7,0,15,20,48,13,0,/en/players/b746d309/matchlogs/2017-2018/defense/Riccardo-Montolivo-Match-Logs
+347,Luca Mora,it,MF,SPAL,29,1988,10.4,22,13,7,12,3,22,28,25.0,21,228,59,25.9,7,12,3,12,1,0,11,7,29,19,0,/en/players/42fff925/matchlogs/2017-2018/defense/Luca-Mora-Match-Logs
+348,Héctor Moreno,mx,DF,Roma,29,1988,2.6,2,2,2,0,0,2,3,0.0,3,20,10,50.0,2,0,0,2,2,0,0,3,5,4,0,/en/players/5d311e8d/matchlogs/2017-2018/defense/Hector-Moreno-Match-Logs
+349,Emiliano Moretti,it,DF,Torino,36,1981,19.8,36,23,27,9,0,36,16,62.5,6,140,48,34.3,27,9,0,39,26,0,13,24,60,81,0,/en/players/55667895/matchlogs/2017-2018/defense/Emiliano-Moretti-Match-Logs
+350,Alessandro Murgia,it,MF,Lazio,20,1996,8.6,19,13,12,6,1,19,19,36.8,12,196,65,33.2,12,6,1,20,3,0,17,16,35,11,0,/en/players/fb2c533b/matchlogs/2017-2018/defense/Alessandro-Murgia-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,Nicola Murru,it,DF,Sampdoria,22,1994,16.1,44,24,21,16,7,44,33,63.6,12,226,73,32.3,21,16,7,44,5,0,39,19,63,44,0,/en/players/d183e9d6/matchlogs/2017-2018/defense/Nicola-Murru-Match-Logs
+352,Mateo Musacchio,ar,DF,Milan,26,1990,13.4,20,15,10,7,3,20,19,36.8,12,130,40,30.8,10,7,3,17,4,0,13,15,35,40,0,/en/players/91899ca8/matchlogs/2017-2018/defense/Mateo-Musacchio-Match-Logs
+353,Yuto Nagatomo,jp,DF,Inter,30,1986,8.8,18,10,6,10,2,18,19,47.4,10,157,37,23.6,6,10,2,16,3,0,13,10,28,30,0,/en/players/4b6960d2/matchlogs/2017-2018/defense/Yuto-Nagatomo-Match-Logs
+354,Ádám Nagy,hu,MF,Bologna,22,1995,7.9,16,9,6,8,2,16,13,53.8,6,169,40,23.7,6,8,2,17,2,0,15,7,23,3,0,/en/players/788b31e2/matchlogs/2017-2018/defense/Adam-Nagy-Match-Logs
+355,Radja Nainggolan,be,MF,Roma,29,1988,29.0,55,41,25,21,9,55,37,32.4,25,526,142,27.0,25,21,9,26,3,0,23,21,76,20,0,/en/players/1f9328da/matchlogs/2017-2018/defense/Radja-Nainggolan-Match-Logs
+356,Andrea Nalini,it,"FW,MF",Crotone,27,1990,18.2,42,28,18,16,8,42,26,42.3,15,294,94,32.0,18,16,8,28,2,0,26,19,61,17,1,/en/players/65c75ea8/matchlogs/2017-2018/defense/Andrea-Nalini-Match-Logs
+357,Nani,pt,"MF,FW",Lazio,30,1986,4.3,11,7,2,5,4,11,5,20.0,4,111,34,30.6,2,5,4,7,0,0,7,2,13,0,0,/en/players/15e9c7e6/matchlogs/2017-2018/defense/Nani-Match-Logs
+358,M'Baye Niang,sn,FW,Torino,22,1994,17.0,31,13,12,8,11,31,22,31.8,15,328,90,27.4,12,8,11,26,4,0,22,15,46,11,0,/en/players/2054d037/matchlogs/2017-2018/defense/MBaye-Niang-Match-Logs
+359,Nicolas Nkoulou,cm,DF,Torino,27,1990,36.2,60,32,48,12,0,60,24,54.2,11,308,100,32.5,48,12,0,57,26,0,31,61,121,160,1,/en/players/93cf32a8/matchlogs/2017-2018/defense/Nicolas-Nkoulou-Match-Logs
+360,Bram Nuytinck,nl,DF,Udinese,27,1990,26.2,61,34,40,21,0,61,50,52.0,24,297,100,33.7,40,21,0,69,31,0,38,45,106,142,0,/en/players/e33f36d5/matchlogs/2017-2018/defense/Bram-Nuytinck-Match-Logs
+361,Simeon Nwankwo,ng,FW,Crotone,25,1992,13.5,11,9,1,5,5,11,12,8.3,11,272,59,21.7,1,5,5,23,4,0,19,1,12,20,0,/en/players/80dbbd10/matchlogs/2017-2018/defense/Simeon-Nwankwo-Match-Logs
+362,Joel Obi,ng,MF,Torino,26,1991,13.9,40,23,15,20,5,40,24,33.3,16,299,68,22.7,15,20,5,19,2,0,17,25,65,13,0,/en/players/614c38fb/matchlogs/2017-2018/defense/Joel-Obi-Match-Logs
+363,Marios Oikonomou,gr,DF,SPAL,24,1992,1.9,4,2,3,1,0,4,2,0.0,2,27,7,25.9,3,1,0,1,1,0,0,3,7,9,0,/en/players/3b9858f5/matchlogs/2017-2018/defense/Marios-Oikonomou-Match-Logs
+364,Orji Okwonkwo,ng,"MF,FW",Bologna,19,1998,2.9,7,2,5,2,0,7,8,37.5,5,55,14,25.5,5,2,0,3,0,0,3,1,8,1,0,/en/players/905a4f61/matchlogs/2017-2018/defense/Orji-Okwonkwo-Match-Logs
+365,Maximiliano Olivera,uy,DF,Fiorentina,25,1992,4.6,17,7,6,8,3,17,6,33.3,4,67,16,23.9,6,8,3,7,1,0,6,10,27,8,0,/en/players/32a33c68/matchlogs/2017-2018/defense/Maximiliano-Olivera-Match-Logs
+366,Stephane Omeonga,be,"MF,DF",Genoa,21,1996,8.9,21,13,11,7,3,21,17,17.6,14,212,44,20.8,11,7,3,24,1,0,23,6,27,5,0,/en/players/72c803a0/matchlogs/2017-2018/defense/Stephane-Omeonga-Match-Logs
+367,Riccardo Orsolini,it,"FW,DF",Bologna,20,1997,3.8,7,5,5,1,1,7,5,40.0,3,52,15,28.8,5,1,1,1,0,0,1,4,11,7,0,/en/players/e14ec482/matchlogs/2017-2018/defense/Riccardo-Orsolini-Match-Logs
+368,Riccardo Orsolini,it,"FW,MF",Atalanta,20,1997,1.4,2,2,2,0,0,2,3,66.7,1,21,6,28.6,2,0,0,3,0,0,3,0,2,0,0,/en/players/e14ec482/matchlogs/2017-2018/defense/Riccardo-Orsolini-Match-Logs
+369,Adam Ounas,dz,"FW,MF",Napoli,20,1996,1.1,4,2,1,1,2,4,3,0.0,3,31,7,22.6,1,1,2,2,0,0,2,0,4,2,0,/en/players/ed90babd/matchlogs/2017-2018/defense/Adam-Ounas-Match-Logs
+370,Simone Padoin,it,"DF,MF",Cagliari,33,1984,34.5,30,21,15,11,4,30,34,32.4,23,395,113,28.6,15,11,4,54,14,0,40,23,53,66,0,/en/players/5eb72339/matchlogs/2017-2018/defense/Simone-Padoin-Match-Logs
+371,Rodrigo Palacio,ar,"FW,MF",Bologna,35,1982,22.9,26,22,9,11,6,26,31,25.8,23,476,113,23.7,9,11,6,18,2,0,16,12,38,10,0,/en/players/8d8178ac/matchlogs/2017-2018/defense/Rodrigo-Palacio-Match-Logs
+372,Raffaele Palladino,it,"FW,MF",Genoa,33,1984,2.6,0,0,0,0,0,0,1,0.0,1,18,7,38.9,0,0,0,0,0,0,0,0,0,4,0,/en/players/961a4174/matchlogs/2017-2018/defense/Raffaele-Palladino-Match-Logs
+373,Emerson Palmieri,it,DF,Roma,22,1994,0.2,0,0,0,0,0,0,0,,0,2,1,50.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/e0bc6fdc/matchlogs/2017-2018/defense/Emerson-Palmieri-Match-Logs
+374,Simone Palombi,it,FW,Lazio,21,1996,0.7,0,0,0,0,0,0,0,,0,12,5,41.7,0,0,0,0,0,0,0,1,1,0,0,/en/players/d0e6399c/matchlogs/2017-2018/defense/Simone-Palombi-Match-Logs
+375,Alberto Paloschi,it,FW,SPAL,27,1990,24.3,11,7,2,9,0,11,17,0.0,17,358,68,19.0,2,9,0,9,4,0,5,4,15,9,0,/en/players/b5cae4e6/matchlogs/2017-2018/defense/Alberto-Paloschi-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,Goran Pandev,mk,"FW,MF",Genoa,34,1983,20.0,12,8,3,5,4,12,14,14.3,12,356,93,26.1,3,5,4,11,3,0,8,5,17,8,0,/en/players/d711d04f/matchlogs/2017-2018/defense/Goran-Pandev-Match-Logs
+377,Vittorio Parigini,it,"FW,MF",Benevento,21,1996,9.5,23,17,12,6,5,23,18,27.8,13,159,56,35.2,12,6,5,7,1,0,6,6,29,1,0,/en/players/75efed2e/matchlogs/2017-2018/defense/Vittorio-Parigini-Match-Logs
+378,Marco Parolo,it,MF,Lazio,32,1985,29.0,65,43,25,29,11,65,75,24.0,57,600,178,29.7,25,29,11,69,8,0,61,42,107,54,0,/en/players/ed5886d2/matchlogs/2017-2018/defense/Marco-Parolo-Match-Logs
+379,Patric,es,"DF,MF",Lazio,24,1993,6.6,9,3,6,2,1,9,8,25.0,6,75,27,36.0,6,2,1,10,0,0,10,5,14,25,0,/en/players/f7223718/matchlogs/2017-2018/defense/Patric-Match-Logs
+380,Daniel Pavlović,ba,DF,Sampdoria,29,1988,1.0,2,0,1,0,1,2,1,100.0,0,17,5,29.4,1,0,1,1,0,0,1,0,2,5,0,/en/players/47146acb/matchlogs/2017-2018/defense/Daniel-Pavlovic-Match-Logs
+381,Daniel Pavlović,ba,"DF,MF",Crotone,29,1988,8.4,14,5,9,3,2,14,7,14.3,6,108,28,25.9,9,3,2,12,2,0,10,7,21,21,0,/en/players/47146acb/matchlogs/2017-2018/defense/Daniel-Pavlovic-Match-Logs
+382,Leonardo Pavoletti,it,FW,Cagliari,28,1988,30.2,29,15,4,15,10,29,24,12.5,21,452,118,26.1,4,15,10,27,9,0,18,14,43,27,0,/en/players/d37b0350/matchlogs/2017-2018/defense/Leonardo-Pavoletti-Match-Logs
+383,Giampaolo Pazzini,it,FW,Hellas Verona,32,1984,11.0,2,2,0,0,2,2,4,0.0,4,164,33,20.1,0,0,2,2,0,0,2,2,4,14,0,/en/players/6ca663b4/matchlogs/2017-2018/defense/Giampaolo-Pazzini-Match-Logs
+384,João Pedro,br,"MF,FW",Cagliari,25,1992,18.4,16,11,3,11,2,16,20,5.0,19,246,57,23.2,3,11,2,13,1,0,12,9,25,16,0,/en/players/81255c03/matchlogs/2017-2018/defense/Joao-Pedro-Match-Logs
+385,Gianluca Pegolo,it,GK,Sassuolo,36,1981,1.2,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/f058ed1f/matchlogs/2017-2018/defense/Gianluca-Pegolo-Match-Logs
+386,Pietro Pellegri,it,FW,Genoa,16,2001,3.1,2,1,0,2,0,2,3,0.0,3,74,17,23.0,0,2,0,2,0,0,2,3,5,0,0,/en/players/a44d3a3c/matchlogs/2017-2018/defense/Pietro-Pellegri-Match-Logs
+387,Lorenzo Pellegrini,it,MF,Roma,21,1996,20.0,45,28,18,15,12,45,33,24.2,25,412,115,27.9,18,15,12,34,3,0,31,40,85,16,1,/en/players/4a5a45c7/matchlogs/2017-2018/defense/Lorenzo-Pellegrini-Match-Logs
+388,Sergio Pellissier,it,FW,Chievo,38,1979,6.2,4,2,1,3,0,4,6,33.3,4,70,17,24.3,1,3,0,6,0,0,6,0,4,2,0,/en/players/878ee034/matchlogs/2017-2018/defense/Sergio-Pellissier-Match-Logs
+389,Federico Peluso,it,DF,Sassuolo,33,1984,28.8,54,28,31,16,7,54,41,53.7,19,316,82,25.9,31,16,7,63,13,0,50,46,100,106,0,/en/players/4f2908e5/matchlogs/2017-2018/defense/Federico-Peluso-Match-Logs
+390,Pedro Pereira,pt,DF,Genoa,19,1998,4.2,8,4,5,2,1,8,8,50.0,4,51,20,39.2,5,2,1,6,2,0,4,4,12,12,0,/en/players/c77be0cf/matchlogs/2017-2018/defense/Pedro-Pereira-Match-Logs
+391,Bruno Peres,br,DF,Roma,27,1990,12.8,25,19,15,7,3,25,13,38.5,8,141,45,31.9,15,7,3,27,4,0,23,21,46,17,1,/en/players/852351df/matchlogs/2017-2018/defense/Bruno-Peres-Match-Logs
+392,Stipe Perica,hr,"FW,MF",Udinese,22,1995,10.5,7,4,1,4,2,7,9,0.0,9,175,39,22.3,1,4,2,10,1,0,9,4,11,9,0,/en/players/269b4638/matchlogs/2017-2018/defense/Stipe-Perica-Match-Logs
+393,Mattia Perin,it,GK,Genoa,24,1992,37.0,0,0,0,0,0,0,0,,0,8,1,12.5,0,0,0,0,0,0,0,1,1,2,1,/en/players/4c62d0c8/matchlogs/2017-2018/defense/Mattia-Perin-Match-Logs
+394,Ivan Perišić,hr,FW,Inter,28,1989,36.8,45,30,17,19,9,45,70,20.0,56,688,183,26.6,17,19,9,52,10,0,42,46,91,52,0,/en/players/6fe90922/matchlogs/2017-2018/defense/Ivan-Perisic-Match-Logs
+395,Diego Perotti,ar,"FW,MF",Roma,29,1988,17.9,26,17,7,12,7,26,25,20.0,20,328,89,27.1,7,12,7,28,0,0,28,12,38,6,0,/en/players/a40d5a0c/matchlogs/2017-2018/defense/Diego-Perotti-Match-Logs
+396,Andrea Petagna,it,FW,Atalanta,22,1995,18.0,10,8,3,6,1,10,15,6.7,14,239,61,25.5,3,6,1,20,4,0,16,4,14,7,0,/en/players/03f946ed/matchlogs/2017-2018/defense/Andrea-Petagna-Match-Logs
+397,Bruno Petković,hr,FW,Bologna,22,1994,3.7,8,7,0,6,2,8,7,42.9,4,59,17,28.8,0,6,2,3,0,0,3,3,11,3,0,/en/players/24228180/matchlogs/2017-2018/defense/Bruno-Petkovic-Match-Logs
+398,Bruno Petković,hr,"FW,MF",Hellas Verona,22,1994,10.2,11,9,3,4,4,11,11,36.4,7,156,33,21.2,3,4,4,7,1,0,6,8,19,13,0,/en/players/24228180/matchlogs/2017-2018/defense/Bruno-Petkovic-Match-Logs
+399,Germán Pezzella,ar,DF,Fiorentina,26,1991,33.1,70,44,41,26,3,70,44,40.9,26,311,120,38.6,41,26,3,55,21,2,34,66,136,168,1,/en/players/8c725b43/matchlogs/2017-2018/defense/German-Pezzella-Match-Logs
+400,Giuseppe Pezzella,it,DF,Udinese,19,1997,10.0,18,8,10,4,4,18,18,27.8,13,159,47,29.6,10,4,4,17,2,0,15,7,25,32,0,/en/players/149c5f5d/matchlogs/2017-2018/defense/Giuseppe-Pezzella-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,Nicholas Pierini,it,"FW,MF",Sassuolo,18,1998,0.5,1,0,0,0,1,1,2,50.0,1,17,3,17.6,0,0,1,1,0,0,1,1,2,1,0,/en/players/7cc89a5f/matchlogs/2017-2018/defense/Nicholas-Pierini-Match-Logs
+402,Andrea Pinamonti,it,FW,Inter,18,1999,0.2,0,0,0,0,0,0,0,,0,1,1,100.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/08aa9cd1/matchlogs/2017-2018/defense/Andrea-Pinamonti-Match-Logs
+403,Carlo Pinsoglio,it,GK,Juventus,27,1990,0.3,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/f6a06749/matchlogs/2017-2018/defense/Carlo-Pinsoglio-Match-Logs
+404,Fabio Pisacane,it,DF,Cagliari,31,1986,21.4,58,26,41,14,3,58,53,39.6,32,279,90,32.3,41,14,3,39,15,0,24,39,97,119,0,/en/players/56400c01/matchlogs/2017-2018/defense/Fabio-Pisacane-Match-Logs
+405,Miralem Pjanić,ba,MF,Juventus,27,1990,27.6,41,36,14,21,6,41,46,13.0,40,375,111,29.6,14,21,6,38,8,0,30,62,103,28,1,/en/players/ad6df2d5/matchlogs/2017-2018/defense/Miralem-Pjanic-Match-Logs
+406,Andrea Poli,it,MF,Bologna,27,1989,28.3,72,54,39,24,9,72,83,38.6,51,755,216,28.6,39,24,9,69,5,0,64,31,103,18,0,/en/players/b3fd7075/matchlogs/2017-2018/defense/Andrea-Poli-Match-Logs
+407,Matteo Politano,it,FW,Sassuolo,23,1993,31.2,30,17,9,14,7,30,52,13.5,45,578,134,23.2,9,14,7,22,2,0,20,20,50,13,0,/en/players/5e861944/matchlogs/2017-2018/defense/Matteo-Politano-Match-Logs
+408,Simone Pontisso,it,MF,Udinese,20,1997,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/8a2d3fdb/matchlogs/2017-2018/defense/Simone-Pontisso-Match-Logs
+409,Dennis Praet,be,MF,Sampdoria,23,1994,29.5,93,54,41,39,13,93,81,38.3,50,625,179,28.6,41,39,13,63,1,0,62,42,135,22,1,/en/players/86695068/matchlogs/2017-2018/defense/Dennis-Praet-Match-Logs
+410,Manuel Pucciarelli,it,FW,Chievo,26,1991,15.3,25,16,4,9,12,25,19,36.8,12,386,88,22.8,4,9,12,22,3,0,19,13,38,2,0,/en/players/a1c7b425/matchlogs/2017-2018/defense/Manuel-Pucciarelli-Match-Logs
+411,Christian Puggioni,it,GK,Benevento,36,1981,13.1,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,1,1,0,2,/en/players/b39dfab0/matchlogs/2017-2018/defense/Christian-Puggioni-Match-Logs
+412,Christian Puggioni,it,GK,Sampdoria,36,1981,9.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,0,0,0,1,/en/players/b39dfab0/matchlogs/2017-2018/defense/Christian-Puggioni-Match-Logs
+413,Erick Pulgar,cl,MF,Bologna,23,1994,30.8,64,44,41,20,3,64,79,30.4,55,576,166,28.8,41,20,3,66,15,0,51,44,108,73,1,/en/players/4611e028/matchlogs/2017-2018/defense/Erick-Pulgar-Match-Logs
+414,George Pușcaș,ro,"FW,MF",Benevento,21,1996,7.8,2,2,1,0,1,2,1,0.0,1,105,25,23.8,1,0,1,2,0,0,2,1,3,10,0,/en/players/c23c8e0d/matchlogs/2017-2018/defense/George-Puscas-Match-Logs
+415,Fabio Quagliarella,it,FW,Sampdoria,34,1983,30.2,13,9,2,4,7,13,26,11.5,23,538,137,25.5,2,4,7,37,1,0,36,8,21,17,0,/en/players/ee4f2f3b/matchlogs/2017-2018/defense/Fabio-Quagliarella-Match-Logs
+416,Ivan Radovanović,rs,MF,Chievo,28,1988,34.9,66,37,36,24,6,66,67,37.3,42,475,141,29.7,36,24,6,60,21,0,39,51,117,122,1,/en/players/023937a9/matchlogs/2017-2018/defense/Ivan-Radovanovic-Match-Logs
+417,Ștefan Radu,ro,DF,Lazio,30,1986,28.8,59,42,41,17,1,59,41,68.3,13,196,81,41.3,41,17,1,36,14,0,22,57,116,76,1,/en/players/53de807a/matchlogs/2017-2018/defense/Stefan-Radu-Match-Logs
+418,Rafael,br,GK,Cagliari,35,1982,8.8,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,1,1,0,0,/en/players/dd06d56c/matchlogs/2017-2018/defense/Rafael-Match-Logs
+419,Rafinha,br,"MF,FW",Inter,24,1993,11.6,20,16,4,9,7,20,17,23.5,13,304,88,28.9,4,9,7,22,0,0,22,8,28,3,0,/en/players/0c2ac3cb/matchlogs/2017-2018/defense/Rafinha-Match-Logs
+420,Antonino Ragusa,it,"FW,MF",Sassuolo,27,1990,9.2,20,14,11,6,3,20,19,42.1,11,258,67,26.0,11,6,3,18,1,0,17,7,27,5,0,/en/players/e967e202/matchlogs/2017-2018/defense/Antonino-Ragusa-Match-Logs
+421,Gastón Ramírez,uy,"MF,FW",Sampdoria,26,1990,24.6,40,23,7,17,16,40,47,21.3,37,515,136,26.4,7,17,16,32,4,0,28,14,54,30,0,/en/players/2c851997/matchlogs/2017-2018/defense/Gaston-Ramirez-Match-Logs
+422,Andrea Ranocchia,it,DF,Inter,29,1988,7.0,9,7,3,6,0,9,5,80.0,1,49,14,28.6,3,6,0,11,5,0,6,12,21,41,0,/en/players/539230cf/matchlogs/2017-2018/defense/Andrea-Ranocchia-Match-Logs
+423,Vasco Regini,it,DF,Sampdoria,26,1990,12.0,13,8,11,1,1,13,15,40.0,9,84,22,26.2,11,1,1,30,5,0,25,10,23,60,0,/en/players/339c6ed4/matchlogs/2017-2018/defense/Vasco-Regini-Match-Logs
+424,Pepe Reina,es,GK,Napoli,34,1982,37.0,0,0,0,0,0,0,1,0.0,1,6,4,66.7,0,0,0,0,0,0,0,0,0,0,0,/en/players/e358587b/matchlogs/2017-2018/defense/Pepe-Reina-Match-Logs
+425,Federico Ricci,it,"FW,MF",Crotone,23,1994,10.2,29,14,8,14,7,29,26,38.5,16,180,44,24.4,8,14,7,20,0,0,20,9,38,1,0,/en/players/524eb8c5/matchlogs/2017-2018/defense/Federico-Ricci-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,Federico Ricci,it,"FW,MF",Genoa,23,1994,2.4,4,4,2,1,1,4,4,50.0,2,34,12,35.3,2,1,1,1,0,0,1,1,5,1,0,/en/players/524eb8c5/matchlogs/2017-2018/defense/Federico-Ricci-Match-Logs
+427,Luca Rigoni,it,"MF,FW",Genoa,32,1984,17.5,37,24,14,22,1,37,34,26.5,25,350,111,31.7,14,22,1,25,2,0,23,16,53,14,0,/en/players/4dba2a97/matchlogs/2017-2018/defense/Luca-Rigoni-Match-Logs
+428,Nicola Rigoni,it,MF,Chievo,26,1990,10.4,31,22,14,14,3,31,22,36.4,14,179,50,27.9,14,14,3,13,5,0,8,12,43,20,0,/en/players/e327bd76/matchlogs/2017-2018/defense/Nicola-Rigoni-Match-Logs
+429,Tomás Rincón,ve,MF,Torino,29,1988,33.3,60,32,21,32,7,60,74,29.7,52,615,174,28.3,21,32,7,48,12,0,36,63,123,55,0,/en/players/f1cfc209/matchlogs/2017-2018/defense/Tomas-Rincon-Match-Logs
+430,Luca Rizzo,it,MF,SPAL,25,1992,5.4,20,9,10,9,1,20,27,22.2,21,133,29,21.8,10,9,1,15,0,0,15,4,24,4,1,/en/players/a3e4b724/matchlogs/2017-2018/defense/Luca-Rizzo-Match-Logs
+431,Ricardo Rodríguez,ch,DF,Milan,24,1992,33.4,49,27,24,17,8,49,26,50.0,13,379,124,32.7,24,17,8,56,6,0,50,33,82,65,1,/en/players/7f78ad23/matchlogs/2017-2018/defense/Ricardo-Rodriguez-Match-Logs
+432,Marko Rog,hr,"FW,MF",Napoli,22,1995,3.2,12,10,2,6,4,12,12,25.0,9,138,34,24.6,2,6,4,4,1,0,3,4,16,4,0,/en/players/b6b2b820/matchlogs/2017-2018/defense/Marko-Rog-Match-Logs
+433,Rogério,br,"DF,MF",Sassuolo,19,1998,10.1,22,14,15,4,3,22,17,52.9,8,176,53,30.1,15,4,3,18,1,0,17,13,35,17,0,/en/players/10e7f486/matchlogs/2017-2018/defense/Rogerio-Match-Logs
+434,Marcus Rohdén,se,MF,Crotone,26,1991,18.1,33,14,22,10,1,33,67,23.9,51,460,105,22.8,22,10,1,20,1,0,19,19,52,16,0,/en/players/b5b27493/matchlogs/2017-2018/defense/Marcus-Rohden-Match-Logs
+435,Filippo Romagna,it,DF,Cagliari,20,1997,21.0,39,25,28,9,2,39,24,50.0,12,209,72,34.4,28,9,2,33,9,0,24,35,74,90,1,/en/players/84594618/matchlogs/2017-2018/defense/Filippo-Romagna-Match-Logs
+436,Alessio Romagnoli,it,DF,Milan,22,1995,26.1,26,18,18,6,2,26,15,46.7,8,151,42,27.8,18,6,2,37,17,2,20,24,50,119,1,/en/players/3ead85f9/matchlogs/2017-2018/defense/Alessio-Romagnoli-Match-Logs
+437,Simone Romagnoli,it,DF,Bologna,27,1990,6.2,14,9,8,6,0,14,6,33.3,4,62,28,45.2,8,6,0,15,7,1,8,7,21,30,1,/en/players/09899de8/matchlogs/2017-2018/defense/Simone-Romagnoli-Match-Logs
+438,Aristóteles Romero,ve,MF,Crotone,21,1995,1.0,7,4,4,3,0,7,5,20.0,4,41,10,24.4,4,3,0,2,0,0,2,5,12,0,0,/en/players/9f069180/matchlogs/2017-2018/defense/Aristoteles-Romero-Match-Logs
+439,Rômulo,it,"MF,DF",Hellas Verona,30,1987,35.2,62,40,28,25,9,62,64,25.0,48,491,117,23.8,28,25,9,42,4,0,38,48,110,37,0,/en/players/07abb358/matchlogs/2017-2018/defense/Romulo-Match-Logs
+440,Marten de Roon,nl,MF,Atalanta,26,1991,28.6,75,53,26,42,7,75,98,22.4,76,661,198,30.0,26,42,7,48,6,0,42,47,122,52,1,/en/players/2a1beb34/matchlogs/2017-2018/defense/Marten-de-Roon-Match-Logs
+441,Aleandro Rosi,it,"DF,MF",Genoa,30,1987,18.9,36,22,12,17,7,36,27,33.3,18,298,86,28.9,12,17,7,35,5,1,30,19,55,54,1,/en/players/1b729ba2/matchlogs/2017-2018/defense/Aleandro-Rosi-Match-Logs
+442,Luca Rossettini,it,DF,Genoa,32,1985,22.5,18,12,13,5,0,18,19,10.5,17,206,68,33.0,13,5,0,32,19,0,13,29,47,145,2,/en/players/47a500ae/matchlogs/2017-2018/defense/Luca-Rossettini-Match-Logs
+443,Francesco Rossi,it,GK,Atalanta,26,1991,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/7b5f516f/matchlogs/2017-2018/defense/Francesco-Rossi-Match-Logs
+444,Giuseppe Rossi,it,"FW,MF",Genoa,30,1987,2.9,3,3,0,3,0,3,4,25.0,3,55,16,29.1,0,3,0,1,0,0,1,1,4,1,0,/en/players/fe48a073/matchlogs/2017-2018/defense/Giuseppe-Rossi-Match-Logs
+445,Daniele Rugani,it,DF,Juventus,23,1994,21.5,19,8,12,5,2,19,9,44.4,5,121,32,26.4,12,5,2,30,15,1,15,19,38,75,0,/en/players/14b8fcdf/matchlogs/2017-2018/defense/Daniele-Rugani-Match-Logs
+446,Mário Rui,pt,DF,Napoli,26,1991,23.2,64,34,20,35,9,64,57,50.9,28,334,109,32.6,20,35,9,47,4,0,43,18,82,28,1,/en/players/0b5a292a/matchlogs/2017-2018/defense/Mario-Rui-Match-Logs
+447,Umar Sadiq,ng,FW,Torino,20,1997,2.5,0,0,0,0,0,0,0,,0,52,23,44.2,0,0,0,2,0,0,2,1,1,3,0,/en/players/686cbe7d/matchlogs/2017-2018/defense/Umar-Sadiq-Match-Logs
+448,Bacary Sagna,fr,DF,Benevento,34,1983,10.6,8,2,4,3,1,8,8,12.5,7,86,19,22.1,4,3,1,15,2,0,13,22,30,35,0,/en/players/6ef56efd/matchlogs/2017-2018/defense/Bacary-Sagna-Match-Logs
+449,Jacopo Sala,it,DF,Sampdoria,25,1991,11.0,23,10,11,9,3,23,16,43.8,9,87,25,28.7,11,9,3,14,1,0,13,9,32,28,1,/en/players/da5a981b/matchlogs/2017-2018/defense/Jacopo-Sala-Match-Logs
+450,Bartosz Salamon,pl,DF,SPAL,26,1991,19.2,43,27,28,14,1,43,25,48.0,13,187,69,36.9,28,14,1,36,17,1,19,57,100,122,0,/en/players/9b30df1e/matchlogs/2017-2018/defense/Bartosz-Salamon-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,Eddy Salcedo,it,"MF,FW",Genoa,15,2001,0.4,0,0,0,0,0,0,1,0.0,1,5,1,20.0,0,0,0,0,0,0,0,1,1,0,0,/en/players/0489bb30/matchlogs/2017-2018/defense/Eddy-Salcedo-Match-Logs
+452,Mario Sampirisi,it,DF,Crotone,24,1992,24.4,47,25,32,13,2,47,31,51.6,15,233,78,33.5,32,13,2,51,15,1,36,46,93,101,1,/en/players/cda2ec29/matchlogs/2017-2018/defense/Mario-Sampirisi-Match-Logs
+453,Carlos Sánchez,co,"MF,FW",Fiorentina,31,1986,4.1,7,4,2,5,0,7,6,50.0,3,64,18,28.1,2,5,0,5,1,0,4,10,17,8,0,/en/players/50b51fac/matchlogs/2017-2018/defense/Carlos-Sanchez-Match-Logs
+454,Sandro,br,MF,Benevento,28,1989,12.8,30,20,13,14,3,30,19,42.1,11,173,51,29.5,13,14,3,31,16,0,15,15,45,52,0,/en/players/c1c2c925/matchlogs/2017-2018/defense/Sandro-Match-Logs
+455,Alex Sandro,br,DF,Juventus,26,1991,23.5,61,35,36,13,12,61,48,41.7,28,308,90,29.2,36,13,12,30,2,0,28,30,91,37,0,/en/players/0d82903c/matchlogs/2017-2018/defense/Alex-Sandro-Match-Logs
+456,Siriki Sanogo,ci,MF,Benevento,15,2001,0.4,1,1,0,1,0,1,0,,0,2,1,50.0,0,1,0,0,0,0,0,1,2,0,0,/en/players/ff120e44/matchlogs/2017-2018/defense/Siriki-Sanogo-Match-Logs
+457,Davide Santon,it,DF,Inter,26,1991,9.3,25,14,16,9,0,25,17,41.2,10,117,43,36.8,16,9,0,19,3,0,16,23,48,26,1,/en/players/88c89891/matchlogs/2017-2018/defense/Davide-Santon-Match-Logs
+458,Samir Santos,br,DF,Udinese,22,1994,28.5,67,41,41,22,4,67,38,42.1,22,372,129,34.7,41,22,4,60,14,0,46,69,136,156,2,/en/players/92b4758e/matchlogs/2017-2018/defense/Samir-Santos-Match-Logs
+459,Antonio Santurro,it,GK,Bologna,25,1992,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/61228681/matchlogs/2017-2018/defense/Antonio-Santurro-Match-Logs
+460,Riccardo Saponara,it,"MF,FW",Fiorentina,25,1991,10.0,9,9,4,4,1,9,12,8.3,11,184,53,28.8,4,4,1,6,1,0,5,3,12,4,0,/en/players/3bb7af3b/matchlogs/2017-2018/defense/Riccardo-Saponara-Match-Logs
+461,Marco Sau,it,"FW,MF",Cagliari,29,1987,14.6,16,13,4,5,7,16,11,18.2,9,238,66,27.7,4,5,7,12,0,0,12,5,21,2,0,/en/players/1ad1f50d/matchlogs/2017-2018/defense/Marco-Sau-Match-Logs
+462,Gianluca Scamacca,it,FW,Sassuolo,18,1999,0.3,0,0,0,0,0,0,1,0.0,1,5,1,20.0,0,0,0,1,0,0,1,0,0,0,0,/en/players/8790f988/matchlogs/2017-2018/defense/Gianluca-Scamacca-Match-Logs
+463,Pasquale Schiattarella,it,MF,SPAL,30,1987,22.1,43,29,20,16,7,43,52,32.7,35,364,83,22.8,20,16,7,11,2,0,9,25,68,28,0,/en/players/bd84fc61/matchlogs/2017-2018/defense/Pasquale-Schiattarella-Match-Logs
+464,Eros Schiavon,it,"MF,DF",SPAL,34,1983,4.3,12,8,5,6,1,12,8,37.5,5,82,23,28.0,5,6,1,9,2,0,7,2,14,4,0,/en/players/c4f97172/matchlogs/2017-2018/defense/Eros-Schiavon-Match-Logs
+465,Patrik Schick,cz,FW,Roma,21,1996,11.0,9,7,1,4,4,9,12,8.3,11,215,60,27.9,1,4,4,20,2,0,18,2,11,8,0,/en/players/5d4f7d61/matchlogs/2017-2018/defense/Patrik-Schick-Match-Logs
+466,Simone Scuffet,it,GK,Udinese,21,1996,6.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,1,1,0,1,/en/players/41bd99ea/matchlogs/2017-2018/defense/Simone-Scuffet-Match-Logs
+467,Stefano Sensi,it,MF,Sassuolo,21,1995,11.6,25,21,11,12,2,25,30,30.0,21,239,78,32.6,11,12,2,20,2,0,18,20,45,10,0,/en/players/b70bde8f/matchlogs/2017-2018/defense/Stefano-Sensi-Match-Logs
+468,Luigi Sepe,it,GK,Napoli,26,1991,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/343f753a/matchlogs/2017-2018/defense/Luigi-Sepe-Match-Logs
+469,Lee Seung-woo,kr,"MF,FW",Hellas Verona,19,1998,4.0,5,3,0,3,2,5,9,11.1,8,104,24,23.1,0,3,2,1,0,0,1,2,7,0,0,/en/players/0f22b650/matchlogs/2017-2018/defense/Lee-Seung-woo-Match-Logs
+470,Stephan El Shaarawy,it,FW,Roma,24,1992,23.9,27,15,9,10,8,27,20,20.0,16,363,101,27.8,9,10,8,23,1,0,22,27,54,5,1,/en/players/d3aaad90/matchlogs/2017-2018/defense/Stephan-El-Shaarawy-Match-Logs
+471,André Silva,pt,FW,Milan,21,1995,10.4,8,5,0,5,3,8,4,25.0,3,219,51,23.3,0,5,3,7,0,0,7,4,12,7,0,/en/players/3effaa34/matchlogs/2017-2018/defense/Andre-Silva-Match-Logs
+472,Jonathan Silva,ar,DF,Roma,23,1994,1.2,0,0,0,0,0,0,1,0.0,1,13,7,53.8,0,0,0,2,1,0,1,3,3,4,0,/en/players/f2308b33/matchlogs/2017-2018/defense/Jonathan-Silva-Match-Logs
+473,Matías Silvestre,ar,DF,Sampdoria,32,1984,34.0,17,9,16,1,0,17,14,50.0,7,130,28,21.5,16,1,0,44,23,1,21,15,32,151,2,/en/players/b6ca47a2/matchlogs/2017-2018/defense/Matias-Silvestre-Match-Logs
+474,Marco Silvestri,it,GK,Hellas Verona,26,1991,2.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,1,1,0,0,/en/players/0d422df7/matchlogs/2017-2018/defense/Marco-Silvestri-Match-Logs
+475,Giovanni Simeone,ar,FW,Fiorentina,22,1995,33.3,45,35,11,20,14,45,35,11.4,31,719,199,27.7,11,20,14,33,6,0,27,13,58,31,0,/en/players/343c0d52/matchlogs/2017-2018/defense/Giovanni-Simeone-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Lorenco Šimić,hr,DF,SPAL,21,1996,3.5,7,2,5,2,0,7,4,0.0,4,33,9,27.3,5,2,0,7,3,0,4,8,15,16,0,/en/players/65e4dede/matchlogs/2017-2018/defense/Lorenco-Simic-Match-Logs
+477,Stefan Simić,cz,DF,Crotone,22,1995,6.2,11,5,8,3,0,11,6,66.7,2,60,18,30.0,8,3,0,9,3,0,6,10,21,43,0,/en/players/b5365398/matchlogs/2017-2018/defense/Stefan-Simic-Match-Logs
+478,Salvatore Sirigu,it,GK,Torino,30,1987,37.0,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,0,0,0,0,0,1,1,1,2,/en/players/10dc46f0/matchlogs/2017-2018/defense/Salvatore-Sirigu-Match-Logs
+479,Łukasz Skorupski,pl,GK,Roma,26,1991,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/ab4449d6/matchlogs/2017-2018/defense/Lukasz-Skorupski-Match-Logs
+480,Milan Škriniar,sk,DF,Inter,22,1995,38.0,106,67,82,20,4,106,73,61.6,28,299,113,37.8,82,20,4,69,29,0,40,37,143,182,0,/en/players/30f5ffa9/matchlogs/2017-2018/defense/Milan-Skriniar-Match-Logs
+481,Stefano Sorrentino,it,GK,Chievo,38,1979,38.0,0,0,0,0,0,0,1,0.0,1,2,0,0.0,0,0,0,0,0,0,0,1,1,3,0,/en/players/048877f5/matchlogs/2017-2018/defense/Stefano-Sorrentino-Match-Logs
+482,Samuel Souprayen,fr,DF,Hellas Verona,28,1989,17.6,32,19,24,7,1,32,23,60.9,9,218,73,33.5,24,7,1,29,7,0,22,22,54,62,1,/en/players/f7c9fcd6/matchlogs/2017-2018/defense/Samuel-Souprayen-Match-Logs
+483,Luca Sparandeo,it,DF,Benevento,17,1999,0.4,0,0,0,0,0,0,1,0.0,1,6,0,0.0,0,0,0,1,0,0,1,0,0,1,0,/en/players/dfbb3234/matchlogs/2017-2018/defense/Luca-Sparandeo-Match-Logs
+484,Leonardo Spinazzola,it,DF,Atalanta,24,1993,16.7,17,8,9,7,1,17,16,37.5,10,165,54,32.7,9,7,1,35,4,0,31,18,35,37,0,/en/players/3626daea/matchlogs/2017-2018/defense/Leonardo-Spinazzola-Match-Logs
+485,Nicolás Spolli,ar,DF,Genoa,34,1983,20.0,27,17,22,3,2,27,23,43.5,13,200,59,29.5,22,3,2,31,17,0,14,33,60,111,1,/en/players/9a560ebe/matchlogs/2017-2018/defense/Nicolas-Spolli-Match-Logs
+486,Marco Sportiello,it,GK,Fiorentina,25,1992,35.6,0,0,0,0,0,0,1,0.0,1,1,0,0.0,0,0,0,0,0,0,0,2,2,1,1,/en/players/ac4003af/matchlogs/2017-2018/defense/Marco-Sportiello-Match-Logs
+487,Mariusz Stępiński,pl,FW,Chievo,22,1995,7.9,14,6,4,8,2,14,7,14.3,6,241,43,17.8,4,8,2,5,0,0,5,4,18,6,0,/en/players/7b536033/matchlogs/2017-2018/defense/Mariusz-Stepinski-Match-Logs
+488,Ognjen Stijepović,me,MF,Sampdoria,17,1999,0.1,0,0,0,0,0,0,0,,0,3,2,66.7,0,0,0,0,0,0,0,,,0,0,/en/players/80ad4216/matchlogs/2017-2018/defense/Ognjen-Stijepovic-Match-Logs
+489,Adrian Stoian,ro,"MF,FW",Crotone,26,1991,23.7,28,21,12,14,2,28,54,18.5,44,414,82,19.8,12,14,2,39,0,0,39,23,51,23,0,/en/players/4468b31a/matchlogs/2017-2018/defense/Adrian-Stoian-Match-Logs
+490,Thomas Strakosha,al,GK,Lazio,22,1995,38.0,0,0,0,0,0,0,0,,0,2,2,100.0,0,0,0,0,0,0,0,2,2,1,1,/en/players/339fe0e8/matchlogs/2017-2018/defense/Thomas-Strakosha-Match-Logs
+491,Ivan Strinić,hr,DF,Sampdoria,30,1987,13.9,34,25,19,13,2,34,40,30.0,28,188,66,35.1,19,13,2,22,2,0,20,28,62,36,0,/en/players/52e2ef8f/matchlogs/2017-2018/defense/Ivan-Strinic-Match-Logs
+492,Kevin Strootman,nl,MF,Roma,27,1990,25.1,57,37,18,25,14,57,46,39.1,28,553,160,28.9,18,25,14,42,3,0,39,27,84,13,0,/en/players/ef2e5e1a/matchlogs/2017-2018/defense/Kevin-Strootman-Match-Logs
+493,Jens Stryger Larsen,dk,DF,Udinese,26,1991,28.1,37,29,25,12,0,37,44,43.2,25,380,110,28.9,25,12,0,57,16,0,41,37,74,77,2,/en/players/f91e81c9/matchlogs/2017-2018/defense/Jens-Stryger-Larsen-Match-Logs
+494,Stefano Sturaro,it,"MF,DF",Juventus,24,1993,6.8,19,4,6,6,7,19,21,42.9,12,160,33,20.6,6,6,7,19,3,0,16,5,24,7,1,/en/players/2334478a/matchlogs/2017-2018/defense/Stefano-Sturaro-Match-Logs
+495,Suso,es,FW,Milan,23,1993,31.4,15,10,4,4,7,15,31,19.4,25,437,100,22.9,4,4,7,38,1,0,37,18,33,3,0,/en/players/4e219ad2/matchlogs/2017-2018/defense/Suso-Match-Logs
+496,Wojciech Szczęsny,pl,GK,Juventus,27,1990,17.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,1,1,0,0,/en/players/01b8a2b2/matchlogs/2017-2018/defense/Wojciech-Szczesny-Match-Logs
+497,Adel Taarabt,ma,"FW,MF",Genoa,28,1989,17.9,17,11,7,8,2,17,22,31.8,15,234,61,26.1,7,8,2,15,3,0,12,12,29,2,0,/en/players/47dc80f5/matchlogs/2017-2018/defense/Adel-Taarabt-Match-Logs
+498,Saphir Taïder,dz,MF,Bologna,25,1992,4.3,6,4,5,1,0,6,6,16.7,5,120,24,20.0,5,1,0,3,2,0,1,0,6,3,0,/en/players/a12d0c05/matchlogs/2017-2018/defense/Saphir-Taider-Match-Logs
+499,Cyril Théréau,fr,"FW,MF",Fiorentina,34,1983,12.4,12,8,5,5,2,12,22,22.7,17,221,69,31.2,5,5,2,17,1,0,16,9,21,9,0,/en/players/4d3ab428/matchlogs/2017-2018/defense/Cyril-Thereau-Match-Logs
+500,Cyril Théréau,fr,FW,Udinese,34,1983,2.0,1,1,1,0,0,1,1,100.0,0,25,7,28.0,1,0,0,1,0,0,1,0,1,0,0,/en/players/4d3ab428/matchlogs/2017-2018/defense/Cyril-Thereau-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+501,Rafael Tolói,br,DF,Atalanta,26,1990,27.2,62,40,33,28,1,62,80,33.8,53,374,139,37.2,33,28,1,55,16,0,39,64,126,127,0,/en/players/c56dc39e/matchlogs/2017-2018/defense/Rafael-Toloi-Match-Logs
+502,Nenad Tomović,rs,DF,Fiorentina,29,1987,1.5,3,3,3,0,0,3,6,33.3,4,13,2,15.4,3,0,0,3,1,0,2,2,5,2,0,/en/players/6aafdc27/matchlogs/2017-2018/defense/Nenad-Tomovic-Match-Logs
+503,Nenad Tomović,rs,DF,Chievo,29,1987,25.6,42,25,31,10,1,42,27,59.3,11,237,74,31.2,31,10,1,55,26,1,29,52,94,142,0,/en/players/6aafdc27/matchlogs/2017-2018/defense/Nenad-Tomovic-Match-Logs
+504,Lorenzo Tonelli,it,DF,Napoli,27,1990,3.9,7,5,3,4,0,7,4,25.0,3,35,14,40.0,3,4,0,3,1,0,2,9,16,9,0,/en/players/8cc29864/matchlogs/2017-2018/defense/Lorenzo-Tonelli-Match-Logs
+505,Aleksandar Tonev,bg,"FW,MF",Crotone,27,1990,4.5,3,1,1,1,1,3,4,25.0,3,91,14,15.4,1,1,1,7,1,0,6,1,4,2,0,/en/players/c15d1af9/matchlogs/2017-2018/defense/Aleksandar-Tonev-Match-Logs
+506,Vasilis Torosidis,gr,DF,Bologna,32,1985,9.1,10,5,6,3,1,10,10,50.0,5,79,21,26.6,6,3,1,16,3,0,13,18,28,23,0,/en/players/8ea2c099/matchlogs/2017-2018/defense/Vasilis-Torosidis-Match-Logs
+507,Emanuele Torrasi,it,MF,Milan,18,1999,0.1,,,,,,,,,,,,,,,,,,,,,0,,,/en/players/16bc48f8/matchlogs/2017-2018/defense/Emanuele-Torrasi-Match-Logs
+508,Lucas Torreira,uy,MF,Sampdoria,21,1996,35.3,105,73,39,53,13,105,88,33.0,59,658,194,29.5,39,53,13,59,17,0,42,72,177,43,0,/en/players/52611641/matchlogs/2017-2018/defense/Lucas-Torreira-Match-Logs
+509,Alin Toșca,ro,DF,Benevento,25,1992,13.0,11,6,6,5,0,11,13,38.5,8,74,26,35.1,6,5,0,23,6,0,17,15,26,50,0,/en/players/322ba2df/matchlogs/2017-2018/defense/Alin-Tosca-Match-Logs
+510,Marcello Trotta,it,FW,Crotone,24,1992,25.1,39,25,11,17,11,39,46,19.6,37,450,112,24.9,11,17,11,29,2,0,27,13,52,17,0,/en/players/acdad0aa/matchlogs/2017-2018/defense/Marcello-Trotta-Match-Logs
+511,Marco Tumminello,it,FW,Roma,18,1998,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,/en/players/5bdd44d8/matchlogs/2017-2018/defense/Marco-Tumminello-Match-Logs
+512,Marco Tumminello,it,FW,Crotone,18,1998,2.3,0,0,0,0,0,0,2,0.0,2,57,10,17.5,0,0,0,3,0,0,3,0,0,1,0,/en/players/5bdd44d8/matchlogs/2017-2018/defense/Marco-Tumminello-Match-Logs
+513,Ľubomír Tupta,sk,"FW,MF",Hellas Verona,19,1998,0.4,1,1,1,0,0,1,3,33.3,2,17,2,11.8,1,0,0,1,0,0,1,0,1,0,0,/en/players/b02af64f/matchlogs/2017-2018/defense/Lubomir-Tupta-Match-Logs
+514,Cengiz Ünder,tr,FW,Roma,20,1997,13.9,10,8,3,4,3,10,18,16.7,15,199,53,26.6,3,4,3,9,2,0,7,12,22,5,0,/en/players/1880614f/matchlogs/2017-2018/defense/Cengiz-Under-Match-Logs
+515,Sauli Väisänen,fi,DF,SPAL,23,1994,6.0,11,6,6,4,1,11,5,80.0,1,66,20,30.3,6,4,1,11,5,0,6,9,20,28,0,/en/players/23214a49/matchlogs/2017-2018/defense/Sauli-Vaisanen-Match-Logs
+516,Mirko Valdifiori,it,MF,Torino,31,1986,6.9,12,6,5,6,1,12,18,27.8,13,121,28,23.1,5,6,1,7,1,0,6,9,21,8,0,/en/players/c710f7d5/matchlogs/2017-2018/defense/Mirko-Valdifiori-Match-Logs
+517,Borja Valero,es,MF,Inter,32,1985,28.5,49,29,17,26,6,49,63,34.9,41,489,126,25.8,17,26,6,22,3,0,19,19,68,30,1,/en/players/0e21fc3c/matchlogs/2017-2018/defense/Borja-Valero-Match-Logs
+518,Mattia Valoti,it,"MF,FW",Hellas Verona,23,1993,17.5,61,40,19,35,7,61,54,16.7,45,387,107,27.6,19,35,7,30,2,0,28,42,103,31,0,/en/players/c414df9d/matchlogs/2017-2018/defense/Mattia-Valoti-Match-Logs
+519,Matías Vecino,uy,MF,Inter,25,1991,23.7,52,26,14,28,10,52,54,35.2,35,410,116,28.3,14,28,10,41,6,0,35,22,74,27,0,/en/players/44ac04e9/matchlogs/2017-2018/defense/Matias-Vecino-Match-Logs
+520,Miguel Veloso,pt,MF,Genoa,31,1986,19.3,42,30,19,20,3,42,47,23.4,36,449,128,28.5,19,20,3,37,2,0,35,12,54,28,0,/en/players/ab1ca213/matchlogs/2017-2018/defense/Miguel-Veloso-Match-Logs
+521,Lorenzo Venuti,it,DF,Benevento,22,1995,26.6,49,21,32,11,6,49,43,32.6,29,340,98,28.8,32,11,6,69,19,2,50,42,91,76,1,/en/players/983ff2c7/matchlogs/2017-2018/defense/Lorenzo-Venuti-Match-Logs
+522,Daniele Verde,it,"FW,MF",Hellas Verona,21,1996,21.7,14,10,10,3,1,14,27,14.8,23,287,65,22.6,10,3,1,16,0,0,16,34,48,18,0,/en/players/d3298c99/matchlogs/2017-2018/defense/Daniele-Verde-Match-Logs
+523,Simone Verdi,it,"FW,MF",Bologna,25,1992,31.4,35,22,15,15,5,35,52,26.9,38,480,124,25.8,15,15,5,24,1,0,23,35,70,5,0,/en/players/0375723e/matchlogs/2017-2018/defense/Simone-Verdi-Match-Logs
+524,Jordan Veretout,fr,MF,Fiorentina,24,1993,35.7,71,48,33,26,12,71,69,27.5,50,654,162,24.8,33,26,12,55,5,0,50,44,115,57,0,/en/players/4a56052c/matchlogs/2017-2018/defense/Jordan-Veretout-Match-Logs
+525,Valerio Verre,it,MF,Sampdoria,23,1994,4.0,8,6,3,2,3,8,7,14.3,6,91,27,29.7,3,2,3,11,0,0,11,8,16,7,1,/en/players/33ecf462/matchlogs/2017-2018/defense/Valerio-Verre-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,Francesco Vicari,it,DF,SPAL,22,1994,31.7,42,24,27,13,2,42,44,47.7,23,206,70,34.0,27,13,2,59,36,0,23,50,92,183,2,/en/players/de045b15/matchlogs/2017-2018/defense/Francesco-Vicari-Match-Logs
+527,Luca Vido,it,"FW,MF",Atalanta,20,1997,0.8,5,3,2,3,0,5,1,100.0,0,13,5,38.5,2,3,0,0,0,0,0,0,5,0,0,/en/players/eb0d77a4/matchlogs/2017-2018/defense/Luca-Vido-Match-Logs
+528,Nicolas Viola,it,MF,Benevento,27,1989,20.6,38,25,20,16,2,38,47,31.9,32,288,77,26.7,20,16,2,36,7,0,29,21,59,15,1,/en/players/45392b06/matchlogs/2017-2018/defense/Nicolas-Viola-Match-Logs
+529,Mattia Vitale,it,MF,SPAL,19,1997,1.1,1,1,1,0,0,1,1,0.0,1,51,9,17.6,1,0,0,1,0,0,1,3,4,0,0,/en/players/8e4b894b/matchlogs/2017-2018/defense/Mattia-Vitale-Match-Logs
+530,Federico Viviani,it,MF,SPAL,25,1992,27.6,69,45,32,30,7,69,75,33.3,50,484,140,28.9,32,30,7,51,10,0,41,56,125,24,0,/en/players/2258c078/matchlogs/2017-2018/defense/Federico-Viviani-Match-Logs
+531,Emiliano Viviano,it,GK,Sampdoria,31,1985,27.0,0,0,0,0,0,0,0,,0,3,1,33.3,0,0,0,1,0,0,1,2,2,1,2,/en/players/03760df0/matchlogs/2017-2018/defense/Emiliano-Viviano-Match-Logs
+532,Giovanni Volpicelli,it,FW,Benevento,17,1999,0.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,1,1,0,0,,,0,0,/en/players/844a87c2/matchlogs/2017-2018/defense/Giovanni-Volpicelli-Match-Logs
+533,Stefan de Vrij,nl,DF,Lazio,25,1992,33.7,34,20,14,19,1,34,22,40.9,13,229,76,33.2,14,19,1,56,24,2,32,83,117,130,1,/en/players/d0d8dd44/matchlogs/2017-2018/defense/Stefan-de-Vrij-Match-Logs
+534,Jagoš Vuković,rs,DF,Hellas Verona,29,1988,14.8,6,5,5,1,0,6,9,11.1,8,38,14,36.8,5,1,0,30,19,1,11,24,30,95,1,/en/players/ba06950a/matchlogs/2017-2018/defense/Jagos-Vukovic-Match-Logs
+535,Molla Wagué,ml,DF,Udinese,26,1991,0.6,1,1,0,1,0,1,1,0.0,1,4,0,0.0,0,1,0,0,0,0,0,2,3,3,0,/en/players/a440d8ca/matchlogs/2017-2018/defense/Molla-Wague-Match-Logs
+536,Wallace,br,DF,Lazio,22,1994,11.1,18,4,12,6,0,18,13,30.8,9,114,40,35.1,12,6,0,23,6,0,17,32,50,30,3,/en/players/d61b3354/matchlogs/2017-2018/defense/Wallace-Match-Logs
+537,Silvan Widmer,ch,"DF,MF",Udinese,24,1993,18.1,48,28,29,17,2,48,43,44.2,24,298,92,30.9,29,17,2,31,4,0,27,28,76,54,0,/en/players/f68b64fc/matchlogs/2017-2018/defense/Silvan-Widmer-Match-Logs
+538,Jawad El Yamiq,ma,DF,Genoa,25,1992,4.0,7,4,7,0,0,7,4,50.0,2,33,13,39.4,7,0,0,12,5,0,7,5,12,26,0,/en/players/f6f6b6e8/matchlogs/2017-2018/defense/Jawad-El-Yamiq-Match-Logs
+539,Mattia Zaccagni,it,"MF,FW",Hellas Verona,22,1995,1.7,5,4,2,0,3,5,3,33.3,2,44,13,29.5,2,0,3,1,0,0,1,6,11,1,0,/en/players/d85c238b/matchlogs/2017-2018/defense/Mattia-Zaccagni-Match-Logs
+540,Francesco Zampano,it,"DF,MF",Udinese,23,1993,4.6,10,7,6,2,2,10,12,50.0,6,67,17,25.4,6,2,2,5,0,0,5,6,16,8,0,/en/players/8e45910b/matchlogs/2017-2018/defense/Francesco-Zampano-Match-Logs
+541,Niccolò Zanellato,it,MF,Crotone,19,1998,0.8,2,0,0,2,0,2,2,50.0,1,24,4,16.7,0,2,0,1,0,0,1,0,2,0,0,/en/players/741e058f/matchlogs/2017-2018/defense/Niccolo-Zanellato-Match-Logs
+542,Cristián Zapata,co,DF,Milan,30,1986,11.0,28,18,20,7,1,28,10,70.0,3,110,38,34.5,20,7,1,15,4,0,11,17,45,32,0,/en/players/b1deecf8/matchlogs/2017-2018/defense/Cristian-Zapata-Match-Logs
+543,Duván Zapata,co,FW,Sampdoria,26,1991,23.4,11,7,3,7,1,11,8,62.5,3,336,84,25.0,3,7,1,13,0,0,13,10,21,19,0,/en/players/d3de9af0/matchlogs/2017-2018/defense/Duvan-Zapata-Match-Logs
+544,Davide Zappacosta,it,DF,Torino,25,1992,1.1,0,0,0,0,0,0,0,,0,4,1,25.0,0,0,0,0,0,0,0,2,2,0,0,/en/players/7fe90ccd/matchlogs/2017-2018/defense/Davide-Zappacosta-Match-Logs
+545,Rafik Zekhnini,no,MF,Fiorentina,19,1998,0.1,0,0,0,0,0,0,0,,0,8,1,12.5,0,0,0,0,0,0,0,0,0,0,0,/en/players/1b62a7df/matchlogs/2017-2018/defense/Rafik-Zekhnini-Match-Logs
+546,Piotr Zieliński,pl,"MF,FW",Napoli,23,1994,18.5,31,19,6,18,7,31,24,25.0,18,317,95,30.0,6,18,7,40,5,0,35,12,43,13,0,/en/players/a5296e55/matchlogs/2017-2018/defense/Piotr-Zielinski-Match-Logs
+547,Bruno Zuculini,ar,MF,Hellas Verona,24,1993,13.5,73,43,41,29,3,73,50,42.0,29,346,112,32.4,41,29,3,33,8,0,25,47,120,37,0,/en/players/17cddb4d/matchlogs/2017-2018/defense/Bruno-Zuculini-Match-Logs
+548,Franco Zuculini,ar,MF,Hellas Verona,26,1990,3.7,16,10,7,7,2,16,8,37.5,5,97,33,34.0,7,7,2,4,0,0,4,5,21,3,0,/en/players/9c31bb89/matchlogs/2017-2018/defense/Franco-Zuculini-Match-Logs
+549,Ervin Zukanović,ba,DF,Genoa,30,1987,31.9,57,35,37,17,3,57,64,35.9,41,282,97,34.4,37,17,3,55,22,1,33,45,102,167,2,/en/players/1253a12e/matchlogs/2017-2018/defense/Ervin-Zukanovic-Match-Logs
+550,Filip Đuričić,rs,FW,Sampdoria,25,1992,0.1,0,0,0,0,0,0,1,0.0,1,3,0,0.0,0,0,0,0,0,0,0,0,0,0,0,/en/players/eccbe56a/matchlogs/2017-2018/defense/Filip-Djuricic-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+551,Filip Đuričić,rs,"FW,MF",Benevento,25,1992,10.8,21,12,11,7,3,21,11,54.5,5,144,33,22.9,11,7,3,9,1,0,8,11,32,3,0,/en/players/eccbe56a/matchlogs/2017-2018/defense/Filip-Djuricic-Match-Logs
+552,Christian Rutjens,,,Benevento,,,0.0,,,,,,,,,,,,,,,,,,,,,0,,,

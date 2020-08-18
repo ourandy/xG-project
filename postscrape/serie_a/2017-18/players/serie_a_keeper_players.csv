@@ -1,0 +1,44 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Matches
+1,Alisson,br,GK,Roma,24,1992,37,37,"3,330",28,0.76,135,107,.815,22,8,7,17,45.9,5,3,2,0,/en/players/7a2e46a8/matchlogs/2017-2018/keeper/Alisson-Match-Logs
+2,Nícolas Andrade,br,GK,Hellas Verona,29,1988,36,36,"3,240",71,1.97,231,167,.719,7,4,25,7,19.4,8,6,2,0,/en/players/326d09ef/matchlogs/2017-2018/keeper/Nicolas-Andrade-Match-Logs
+3,Vid Belec,si,GK,Sampdoria,27,1990,2,2,180,5,2.50,15,11,.733,0,0,2,0,0.0,1,1,0,0,/en/players/4f8ce0e1/matchlogs/2017-2018/keeper/Vid-Belec-Match-Logs
+4,Vid Belec,si,GK,Benevento,27,1990,13,13,"1,113",32,2.59,73,51,.603,2,0,10,1,7.7,3,3,0,0,/en/players/4f8ce0e1/matchlogs/2017-2018/keeper/Vid-Belec-Match-Logs
+5,Etrit Berisha,al,GK,Atalanta,28,1989,31,31,"2,790",34,1.10,99,66,.667,13,10,8,8,25.8,2,1,1,0,/en/players/ee833569/matchlogs/2017-2018/keeper/Etrit-Berisha-Match-Logs
+6,Albano Bizzarri,ar,GK,Udinese,39,1977,32,32,"2,880",52,1.62,137,91,.635,11,4,17,8,25.0,5,2,2,1,/en/players/32b9b5fa/matchlogs/2017-2018/keeper/Albano-Bizzarri-Match-Logs
+7,Alberto Brignoli,it,GK,Benevento,25,1991,13,11,"1,126",31,2.48,71,42,.592,1,2,10,2,18.2,4,2,0,2,/en/players/6989550f/matchlogs/2017-2018/keeper/Alberto-Brignoli-Match-Logs
+8,Gianluigi Buffon,it,GK,Juventus,39,1978,21,21,"1,862",14,0.68,58,48,.810,17,2,2,11,52.4,4,3,1,0,/en/players/e40d028b/matchlogs/2017-2018/keeper/Gianluigi-Buffon-Match-Logs
+9,Andrea Consigli,it,GK,Sassuolo,30,1987,37,37,"3,316",58,1.57,172,117,.674,11,10,16,10,27.0,3,2,1,0,/en/players/8cabdc1e/matchlogs/2017-2018/keeper/Andrea-Consigli-Match-Logs
+10,Alex Cordaz,it,GK,Crotone,34,1983,38,38,"3,420",66,1.74,199,138,.698,9,8,21,5,13.2,8,6,1,1,/en/players/e66ebabb/matchlogs/2017-2018/keeper/Alex-Cordaz-Match-Logs
+11,Angelo da Costa Júnior,br,GK,Bologna,33,1983,4,4,360,5,1.25,16,12,.750,1,0,3,1,25.0,1,1,0,0,/en/players/18736214/matchlogs/2017-2018/keeper/Angelo-da-Costa-Junior-Match-Logs
+12,Alessio Cragno,it,GK,Cagliari,23,1994,29,29,"2,536",47,1.67,121,80,.661,7,4,17,7,24.1,10,6,2,2,/en/players/f554e29b/matchlogs/2017-2018/keeper/Alessio-Cragno-Match-Logs
+13,Luca Crosta,it,GK,Cagliari,19,1998,1,1,90,3,3.00,2,0,.000,0,0,1,0,0.0,1,1,0,0,/en/players/a4ec7d09/matchlogs/2017-2018/keeper/Luca-Crosta-Match-Logs
+14,Gianluigi Donnarumma,it,GK,Milan,18,1999,38,38,"3,420",42,1.11,131,92,.695,18,10,10,12,31.6,3,2,0,1,/en/players/08f5afaa/matchlogs/2017-2018/keeper/Gianluigi-Donnarumma-Match-Logs
+15,Bartłomiej Drągowski,pl,GK,Fiorentina,19,1997,3,1,217,8,3.32,18,10,.556,0,0,2,0,0.0,0,0,0,0,/en/players/085e71a7/matchlogs/2017-2018/keeper/Bartlomiej-Dragowski-Match-Logs
+16,Pierluigi Gollini,it,GK,Atalanta,22,1995,7,7,622,4,0.58,17,13,.765,3,2,2,3,42.9,0,0,0,0,/en/players/f0f7f62f/matchlogs/2017-2018/keeper/Pierluigi-Gollini-Match-Logs
+17,Alfred Gomis,sn,GK,SPAL,23,1993,26,25,"2,261",43,1.71,136,99,.728,6,7,12,3,12.0,7,6,1,0,/en/players/cecbce23/matchlogs/2017-2018/keeper/Alfred-Gomis-Match-Logs
+18,Samir Handanović,si,GK,Inter,33,1984,38,38,"3,420",30,0.79,119,94,.765,20,12,6,17,44.7,2,2,0,0,/en/players/74419746/matchlogs/2017-2018/keeper/Samir-Handanovic-Match-Logs
+19,Eugenio Lamanna,it,GK,Genoa,27,1989,1,1,90,1,1.00,3,2,.667,0,0,1,0,0.0,0,0,0,0,/en/players/349601c3/matchlogs/2017-2018/keeper/Eugenio-Lamanna-Match-Logs
+20,Gabriele Marchegiani,it,GK,SPAL,21,1996,1,0,1,0,0.00,0,0,,0,0,0,0,,0,0,0,0,/en/players/8cf63012/matchlogs/2017-2018/keeper/Gabriele-Marchegiani-Match-Logs
+21,Alex Meret,it,GK,SPAL,20,1997,13,13,"1,158",16,1.24,56,45,.768,2,7,4,4,30.8,6,3,2,1,/en/players/9413b19f/matchlogs/2017-2018/keeper/Alex-Meret-Match-Logs
+22,Vanja Milinković-Savić,rs,GK,Torino,20,1997,1,1,90,1,1.00,4,3,.750,1,0,0,0,0.0,0,0,0,0,/en/players/9fa26bc2/matchlogs/2017-2018/keeper/Vanja-Milinkovic-Savic-Match-Logs
+23,Antonio Mirante,it,GK,Bologna,34,1983,33,33,"2,970",46,1.39,143,100,.692,10,5,18,7,21.2,3,2,0,1,/en/players/30223b33/matchlogs/2017-2018/keeper/Antonio-Mirante-Match-Logs
+24,Gianluca Pegolo,it,GK,Sassuolo,36,1981,2,1,104,1,0.87,5,5,.800,0,0,1,0,0.0,0,0,0,0,/en/players/f058ed1f/matchlogs/2017-2018/keeper/Gianluca-Pegolo-Match-Logs
+25,Mattia Perin,it,GK,Genoa,24,1992,37,37,"3,330",42,1.14,167,131,.772,11,8,18,12,32.4,4,4,0,0,/en/players/4c62d0c8/matchlogs/2017-2018/keeper/Mattia-Perin-Match-Logs
+Rk,,,,,,,,,,,,,,,,,,,,,,,,
+26,Carlo Pinsoglio,it,GK,Juventus,27,1990,1,0,28,1,3.21,2,1,.500,0,0,0,0,,0,0,0,0,/en/players/f6a06749/matchlogs/2017-2018/keeper/Carlo-Pinsoglio-Match-Logs
+27,Christian Puggioni,it,GK,Sampdoria,36,1981,9,9,810,12,1.33,49,40,.816,5,2,2,5,55.6,3,3,0,0,/en/players/b39dfab0/matchlogs/2017-2018/keeper/Christian-Puggioni-Match-Logs
+28,Christian Puggioni,it,GK,Benevento,36,1981,14,14,"1,179",26,1.98,59,37,.644,3,1,9,2,14.3,6,5,0,1,/en/players/b39dfab0/matchlogs/2017-2018/keeper/Christian-Puggioni-Match-Logs
+29,Rafael,br,GK,Cagliari,35,1982,10,8,794,11,1.25,39,28,.744,4,2,3,1,12.5,1,1,0,0,/en/players/dd06d56c/matchlogs/2017-2018/keeper/Rafael-Match-Logs
+30,Pepe Reina,es,GK,Napoli,34,1982,37,37,"3,330",29,0.78,98,70,.724,28,6,3,18,48.6,2,2,0,0,/en/players/e358587b/matchlogs/2017-2018/keeper/Pepe-Reina-Match-Logs
+31,Francesco Rossi,it,GK,Atalanta,26,1991,1,0,8,1,11.25,2,1,.500,0,0,0,0,,0,0,0,0,/en/players/7b5f516f/matchlogs/2017-2018/keeper/Francesco-Rossi-Match-Logs
+32,Antonio Santurro,it,GK,Bologna,25,1992,1,1,90,1,1.00,5,4,.800,0,1,0,0,0.0,0,0,0,0,/en/players/61228681/matchlogs/2017-2018/keeper/Antonio-Santurro-Match-Logs
+33,Simone Scuffet,it,GK,Udinese,21,1996,6,6,540,11,1.83,26,16,.577,1,0,5,1,16.7,1,0,1,0,/en/players/41bd99ea/matchlogs/2017-2018/keeper/Simone-Scuffet-Match-Logs
+34,Luigi Sepe,it,GK,Napoli,26,1991,1,1,90,0,0.00,1,1,1.000,0,1,0,1,100.0,0,0,0,0,/en/players/343f753a/matchlogs/2017-2018/keeper/Luigi-Sepe-Match-Logs
+35,Marco Silvestri,it,GK,Hellas Verona,26,1991,2,2,180,7,3.50,25,18,.720,0,0,2,0,0.0,0,0,0,0,/en/players/0d422df7/matchlogs/2017-2018/keeper/Marco-Silvestri-Match-Logs
+36,Salvatore Sirigu,it,GK,Torino,30,1987,37,37,"3,330",45,1.22,160,120,.750,12,15,10,10,27.0,8,5,3,0,/en/players/10dc46f0/matchlogs/2017-2018/keeper/Salvatore-Sirigu-Match-Logs
+37,Łukasz Skorupski,pl,GK,Roma,26,1991,1,1,90,0,0.00,3,3,1.000,1,0,0,1,100.0,0,0,0,0,/en/players/ab4449d6/matchlogs/2017-2018/keeper/Lukasz-Skorupski-Match-Logs
+38,Stefano Sorrentino,it,GK,Chievo,38,1979,38,38,"3,420",59,1.55,180,126,.694,10,10,18,7,18.4,8,4,3,1,/en/players/048877f5/matchlogs/2017-2018/keeper/Stefano-Sorrentino-Match-Logs
+39,Marco Sportiello,it,GK,Fiorentina,25,1992,37,37,"3,202",38,1.07,134,95,.731,16,9,11,14,37.8,3,2,1,0,/en/players/ac4003af/matchlogs/2017-2018/keeper/Marco-Sportiello-Match-Logs
+40,Thomas Strakosha,al,GK,Lazio,22,1995,38,38,"3,420",49,1.29,153,112,.739,21,9,8,11,28.9,11,9,1,1,/en/players/339fe0e8/matchlogs/2017-2018/keeper/Thomas-Strakosha-Match-Logs
+41,Wojciech Szczęsny,pl,GK,Juventus,27,1990,17,17,"1,530",9,0.53,34,24,.735,13,3,1,11,64.7,0,0,0,0,/en/players/01b8a2b2/matchlogs/2017-2018/keeper/Wojciech-Szczesny-Match-Logs
+42,Emiliano Viviano,it,GK,Sampdoria,31,1985,27,27,"2,430",43,1.59,129,89,.682,11,4,12,6,22.2,6,2,4,0,/en/players/03760df0/matchlogs/2017-2018/keeper/Emiliano-Viviano-Match-Logs
